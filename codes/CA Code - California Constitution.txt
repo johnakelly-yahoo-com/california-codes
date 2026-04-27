@@ -5,8 +5,7 @@
 
 Source: Official California Legislative Information
         https://downloads.leginfo.legislature.ca.gov/
-Data:   pubinfo_2025.zip (2025-2026 Session)
-Extracted: April 15, 2026
+Extracted: April 27, 2026
 
 
 ======================================================================
