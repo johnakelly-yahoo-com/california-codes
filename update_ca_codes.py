@@ -100,7 +100,6 @@ def read_lob_file(data_dir, lob_filename):
 
 
 def main():
-    today = datetime.now().strftime('%B %d, %Y')
     download_url = get_download_url()
     os.makedirs(OUTPUT_DIR, exist_ok=True)
 
@@ -180,6 +179,7 @@ def main():
         section_rows = parse_tsv(os.path.join(tmp_dir, 'LAW_SECTION_TBL.dat'), section_fields)
 
         sections_by_code = {}
+        latest_update_by_code = {}
         for row in section_rows:
             if row['active_flg'] != 'Y':
                 continue
@@ -187,6 +187,9 @@ def main():
             if code not in sections_by_code:
                 sections_by_code[code] = []
             sections_by_code[code].append(row)
+            tu = row.get('trans_update', '')
+            if tu and (code not in latest_update_by_code or tu > latest_update_by_code[code]):
+                latest_update_by_code[code] = tu
 
         print("Reading LAW_TOC_SECTIONS_TBL.dat...")
         toc_sec_fields = [
@@ -236,6 +239,15 @@ def main():
 
             sections.sort(key=sort_key)
 
+            last_updated_raw = latest_update_by_code.get(code, '')
+            if last_updated_raw:
+                try:
+                    last_updated = datetime.strptime(last_updated_raw[:10], '%Y-%m-%d').strftime('%B %d, %Y')
+                except ValueError:
+                    last_updated = last_updated_raw
+            else:
+                last_updated = 'Unknown'
+
             with open(filepath, 'w', encoding='utf-8') as f:
                 f.write(f"{'=' * 70}\n")
                 f.write(f"  {code_title}\n")
@@ -243,7 +255,7 @@ def main():
                 f.write(f"{'=' * 70}\n\n")
                 f.write(f"Source: Official California Legislative Information\n")
                 f.write(f"        https://downloads.leginfo.legislature.ca.gov/\n")
-                f.write(f"Extracted: {today}\n")
+                f.write(f"Last Updated by State of California: {last_updated}\n")
                 f.write(separator)
 
                 written_headings = set()
