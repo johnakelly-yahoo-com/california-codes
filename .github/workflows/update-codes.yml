@@ -42,7 +42,7 @@ jobs:
       - name: Commit and push
         if: steps.changes.outputs.changed == 'true'
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "John Kelly"
+          git config user.email "133906045+johnakelly-yahoo-com@users.noreply.github.com"
           git commit -m "Update California Codes — $(date -u +'%B %d, %Y')"
           git push
