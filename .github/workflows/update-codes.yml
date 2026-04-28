@@ -29,20 +29,22 @@ jobs:
       - name: Download and rebuild codes
         run: python3 update_ca_codes.py
 
-      - name: Check for changes
-        id: changes
-        run: |
-          git add codes/
-          if git diff --cached --quiet; then
-            echo "changed=false" >> "$GITHUB_OUTPUT"
-          else
-            echo "changed=true" >> "$GITHUB_OUTPUT"
-          fi
-
-      - name: Commit and push
-        if: steps.changes.outputs.changed == 'true'
+      - name: Commit each changed code separately
         run: |
           git config user.name "John Kelly"
           git config user.email "133906045+johnakelly-yahoo-com@users.noreply.github.com"
-          git commit -m "Update California Codes — $(date -u +'%B %d, %Y')"
+          git add codes/
+          changed_files=$(git diff --cached --name-only)
+          if [ -z "$changed_files" ]; then
+            echo "No changes detected."
+            exit 0
+          fi
+          git reset HEAD codes/
+          for file in codes/*.txt; do
+            git add "$file"
+            if ! git diff --cached --quiet; then
+              code_name=$(basename "$file" .txt | sed 's/^CA Code - //')
+              git commit -m "Update $code_name — $(date -u +'%B %d, %Y')"
+            fi
+          done
           git push
