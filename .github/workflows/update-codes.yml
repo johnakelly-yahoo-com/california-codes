@@ -29,102 +29,27 @@ jobs:
       - name: Download and rebuild codes
         run: python3 update_ca_codes.py
 
-      - name: Build log, commit changes, and push
+      - name: Build changelog, commit changes, and push
         run: |
           git config user.name "John Kelly"
           git config user.email "133906045+johnakelly-yahoo-com@users.noreply.github.com"
-          today=$(date -u +'%Y-%m-%d')
           pretty_date=$(date -u +'%B %d, %Y')
-          mkdir -p logs
 
-          # Detect which code files changed
-          git add codes/
-          changed_files=$(git diff --cached --name-only | sort)
-          git reset HEAD codes/
-
-          # Build the daily log entry
-          {
-            echo "## $pretty_date"
-            echo ""
-
-            if [ -z "$changed_files" ]; then
-              echo "No changes. All 30 codes match the previous run."
-            else
-              count=$(echo "$changed_files" | wc -l | tr -d ' ')
-              echo "$count code(s) updated:"
-
-              echo "$changed_files" | while read -r file; do
-                code_name=$(basename "$file" .txt | sed 's/^CA Code - //')
-                echo ""
-                echo "### $code_name"
-                echo ""
-
-                # Get the diff for this file and extract section-level detail
-                file_diff=$(git diff -- "$file")
-
-                added_sections=$(echo "$file_diff" \
-                  | grep '^+' | grep -v '^+++' \
-                  | grep -oE '^\+[0-9]+[a-z]*\.?[0-9]*\.?' \
-                  | sed 's/^+//' | sort -u)
-
-                removed_sections=$(echo "$file_diff" \
-                  | grep '^-' | grep -v '^---' \
-                  | grep -oE '^\-[0-9]+[a-z]*\.?[0-9]*\.?' \
-                  | sed 's/^-//' | sort -u)
-
-                # Sections in both = modified; only in added = new; only in removed = repealed
-                if [ -n "$added_sections" ] || [ -n "$removed_sections" ]; then
-                  modified=$(comm -12 <(echo "$added_sections") <(echo "$removed_sections") 2>/dev/null)
-                  new_only=$(comm -23 <(echo "$added_sections") <(echo "$removed_sections") 2>/dev/null)
-                  repealed=$(comm -13 <(echo "$added_sections") <(echo "$removed_sections") 2>/dev/null)
-
-                  if [ -n "$modified" ]; then
-                    echo "**Modified sections:**"
-                    echo "$modified" | while read -r s; do
-                      [ -n "$s" ] && echo "- Section $s"
-                    done
-                    echo ""
-                  fi
-
-                  if [ -n "$new_only" ]; then
-                    echo "**New sections:**"
-                    echo "$new_only" | while read -r s; do
-                      [ -n "$s" ] && echo "- Section $s"
-                    done
-                    echo ""
-                  fi
-
-                  if [ -n "$repealed" ]; then
-                    echo "**Removed sections:**"
-                    echo "$repealed" | while read -r s; do
-                      [ -n "$s" ] && echo "- Section $s"
-                    done
-                    echo ""
-                  fi
-                else
-                  # Changes were in headers/metadata, not individual sections
-                  stat_line=$(git diff --stat -- "$file" | tail -1)
-                  echo "Metadata or structural changes. $stat_line"
-                  echo ""
-                fi
-              done
-            fi
-
-            echo ""
-          } >> "logs/$today.md"
+          # Build the daily log (compares working tree against HEAD)
+          python3 build_log.py
 
           # Commit each changed code individually
-          if [ -n "$changed_files" ]; then
-            for file in codes/*.txt; do
-              git add "$file"
-              if ! git diff --cached --quiet; then
-                code_name=$(basename "$file" .txt | sed 's/^CA Code - //')
-                git commit -m "Update $code_name — $pretty_date"
-              fi
-            done
-          fi
+          changed=false
+          for file in codes/*.txt; do
+            git add "$file"
+            if ! git diff --cached --quiet; then
+              code_name=$(basename "$file" .txt | sed 's/^CA Code - //')
+              git commit -m "Update $code_name — $pretty_date"
+              changed=true
+            fi
+          done
 
           # Always commit the daily log
-          git add "logs/$today.md"
+          git add logs/
           git commit -m "Daily log — $pretty_date"
           git push
