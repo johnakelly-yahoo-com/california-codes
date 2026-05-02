@@ -29,22 +29,48 @@ jobs:
       - name: Download and rebuild codes
         run: python3 update_ca_codes.py
 
-      - name: Commit each changed code separately
+      - name: Build log, commit changes, and push
         run: |
           git config user.name "John Kelly"
           git config user.email "133906045+johnakelly-yahoo-com@users.noreply.github.com"
+          today=$(date -u +'%Y-%m-%d')
+          pretty_date=$(date -u +'%B %d, %Y')
+          mkdir -p logs
+
           git add codes/
-          changed_files=$(git diff --cached --name-only)
-          if [ -z "$changed_files" ]; then
-            echo "No changes detected."
-            exit 0
-          fi
+          changed_codes=$(git diff --cached --name-only \
+            | sed 's|codes/CA Code - ||;s|\.txt||' | sort)
           git reset HEAD codes/
-          for file in codes/*.txt; do
-            git add "$file"
-            if ! git diff --cached --quiet; then
-              code_name=$(basename "$file" .txt | sed 's/^CA Code - //')
-              git commit -m "Update $code_name — $(date -u +'%B %d, %Y')"
+
+          # Write daily log entry
+          {
+            echo "## $pretty_date"
+            echo ""
+            if [ -n "$changed_codes" ]; then
+              count=$(echo "$changed_codes" | wc -l | tr -d ' ')
+              echo "$count code(s) updated:"
+              echo ""
+              echo "$changed_codes" | while read -r name; do
+                echo "- $name"
+              done
+            else
+              echo "No changes. All 30 codes match the previous run."
             fi
-          done
+            echo ""
+          } >> "logs/$today.md"
+
+          # Commit each changed code individually
+          if [ -n "$changed_codes" ]; then
+            for file in codes/*.txt; do
+              git add "$file"
+              if ! git diff --cached --quiet; then
+                code_name=$(basename "$file" .txt | sed 's/^CA Code - //')
+                git commit -m "Update $code_name — $pretty_date"
+              fi
+            done
+          fi
+
+          # Always commit the daily log
+          git add "logs/$today.md"
+          git commit -m "Daily log — $pretty_date"
           git push
