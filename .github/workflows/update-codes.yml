@@ -37,30 +37,84 @@ jobs:
           pretty_date=$(date -u +'%B %d, %Y')
           mkdir -p logs
 
+          # Detect which code files changed
           git add codes/
-          changed_codes=$(git diff --cached --name-only \
-            | sed 's|codes/CA Code - ||;s|\.txt||' | sort)
+          changed_files=$(git diff --cached --name-only | sort)
           git reset HEAD codes/
 
-          # Write daily log entry
+          # Build the daily log entry
           {
             echo "## $pretty_date"
             echo ""
-            if [ -n "$changed_codes" ]; then
-              count=$(echo "$changed_codes" | wc -l | tr -d ' ')
-              echo "$count code(s) updated:"
-              echo ""
-              echo "$changed_codes" | while read -r name; do
-                echo "- $name"
-              done
-            else
+
+            if [ -z "$changed_files" ]; then
               echo "No changes. All 30 codes match the previous run."
+            else
+              count=$(echo "$changed_files" | wc -l | tr -d ' ')
+              echo "$count code(s) updated:"
+
+              echo "$changed_files" | while read -r file; do
+                code_name=$(basename "$file" .txt | sed 's/^CA Code - //')
+                echo ""
+                echo "### $code_name"
+                echo ""
+
+                # Get the diff for this file and extract section-level detail
+                file_diff=$(git diff -- "$file")
+
+                added_sections=$(echo "$file_diff" \
+                  | grep '^+' | grep -v '^+++' \
+                  | grep -oE '^\+[0-9]+[a-z]*\.?[0-9]*\.?' \
+                  | sed 's/^+//' | sort -u)
+
+                removed_sections=$(echo "$file_diff" \
+                  | grep '^-' | grep -v '^---' \
+                  | grep -oE '^\-[0-9]+[a-z]*\.?[0-9]*\.?' \
+                  | sed 's/^-//' | sort -u)
+
+                # Sections in both = modified; only in added = new; only in removed = repealed
+                if [ -n "$added_sections" ] || [ -n "$removed_sections" ]; then
+                  modified=$(comm -12 <(echo "$added_sections") <(echo "$removed_sections") 2>/dev/null)
+                  new_only=$(comm -23 <(echo "$added_sections") <(echo "$removed_sections") 2>/dev/null)
+                  repealed=$(comm -13 <(echo "$added_sections") <(echo "$removed_sections") 2>/dev/null)
+
+                  if [ -n "$modified" ]; then
+                    echo "**Modified sections:**"
+                    echo "$modified" | while read -r s; do
+                      [ -n "$s" ] && echo "- Section $s"
+                    done
+                    echo ""
+                  fi
+
+                  if [ -n "$new_only" ]; then
+                    echo "**New sections:**"
+                    echo "$new_only" | while read -r s; do
+                      [ -n "$s" ] && echo "- Section $s"
+                    done
+                    echo ""
+                  fi
+
+                  if [ -n "$repealed" ]; then
+                    echo "**Removed sections:**"
+                    echo "$repealed" | while read -r s; do
+                      [ -n "$s" ] && echo "- Section $s"
+                    done
+                    echo ""
+                  fi
+                else
+                  # Changes were in headers/metadata, not individual sections
+                  stat_line=$(git diff --stat -- "$file" | tail -1)
+                  echo "Metadata or structural changes. $stat_line"
+                  echo ""
+                fi
+              done
             fi
+
             echo ""
           } >> "logs/$today.md"
 
           # Commit each changed code individually
-          if [ -n "$changed_codes" ]; then
+          if [ -n "$changed_files" ]; then
             for file in codes/*.txt; do
               git add "$file"
               if ! git diff --cached --quiet; then
