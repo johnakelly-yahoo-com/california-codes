@@ -5,7 +5,7 @@
 
 Source: Official California Legislative Information
         https://downloads.leginfo.legislature.ca.gov/
-Last Updated by State of California: December 05, 2025
+Last Updated by State of California: May 29, 2026
 
 
 ======================================================================
@@ -21988,7 +21988,7 @@ DIVISION 15. SEMIFINAL OFFICIAL CANVASS, OFFICIAL CANVASS, RECOUNT, AND TIE VOTE
 
 
 
-CHAPTER 1. Preparation for Canvass [15000. - 15004.]
+CHAPTER 1. Preparation for Canvass [15000. - 15007.]
 
 15000.
 
@@ -22001,7 +22001,8 @@ No later than seven days prior to any election conducted pursuant to this code, 
 
 (a) A copy of each election computer vote count program for a statewide election or state special election to fill vacancies shall be deposited with the Secretary of State. The copy of the election computer vote count program shall be received by the Secretary of State no later than 5 p.m. on the seventh day before the election.
 
-(b) If the election computer vote count program is modified or altered after the submission specified in subdivision (a), the elections official immediately shall deposit the subsequent program no later than 12 p.m. on the day of the election.
+(b) If the election computer vote count program is modified or altered after the submission specified in subdivision (a), the elections official immediately shall deposit the subsequent program
+ no later than 12 p.m. on the day of the election.
 
 (c) The Secretary of State shall hold the deposited programs for a period of not less than six months, at which time the program shall be returned to the elections official.
 
@@ -22009,7 +22010,8 @@ No later than seven days prior to any election conducted pursuant to this code, 
 
 (2) The programs deposited in accordance with this section shall be used only for a recanvass of the vote, an official recount, court action, or for logic and accuracy tests required by the Secretary of State.
 
-(3) Any tape, diskette, cartridge, or other magnetic or electronic storage medium containing the vote count program submitted pursuant to this section shall be maintained by the Secretary of State in a secure location when not in use for an official purpose specified in paragraph (2).
+(3) Any tape, diskette, cartridge, or other magnetic or electronic storage medium containing the vote count program submitted pursuant to this section shall be maintained by the Secretary of State in a secure location when not in use for
+ an official purpose specified in paragraph (2).
 
 (d) The Secretary of State may, by mandamus or other appropriate proceeding, require and compel the county elections officials to submit the computer vote count program specified in subdivision (a). Venue for a proceeding under this section shall be exclusively in Sacramento County.
 
@@ -22034,11 +22036,54 @@ Elections officials shall adopt semifinal official and official canvass procedur
 
 (a) Each qualified political party may employ, and may have present at the central counting place or places, not more than two representatives to check and review the preparation and operation of the tabulating devices, their programming and testing, and have the representatives in attendance at any or all phases of the election.
 
-(b) Any bona fide association of citizens or a media organization may employ, and may have present at the central counting place or places, not more than two representatives to check and review the preparation and operation of the tabulating devices, their programming and testing, and have the representatives in attendance at any or all phases of the election.
+(b) Any bona fide association of citizens or a media organization may employ, and may have present at the central counting place or places, not more than two representatives to check and
+ review the preparation and operation of the tabulating devices, their programming and testing, and have the representatives in attendance at any or all phases of the election.
 
 (c) The county elections official may limit the total number of representatives employed pursuant to subdivision (b) in attendance to no more than 10 by a manner in which each interested bona fide association of citizens or media organization has an equal opportunity to participate. Any representatives employed and in attendance pursuant to subdivision (a) shall not be subject to the limit specified in this subdivision.
 
 (History: Amended by Stats. 2006, Ch. 690, Sec. 1.   Effective January 1, 2007.)
+-------------------------------------------
+
+15006.
+
+(a) (1) The Attorney General shall provide guidance and information to county elections officials regarding how elections officials, precinct boards, election workers, and election volunteers should respond to requests by an agent of a law enforcement agency to access areas where ballots are cast, handled, processed, counted, tabulated, tallied, audited, or recounted.
+
+(2) The Attorney General shall
+ publish and provide guidance to managers of election sites regarding how to respond to requests by an agent of a law enforcement agency to access areas where ballots are cast, handled, processed, counted, tabulated, tallied, audited, or recounted.
+
+(b) The guidance and information provided pursuant to subdivision (a) shall be developed in consultation with the Secretary of State, be consistent with federal and state law, and aim to ensure that all voting locations remain safe and accessible to all voters.
+
+(c) For the purposes of this section, “law enforcement agency” means all of the following:
+
+(1) Any law enforcement agency, department, or other entity of the state or any political subdivision thereof, that employs any peace officer described in Chapter 4.5 (commencing with Section 830) of Title 3 of Part 2 of the
+ Penal Code.
+
+(2) Any law enforcement agency of another state.
+
+(3) Any federal law enforcement agency.
+
+(History: Added by Stats. 2026, Ch. 10, Sec. 1.   (SB 73)   Effective May 27, 2026.)
+-------------------------------------------
+
+15007.
+
+(a) A peace officer shall not interfere in any manner with the administration of any election in this state and in the discharge of duties by the Secretary of State, a county elections official, an election worker, or a volunteer performing required elections-related tasks prescribed by this code or any other provision of state law except as necessary to respond to urgent threats to public health and safety.
+
+(b) The following persons may bring a civil
+ action to enforce the provisions of this section:
+
+(1) The Attorney General.
+
+(2) The Secretary of State.
+
+(3) A county elections official with respect to violations that occur within the elections official’s county.
+
+(c) A court shall expedite the scheduling and disposition of a civil action brought pursuant to this section if the action is filed during the period beginning thirty days before election day and ending with the completion of the canvass.
+
+(d) The provisions of this section shall not prevent a qualified elector from exercising their right to vote in an election in this state and shall not be construed to authorize an action that would be prohibited by federal law or to limit any
+ federal authority that is validly exercised pursuant to federal law.
+
+(History: Added by Stats. 2026, Ch. 10, Sec. 2.   (SB 73)   Effective May 27, 2026.)
 -------------------------------------------
 
 
@@ -22097,14 +22142,16 @@ The elections official shall pay a reasonable compensation to each member of the
 
 (2) Duplicating accurately damaged or defective ballots.
 
-(3) Securing vote by mail ballots to prevent tampering with them
- before they are counted.
+(3) Securing vote by mail ballots to prevent tampering with them before they are counted.
 
 (4) Verifying signatures on statements completed pursuant to subdivisions (d) and (e) of Section 3019.
 
 (e) A vote by mail voter observer shall not interfere with the orderly processing of vote by mail ballot return envelopes or the processing and counting of vote by mail ballots, including the touching or handling of the ballots.
 
-(History: Amended by Stats. 2025, Ch. 307, Sec. 3.5.   (SB 3)   Effective January 1, 2026.)
+(f) A vote by mail voter observer shall not be permitted to challenge a signature on a vote by mail ballot return envelope pursuant to subdivision (a) of Section 3019, or on statements completed pursuant to subdivisions (d) and (e) of Section
+ 3019, on the basis that they believe the signature does not compare with the signatures appearing in the voter’s registration record.
+
+(History: Amended by Stats. 2026, Ch. 10, Sec. 3.   (SB 73)   Effective May 27, 2026.)
 -------------------------------------------
 
 15105.
@@ -23158,7 +23205,7 @@ No later than the 32nd day following the election, the Secretary of State shall 
 
 
 
-CHAPTER 8. Disposition of Ballots and Supplies by the Elections Official [15550. - 15551.]
+CHAPTER 8. Disposition of Ballots and Supplies by the Elections Official [15550. - 15553.]
 
 15550.
 
@@ -23169,15 +23216,31 @@ The records and supplies of any election when received by the elections official
 
 15551.
 
-If a contest or any such criminal prosecution has been commenced prior to the date fixed for its destruction, the package containing the voted ballots shall be subject to the order of the court in which the contest or criminal prosecution is pending and shall not be destroyed until after final determination of the contest or criminal prosecution.
+(a) If a contest or any such criminal prosecution has been commenced before the date fixed for its destruction, the package containing the voted ballots shall be subject to the order of the court in which the contest or criminal prosecution is pending and shall not be destroyed until after final determination of the contest or criminal prosecution.
 
-In the case of a congressional election contest, the elections official shall hold the ballots of that congressional district in custody subject to the inspection of any committee of the House of Representatives having in charge the investigation of the contest, until the final determination of the contest by the House of Representatives.
+(b) In the case of a congressional election contest, the elections official shall hold the ballots of that congressional district in custody subject to the inspection of any committee of the House of Representatives having in charge the investigation of the contest, until the final determination of the contest by the House of Representatives.
 
-In the case of a contest in the State Legislature, the elections official shall hold the ballots of the Senate or Assembly district in custody subject to the inspection of any committee of the Senate or Assembly having in charge the investigation of the contest until the final determination of the contest or the final adjournment of the session of the Legislature in which the contest is filed, whichever is the later.
+(c) In the case of a contest in the State Legislature, the elections official shall hold the ballots of the Senate or Assembly district in custody subject to the inspection of any committee of the Senate or Assembly having in charge the investigation of the contest until the final determination of the contest or the final adjournment of the session of the Legislature in which the contest is filed, whichever is the later.
 
-In no event shall the package or its contents be taken from the custody of the elections official.
+(d) In no event shall the package or its contents be taken from the custody of the elections official.
 
-(History: Enacted by Stats. 1994, Ch. 920, Sec. 2.)
+(History: Amended by Stats. 2026, Ch. 10, Sec. 4.   (SB 73)   Effective May 27, 2026.)
+-------------------------------------------
+
+15553.
+
+(a) In no event shall any individual permit an agent of a law enforcement agency to access, disrupt, modify, or take possession of rosters, combined rosters, or voter lists unless authorized by a court order or to investigate a violation of Section 18560. This subdivision shall not be construed to prohibit an individual, in accordance with a written agreement between the elections official conducting the election and a law enforcement agency pursuant to Section 18544 or Section 18545, to permit agents of that agency to provide logistical, transportation, or security support during the voting period, on election day, or
+ during the canvass of the vote.
+
+(b) For the purposes of this section, “law enforcement agency” means all of the following:
+
+(1) Any law enforcement agency, department, or other entity of the state or any political subdivision thereof, that employs any peace officer described in Chapter 4.5 (commencing with Section 830) of Title 3 of Part 2 of the Penal Code.
+
+(2) Any law enforcement agency of another state.
+
+(3) Any federal law enforcement agency.
+
+(History: Added by Stats. 2026, Ch. 10, Sec. 5.   (SB 73)   Effective May 27, 2026.)
 -------------------------------------------
 
 
@@ -25386,26 +25449,44 @@ Every employer, whether a corporation or natural person, or any other person who
 
 18544.
 
-(a) Any person in possession of a firearm or any uniformed peace officer, private guard, or security personnel or any person who is wearing a uniform of a peace officer, guard, or security personnel, who is stationed in the immediate vicinity of, or posted at, a polling place without written authorization of the appropriate city or county elections official is punishable by a fine not exceeding ten thousand dollars ($10,000), by imprisonment pursuant to subdivision (h) of Section 1170 of the Penal Code for 16 months or two or three years, or in a county jail not exceeding one year, or by both that fine and imprisonment.
+(a) Any person in possession of a firearm or any uniformed peace officer, private guard, or security personnel or any person who is wearing a uniform of a peace officer, guard, or security personnel, who is stationed in the immediate vicinity of, or posted at, a polling place
+ is punishable by a fine not exceeding ten thousand dollars ($10,000), by imprisonment pursuant to subdivision (h) of Section 1170 of the Penal Code for 16 months or two or three years, or in a county jail not exceeding one year, or by both that fine and imprisonment.
 
-(b) This section shall not apply to any of the following:
+(b) This section does not apply to any of the following:
 
-(1) An unarmed uniformed guard or security personnel who is at the polling place to cast his or her vote.
+(1) An unarmed uniformed guard or security personnel who is at the polling place to cast their vote.
 
-(2) A peace officer who is conducting official business in the course of his or her public employment or who is at the polling place to cast his or her vote.
+(2) A peace officer who is conducting official business in the course of their public employment or who is at the polling place to cast their vote.
 
-(3) A private guard or security personnel hired or arranged for by a city or county elections official.
+(3) A private guard or security personnel hired or arranged for by a city
+ or county elections official.
 
 (4) A private guard or security personnel hired or arranged for by the owner or manager of the facility or property in which the polling place is located if the guard or security personnel is not hired or arranged solely for the day on which an election is held.
 
-(History: Amended by Stats. 2011, Ch. 15, Sec. 78.   (AB 109)   Effective April 4, 2011.   Operative October 1, 2011, by Sec. 636 of Ch. 15, as amended by Stats. 2011, Ch. 39, Sec. 68.)
+(5) (A) A person described in subdivision (a) who is stationed in the immediate vicinity of, or posted at, a polling place with the written authorization of the appropriate city or county elections official, provided that neither the Secretary of State nor the Attorney General objected to that authorization, in writing, after it was granted.
+
+(B) A person described in subdivision (a) who is stationed or posted
+ at a polling place with written authorization pursuant to subparagraph (A), which is subsequently objected to by the Secretary of State or Attorney General, shall not be subject to criminal penalties pursuant to this section unless the person remained stationed or posted at the polling place after gaining knowledge of the objection.
+
+(History: Amended by Stats. 2026, Ch. 10, Sec. 6.   (SB 73)   Effective May 27, 2026.)
 -------------------------------------------
 
 18545.
 
-(a) Any person who hires or arranges for any other person in possession of a firearm or any uniformed law enforcement officer, private guard, or security personnel or any person who is wearing a uniform of a law enforcement officer, guard, or security personnel, to be stationed in the immediate vicinity of, or posted at, a polling place or a county elections office without written authorization of the appropriate elections official or written authorization by a federal court order is punishable imprisonment in a county jail for a period not to exceed one year, by a fine not to exceed ten thousand dollars ($10,000), or by both that fine and imprisonment, or by imprisonment pursuant to subdivision (h) of Section 1170 of the Penal Code and by a fine not to exceed ten thousand dollars ($10,000).
+(a) Any person who hires or arranges for any other person in possession of a firearm or any uniformed law enforcement officer, private guard, or security personnel or any person who is wearing a uniform of a law enforcement officer, private guard, or security personnel, to be stationed in the immediate vicinity of, or posted at, a polling place or a county elections office, is punishable by imprisonment in a county jail for a period not to exceed one year, by a fine not to exceed ten thousand dollars ($10,000), or by both that fine and imprisonment,
+ or by imprisonment pursuant to subdivision (h) of Section 1170 of the Penal Code and by a fine not to exceed ten thousand dollars ($10,000).
 
- (b) This section does not apply to the owner or manager of the facility or property in which the polling place is located if the private guard or security personnel is not hired or arranged solely for the day on which the election is held.
+(b) This section does not apply to any of the following:
+
+(1) The owner or manager of the facility or property in which the polling place is located if the private guard or security personnel is not hired or arranged solely for the day on which the election is held.
+
+(2) A person who hires or arranges for another person described in subdivision (a) to be stationed in the immediate vicinity of, or posted at, a polling place or a county elections office pursuant to a court order.
+
+(3) (A) A
+ person who hires or arranges for another person described in subdivision (a) to be stationed in the immediate vicinity of, or posted at, a polling place or a county elections office with the written authorization of the appropriate elections official, provided that neither the Secretary of State nor the Attorney General objected to that authorization, in writing, after it was granted.
+
+(B) A person who hires or arranges for another person described in subdivision (a) to be stationed or posted at a polling place or county elections office with written authorization pursuant to subparagraph (A), which is subsequently objected to by the Secretary of State or Attorney General, shall not be subject to criminal penalties pursuant to this section, unless they have knowledge of the objection, and after gaining such knowledge, permits the person
+ they hired or arranged for to remain stationed or posted at the polling place or elections office.
 
 (c) For purposes of this section, “law enforcement officer” means either of the following:
 
@@ -25413,7 +25494,7 @@ Every employer, whether a corporation or natural person, or any other person who
 
 (2) An officer or agent of a federal law enforcement agency or any person acting on behalf of a federal law enforcement agency.
 
-(History: Amended by Stats. 2025, Ch. 238, Sec. 6.   (SB 851)   Effective October 1, 2025.)
+(History: Amended by Stats. 2026, Ch. 10, Sec. 7.   (SB 73)   Effective May 27, 2026.)
 -------------------------------------------
 
 18546.
@@ -25553,7 +25634,8 @@ Every member of a precinct board is guilty of a misdemeanor who, without the con
 
 (1) Tampers, interferes, or attempts to interfere with the correct operation of, or willfully damages in order to prevent the use of, any voting machine, voting device, voting system, vote tabulating device, or ballot tally software.
 
-(2) Interferes or attempts to interfere with the secrecy of voting or interferes or attempts to interfere with ballot tally software program source codes.
+(2) Interferes or attempts to interfere with the secrecy of voting or interferes or attempts to interfere with ballot
+ tally software program source codes.
 
 (3) Knowingly, and without authorization, gains access to or provides another person or persons with access to a voting machine for the purpose of committing one of the acts specified by this section.
 
@@ -25561,11 +25643,14 @@ Every member of a precinct board is guilty of a misdemeanor who, without the con
 
 (5) Knowingly, and without authorization, inserts or causes the insertion of uncertified hardware, software, or firmware, for whatever purpose, into any voting machine, voting device, voting system, vote tabulating device, or ballot tally software.
 
-(6) Fails to notify the Secretary of State prior to any change in hardware, software, or firmware to a voting machine, voting device, voting system, or vote tabulating device, certified or conditionally certified for use in this state.
+(6) Fails to notify the Secretary of State
+ prior to any change in hardware, software, or firmware to a voting machine, voting device, voting system, or vote tabulating device, certified or conditionally certified for use in this state.
+
+(7) Takes a package containing the voted ballots or its contents from the custody of the elections official in violation of subdivision (d) of Section 15551.
 
 (b) A civil action may be brought pursuant to this section for a civil penalty not to exceed fifty thousand dollars ($50,000) for each act and for injunctive relief, if appropriate.
 
-(History: Added by Stats. 2004, Ch. 813, Sec. 3.   Effective January 1, 2005.)
+(History: Amended by Stats. 2026, Ch. 10, Sec. 8.   (SB 73)   Effective May 27, 2026.)
 -------------------------------------------
 
 18565.
@@ -25609,12 +25694,15 @@ Every person is punishable by a fine not exceeding one thousand dollars ($1,000)
 
 (f) Removes any unvoted ballots from the polling place before the completion of the ballot count.
 
-(g) Displays a container or provides an envelope for the purpose of collecting or returning ballots, with the intent to deceive a voter into casting a ballot in an unofficial ballot
- or returning a ballot in an unofficial ballot return envelope. Evidence of intent to deceive may include using the word “official” on the container or envelope, or otherwise fashioning the container or envelope in a way that is likely to deceive a voter into believing that the container or envelope is an official collection box or official ballot return envelope that has been approved by an elections official.
+(g) Displays a container or
+ provides an envelope for the purpose of collecting or returning ballots, with the intent to deceive a voter into casting a ballot in an unofficial ballot or returning a ballot in an unofficial ballot return envelope. Evidence of intent to deceive may include using the word “official” on the container or envelope, or otherwise fashioning the container or envelope in a way that is likely to deceive a voter into believing that the container or envelope is an official collection box or official ballot return envelope that has been approved by an elections official.
 
 (h) Directs or solicits a voter to place a ballot in a container or envelope prohibited by subdivision (g).
 
-(History: Amended by Stats. 2025, Ch. 238, Sec. 7.   (SB 851)   Effective October 1, 2025.)
+(i) Knowingly takes a package containing voted ballots or its contents from the custody of the elections official in violation
+ of subdivision (d) of Section 15551.
+
+(History: Amended by Stats. 2026, Ch. 10, Sec. 9.   (SB 73)   Effective May 27, 2026.)
 -------------------------------------------
 
 18569.
@@ -26585,9 +26673,22 @@ The Secretary of State shall use a state-approved testing agency or expert techn
 
 19230.
 
-The elections official of any county or city using a voting system shall inspect the machines or devices at least once every two years to determine their accuracy. Any county or city using leased or rented equipment shall determine if the equipment has been inspected for accuracy within the last two years before using it for any election. The inspection shall be made in accordance with regulations adopted and promulgated by the Secretary of State. The elections official shall certify the results of the inspection to the Secretary of State.
+(a) The elections official of any county, city, or city and county using a voting system shall inspect the machines or devices at least once every two years to determine their accuracy. Any county, city, or city and county using leased or rented equipment shall determine if the equipment has been inspected for accuracy within the last two years before using it for any election. The inspection shall be made in accordance with regulations adopted and promulgated by the Secretary of State. The elections official shall certify the results of the inspection to the Secretary of State.
 
-(History: Added by renumbering Section 19220 by Stats. 2013, Ch. 602, Sec. 34.   (SB 360)   Effective January 1, 2014.)
+(b) An individual shall not allow an agent of a law enforcement agency to access, disrupt, modify, or
+ take possession of
+ certified voting technology or a portion thereof unless authorized by a court order. This subdivision shall not be construed to prohibit an individual, in accordance with a written agreement between the elections official conducting the election and a law enforcement agency pursuant to Section 18544 or Section 18545, to permit agents of that agency to provide logistical, transportation, or security support during the voting period, on election day, or during the canvass of the vote. For purposes of this subdivision, “certified voting technology” has the same meaning as defined in subdivision (b) of Section 17600.
+
+(c) For the purposes of this section, “law enforcement agency” means all of the following:
+
+(1) Any law enforcement agency, department, or other
+ entity of the state or any political subdivision thereof, that employs any peace officer described in Chapter 4.5 (commencing with Section 830) of Title 3 of Part 2 of the Penal Code.
+
+(2) Any law enforcement agency of another state.
+
+(3) Any federal law enforcement agency.
+
+(History: Amended by Stats. 2026, Ch. 10, Sec. 10.   (SB 73)   Effective May 27, 2026.)
 -------------------------------------------
 
 19231.
