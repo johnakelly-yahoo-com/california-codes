@@ -5,7 +5,7 @@
 
 Source: Official California Legislative Information
         https://downloads.leginfo.legislature.ca.gov/
-Last Updated by State of California: February 12, 2026
+Last Updated by State of California: June 03, 2026
 
 
 ======================================================================
@@ -35558,6 +35558,29 @@ If, as of December 31, 2028, an ordinance proposing a transactions and use tax h
 
 
 
+  CHAPTER 2.5. County of Los Angeles Transactions and Use Tax [7286.03. - 7286.03.]
+
+7286.03.
+
+(a) Notwithstanding any other law, the County of Los Angeles may impose a transactions and use tax for general or specific purposes to support countywide programs at a rate of no more than 0.5 percent that would, in combination with all taxes imposed in accordance with the Transactions and Use Tax Law (Part 1.6 (commencing with Section 7251)), exceed the limit established in Section 7251.1, if all of the following requirements are met:
+
+(1) The county adopts an ordinance proposing the transactions and use tax by any applicable voting approval requirement.
+
+(2) The ordinance proposing the transactions and
+ use tax is submitted to the electorate and is approved by the voters voting on the ordinance by the applicable voting approval requirement in accordance with Article XIII C of the California Constitution.
+
+(3) The transactions and use tax conforms to the Transactions and Use Tax Law (Part 1.6 (commencing with Section 7251)), other than Section 7251.1.
+
+(b) Notwithstanding Section 7251.1, a transactions and use tax rate imposed pursuant to subdivision (a) shall not be considered for purposes of the combined rate limitation established by Section 7251.1.
+
+(c) If, as of December 31, 2031, an ordinance proposing a transactions and use tax has not been approved in the County of Los Angeles as authorized by subdivision (a),
+ this chapter shall be repealed.
+
+(History: Added by Stats. 2026, Ch. 11, Sec. 1.   (AB 1768)   Effective June 1, 2026.   Repealed conditionally on December 31, 2031, by its own provisions.   Note: Repeal affects Chapter 2.5, commencing with Section 7286.03.)
+-------------------------------------------
+
+
+
   CHAPTER 2.6. Calexico Transactions and Use Tax [7286.20. - 7286.21.]
 
 7286.20.
@@ -36154,6 +36177,28 @@ If, as of January 1, 2029, an ordinance or citizens’ initiative proposing a tr
 If, as of January 1, 2029, an ordinance or citizens’ initiative proposing a transactions and use tax has not been approved as required by Section 7287.15, this chapter shall be repealed as of that same date.
 
 (History: Added by Stats. 2024, Ch. 961, Sec. 3.   (AB 2443)   Effective September 29, 2024.   Conditionally repealed as of January 1, 2029, by its own provisions.   Note: Repeal affects Chapter 3.12, commencing with Section 7287.15.)
+-------------------------------------------
+
+
+
+  CHAPTER 3.18. County of Contra Costa Transactions and Use Tax [7287.22. - 7287.22.]
+
+7287.22.
+
+(a) Notwithstanding any other law, the County of Contra Costa, by ordinance, may impose a transactions and use tax for general or specific purposes at a rate of no more than 0.625 percent that would, in combination with all taxes imposed pursuant to Part 1.6 (commencing with Section 7251), exceed the limit established in Section 7251.1, if all of the following requirements are met:
+
+(1) The board of supervisors of the County of Contra Costa adopts an ordinance proposing the transactions and use tax by any applicable voting approval requirement.
+
+(2) The ordinance proposing the transactions and use tax is submitted
+ to the electorate and is approved by the voters voting on the ordinance in accordance with the California Constitution.
+
+(3) The transactions and use tax conforms to the Transactions and Use Tax Law (Part 1.6 (commencing with Section 7251)), other than Section 7251.1.
+
+(b) Notwithstanding Section 7251.1, a transactions and use tax rate imposed pursuant to subdivision (a) shall not be considered for purposes of the combined rate limit established by Section 7251.1.
+
+(c) If, as of December 31, 2031, an ordinance proposing a transactions and use tax has not been approved in the County of Contra Costa as authorized by subdivision (a), this chapter shall be repealed.
+
+(History: Added by Stats. 2026, Ch. 11, Sec. 2.   (AB 1768)   Effective June 1, 2026.   Repealed conditionally on December 31, 2031, by its own provisions.   Note: Repeal affects Chapter 3.18, commencing with Section 7287.22.)
 -------------------------------------------
 
 
