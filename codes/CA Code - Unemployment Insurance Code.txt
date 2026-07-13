@@ -5,7 +5,7 @@
 
 Source: Official California Legislative Information
         https://downloads.leginfo.legislature.ca.gov/
-Last Updated by State of California: November 27, 2025
+Last Updated by State of California: July 10, 2026
 
 
 ======================================================================
@@ -12589,18 +12589,17 @@ The Legislature finds and declares the following:
 
 (a) California’s economy is being challenged by competition from other states and overseas. In order to meet this challenge, California’s employers, workers, labor organizations, and government need to invest in a skilled and productive workforce, and in developing the skills of frontline workers. For purposes of this section, “frontline worker” means a worker who directly produces or delivers goods or services.
 
-The purpose of this chapter is to establish a strategically designed employment training program to promote a healthy labor market in a growing, competitive economy that shall fund only projects that meet the
- following criteria:
+The purpose of this chapter is to establish a strategically designed employment training program to promote a healthy labor market in a growing, competitive economy that shall fund only projects that meet the following criteria:
 
 (1) Foster creation of high-wage, high-skilled jobs, or foster retention of high-wage, high-skilled jobs in manufacturing and other industries that are threatened by out-of-state and global competition, including, but not limited to, those industries in which targeted training resources for California’s small- and medium-sized business suppliers will increase the state’s competitiveness to secure federal, private sector, and other nonstate funds, and, in addition, provide for retraining contracts in companies that make a monetary or in-kind contribution to the funded training enhancements.
 
-(2) Encourage industry-based investment in human resources development that promotes the competitiveness of California industry through productivity and product quality
- enhancements.
+(2) Encourage industry-based investment in human resources development that promotes the competitiveness of California industry through productivity and product quality enhancements.
 
-(3) Result in secure jobs for those who successfully complete training. All training shall be customized to the specific requirements of one or more employers or a discrete industry and shall include general skills, including soft skills, that trainees can use in the future.
+(3) Result in secure jobs for those who successfully complete training. All training shall be
+ customized to the specific requirements of one or more employers or a discrete industry and shall include general skills, including soft skills, that trainees can use in the future.
 
-(4) Supplement, rather than displace, funds available through existing programs conducted by employers and government-funded training programs, such as the federal Workforce Innovation and Opportunity Act of 2014 (29 U.S.C. Sec. 3101 et seq.), the Carl D. Perkins Vocational Education Act (Public Law 98-524), CalWORKs (Chapter 2 (commencing with Section 11200) of Part 3 of Division 9 of the Welfare and Institutions Code), the former Enterprise Zone Act (Chapter 12.8 (commencing with Section 7070)
- of Division 7 of Title 1 of the Government Code), and the McKinney-Vento Homeless Assistance Act (42 U.S.C. Sec. 11301 et seq.), the California Community Colleges Economic Development Program, or apportionment funds allocated to the community colleges, regional occupational centers and programs, or other local educational agencies.
+(4) Supplement, rather than displace, funds available through existing programs conducted by employers and government-funded training programs, such as the federal Workforce Innovation and Opportunity Act of 2014 (29 U.S.C. Sec. 3101 et seq.), the Carl D. Perkins Vocational Education Act (Public Law 98-524), CalWORKs (Chapter 2 (commencing with Section 11200) of Part 3 of Division 9 of the Welfare and Institutions Code), the former Enterprise Zone Act (Chapter 12.8 (commencing with Section 7070) of Division 7 of Title 1 of the Government Code), and the McKinney-Vento Homeless Assistance Act (42 U.S.C. Sec. 11301 et seq.), the California Community Colleges Economic Development Program, or apportionment funds allocated to the community colleges, regional occupational
+ centers and programs, or other local educational agencies.
 
 (b) The Employment Training Panel, in funding projects that meet the requirements of subdivision (a), shall give funding priority to those projects that best meet the following goals:
 
@@ -12614,22 +12613,20 @@ The purpose of this chapter is to establish a strategically designed employment 
 
 (5) Are jointly developed by business management and worker representatives.
 
-(6) Develop high road, as defined in subdivision (r) of Section 14005, jobs and career ladders for workers with demonstrated wage progression and demonstrate high road training partnership, as defined in subdivision
- (s) of Section 14005, standards to ensure job quality.
+(6) Develop high road, as defined in subdivision (r) of Section 14005, jobs and career ladders for workers with demonstrated wage progression and demonstrate high road training partnership, as defined in subdivision (s) of Section 14005, standards to ensure job quality.
 
 (7) Promote the retention and expansion of the state’s manufacturing workforce.
 
-(8) Promote the hiring, training, and advancement of disadvantaged, marginalized, and underrepresented
- workers.
+(8) Promote the hiring, training, and
+ advancement of disadvantaged, marginalized, and underrepresented workers.
 
-(c) The program established through this chapter is to be coordinated with all existing employment training programs and economic development programs, including, but not limited to, programs such as the federal Workforce Innovation and Opportunity Act of 2014 (29 U.S.C. Sec. 3101 et seq.), the California
- Community Colleges, the regional occupational programs, vocational education programs, joint labor-management training programs, and related programs under the Employment Development Department and the Governor’s Office of Business and Economic Development, and the Business, Consumer Services, and Housing Agency.
+(c) The program established through this chapter is to be coordinated with all existing employment training programs and economic development programs, including, but not limited to, programs such as the federal Workforce Innovation and Opportunity Act of 2014 (29 U.S.C. Sec. 3101 et seq.), the California Community Colleges, the regional occupational programs, vocational education programs, joint labor-management training programs, and related programs under the Employment Development Department, the Governor’s Office of Business and Economic Development, the California Housing and Homelessness Agency, and the Business and Consumer Services Agency.
 
-(d) Projects funded under this chapter may include programs
- to provide training through apprenticeship programs
- that are registered with the Division of Apprenticeship Standards.
+(d) Projects funded under this chapter may include programs to provide training through apprenticeship programs that are registered with the Division of Apprenticeship Standards.
 
-(History: Amended by Stats. 2024, Ch. 469, Sec. 1.   (SB 1321)   Effective January 1, 2025.)
+(e) The amendments made to this section by the act adding this subdivision shall become operative on July 1, 2026.
+
+(History: Amended by Stats. 2026, Ch. 28, Sec. 102.   (SB 170)   Effective June 29, 2026.   Operative July 1, 2026, by its own provisions.)
 -------------------------------------------
 
 10201.
@@ -16609,5 +16606,81 @@ The California Workforce Investment Board shall report to the Governor and the L
 If permitted by federal law, the California Workforce Investment Board and local workforce investment boards shall include persons with disabilities or their representatives, with a particular effort to include such persons who are not employees of state or local government.
 
 (History: Added by Stats. 2002, Ch. 1088, Sec. 5.   Effective January 1, 2003.)
+-------------------------------------------
+
+
+
+======================================================================
+
+DIVISION 11. FAIR SHARE FROM BIG CORPORATIONS ACT [19000. - 19000.5.]
+
+19000.
+
+This Division shall be known, and may be cited, as the Fair Share from Big Corporations Act.
+
+(History: Added by Stats. 2026, Ch. 64, Sec. 1.   (SB 177)   Effective July 6, 2026.)
+-------------------------------------------
+
+19000.3.
+
+The Legislature finds and declares all of the following:
+
+(a) Federal House Resolution 1 (Public Law 119-21) was passed on a partisan vote and signed by President Donald J. Trump on Independence Day, 2025.
+
+(b) H.R. 1 made the largest cuts to the Medicaid program in history.
+
+(c) H.R. 1 made these cuts in order to fund the largest tax breaks for big corporations in history, and those tax breaks amount to $900 billion in additional tax giveaways to profitable corporations at the expense of health insurance for low-income Americans.
+
+(d) H.R. 1 gave these tax breaks to
+ corporations regardless of whether they pay their workforce poverty wages, forcing their workforce to turn to safety net programs such as the Medicaid program.
+
+(e) One of the most significant cuts in the Medicaid program, known as the Medi-Cal program in California, was a cut resulting from a new work and community engagement requirement.
+
+(f) Data shows that 92 percent of adults who receive Medicaid benefits are working and are getting paid poverty wages.
+
+(g) A 2022 Congressional Budget Office (CBO) report notes that, despite the rhetoric, work requirements are not likely to lead to increased employment unless paired with targeted work supports, such as childcare and transportation.
+
+(h) Being denied health care does not make anyone better at finding a
+ job, keeping a job, or getting more hours at the job they already have.
+
+(i) Being threatened with losing health care does not help the millions of working adults who currently receive Medi-Cal benefits to increase their wages enough to afford nongovernment-funded health care or secure a job that has adequate health coverage.
+
+(j) A growing body of research shows a healthy workforce provides businesses with a competitive advantage.
+
+(k) When a big corporation relies on Medi-Cal to provide their employees with health insurance, they are relying on what amounts to taxpayer subsidies to gain the competitive advantage of a healthy workforce.
+
+(l) The Department of Finance and the Legislative Analyst’s Office have both reported that growing Medi-Cal costs are a
+ leading factor in the state’s long-term structural deficit.
+
+(m) In large part due to the negative impacts of HR 1 on the state’s finances, the state can no longer afford to maintain current subsidies for big corporations in the form of paying full costs of their employees’ enrollment in the Medi-Cal program.
+
+(n) If HR 1 remains in effect, legislation will be considered as early as 2027 requiring big corporations to pay their fair share for their employees’ health insurance and reduce the taxpayer burden of big corporations’ employees being enrolled in Medi-Cal.
+
+(History: Added by Stats. 2026, Ch. 64, Sec. 1.   (SB 177)   Effective July 6, 2026.)
+-------------------------------------------
+
+19000.5.
+
+(a) (1) On or before March 1, 2027, the Department of Finance shall present to the Joint Legislative Budget Committee one or more options for holding the state’s largest corporations accountable for the taxpayer costs of their employees enrolled in the Medi-Cal program (Chapter 7 (commencing with Section 14000) of Part 3 of Division 9 of the Welfare and Institutions Code).
+
+(2) One of the options presented by the department pursuant to paragraph (1) shall include a premium paid by employers with at least 250 employees to offset the taxpayer costs of their employees enrolled in the Medi-Cal program who are not offered employer health coverage.
+
+(b) Each
+ option presented by the department pursuant to subdivision (a) shall include all of the following:
+
+(1) Data prepared by the Employment Development Department, the State Department of Health Care Services, or other state departments working in cooperation with the Department of Finance, to show or estimate the number of workers at the state’s largest corporations who are enrolled in the Medi-Cal program, and other available information pertinent to the option.
+
+(2) Proposed statutory language necessary to implement the option drafted by the Legislative Counsel Bureau.
+
+(3) An analysis of the cost of, and timeline for, implementing the option, assuming that the option is enacted into law during the 2027 legislative session.
+
+(c) (1) 
+ The requirement for submitting a report imposed under subdivision (a) is inoperative on March 1, 2031, pursuant to Section 10231.5 of the Government Code.
+
+(2) A report to be submitted pursuant to subdivision (a) shall be submitted in compliance with Section 9795 of the Government Code.
+
+(d) If the Medicaid program-related provisions of Public Law 119-21, enacted on July 1, 2025, are repealed on or before March 1, 2027, this section shall not become operative.
+
+(History: Added by Stats. 2026, Ch. 64, Sec. 1.   (SB 177)   Effective July 6, 2026.   Conditionally operative as prescribed by its own provisions.)
 -------------------------------------------
 
