@@ -5,7 +5,7 @@
 
 Source: Official California Legislative Information
         https://downloads.leginfo.legislature.ca.gov/
-Last Updated by State of California: December 05, 2025
+Last Updated by State of California: July 10, 2026
 
 
 ======================================================================
@@ -36838,6 +36838,108 @@ As used in this section, “prosthetic devices” means and includes the provisi
 (History: Amended by Stats. 2012, Ch. 449, Sec. 5.   (SB 255)   Effective January 1, 2013.)
 -------------------------------------------
 
+10123.861.
+
+(a) A health insurance policy that provides outpatient prescription drug benefits and is issued, amended, or renewed on or after the operative date of this section shall include coverage for United States Food and Drug Administration-approved treatments used to treat menopausal symptoms, as medically necessary, including, but not limited to, all of the following:
+
+(1) Hormone therapy, including combination estrogen and hormone medicines, combination estrogen and progestin medicines, estrogen-only and progestin-only medicines, vaginal estrogen, and topical hormone therapy. This does not include glucagon-like peptide-1 or glucagon-like peptide-1 receptor agonists used solely for weight loss.
+
+(2) Low-dose antidepressants.
+
+(3) Anticonvulsants.
+
+(4) Medications to prevent or treat osteoporosis.
+
+(5) Nonhormonal medications for vasomotor-related symptoms.
+
+(b) A health insurance policy that is issued, amended, or renewed on or after January 1, 2027, shall include a program to ensure insured individuals have access to current menopause information and covered items and services.
+
+(c) For the program to satisfy subdivision (b), the insurer shall do all of the following:
+
+(1) Provide, no later than July 1, 2027, and biannually thereafter, all contracted providers delivering primary care with information about
+ current clinical care recommendations for menopause care, including hormone therapy, from the Menopause Society or other nationally recognized professional association. The insurer shall encourage providers delivering primary care to review the information.
+
+(2) Establish and maintain a policy to reimburse providers for provision of services related to menopause care, including services integrated with primary care and obstetrician-gynecologist services. The policy shall identify the Current Procedural Terminology (CPT) codes for services commonly used to evaluate, diagnose, and treat symptoms resulting from menopause.
+
+(3) Establish and maintain a policy to provide insured individuals who may experience menopause and who are 40 years of age and older with an annual menopause assessment during primary care and obstetrician-gynecologist appointments. Insured individuals may opt out
+ of receiving the assessments. The policy shall include a copy of the assessment tool and information on how it was developed or chosen.
+
+(4) Provide insured individuals who may experience menopause and who are 40 years of age and older with a notice that includes a definition of menopause and that lists the covered items and services used to evaluate and treat symptoms resulting from menopause. The first notice shall be sent within 60 days of the insured individual’s 40th birthday and shall be sent biannually thereafter. Insured individuals may opt out of receiving the notices. The notice shall include a description of at least all of the following types of federal Food and Drug Administration-approved items and services:
+
+(A) Hormone therapy in the full range of formulations and methods of administration.
+
+(B) Low-dose
+ antidepressants.
+
+(C) Anticonvulsants.
+
+(D) Medications to prevent or treat osteoporosis.
+
+(E) Nonhormonal medications for vasomotor-related symptoms.
+
+(5) Establish and maintain a policy to contract with providers delivering primary care, including advanced practice providers such as licensed nurse practitioners and certified nurse-midwives, who hold a certification or credential in menopause care from a nationally recognized organization, such as the Menopause Society or other similar organization. The policy shall state what steps the insurer will take to incentivize providers to receive and maintain the certification or credential.
+
+(d) The health insurer shall file with the commissioner
+ within six months of the operative date of this statute the policies and notices specified in subdivision (c). The insurer shall also disclose the policies to network providers, provider groups, and delegated entities that may be impacted by the policies and notices and shall attest to that disclosure to the commissioner.
+
+(e) Coverage for the treatment options pursuant to this section shall be provided without discrimination on the basis of gender expression or identity.
+
+(f) This section does not apply to accident-only, specified disease, hospital indemnity, Medicare supplement, dental-only, or vision-only insurance policies, except to the extent they provide coverage for the treatment of symptoms resulting from menopause.
+
+(g) For purposes of this section, “menopause” includes perimenopause, menopause, and
+ postmenopause.
+
+(History: Added by Stats. 2026, Ch. 27, Sec. 56.   (SB 164)   Effective June 29, 2026.)
+-------------------------------------------
+
+10123.862.
+
+(a) A health insurer shall base a medical necessity determination or the utilization review criteria that the insurer, and an entity acting on the insurer’s behalf, applies to determine the medical necessity of health care services and benefits for the treatment of symptoms resulting from menopause on current generally accepted standards of menopause care.
+
+(b) Beginning January 1, 2027, when conducting utilization review of all covered health care services and benefits for the treatment of symptoms resulting from menopause, a health insurer shall apply criteria and guidelines developed by the Menopause Society or another nationally recognized professional association, as specified by the commissioner.
+
+(c) In conducting utilization review involving patient care decisions that are within the scope of the sources specified in subdivision (b), a health insurer shall not apply different, additional, conflicting, or more restrictive utilization review criteria than the criteria and guidelines set forth in those sources. This subdivision does not prohibit an insurer from applying utilization review criteria to health care services and benefits for menopause care that meet either of the following criteria:
+
+(1) Are outside the scope of the criteria and guidelines set forth in the sources specified in subdivision (b), if the utilization review criteria were developed in accordance with subdivision (a).
+
+(2) Relate to advancements in technology or types of care that are not covered in the most recent versions of the sources
+ specified in subdivision (b), if the utilization review criteria were developed in accordance with subdivision (a).
+
+(d) If a health insurer purchases or licenses utilization review criteria pursuant to paragraph (1) or (2) of subdivision (c), the insurer shall verify and document before use that the criteria were developed in accordance with subdivision (a).
+
+(e) A health insurer shall not adopt, impose, or enforce terms in its policies or provider agreements, in writing or in operation, that undermine, alter, or conflict with this section.
+
+(f) For purposes of this section, the following definitions apply:
+
+(1) “Generally accepted standards of menopause care” means standards of care and clinical practice that are generally recognized by health care
+ providers practicing in relevant clinical specialties, including gynecology, endocrinology, and family practice. Valid, evidence-based sources establishing generally accepted standards of menopause care include peer reviewed scientific studies and medical literature, clinical practice guidelines and recommendations of nonprofit health care provider professional associations, specialty societies, and federal government agencies, and drug labeling approved by the United States Food and Drug Administration.
+
+(2) “Menopause” includes perimenopause, menopause, and postmenopause.
+
+(3) “Utilization review” means either of the following:
+
+(A) Prospectively, retrospectively, or concurrently reviewing and approving, modifying, delaying, or denying, based in whole or in part on medical necessity, requests by health care providers,
+ insured individuals, or their authorized representatives for coverage of health care services prior to, retrospectively, or concurrent with the provision of health care services to insured individuals.
+
+(B) Evaluating the medical necessity, appropriateness, or efficacy of health care services, benefits, or procedures, under any circumstances, to determine if a health care service or benefit subject to a medical necessity coverage requirement in a health insurance policy is covered as medically necessary for an insured individual.
+
+(4) “Utilization review criteria” means criteria, standards, protocols, or guidelines used by a health insurer to conduct utilization review.
+
+(g) (1) This section applies to all health care services and benefits for the treatment of symptoms resulting from menopause
+ covered by a health insurance policy, including prescription drugs.
+
+(2) This section applies to a health insurer that conducts utilization review and an entity or contracting provider that performs utilization review or utilization management functions on an insurer’s behalf.
+
+(3) This section does not apply to accident-only, specified disease, hospital indemnity, Medicare supplement, dental-only, or vision-only insurance policies, except to the extent they provide coverage for the treatment of symptoms resulting from menopause.
+
+(h) If the commissioner determines that a health insurer has violated this section, the commissioner may, after appropriate notice and opportunity for hearing in accordance with the Administrative Procedure Act (Chapter 5 (commencing with Section 11500) of Part 1 of Division 3 of Title 2 of
+ the Government Code), by order, assess a civil penalty not to exceed five thousand dollars ($5,000) for each violation, or, if a violation was willful, a civil penalty not to exceed ten thousand dollars ($10,000) for each violation.
+
+(i) Notwithstanding Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code, the department may implement, interpret, or make specific this section and Section 10123.861 through guidance or similar instructions, without taking regulatory action, until the department adopts regulations pursuant to the Administrative Procedure Act. The department shall consult with the Department of Managed Health Care and interested stakeholders in developing guidance.
+
+(History: Added by Stats. 2026, Ch. 27, Sec. 57.   (SB 164)   Effective June 29, 2026.)
+-------------------------------------------
+
 10123.864.
 
 The provision of medically necessary pasteurized donor human milk obtained from a tissue bank licensed pursuant to Chapter 4.1 (commencing with Section 1635) of Division 2 of the Health and Safety Code is
@@ -40502,27 +40604,27 @@ Pursuant to Section 12921, the commissioner may also agree to payment to a healt
 (4) Standards established by California or nationally recognized accrediting, certifying, or licensing organizations and medical and health care interpreter professional associations regarding interpretation services.
 
 (5) Publications, guidelines, reports, and recommendations
- issued by state agencies or advisory committees, such as the report card to the public on the comparative performance of plans and reports on cultural and linguistic services issued by the Center for Data Insights and Innovation and the report to the Legislature from the Task Force on Culturally and Linguistically Competent Physicians and Dentists required pursuant to former Section 852 of the Business and Professions Code.
+ issued by state agencies or advisory committees, such as the report to the Legislature from the Task Force on Culturally and Linguistically Competent Physicians and Dentists required pursuant to former Section 852 of the Business and Professions Code.
 
 (6) Examples of best practices relating to language assistance services by health care providers and health insurers that contract for alternative rates of payment with providers, including existing practices.
 
 (7) Information gathered from complaints to the commissioner and consumer assistance help lines regarding language assistance services.
 
-(8) The cost of compliance and the availability of
- translation and interpretation services and professionals.
+(8) The cost of compliance and the availability of translation and interpretation services and professionals.
 
 (9) Flexibility to accommodate variations in networks and method of service delivery. The commissioner shall allow for health insurer flexibility in determining compliance with the standards for oral and written interpretation services.
 
 (d) In designing the regulations, the commissioner shall consider all other relevant guidelines in an effort to accomplish maximum accessibility within a cost-efficient system of indemnification. The commissioner shall seek public input from a wide range of interested parties.
 
-(e) Services, verbal communications, and written materials provided by or developed by the health insurers that contract for alternative rates of payment with providers, shall comply with the standards developed under this section.
+(e) Services, verbal communications, and written materials provided by or developed by the health insurers that contract for alternative
+ rates of payment with providers, shall comply with the standards developed under this section.
 
-(f) Beginning on January 1, 2008, the department shall report biennially to the Legislature regarding health insurer compliance with the standards established by this section, including results of compliance audits made in conjunction with other audits and reviews. The department shall also utilize the reported information to make recommendations for changes that further enhance standards pursuant to this section. The commissioner shall work to ensure that the biennial reports required by this section, and the data collected for the reports, do not require duplicative or conflicting data collection with other reports that may be required by government-sponsored programs. The commissioner may also delay or otherwise phase in implementation of the standards and requirements in recognition of costs and availability of translation and interpretation services and professionals.
+(f) Beginning on January 1, 2008, the department shall report biennially to the Legislature regarding health insurer compliance with the standards established by this section, including results of compliance audits made in conjunction with other audits and reviews. The department shall also utilize the reported information to make recommendations for changes that further enhance standards pursuant to this section. The commissioner shall work to ensure that the biennial reports required by this section, and the data collected for the reports, do not require duplicative or conflicting data collection with other reports that may be required by government-sponsored programs. The commissioner may also delay or otherwise phase in implementation of the standards and requirements in recognition of costs and availability of translation and interpretation
+ services and professionals.
 
-(g) This
- section does not prohibit government purchasers from including in their contracts additional translation or interpretation requirements, to meet the linguistic and cultural needs, beyond those set forth pursuant to this section.
+(g) This section does not prohibit government purchasers from including in their contracts additional translation or interpretation requirements, to meet the linguistic and cultural needs, beyond those set forth pursuant to this section.
 
-(History: Amended by Stats. 2021, Ch. 696, Sec. 16.   (AB 172)   Effective October 8, 2021.)
+(History: Amended by Stats. 2026, Ch. 27, Sec. 58.   (SB 164)   Effective June 29, 2026.)
 -------------------------------------------
 
 10133.9.
