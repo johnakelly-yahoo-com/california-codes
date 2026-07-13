@@ -5,7 +5,7 @@
 
 Source: Official California Legislative Information
         https://downloads.leginfo.legislature.ca.gov/
-Last Updated by State of California: December 05, 2025
+Last Updated by State of California: July 10, 2026
 
 
 ======================================================================
@@ -1284,15 +1284,38 @@ For purposes of this article, the following terms have the following meanings:
 
 (c) The department shall do all of the following:
 
-(1) Consult with the Secretaries of the California Environmental
- Protection Agency, the Natural Resources Agency, the Business, Consumer Services, and Housing Agency, and the California Health and Human Services Agency, and all other interested members of the public and private sectors of the state on opportunities for socially disadvantaged farmers and ranchers and to coordinate state programs.
+(1) Consult with the Secretaries of the California Environmental Protection Agency,
+ the Natural Resources Agency, the Business, Consumer Services, and Housing Agency, and the California Health and Human Services Agency, and all other interested members of the public and private sectors of the state on opportunities for socially disadvantaged farmers and ranchers and to coordinate state programs.
 
 (2) Disseminate information regarding opportunities provided by, including, but not limited to, the United States Department of Agriculture, the United States Environmental Protection Agency, the General Accounting Office, the Office of Management and Budget, and other federal agencies for socially disadvantaged farmers and ranchers.
 
-(3) Evaluate boards,
- committees, commissions, and advisory panels created pursuant to this code for opportunities for inclusion of socially disadvantaged farmers and ranchers, except those established pursuant to Article 8 (commencing with Section 58841) of Chapter 1 of Part 2 of Division 21, Article 7 (commencing with Section 59721) of Chapter 2 of Part 2 of Division 21, and Division 22 (commencing with Section 63901).
+(3) Evaluate boards, committees, commissions, and advisory panels created pursuant to this code for opportunities for inclusion of socially disadvantaged farmers and ranchers, except those established pursuant to Article 8 (commencing with
+ Section 58841) of Chapter 1 of Part 2 of Division 21, Article 7 (commencing with Section 59721) of Chapter 2 of Part 2 of Division 21, and Division 22 (commencing with Section 63901).
 
-(History: Added by Stats. 2017, Ch. 620, Sec. 1.   (AB 1348)   Effective January 1, 2018.)
+(d) This section shall become inoperative on July 1, 2026, and, as of January 1, 2027, is repealed.
+
+(History: Amended by Stats. 2026, Ch. 28, Sec. 20.   (SB 170)   Effective June 29, 2026.   Inoperative July 1, 2026, by its own provisions   Repealed as of January 1, 2027, by its own provisions.   See later operative version added by Sec. 21 of Stats. 2026, Ch. 28.)
+-------------------------------------------
+
+513.
+
+(a) The department shall ensure the inclusion of socially disadvantaged farmers and ranchers, including socially disadvantaged farmers and ranchers in urbanized areas, in the development, adoption, implementation, and enforcement of food and agriculture laws, regulations, and policies and programs.
+
+(b) The secretary shall create a position within the department’s executive office to support the efforts of this section and Section 514. The person appointed to that position shall report to the secretary.
+
+(c) The department shall do all of the following:
+
+(1) Consult with the Secretaries of the California Environmental
+ Protection Agency, the Natural Resources Agency, the California Housing and Homelessness Agency, and the California Health and Human Services Agency, and all other interested members of the public and private sectors of the state on opportunities for socially disadvantaged farmers and ranchers and to coordinate state programs.
+
+(2) Disseminate information regarding opportunities provided by, including, but not limited to, the United States Department of Agriculture, the United States Environmental Protection Agency, the General Accounting Office, the Office of Management and Budget, and other federal agencies for socially disadvantaged farmers and ranchers.
+
+(3) Evaluate boards, committees, commissions, and advisory panels created pursuant to this code for opportunities for inclusion of socially disadvantaged farmers and ranchers, except those established pursuant to Article 8
+ (commencing with Section 58841) of Chapter 1 of Part 2 of Division 21, Article 7 (commencing with Section 59721) of Chapter 2 of Part 2 of Division 21, and Division 22 (commencing with Section 63901).
+
+(d) This section shall become operative on July 1, 2026.
+
+(History: Repealed (in Sec. 20) and added by Stats. 2026, Ch. 28, Sec. 21.   (SB 170)   Effective June 29, 2026.   Operative July 1, 2026, by its own provisions.)
 -------------------------------------------
 
 514.
