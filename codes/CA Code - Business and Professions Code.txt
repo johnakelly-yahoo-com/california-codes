@@ -5,7 +5,7 @@
 
 Source: Official California Legislative Information
         https://downloads.leginfo.legislature.ca.gov/
-Last Updated by State of California: December 10, 2025
+Last Updated by State of California: July 10, 2026
 
 
 ======================================================================
@@ -558,9 +558,11 @@ CHAPTER 1. The Department [100. - 144.7.]
 
 100.
 
-There is in the state government, in the Business, Consumer Services, and Housing Agency, a Department of Consumer Affairs.
+(a) There is in the state government, in the Business and Consumer Services Agency, a Department of Consumer Affairs.
 
-(History: Amended by Stats. 2012, Ch. 147, Sec. 1.   (SB 1039)   Effective January 1, 2013.   Operative July 1, 2013, by Sec. 23 of Ch. 147.)
+(b) The amendments made to this section by the act adding this subdivision shall become operative on July 1, 2026.
+
+(History: Amended by Stats. 2026, Ch. 28, Sec. 1.   (SB 170)   Effective June 29, 2026.   Operative July 1, 2026, by its own provisions.)
 -------------------------------------------
 
 101.
@@ -17977,6 +17979,16 @@ All general internists and family physicians who have a patient population of wh
 (History: Amended by Stats. 2024, Ch. 336, Sec. 1.   (SB 639)   Effective January 1, 2025.)
 -------------------------------------------
 
+2190.4.
+
+(a) Beginning July 1, 2027, a qualifying physician and surgeon who completes continuing medical education courses in perimenopause, menopause, and postmenopausal care shall receive two hours of credit for each hour completed of that coursework, for a total earned credit that does not exceed eight course hours, toward the requirement set forth in Section 1336 of Title 16 of the California Code of Regulations.
+
+(b) For purposes of this section, “qualifying physician and surgeon” means a holder of a physician’s and surgeon’s certificate from the board who is certified by a member board of the American Board of Medical Specialties in internal medicine, family medicine, obstetrics and gynecology, neurology, neurological surgery, or psychiatry and
+ whose patient population includes adult women under 65 years of age.
+
+(History: Added by Stats. 2026, Ch. 27, Sec. 1.   (SB 164)   Effective June 29, 2026.)
+-------------------------------------------
+
 2190.5.
 
 (a) (1) All physicians and surgeons shall complete a mandatory continuing education course in the subjects of pain management and the treatment of terminally ill and dying patients. For the purposes of this section, this course shall be a one-time requirement of 12 credit hours within the required minimum established by regulation, to be completed by December 31, 2006. All physicians and surgeons licensed on and after January 1, 2002, shall complete this requirement within four years of their initial license or by their second renewal date, whichever occurs first. The board may verify completion of this requirement on the renewal application form.
@@ -18039,9 +18051,7 @@ All general internists and family physicians who have a patient population of wh
 (k) In determining its continuing education requirements, the board shall
  consider including a course in geriatric care for emergency room physicians and surgeons.
 
-(l) In determining its continuing education requirements, the board shall consider including a course in menopausal mental or physical health.
-
-(History: Amended by Stats. 2024, Ch. 636, Sec. 1.   (AB 2270)   Effective January 1, 2025.)
+(History: Amended by Stats. 2026, Ch. 27, Sec. 2.   (SB 164)   Effective June 29, 2026.)
 -------------------------------------------
 
 2191.1.
@@ -21263,6 +21273,16 @@ For purposes of this section, “American Osteopathic Association Category 1” 
 In determining its continuing education requirements, the board shall consider including a course in infection-associated chronic conditions, including, but not limited to, long COVID, as defined by the United States Department of Health and Human Services, myalgic encephalomyelitis, and dysautonomia.
 
 (History: Added by Stats. 2024, Ch. 433, Sec. 2.   (AB 3119)   Effective January 1, 2025.)
+-------------------------------------------
+
+2454.7.
+
+(a) Beginning July 1, 2027, a qualifying osteopathic physician and surgeon who completes continuing medical education courses in perimenopause, menopause, and postmenopausal care shall receive two hours of credit for each hour completed of that coursework, for a total earned credit that does not exceed eight course hours, toward the requirement set forth in Section 1635 of Title 16 of the California Code of Regulations.
+
+(b) For purposes of this section, “qualifying osteopathic physician and surgeon” means a holder of a physician’s and surgeon’s certificate who is certified by a member board of the American Board of Medical Specialties or the American Osteopathic Association in internal medicine, family medicine, obstetrics and gynecology,
+ neurology, neurological surgery, or psychiatry and whose patient population is composed of adult women under 65 years of age.
+
+(History: Added by Stats. 2026, Ch. 27, Sec. 3.   (SB 164)   Effective June 29, 2026.)
 -------------------------------------------
 
 2455.
@@ -29192,21 +29212,36 @@ There is established in the State Treasury a Board of Registered Nursing Fund. T
 
 (4) Hospice care.
 
-(g) (1) In establishing standards for continuing education, the board shall consider including a course in
- menopausal mental or physical health.
+(g) (1) In establishing standards for continuing education, the board shall consider including a course in menopausal mental or physical health.
 
 (2) In establishing standards for continuing education, the board shall consider including a course in maternal mental health.
 
-(h) This section shall not apply to licensees during the first two years immediately following their initial licensure in California or any other governmental jurisdiction, except that, beginning January 1, 2023, those licensees shall complete one hour of direct participation in an implicit bias course offered by a continuing education provider approved by the board that meets all the same requirements outlined in paragraph (1) of subdivision (f) of Section 2786, including, but not limited to, the identification of the
- licensees’
- previous or current unconscious biases and misinformation and corrective measures to decrease implicit bias at the interpersonal and institutional levels, including ongoing policies and practices for that purpose.
+(h) This section shall not apply to licensees during the first two years immediately following their initial licensure in California or any other governmental jurisdiction, except that, beginning January 1, 2023, those licensees shall complete one hour of direct participation in an implicit bias course offered by a continuing education provider approved by the board that meets all the same requirements outlined in paragraph (1) of subdivision (f) of Section 2786, including, but not limited to, the identification of the licensees’ previous or current unconscious biases and misinformation and corrective measures to decrease implicit bias at the interpersonal and institutional levels, including ongoing policies and practices for that purpose.
 
 (i) The board may, in accordance with the intent of this section, make exceptions from continuing education requirements for licensees residing in another state or country, or for reasons of health, military service, or other good cause.
 
-(j) For the purpose of fulfilling the requirements of subdivision
- (a), a nurse practitioner who provides primary care to a patient population of which over 25 percent are 65 years of age or older shall certify that they have completed at least 20 percent of all existing mandatory continuing education hours in a course in the field of gerontology, the special care needs of patients with dementia, or the care of older patients at the time of renewal.
+(j) For the purpose of fulfilling the requirements of subdivision (a), the following apply:
 
-(History: Amended by Stats. 2024, Ch. 836, Sec. 1.3.   (AB 2581)   Effective January 1, 2025.)
+(1) A nurse practitioner who provides primary care to a patient population of which over 25 percent are 65 years of age or
+ older shall certify that they have completed at least 20 percent of all existing mandatory continuing education hours in a course in the field of gerontology, the special care needs of patients with dementia, or the care of older patients at the time of renewal.
+
+(2) Beginning July 1, 2027, a nurse practitioner who provides care to a patient population composed of adult women under 65 years of age who completes one or more continuing education courses in perimenopause, menopause, or postmenopausal care shall receive two hours for each hour of a completed course, not to exceed six hours, if the following are met:
+
+(A) The course or course provider is accredited by one of the following:
+
+(i) American Nurses Credentialing Center.
+
+(ii) American Association of Nurse Practitioners.
+
+(iii) Accreditation Council for Continuing Medical Education.
+
+(iv) Joint Accreditation for Interprofessional Continuing Education.
+
+(v) The successor organization to an organization specified under this subparagraph.
+
+(B) If the course covers multiple topics, the additional hours are only granted for the hours specified by the course provider as covering perimenopause, menopause, or postmenopausal care.
+
+(History: Amended by Stats. 2026, Ch. 27, Sec. 4.   (SB 164)   Effective June 29, 2026.)
 -------------------------------------------
 
 2811.6.
@@ -35165,6 +35200,13 @@ A license or approval that has expired may be renewed at any time within five ye
 A physician assistant who provides primary care to a patient population of which over 25 percent are 65 years of age or older shall complete at least 20 percent of all mandatory continuing education hours in a course in the field of geriatric medicine, the special care needs of patients with dementia, or the care of older patients.
 
 (History: Added by Stats. 2024, Ch. 336, Sec. 3.   (SB 639)   Effective January 1, 2025.)
+-------------------------------------------
+
+3524.65.
+
+Notwithstanding subdivision (e) of Section 3524.5, beginning July 1, 2027, a physician assistant who provides care to a patient population composed of adult women under 65 years of age who completes one or more continuing education courses in perimenopause, menopause, or postmenopausal care shall receive two hours towards the requirement in Section 3524.5 for each hour of a completed course, not to exceed eight hours.
+
+(History: Added by Stats. 2026, Ch. 27, Sec. 5.   (SB 164)   Effective June 29, 2026.)
 -------------------------------------------
 
 3524.7.
@@ -98837,11 +98879,11 @@ Except as otherwise specified, the definitions in this chapter apply to the prov
 
 10004.
 
-(a) “Department” means the Department of Real Estate in the Business, Consumer Services, and Housing Agency.
+(a) “Department” means the Department of Real Estate in the Business and Consumer Services Agency.
 
-(b) This section shall become operative on July 1, 2018.
+(b) The amendments made to this section by the act adding this subdivision shall become operative on July 1, 2026.
 
-(History: Repealed (in Sec. 5) and added by Stats. 2017, Ch. 828, Sec. 6.   (SB 173)   Effective January 1, 2018.   Section operative July 1, 2018, by its own provisions.)
+(History: Amended by Stats. 2026, Ch. 28, Sec. 2.   (SB 170)   Effective June 29, 2026.   Operative July 1, 2026, by its own provisions.)
 -------------------------------------------
 
 10005.
@@ -99213,16 +99255,18 @@ Neither Section 10185 nor any other provision of this part which makes violation
 
 10050.
 
-(a) (1) There is in the Business, Consumer Services, and Housing Agency a Department of Real Estate, the chief officer of which department is named the Real Estate Commissioner.
+(a) (1) There is in the Business and Consumer Services Agency a Department of Real Estate, the chief officer of which department is named the Real Estate Commissioner.
 
 (2) Notwithstanding any other law, the powers and duties of the department, as set forth in this part and Chapter 1 (commencing with Section 11000) of Part 2, shall be subject to review by the appropriate policy committees of the Legislature. The review shall be performed as if this part and that chapter were scheduled to be repealed as of January 1, 2030.
 
-(b) It shall be the principal responsibility of the commissioner to
- enforce all laws in this part and Chapter 1 (commencing with Section 11000) of Part 2 in a manner that achieves the maximum protection for the buyers of real property and those persons dealing with real estate licensees.
+(b) It shall be the principal responsibility of the commissioner to enforce all laws in this part and Chapter 1 (commencing with Section 11000) of Part 2 in a manner that achieves the maximum protection for the buyers of real
+ property and those persons dealing with real estate licensees.
 
 (c) Wherever the term “commissioner” is used in this division, it means the Real Estate Commissioner.
 
-(History: Amended by Stats. 2025, Ch. 786, Sec. 3.   (SB 774)   Effective January 1, 2026.)
+(d) The amendments made to this section by the act adding this subdivision shall become operative on July 1, 2026.
+
+(History: Amended by Stats. 2026, Ch. 28, Sec. 3.   (SB 170)   Effective June 29, 2026.   Operative July 1, 2026, by its own provisions.)
 -------------------------------------------
 
 10050.1.
@@ -126756,9 +126800,11 @@ Except where the context otherwise requires, the definitions set forth in this a
 
 19404.
 
-“Board” means the California Horse Racing Board within the Business, Consumer Services, and Housing Agency.
+(a) “Board” means the California Horse Racing Board within the Business and Consumer Services Agency.
 
-(History: Amended by Stats. 2012, Ch. 147, Sec. 2.   (SB 1039)   Effective January 1, 2013.   Operative July 1, 2013, by Sec. 23 of Ch. 147.)
+(b) The amendments made to this section by the act adding this subdivision shall become operative on July 1, 2026.
+
+(History: Amended by Stats. 2026, Ch. 28, Sec. 4.   (SB 170)   Effective June 29, 2026.   Operative July 1, 2026, by its own provisions.)
 -------------------------------------------
 
 19405.
@@ -146718,9 +146764,11 @@ It is the intention of the Legislature in enacting this chapter to provide a gov
 
 23050.
 
-There is in the state government, in the Business, Consumer Services, and Housing Agency, a Department of Alcoholic Beverage Control. The department shall be administered through a civil executive officer who shall be known as the Director of Alcoholic Beverage Control. The director shall be appointed and shall serve as provided in Section 22 of Article XX of the Constitution and shall receive an annual salary as provided for by Chapter 6 of Part 1 of Division 3 of Title 2 of the Government Code.
+(a) There is in the state government, in the Business and Consumer Services Agency, a Department of Alcoholic Beverage Control. The department shall be administered through a civil executive officer who shall be known as the Director of Alcoholic Beverage Control. The director shall be appointed and shall serve as provided in Section 22 of Article XX of the Constitution and shall receive an annual salary as provided for by Chapter 6 of Part 1 of Division 3 of Title 2 of the Government Code.
 
-(History: Amended by Stats. 2012, Ch. 147, Sec. 3.   (SB 1039)   Effective January 1, 2013.   Operative July 1, 2013, by Sec. 23 of Ch. 147.)
+(b) The amendments made to this section by the act adding this subdivision shall become operative on July 1, 2026.
+
+(History: Amended by Stats. 2026, Ch. 28, Sec. 5.   (SB 170)   Effective June 29, 2026.   Operative July 1, 2026, by its own provisions.)
 -------------------------------------------
 
 23051.
@@ -146847,9 +146895,11 @@ Any person who violates any provision of this section shall be removed from offi
 
 23075.
 
-There is in the state government, in the Business, Consumer Services, and Housing Agency, an Alcoholic Beverage Control Appeals Board the members of which shall be appointed and shall serve as provided in Section 22 of Article XX of the Constitution, and shall receive an annual salary as provided for by Chapter 6 (commencing with Section 11550) of Part 1 of Division 3 of Title 2 of the Government Code.
+(a) There is in the state government, in the Business and Consumer Services Agency, an Alcoholic Beverage Control Appeals Board the members of which shall be appointed and shall serve as provided in Section 22 of Article XX of the Constitution, and shall receive an annual salary as provided for by Chapter 6 (commencing with Section 11550) of Part 1 of Division 3 of Title 2 of the Government Code.
 
-(History: Amended by Stats. 2012, Ch. 147, Sec. 4.   (SB 1039)   Effective January 1, 2013.   Operative July 1, 2013, by Sec. 23 of Ch. 147.)
+(b) The amendments made to this section by the act adding this subdivision shall become operative on July 1, 2026.
+
+(History: Amended by Stats. 2026, Ch. 28, Sec. 6.   (SB 170)   Effective June 29, 2026.   Operative July 1, 2026, by its own provisions.)
 -------------------------------------------
 
 23076.
@@ -157218,7 +157268,8 @@ For purposes of this division, the following definitions apply:
 
 (b) “A-licensee” means any person holding a license under this division for cannabis or cannabis products that are intended for adults who are 21 years of age and older and who do not possess a physician’s recommendation, or are intended for use on, or consumption by, animals.
 
-(c) “Animal” does not include a food animal as defined in Section 4825.1 or livestock as defined in Section 14205 of the Food and Agricultural Code.
+(c) “Animal” does not include a food animal as
+ defined in Section 4825.1 or livestock as defined in Section 14205 of the Food and Agricultural Code.
 
 (d) “Applicant” means an owner applying for a state license pursuant to this division.
 
@@ -157228,14 +157279,14 @@ For purposes of this division, the following definitions apply:
 
 (2) “Manufactured cannabis batch” means either of the following:
 
-(A) An amount of cannabis concentrate or extract that is produced in one production cycle using the same extraction methods and standard operating procedures.
+(A) An amount of
+ cannabis concentrate or extract that is produced in one production cycle using the same extraction methods and standard operating procedures.
 
 (B) An amount of a type of manufactured cannabis produced in one production cycle using the same formulation and standard operating procedures.
 
 (f) “Cannabinoid” means a chemical compound found in cannabis and industrial hemp that binds to or otherwise activates cannabinoid receptors in humans and animals. “Cannabinoid” includes, but is not limited to, tetrahydrocannabinol (THC) and cannabidiol (CBD).
 
-(g) “Cannabis”
- has the same meaning as in Section 11018 of the Health and Safety Code.
+(g) “Cannabis” has the same meaning as in Section 11018 of the Health and Safety Code.
 
 (h) “Cannabis accessories” has the same meaning as in Section 11018.2 of the Health and Safety Code.
 
@@ -157245,15 +157296,14 @@ For purposes of this division, the following definitions apply:
 
 (k) “Cannabis event organizer” means a person authorized to plan and organize temporary cannabis events as authorized in Section 26200.
 
-(l) “Cannabis products”
- has the same meaning as in Section 11018.1 of the Health and Safety Code.
+(l) “Cannabis products” has the same meaning as in Section 11018.1 of the Health and Safety Code.
 
-(m) “CBD isolate” means a compound extracted from cannabis or industrial hemp consisting of cannabidiol (CAS number 13956-29-1), with a purity level greater than 99 percent and that does not contain any form of tetrahydrocannabinol or synthetic cannabinoid.
+(m) “CBD isolate” means a compound extracted from cannabis or industrial hemp consisting of cannabidiol (CAS number 13956-29-1), with a purity level greater than 99 percent and that does not contain any form of
+ tetrahydrocannabinol or synthetic cannabinoid.
 
 (n) “CBN isolate” means a compound extracted from cannabis or industrial hemp consisting of cannabinol (CAS number 521-35-7), with a purity level greater than 99 percent, and that does not contain any form of tetrahydrocannabinol or synthetic cannabinoid.
 
-(o) “Child resistant” means designed or constructed to be significantly difficult for children under five years of age
- to open, and not difficult for normal adults to use properly.
+(o) “Child resistant” means designed or constructed to be significantly difficult for children under five years of age to open, and not difficult for normal adults to use properly.
 
 (p) “Combined activities license” means a state license that authorizes two or more commercial cannabis activities at the same premises, with the exception of laboratory testing. A combined activities license shall conform with all requirements imposed by this division to the extent the licensee engages in those activities.
 
@@ -157263,14 +157313,14 @@ For purposes of this division, the following definitions apply:
 
 (s) “Cultivation site” means a location where cannabis is planted, grown, harvested, dried, cured, graded, or trimmed, or a location where any combination of those activities occurs.
 
-(t) “Customer” means a natural person 21 years of age or older or a natural person 18 years of age or older who possesses a physician’s recommendation, or a primary caregiver.
+(t) “Customer” means a natural person 21 years of age or older or a natural person 18 years of age
+ or older who possesses a physician’s recommendation, or a primary caregiver.
 
 (u) “Daycare center” has the same meaning as in Section 1596.76 of the Health and Safety Code.
 
-(v) “Delivery” means the commercial transfer of cannabis or cannabis
- products to a customer. “Delivery” also includes the use by a retailer of any technology platform.
+(v) “Delivery” means the commercial transfer of cannabis or cannabis products to a customer. “Delivery” also includes the use by a retailer of any technology platform.
 
-(w) “Department” means the Department of Cannabis Control within the Business, Consumer Services, and Housing Agency.
+(w) “Department” means the Department of Cannabis Control within the Business and Consumer Services Agency.
 
 (x) “Director” means the Director of the Department of Cannabis Control.
 
@@ -157278,28 +157328,29 @@ For purposes of this division, the following definitions apply:
 
 (z) “Distributor” means a licensee that is authorized to engage in the distribution of cannabis, industrial hemp, and cannabis products.
 
-(aa) “Dried flower” means all dead cannabis that has been harvested,
- dried, cured, or otherwise processed, excluding leaves and stems.
+(aa) “Dried flower” means all dead cannabis that has been harvested, dried, cured, or otherwise processed, excluding leaves and stems.
 
-(ab) “Edible cannabis product” means a cannabis product that is intended to be used, in whole or in part, for human or animal consumption, including, but not limited to, chewing gum, but excluding products set forth in Division 15 (commencing with Section 32501) of the Food and Agricultural Code. An edible cannabis product is not considered food, as defined by Section 109935 of the Health and Safety Code, a processed pet food, as defined by Section 113025 of the Health and Safety Code, or a drug, as defined by Section 109925 of the Health and Safety Code.
+(ab) “Edible cannabis product” means
+ a cannabis product that is intended to be used, in whole or in part, for human or animal consumption, including, but not limited to, chewing gum, but excluding products set forth in Division 15 (commencing with Section 32501) of the Food and Agricultural Code. An edible cannabis product is not considered food, as defined by Section 109935 of the Health and Safety Code, a processed pet food, as defined by Section 113025 of the Health and Safety Code, or a drug, as defined by Section 109925 of the Health and Safety Code.
 
 (ac) “Fund” means the Cannabis Control Fund established pursuant to Section 26210.
 
 (ad) “Industrial hemp” has the same meaning as in Section 11018.5 of the Health and Safety Code.
 
-(ae) “Kind” means applicable type or designation regarding a particular cannabis variant, origin, or product type, including, but not limited to, strain name, trademark, or production area designation.
+(ae) “Kind” means applicable type or designation regarding a particular cannabis variant, origin, or product type,
+ including, but not limited to, strain name, trademark, or production area designation.
 
 (af) “Labeling” means any label or other written, printed, or graphic matter upon a cannabis or cannabis product, upon its container or wrapper, or that accompanies any cannabis or cannabis product.
 
-(ag) “Labor peace agreement” means an agreement between a licensee and any bona fide labor organization that, at a minimum, protects the state’s proprietary interests by prohibiting labor organizations
- and members from engaging in picketing, work stoppages, boycotts, and any other economic interference with the applicant’s business. This agreement means that the applicant has agreed not to disrupt efforts by the bona fide labor organization to communicate with, and attempt to organize and represent, the applicant’s employees. The agreement shall provide a bona fide labor organization access at reasonable times to areas in which the applicant’s employees work, for the purpose of meeting with employees to discuss their right to representation, employment rights under state law, and terms and conditions of employment. This type of agreement shall not mandate a particular method of election or certification of the bona fide labor organization.
+(ag) “Labor peace agreement” means an agreement between a licensee and any bona fide labor organization that, at a minimum, protects the state’s proprietary interests by prohibiting labor organizations and members from engaging in picketing, work stoppages, boycotts, and any other economic interference with the applicant’s business. This agreement means that the applicant has agreed not to disrupt efforts by the bona fide labor organization to communicate with, and attempt to organize and represent, the applicant’s employees. The agreement shall provide a bona fide labor organization access at
+ reasonable times to areas in which the applicant’s employees work, for the purpose of meeting with employees to discuss their right to representation, employment rights under state law, and terms and conditions of employment. This type of agreement shall not mandate a particular method of election or certification of the bona fide labor organization.
 
-(ah) “License” means a state license issued under this division, and includes both an A-license and an
- M-license, as well as a testing laboratory license.
+(ah) “License” means a state license issued under this division, and includes both an A-license and an M-license, as well as a testing laboratory license.
 
 (ai) “Licensed market” means the California licensed market for cannabis, industrial hemp, and cannabis products that is subject to regulation by this division.
 
-(aj) “Licensee” means any person holding a license under this division, regardless of whether the license held is an A-license or an M-license, and includes the holder of a testing laboratory license.
+(aj) “Licensee” means any person holding a license under this division, regardless of whether the license held is an A-license or an M-license, and includes
+ the holder of a testing laboratory license.
 
 (ak) “Licensing authority” means the department and any state agency currently or formerly responsible for the issuance, renewal, or reinstatement of the license, or the state agency authorized to take disciplinary action against the licensee.
 
@@ -157313,13 +157364,12 @@ For purposes of this division, the following definitions apply:
 
 (ap) “M-licensee” means any person holding a license under this division for commercial cannabis activity involving medicinal cannabis.
 
-(aq) “Manufacture” means to compound, blend, extract, infuse, package,
- label, or otherwise make or prepare a cannabis product.
+(aq) “Manufacture” means to compound, blend, extract, infuse, package, label, or otherwise make or prepare a cannabis product.
 
 (ar) “Medicinal cannabis” or “medicinal cannabis product” means cannabis or a cannabis product, respectively, intended to be sold or donated for use pursuant to the Compassionate Use Act of 1996 (Proposition 215), found in Section 11362.5 of the Health and Safety Code, by a medicinal cannabis patient in California who possesses a physician’s recommendation, or in compliance with any compassionate use, equity, or other similar program administered by a local jurisdiction.
 
-(as) “Microbusiness” means a licensee that is authorized to engage in cultivation of cannabis on an area less than 10,000 square feet and to act as a licensed distributor, Level 1 manufacturer, and retailer under this division, provided such licensee can
- demonstrate compliance with all requirements imposed by this division on licensed cultivators, distributors, Level 1 manufacturers, and retailers to the extent the licensee engages in such activities.
+(as) “Microbusiness” means
+ a licensee that is authorized to engage in cultivation of cannabis on an area less than 10,000 square feet and to act as a licensed distributor, Level 1 manufacturer, and retailer under this division, provided such licensee can demonstrate compliance with all requirements imposed by this division on licensed cultivators, distributors, Level 1 manufacturers, and retailers to the extent the licensee engages in such activities.
 
 (at) “Nursery” means a licensee that produces only clones, immature plants, seeds, and other agricultural products used specifically for the propagation and cultivation of cannabis.
 
@@ -157327,8 +157377,7 @@ For purposes of this division, the following definitions apply:
 
 (av) “Owner” means any of the following:
 
-(1) A person with an aggregate ownership interest of 20 percent or more in the person
- applying for a license or a licensee, unless the interest is solely a security, lien, or encumbrance.
+(1) A person with an aggregate ownership interest of 20 percent or more in the person applying for a license or a licensee, unless the interest is solely a security, lien, or encumbrance.
 
 (2) The chief executive officer of a nonprofit or other entity.
 
@@ -157338,8 +157387,8 @@ For purposes of this division, the following definitions apply:
 
 (aw) “Package” means any container or receptacle used for holding cannabis or cannabis products.
 
-(ax) “Person” includes any individual, firm, partnership, joint venture, association, corporation, limited liability company, estate, trust, business trust, receiver, syndicate,
- or any other group or combination acting as a unit, and the plural as well as the singular.
+(ax) “Person” includes any individual, firm, partnership, joint venture, association, corporation, limited
+ liability company, estate, trust, business trust, receiver, syndicate, or any other group or combination acting as a unit, and the plural as well as the singular.
 
 (ay) “Physician’s recommendation” means a recommendation by a physician and surgeon that a patient use cannabis provided in accordance with the Compassionate Use Act of 1996 (Proposition 215), found at Section 11362.5 of the Health and Safety Code.
 
@@ -157353,18 +157402,17 @@ For purposes of this division, the following definitions apply:
 
 (bd) “Retailer” means a person authorized to engage in the retail sale and delivery of cannabis or cannabis products to customers.
 
-(be) “Sell,” “sale,” and “to sell” include any transaction whereby, for any consideration, title to cannabis or cannabis products is transferred from one person to another, and includes the delivery of cannabis or cannabis
- products pursuant to an order placed for the purchase of the same and soliciting or receiving an order for the same, but does not include the return of cannabis or cannabis products by a licensee to the licensee from whom the cannabis or cannabis product was purchased.
+(be) “Sell,” “sale,” and “to sell” include any transaction whereby, for any consideration, title to cannabis or cannabis products is transferred from one person to another, and includes the delivery of cannabis or cannabis products pursuant to an order placed for the purchase of the same and soliciting or receiving an order for the same, but does not include the return
+ of cannabis or cannabis products by a licensee to the licensee from whom the cannabis or cannabis product was purchased.
 
 (bf) “Synthetic cannabinoid” means a cannabinoid or cannabinoid-like compound that is produced by using biosynthesis, bioconversion, or chemical synthesis, reaction, modification, conversion, or a similar process. This includes, but is not limited to, any form of tetrahydrocannabinol that was produced by the conversion of cannabidiol (CBD) (CAS number 13956-29-1), or any other chemical substance identified by the department in regulation. Synthetic cannabinoid does not include any of the following:
 
-(1) A
- cannabinoid produced by the decarboxylation of acidic phytocannabinoids without the use of chemical reagents or chemical catalysts. This includes, but is not limited to, the conversion of cannabidiolic acid (CBDA) into cannabidiol (CBD) without the use of chemical reagents or catalysts.
+(1) A cannabinoid produced by the decarboxylation of acidic phytocannabinoids without the use of chemical reagents or chemical catalysts. This includes, but is not limited to, the conversion of cannabidiolic acid (CBDA) into cannabidiol (CBD) without the use of
+ chemical reagents or catalysts.
 
 (2) A cannabinoid that occurs naturally in the Cannabis sativa Linnaeus, Cannabis indica, or Cannabis ruderalis plant that was produced with the use of heat, light, or pressure from other phytocannabinoids, and without the use of any chemical reagents or catalysts. This includes, but is not limited to, the conversion of tetrahydrocannabinol into cannabinol (CBN) with the use of heat, light, or pressure, and without the use of any chemical reagents or catalysts.
 
-(3) Any other chemical substance identified
- by the department in regulation.
+(3) Any other chemical substance identified by the department in regulation.
 
 (bg) “Testing laboratory” means a laboratory, facility, or entity in the state that offers or performs tests of cannabis or cannabis products and that is both of the following:
 
@@ -157372,12 +157420,13 @@ For purposes of this division, the following definitions apply:
 
 (2) Licensed by the department.
 
-(bh) “Unique identifier” means an alphanumeric code or designation used in reference to a specific quantity of cannabis or cannabis products that is issued pursuant to the track and trace program established by the
- department.
+(bh) “Unique identifier” means an alphanumeric code or designation used in reference to a specific quantity of cannabis or cannabis products that is issued pursuant to the track and trace program established by the department.
 
 (bi) “Youth center” has the same meaning as in Section 11353.1 of the Health and Safety Code.
 
-(History: Amended by Stats. 2025, Ch. 248, Sec. 3.   (AB 8)   Effective January 1, 2026.)
+(bj) The amendments made to this section by the act adding this subdivision shall become operative on July 1, 2026.
+
+(History: Amended by Stats. 2026, Ch. 28, Sec. 7.   (SB 170)   Effective June 29, 2026.   Operative July 1, 2026, by its own provisions.)
 -------------------------------------------
 
 26002.
@@ -157403,26 +157452,31 @@ CHAPTER 2. Administration [26010. - 26018.]
 
 26010.
 
-There is in the Business, Consumer Services, and Housing Agency, the Department of Cannabis Control under the supervision and control of a director. The director shall administer and enforce the provisions of this division related to the department.
+(a) There is in the Business and Consumer Services Agency, the Department of Cannabis Control under the supervision and control of a director. The director shall administer and enforce the provisions of this division related to the department.
 
-(History: Amended by Stats. 2021, Ch. 70, Sec. 6.   (AB 141)   Effective July 12, 2021.)
+(b) The amendments made to this section by the act adding this subdivision shall become operative on July 1, 2026.
+
+(History: Amended by Stats. 2026, Ch. 28, Sec. 8.   (SB 170)   Effective June 29, 2026.   Operative July 1, 2026, by its own provisions.)
 -------------------------------------------
 
 26010.5.
 
-(a) The Governor shall appoint the director of the department, subject to confirmation by the Senate. The director shall serve under the direction and supervision of the Secretary of the Business, Consumer Services, and Housing Agency and at the pleasure of the Governor.
+(a) The Governor shall appoint the director of the department, subject to confirmation by the Senate. The director shall serve under the direction and supervision of the Secretary of Business and Consumer Service and at the pleasure of the Governor.
 
 (b) Every power granted to or duty imposed upon the director under this division may be exercised or performed in the name of the director by a deputy or assistant director or by a chief, subject to conditions and limitations that the director may prescribe.
 
 (c) (1) The director may employ and appoint all employees necessary to properly administer the work of the department, in accordance with civil service laws and regulations.
 
-(2) The Governor may also appoint a chief deputy director, a deputy director of equity and inclusion, and either a deputy director of legal affairs or a chief counsel to the department. These positions shall serve under the direction and supervision of the director and hold office at the pleasure of the Governor.
+(2) The Governor may also appoint a chief deputy director, a deputy director of equity and inclusion, and either a deputy director of legal
+ affairs or a chief counsel to the department. These positions shall serve under the direction and supervision of the director and hold office at the pleasure of the Governor.
 
 (d) The department has the power, duty, purpose, responsibility, and jurisdiction to regulate commercial cannabis activity as provided in this division.
 
 (e) Upon the effective date of this section, whenever any reference to the “Medical Cannabis Regulation and Safety Act,” “Medical Marijuana Regulation and Safety Act,” or former Chapter 3.5 (commencing with Section 19300) of Division 8 appears in any statute, regulation, contract, or in any other code, it shall be construed to refer to this division as it relates to medicinal cannabis and medicinal cannabis products.
 
-(History: Amended by Stats. 2021, Ch. 70, Sec. 7.   (AB 141)   Effective July 12, 2021.)
+(f) The amendments made to this section by the act adding this subdivision shall become operative on July 1, 2026.
+
+(History: Amended by Stats. 2026, Ch. 28, Sec. 9.   (SB 170)   Effective June 29, 2026.   Operative July 1, 2026, by its own provisions.)
 -------------------------------------------
 
 26010.6.
@@ -158051,7 +158105,7 @@ CHAPTER 4. Appeals [26040. - 26047.]
 
 26040.
 
-(a) (1) There is established in state government, in the Business, Consumer Services, and Housing Agency, a Cannabis Control Appeals Panel which shall consist of the following members:
+(a) (1) There is established in state government, in the Business and Consumer Services Agency, a Cannabis Control Appeals Panel which shall consist of the following members:
 
 (A) One member appointed by the Senate Committee on Rules.
 
@@ -158059,11 +158113,14 @@ CHAPTER 4. Appeals [26040. - 26047.]
 
 (C) Three members appointed by the Governor and subject to confirmation by a majority vote of all of the members elected to the Senate.
 
-(2) Each member appointed by the Governor, at the time of their initial appointment, shall be a resident of a different county from the one in which either of the other members appointed by the Governor resides. Members of the panel shall receive an annual salary as provided for by Chapter 6 (commencing with Section 11550) of Part 1 of Division 3 of Title 2 of the Government Code.
+(2) Each member appointed by the Governor, at the time of their initial appointment, shall be a resident of a different county from the one in which either of the other members appointed by the Governor resides. Members of the
+ panel shall receive an annual salary as provided for by Chapter 6 (commencing with Section 11550) of Part 1 of Division 3 of Title 2 of the Government Code.
 
 (b) The members of the panel may be removed from office by their appointing authority.
 
-(History: Amended by Stats. 2020, Ch. 93, Sec. 1.   (AB 1872)   Effective September 18, 2020.   Note: This section was added on Nov. 8, 2016, by initiative Prop. 64.)
+(c) The amendments made to this section by the act adding this subdivision shall become operative on July 1, 2026.
+
+(History: Amended by Stats. 2026, Ch. 28, Sec. 10.   (SB 170)   Effective June 29, 2026.   Operative July 1, 2026, by its own provisions.   Note: This section was added on Nov. 8, 2016, by initiative Prop. 64.)
 -------------------------------------------
 
 26041.
@@ -159862,9 +159919,11 @@ The department shall establish a scale of application, licensing, and renewal fe
 
 26180.5.
 
-No later than January 1, 2018, the Secretary of Business, Consumer Services, and Housing or his or her designee shall initiate work with the Legislature, the Department of Consumer Affairs, the Department of Food and Agriculture, the State Department of Public Health, and any other related departments to ensure that there is a safe and viable way to collect cash payments for taxes and fees related to the regulation of cannabis activity throughout the state.
+(a) No later than January 1, 2018, the Secretary of Business, Consumer Services, and Housing or their designee shall initiate work with the Legislature, the Department of Consumer Affairs, the Department of Food and Agriculture, the State Department of Public Health, and any other related departments to ensure that there is a safe and viable way to collect cash payments for taxes and fees related to the regulation of cannabis activity throughout the state.
 
-(History: Added by Stats. 2017, Ch. 27, Sec. 97.   (SB 94)   Effective June 27, 2017.)
+(b) This section shall remain operative only until July 1, 2026, and as of that date is repealed.
+
+(History: Amended by Stats. 2026, Ch. 28, Sec. 11.   (SB 170)   Effective June 29, 2026.   Repealed as of July 1, 2026, by its own provisions.)
 -------------------------------------------
 
 26181.
