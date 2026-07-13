@@ -5,7 +5,7 @@
 
 Source: Official California Legislative Information
         https://downloads.leginfo.legislature.ca.gov/
-Last Updated by State of California: December 10, 2025
+Last Updated by State of California: July 10, 2026
 
 
 ======================================================================
@@ -5700,7 +5700,7 @@ Every action must be prosecuted in the name of the real party in interest, excep
 
 367.75.
 
-(a) (1) Except as provided in subdivisions (b) and (d), in civil cases, when a party has provided notice to the court and all other parties that it intends to appear remotely, a party may appear remotely and the court may conduct conferences, hearings, and proceedings, in whole or in part, through the use of remote technology.
+(a) (1) Except as provided in subdivisions (b) and (d), in civil cases, when a party has provided notice to the court and all other parties that it or its witness intends to appear remotely, that party or witness may appear remotely and the court may conduct conferences, hearings, and proceedings, in whole or in part, through the use of remote technology.
 
 (2) This section does not apply to any of the following type of proceedings:
 
@@ -5714,8 +5714,8 @@ Every action must be prosecuted in the name of the real party in interest, excep
 
 (2) Although the court has the requisite technology, the quality of the technology or audibility at a conference, hearing, or proceeding prevents the effective management or resolution of the conference, hearing, or proceeding.
 
-(3) The court determines on a hearing-by-hearing basis that an in-person appearance would materially assist in the determination of the
- conference, hearing, or proceeding or in the effective management or resolution of the particular case.
+(3) The court determines on a hearing-by-hearing basis that an in-person appearance is necessary to the determination of the conference, hearing, or proceeding, or that remote attendance would materially impair the resolution of the conference, hearing, or proceeding. Beginning January 1, 2027, the court shall provide a reason for requiring an
+ in-person appearance, either by stating the reason on the record, in a minute order, or on a form filed in the court’s file. The Judicial Council shall develop a form for this purpose.
 
 (4) The quality of the technology or audibility at a conference, hearing, or proceeding inhibits the court reporter’s ability to accurately prepare a transcript of the conference, hearing, or proceeding.
 
@@ -5723,48 +5723,47 @@ Every action must be prosecuted in the name of the real party in interest, excep
 
 (6) The quality of the technology or audibility at a conference, hearing, or proceeding inhibits a court interpreter’s ability to provide language access to a court user or authorized individual.
 
-(c) Notwithstanding paragraph (3) of subdivision (b), an expert witness
- may appear remotely absent good cause to compel in-person testimony.
+(c) Notwithstanding paragraph (3) of subdivision (b), an expert witness may appear remotely absent good cause to compel in-person testimony.
 
 (d) (1) Except as otherwise provided by law and subject to the limitations of subdivision (b), upon its own motion or the motion of any party, the court may conduct a trial or evidentiary hearing, in whole or in part, through the use of remote technology, absent a showing by the opposing party as to why a remote appearance or testimony should not be allowed.
 
-(2) (A) Except as provided in Section 269 of the Code of Civil Procedure and Section 69957 of the Government Code, if the court conducts a trial, in whole or in part, through the use of remote technology, the official reporter or official reporter pro tempore shall be physically present in the courtroom.
+(2) (A) Except as provided in Section 269 of the Code of Civil Procedure and Section 69957 of the Government Code, if the court conducts a trial, in whole or in part, through the use of remote technology, the official reporter or official reporter pro tempore shall be physically
+ present in the courtroom.
 
-(B) If the court conducts a trial, in whole or
- in part, through the use of remote technology, upon request, the court interpreter shall be physically present in the courtroom.
+(B) If the court conducts a trial, in whole or in part, through the use of remote technology, upon request, the court interpreter shall be physically present in the courtroom.
 
 (e) (1) Before the court with jurisdiction over the case may proceed with a remote conference, hearing, proceeding, or trial, the court shall have a process for a party, witness, official reporter, official reporter pro tempore, court interpreter, or other court personnel to alert the judicial officer of technology or audibility issues that arise during the conference, hearing, proceeding, or trial.
 
 (2) The court shall require that a remote appearance by a party or witness have the necessary privacy and security appropriate for the conference, hearing, proceeding, or trial.
 
-(3) The court shall inform all parties, particularly parties without legal representation, about
- the potential technological or audibility issues that could arise when using remote technology, which may require a delay of or halt the conference, hearing, proceeding, or trial. The court shall make information available to self-represented parties regarding the options for appearing in person and through the use of remote technology.
+(3) The court shall inform all parties, particularly parties without legal representation, about the potential technological or audibility issues that could arise when using remote technology, which may require a delay of or halt the conference, hearing, proceeding, or trial. The court shall make information available to self-represented parties regarding the options for appearing in person and through the use of remote technology.
 
 (f) The court shall not require a party to appear through the use of remote technology. If the court permits an appearance through remote technology, the court must ensure that technology in the courtroom enables all parties, whether appearing remotely or in person, to fully participate in the conference, hearing, or proceeding.
 
-(g) A self-represented party may appear remotely in a conference, hearing, or proceeding conducted through the use of remote technology only if they agree to do so.
+(g) A self-represented party may appear remotely in a
+ conference, hearing, or proceeding conducted through the use of remote technology only if they agree to do so.
 
 (h) Any juvenile dependency proceeding may be conducted in whole or in part through the use of remote technology subject to the following:
 
 (1) Any person authorized to be present may request to appear remotely.
 
-(2) (A) Any party to the proceeding may request that the court compel the physical presence of a witness or party. A witness, including a party providing testimony, may appear through remote technology only with the consent of all
- parties, except as provided in subparagraph (B), and if the witness has access to the appropriate technology.
+(2) (A) Any party to the proceeding may request that the court compel the physical presence of a witness or party. A witness, including a party providing testimony, may appear through remote technology only with the consent of all parties, except as provided in subparagraph (B), and if the witness has access to the appropriate technology.
 
-(B) A parent, child, nonminor dependent, or Indian tribe as defined in Section 224.1 of the Welfare and Institutions Code, may utilize remote technology for the appearance of an expert witness without the consent of all parties.
+(B) A parent, child, nonminor dependent, or Indian tribe as defined in Section
+ 224.1 of the Welfare and Institutions Code, may utilize remote technology for the appearance of an expert witness without the consent of all parties.
 
 (3) A court shall not require a party to appear through the use of remote technology.
 
 (4) The confidentiality requirements that apply to an in-person juvenile dependency proceeding shall apply to a juvenile dependency proceeding conducted through the use of remote technology.
 
-(i) (1) Notwithstanding Section 8613.5 of the Family Code, in an adoption proceeding under Division 13 (commencing with Section 8500) of the Family Code, the court may conduct an adoption finalization hearing, in whole or in part, through the use of remote technology, without the court finding that it is impossible or impracticable for either prospective adoptive parent to make the appearance in person.
+(i) (1) Notwithstanding Section 8613.5 of the Family Code, in an adoption proceeding under Division 13 (commencing with Section 8500) of the Family Code, the court may conduct an adoption finalization hearing, in whole or in part, through the use of remote technology, without the court finding that it is impossible or impracticable for either prospective adoptive parent to
+ make the appearance in person.
 
 (2) A court shall not require a party to appear through the use of remote technology.
 
 (3) The confidentiality and privacy requirements that apply to an in-person adoption finalization hearing, including, but not limited to, the requirements in Section 8611 of the Family Code, apply to an adoption finalization hearing conducted through the use of remote technology.
 
-(j) For purposes of
- this section, a party includes a nonparty subject to Chapter 6 of Title 4 of Part 4 (commencing with Section 2020.010).
+(j) For purposes of this section, a party includes a nonparty subject to Chapter 6 of Title 4 of Part 4 (commencing with Section 2020.010).
 
 (k) Subject to the limitations in subdivision (b), this section is not intended to prohibit the use of appearances through the use of remote technology when stipulated by attorneys for represented parties.
 
@@ -5772,12 +5771,13 @@ Every action must be prosecuted in the name of the real party in interest, excep
 
 (1) A deadline by which a party must notify the court and the other parties of their request to appear remotely.
 
-(2) Procedures and standards for a judicial officer to determine when
- a conference, hearing, or proceeding may be conducted through the use of remote technology. The procedures and standards shall require that a judicial officer give consideration to the limited access to technology or transportation that a party or witness might have.
+(2) Procedures and standards for a judicial officer to determine when a conference, hearing, or proceeding may be conducted through the use of remote technology. The procedures and standards shall require that a judicial officer give consideration to the limited access to technology or transportation that a party or witness might have.
 
-(m) This section shall remain in effect only until January 1, 2027, and as of that date is repealed.
+(m) This section shall remain in effect only until January
+ 1,
+ 2032, and as of that date is repealed.
 
-(History: Amended by Stats. 2024, Ch. 965, Sec. 1.   (AB 2484)   Effective January 1, 2025.   Repealed as of January 1, 2027, by its own provisions.)
+(History: Amended by Stats. 2026, Ch. 29, Sec. 1.   (SB 174)   Effective June 29, 2026.   Repealed as of January 1, 2032, by its own provisions.)
 -------------------------------------------
 
 367.76.
@@ -5788,8 +5788,8 @@ Every action must be prosecuted in the name of the real party in interest, excep
 
 (B) Involuntary treatment and conservatorships of gravely disabled persons under Chapter 1 (commencing with Section 5000), Chapter 2 (commencing with Section 5150), and Chapter 3 (commencing with Section 5350) of Part 1 of Division 5 of the Welfare and Institutions Code, including Murphy conservatorships.
 
-(C) Contempt proceedings under Title 5 (commencing with Section 1209) of Part 3 of this
- code.
+(C) Contempt proceedings under Title 5 (commencing with Section 1209) of Part 3 of
+ this code.
 
 (D) Mentally disordered offender proceedings under Article 4 (commencing with Section 2960) of Chapter 7 of Title 1 of Part 3 of the Penal Code.
 
@@ -5884,9 +5884,9 @@ Every action must be prosecuted in the name of the real party in interest, excep
 
 (p) Consistent with federal and California labor law, a trial court shall not retaliate or threaten to retaliate against an official reporter or an official reporter pro tempore who notifies the judicial officer that technology or audibility issues are impeding the creation of the verbatim record of a proceeding that includes participation through remote technology. This subdivision shall only apply to an official reporter and an official reporter pro tempore when they meet the definition of “trial court employee” under subdivision (l) of Section 71601 of the Government Code.
 
-(q) This section shall remain in effect only until January 1, 2027, and as of that date is repealed.
+(q) This section shall remain in effect only until January 1, 2032, and as of that date is repealed.
 
-(History: Amended by Stats. 2024, Ch. 51, Sec. 3.   (AB 170)   Effective July 2, 2024.   Repealed as of January 1, 2027, by its own provisions.)
+(History: Amended by Stats. 2026, Ch. 29, Sec. 2.   (SB 174)   Effective June 29, 2026.   Repealed as of January 1, 2032, by its own provisions.)
 -------------------------------------------
 
 367.8.
@@ -5916,9 +5916,9 @@ Every action must be prosecuted in the name of the real party in interest, excep
 
 (d) A report to be submitted to the Legislature pursuant to this section shall be submitted in compliance with Section 9795 of the Government Code.
 
-(e) This section shall remain in effect only until January 1, 2027, and as of that date is repealed.
+(e) This section shall remain in effect only until January 1, 2032, and as of that date is repealed.
 
-(History: Amended by Stats. 2024, Ch. 51, Sec. 4.   (AB 170)   Effective July 2, 2024.   Repealed as of January 1, 2027, by its own provisions.)
+(History: Amended by Stats. 2026, Ch. 29, Sec. 3.   (SB 174)   Effective June 29, 2026.   Repealed as of January 1, 2032, by its own provisions.)
 -------------------------------------------
 
 367.10.
