@@ -5,7 +5,7 @@
 
 Source: Official California Legislative Information
         https://downloads.leginfo.legislature.ca.gov/
-Last Updated by State of California: December 03, 2025
+Last Updated by State of California: July 10, 2026
 
 
 ======================================================================
@@ -7495,58 +7495,59 @@ As used in this chapter:
 
 (b) “Assigned reimbursement rate” is that rate established by the contract with the agency in accordance with Section 8242.
 
-(c) “Attendance” means the number of children present at a preschool facility. “Attendance,” for purposes of reimbursement, includes excused absences by children because of illness, quarantine, illness or quarantine of their parent, family emergency, or to spend time with a parent or other relative as required by a court of law or that is clearly in the best interest of the child.
+(c) “Attendance” means the number of children present at a preschool facility. “Attendance,” for purposes of reimbursement, includes excused absences by children because of illness, quarantine, illness or quarantine of their parent, family emergency, medical and educational appointments, or to spend time with a parent or other relative as required by a court of law or that is clearly in the best interest of the child. For purposes of reimbursement, a California state preschool program contractor may claim attendance for days that the child is not in attendance during an appeal process pursuant to Section 8489.1.
 
-(d) “Capital outlay” means the amount paid for the renovation and repair of childcare and development and preschool facilities to comply with state and local health and safety standards, and the amount paid for the state purchase of relocatable childcare and development and preschool facilities for lease to qualifying contracting agencies.
+(d) “Capital outlay” means the amount paid for the
+ renovation and repair of childcare and development and preschool facilities to comply with state and local health and safety standards, and the amount paid for the state purchase of relocatable childcare and development and preschool facilities for lease to qualifying contracting agencies.
 
-(e) “Preschool facility” means a residence or building or part thereof in which preschool services are
- provided.
+(e) “Preschool facility” means a residence or building or part thereof in which preschool services are provided.
 
 (f) “Early childhood programs” means those programs that offer a full range of services for children from infancy to 13 years of age, for any part of a day, by a public, private, or proprietary agency, in centers and family childcare homes.
 
-(g) “Children at risk of abuse, neglect, or exploitation” means children who are so identified in a written referral from a legal, medical, or social service agency, or emergency shelter.
+(g) “Children at risk of abuse, neglect, or exploitation” means children who are so identified in a written referral from a legal, medical, or social service agency, or emergency
+ shelter.
 
 (h) “Children with exceptional needs” means either of the following:
 
-(1) Children under three years of age who have been determined to be eligible for early intervention services pursuant to the California Early Intervention Services Act (Title 14 (commencing with Section 95000) of the Government Code) and its implementing
- regulations. These children include an infant or toddler with a developmental delay or established risk condition, or who is at high risk of having a substantial developmental disability, as defined in subdivision (a) of Section 95014 of the Government Code. These children shall have active individualized family service plans and shall be receiving early intervention services.
+(1) Children under three years of age who have been determined to be eligible for early intervention services pursuant to the California Early Intervention Services Act (Title 14 (commencing with Section 95000) of the Government Code) and its implementing regulations. These children include an infant or toddler with a developmental delay or established risk condition, or who is at high risk of having a substantial developmental disability, as defined in subdivision (a) of Section 95014 of the Government Code. These children shall have active individualized family service plans and shall be receiving early intervention services.
 
-(2) Children 3 to 21 years of age, inclusive, who have been determined to be eligible for special education and related services by an individualized education program team according to the special education requirements contained in Part 30 (commencing with Section 56000) of Division 4 of Title 2, and who meet eligibility criteria described in Section 56026 and, Article 2.5 (commencing with Section 56333) of Chapter 4 of Part 30 of Division 4 of Title 2, and Sections 3030 and 3031 of Title 5 of the California Code of Regulations. These children shall have an active
- individualized education program and shall be receiving early intervention services or appropriate special education.
+(2) Children 3 to 21 years of age, inclusive, who have been determined to be eligible for special education and
+ related services by an individualized education program team according to the special education requirements contained in Part 30 (commencing with Section 56000) of Division 4 of Title 2, and who meet eligibility criteria described in Section 56026 and, Article 2.5 (commencing with Section 56333) of Chapter 4 of Part 30 of Division 4 of Title 2, and Sections 3030 and 3031 of Title 5 of the California Code of Regulations. These children shall have an active individualized education program and shall be receiving early intervention services or appropriate special education.
 
-(i) “Cost” includes, but is not limited to, expenditures that are related to the operation of preschool programs. “Cost” may include a reasonable amount for state and local contributions to employee benefits, including approved retirement programs, agency administration, and any other reasonable program operational costs. “Cost” may also include amounts for licensable facilities in the community served by the program, including lease payments or depreciation, downpayments, and payments of principal and interest on loans incurred to acquire, rehabilitate, or construct licensable facilities, but these costs shall not exceed fair market rents existing in the community in which the facility is located. “Reasonable and necessary costs” are costs that, in nature and amount, do not exceed what an ordinary prudent person would incur in
- the conduct of a competitive business.
+(i) “Cost” includes, but is not limited to, expenditures that are related to the operation of preschool programs. “Cost” may include a reasonable amount for state and local contributions to employee benefits, including approved retirement programs, agency administration, and any other reasonable program operational costs. “Cost” may also include amounts for licensable
+ facilities in the community served by the program, including lease payments or depreciation, downpayments, and payments of principal and interest on loans incurred to acquire, rehabilitate, or construct licensable facilities, but these costs shall not exceed fair market rents existing in the community in which the facility is located. “Reasonable and necessary costs” are costs that, in nature and amount, do not exceed what an ordinary prudent person would incur in the conduct of a competitive business.
 
 (j) “Elementary school,” as contained in former Section 425 of Title 20 of the United States Code (the National Defense Education Act of 1958, Public Law 85-864, as amended), includes early childhood education programs and all child development programs, for the purpose of the cancellation provisions of loans to students in institutions of higher learning.
 
-(k) “Family childcare home education network” means an entity organized under law that contracts with the department to make payments to licensed family childcare home providers and to provide educational and support services to those providers and to children and families eligible for California state preschool program services.
+(k) “Family childcare home
+ education network” means an entity organized under law that contracts with the department to make payments to licensed family childcare home providers and to provide educational and support services to those providers and to children and families eligible for California state preschool program services.
 
 (l) “Health services” include, but are not limited to, all of the following:
 
 (1) Referral, whenever possible, to appropriate health care providers able to provide continuity of medical care.
 
-(2) Health screening and health treatment, including a full range of immunization recorded on the appropriate state immunization form to the extent provided by the Medi-Cal Act (Chapter 7 (commencing with Section 14000) of Part 3 of Division 9 of the Welfare and Institutions Code) and the Child Health and Disability Prevention Program (Article 6 (commencing with Section 124025) of Chapter 3 of Part 2 of Division 106 of the Health and Safety Code), but only to the extent that ongoing care cannot be obtained utilizing community resources.
+(2) Health screening and health treatment, including a full range of immunization recorded on the appropriate state immunization form to the extent provided by the Medi-Cal Act (Chapter 7 (commencing with Section 14000) of Part 3 of Division 9 of the Welfare and Institutions Code) and the Child Health and Disability
+ Prevention Program (Article 6 (commencing with Section 124025) of Chapter 3 of Part 2 of Division 106 of the Health and Safety Code), but only to the extent that ongoing care cannot be obtained utilizing community resources.
 
 (3) Health education and training for children, parents, staff, and providers.
 
-(4) Followup treatment through
- referral to appropriate health care agencies or individual health care professionals.
+(4) Followup treatment through referral to appropriate health care agencies or individual health care professionals.
 
 (m) “Higher educational institutions” means the Regents of the University of California, the Trustees of the California State University, the Board of Governors of the California Community Colleges, and the governing bodies of any accredited private nonprofit institution of postsecondary education.
 
-(n) “Intergenerational staff” means persons of various generations.
+(n) “Intergenerational staff” means
+ persons of various generations.
 
 (o) “Dual language learner children” means children whose first language is a language other than English or children who are developing two or more languages, one of which may be English.
 
-(p) “Parent” means a biological parent, stepparent, adoptive parent, foster parent, caretaker relative, or any other
- adult living with a child who has responsibility for the care and welfare of the child.
+(p) “Parent” means a biological parent, stepparent, adoptive parent, foster parent, caretaker relative, or any other adult living with a child who has responsibility for the care and welfare of the child.
 
 (q) “Program director” means a person who, pursuant to Section 8298, is qualified to serve as a program director.
 
 (r) “Proprietary agency” means an organization or facility providing preschool, which is operated for profit.
 
-(s) “Children with severe disabilities” are children with exceptional needs from birth to 21 years of age, inclusive, who require intensive instruction and training in programs serving pupils with the following profound disabilities: autism, blindness, deafness, severe orthopedic impairments, serious emotional disturbances, or severe intellectual disabilities. “Children with severe disabilities” also include those individuals who would have been eligible for enrollment in a developmental center for handicapped
- pupils under Chapter 6 (commencing with Section 56800) of Part 30 of Division 4 of Title 2 as it read on January 1, 1980.
+(s) “Children with severe disabilities” are
+ children with exceptional needs from birth to 21 years of age, inclusive, who require intensive instruction and training in programs serving pupils with the following profound disabilities: autism, blindness, deafness, severe orthopedic impairments, serious emotional disturbances, or severe intellectual disabilities. “Children with severe disabilities” also include those individuals who would have been eligible for enrollment in a developmental center for handicapped pupils under Chapter 6 (commencing with Section 56800) of Part 30 of Division 4 of Title 2 as it read on January 1, 1980.
 
 (t) (1) “Site supervisor” means a person who, regardless of their title, has operational program responsibility for an early childhood program at a single site.
 
@@ -7556,26 +7557,26 @@ As used in this chapter:
 
 (B) Hold an administrative credential or an administrative services credential issued by the Commission on Teacher Credentialing.
 
-(C) Meet the qualifications of a program
- director under Section 8298.
+(C) Meet the qualifications of a program director under Section 8298.
 
 (3) The Superintendent may waive the requirements of this subdivision if the Superintendent determines that the existence of compelling need is appropriately documented.
 
 (u) “Standard reimbursement rate” means the reimbursement rate applicable to California state preschool programs pursuant to Section 8242.
 
-(v) “Startup costs” means those expenses an agency incurs in the process of opening a new or additional facility before the full enrollment of children.
+(v) “Startup
+ costs” means those expenses an agency incurs in the process of opening a new or additional facility before the full enrollment of children.
 
 (w) “California state preschool program” means those programs that offer part-day or full-day, or both, educational programs for eligible two-, three-, and four-year-old children. These programs may be offered by a public, private, or proprietary agency, and operated in childcare centers or family childcare homes operating through a family childcare home education network.
 
-(x) “Support services” means those services that, when combined with preschool services, help promote the healthy physical, mental, social, and emotional growth of children. Support services may include, but are not limited to: protective services, parent training, provider and staff training, transportation, parent and child counseling, child development resource and referral services, and child placement counseling.
+(x) “Support services” means those services that, when combined with preschool services, help promote the healthy physical, mental, social, and emotional growth of children. Support services may include, but are not limited to: protective services, parent training, provider and staff training, transportation, parent and child counseling, child development resource and
+ referral services, and child placement counseling.
 
-(y) “Teacher” means a person with the appropriate permit issued
- by the Commission on Teacher Credentialing who provides program supervision and instruction that includes supervision of a number of aides, volunteers, and groups of children.
+(y) “Teacher” means a person with the appropriate permit issued by the Commission on Teacher Credentialing who provides program supervision and instruction that includes supervision of a number of aides, volunteers, and groups of children.
 
 (z) “Underserved area” means a county or subcounty area, including, but not limited to, school districts, census tracts, or ZIP Code areas, where the ratio of publicly subsidized preschool program services to the need for these services is low, as determined by the Superintendent.
 
-(aa) “Three-year-old children” means children who will have their third birthday on or before December 1 of the fiscal year in which they are enrolled in a California state preschool program. Children who have their third birthday on or after December 2 of the fiscal year, may be enrolled in a California state preschool program on or after their third birthday. Any child under four years of age shall be served in a California state
- preschool program facility, licensed in accordance with Title 22 of the California Code of Regulations.
+(aa) “Three-year-old children” means children who will have their third birthday on or before December 1 of the fiscal year in which they are enrolled in a California state preschool program. Children who have their third birthday on or after December 2
+ of the fiscal year, may be enrolled in a California state preschool program on or after their third birthday. Any child under four years of age shall be served in a California state preschool program facility, licensed in accordance with Title 22 of the California Code of Regulations.
 
 (ab) “Two-year-old children” means children who have had their second birthday and do not otherwise meet the definition of “three-year-old children.”
 
@@ -7587,20 +7588,21 @@ As used in this chapter:
 
 (af) “Funded enrollment” means the number of subsidized children funded to be enrolled, based on the maximum reimbursable amount, contract rate, inclusive of any adjustment factors, and approved program calendar, by a California state preschool program contractor.
 
-(ag) (1) Effective no later than March 1, 2024, “part-time” means preschool services certified for a child for fewer than 25 hours per week.
+(ag) (1) Effective no later than March 1, 2024, “part-time” means preschool services certified for
+ a child for fewer than 25 hours per week.
 
 (2) Effective no later than March 1, 2024, “full-time” means preschool services certified for a child for 25 or more hours per week.
 
-(3) Notwithstanding the rulemaking provisions of the Administrative Procedure Act (Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code) and Section 33308.5, until regulations are filed with the Secretary of State to implement this
- subdivision, the department may implement this subdivision through management bulletins or similar letters of instruction on or before December 31, 2023.
+(3) Notwithstanding the rulemaking provisions of the Administrative Procedure Act (Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code) and Section 33308.5, until regulations are filed with the Secretary of State to implement this subdivision, the department may implement this subdivision through management bulletins or similar letters of instruction on or before December 31, 2023.
 
 (4) The department shall initiate a rulemaking action to adopt regulations to implement this subdivision no later than July 1, 2026.
 
-(5) If the provisions of this subdivision are in conflict with the provisions of a memorandum of understanding reached pursuant to Section 10426 of the Welfare and Institutions Code, the memorandum of understanding shall be controlling without further legislative action, except that if such provisions of a memorandum of understanding require the expenditure of funds, the provisions shall not become effective unless approved by the Legislature in the annual Budget Act.
+(5) If the
+ provisions of this subdivision are in conflict with the provisions of a memorandum of understanding reached pursuant to Section 10426 of the Welfare and Institutions Code, the memorandum of understanding shall be controlling without further legislative action, except that if such provisions of a memorandum of understanding require the expenditure of funds, the provisions shall not become effective unless approved by the Legislature in the annual Budget Act.
 
 (ah) This section shall become inoperative on July 1, 2027, and, as of January 1, 2028, is repealed.
 
-(History: Amended by Stats. 2024, Ch. 73, Sec. 1.   (SB 163)   Effective July 2, 2024.   Inoperative July 1, 2027, by its own provisions.   Repealed as of January 1, 2028, by its own provisions.   See later operative version added by Sec. 2 of Stats. 2024, Ch. 73.)
+(History: Amended (as amended by Stats. 2024, Ch. 73, Sec. 1) by Stats. 2026, Ch. 25, Sec. 1.   (AB 150)   Effective June 29, 2026.   Inoperative July 1, 2027, by its own provisions.    Repealed as of January 1, 2028, by its own provisions.    See later operative version, as amended by Sec. 2 of Stats. 2026, Ch. 25.)
 -------------------------------------------
 
 8205.
@@ -7609,62 +7611,61 @@ As used in this chapter:
 
 (a) “Applicant or contracting agency” means a school district, community college district, college or university, county superintendent of schools, county, city, public agency, private nontax-exempt agency, private tax-exempt agency, or other entity that is authorized to establish, maintain, or operate services pursuant to this chapter. Private agencies and parent cooperatives, duly licensed by law, shall receive the same consideration as any other authorized entity with no loss of parental decisionmaking prerogatives as consistent with the provisions of this chapter.
 
-(b) “Assigned reimbursement rate” is that rate established by the contract with the agency in accordance with
- Section 8242.
+(b) “Assigned reimbursement rate” is that rate established by the contract with the agency in accordance with Section 8242.
 
-(c) “Attendance” means the number of children present at a preschool facility. “Attendance,” for purposes of reimbursement, includes excused absences by children because of illness, quarantine, illness or quarantine of their parent, family emergency, or to spend time with a parent or other relative as required by a court of law or that is clearly in the best interest of the child.
+(c) “Attendance” means the number of children present at a preschool facility. “Attendance,” for purposes of reimbursement, includes excused absences by children because of illness, quarantine, illness or quarantine of their parent, family emergency, medical and educational appointments, or to spend time with a parent or other relative as required by a court of law or that is clearly in the best interest of the child. For purposes of reimbursement, a California state preschool program contractor may claim attendance for days that the child is not in attendance during an appeal process pursuant to Section 8489.1. 
 
-(d) “Capital outlay” means the amount paid for the renovation and repair of childcare and development and preschool facilities to comply with state and local health and safety standards, and the amount paid for the state purchase of relocatable childcare and development and preschool facilities for lease to qualifying contracting agencies.
+(d) “Capital outlay” means the amount paid for the
+ renovation and repair of childcare and development and preschool facilities to comply with state and local health and safety standards, and the amount paid for the state purchase of relocatable childcare and development and preschool facilities for lease to qualifying contracting agencies.
 
-(e) “Preschool facility” means a residence or building or part thereof in which
- preschool services are provided.
+(e) “Preschool facility” means a residence or building or part thereof in which preschool services are provided.
 
 (f) “Early childhood programs” means those programs that offer a full range of services for children from infancy to 13 years of age, for any part of a day, by a public, private, or proprietary agency, in centers and family childcare homes.
 
-(g) “Children at risk of abuse, neglect, or exploitation” means children who are so identified in a written referral from a legal, medical, or social service agency, or emergency shelter.
+(g) “Children at risk of abuse, neglect, or exploitation” means children who are so identified in a written referral from a legal, medical, or social service agency, or emergency
+ shelter.
 
 (h) “Children with exceptional needs” means either of the following:
 
-(1) Children under three years of age who have been determined to be eligible for early intervention services pursuant to the California Early Intervention Services Act (Title 14 (commencing with Section 95000) of the Government
- Code) and its implementing regulations. These children include an infant or toddler with a developmental delay or established risk condition, or who is at high risk of having a substantial developmental disability, as defined in subdivision (a) of Section 95014 of the Government Code. These children shall have active individualized family service plans and shall be receiving early intervention services.
+(1) Children under three years of age who have been determined to be eligible for early intervention services pursuant to the California Early Intervention Services Act (Title 14 (commencing with Section 95000) of the Government Code) and its implementing regulations. These children include an infant or toddler with a developmental delay or established risk condition, or who is at high risk of having a substantial developmental disability, as defined in subdivision (a) of Section 95014 of the Government Code. These children shall have active individualized family service plans and shall be receiving early intervention services.
 
-(2) Children 3 to 21 years of age, inclusive, who have been determined to be eligible for special education and related services by an individualized education program team according to the special education requirements contained in Part 30 (commencing with Section 56000) of Division 4 of Title 2, and who meet eligibility criteria described in Section 56026 and, Article 2.5 (commencing with Section 56333) of Chapter 4 of Part 30 of Division 4 of Title 2, and Sections 3030 and 3031 of Title 5 of the California Code of Regulations. These children
- shall have an active individualized education program and shall be receiving early intervention services or appropriate special education.
+(2) Children 3 to 21 years of age, inclusive, who have been determined to be eligible for special education and
+ related services by an individualized education program team according to the special education requirements contained in Part 30 (commencing with Section 56000) of Division 4 of Title 2, and who meet eligibility criteria described in Section 56026 and, Article 2.5 (commencing with Section 56333) of Chapter 4 of Part 30 of Division 4 of Title 2, and Sections 3030 and 3031 of Title 5 of the California Code of Regulations. These children shall have an active individualized education program and shall be receiving early intervention services or appropriate special education.
 
-(i) “Cost” includes, but is not limited to, expenditures that are related to the operation of preschool programs. “Cost” may include a reasonable amount for state and local contributions to employee benefits, including approved retirement programs, agency administration, and any other reasonable program operational costs. “Cost” may also include amounts for licensable facilities in the community served by the program, including lease payments or depreciation, downpayments, and payments of principal and interest on loans incurred to acquire, rehabilitate, or construct licensable facilities, but these costs shall not exceed fair market rents existing in the community in which the facility is located. “Reasonable and necessary costs” are costs that, in nature and amount, do not exceed what an ordinary prudent
- person would incur in the conduct of a competitive business.
+(i) “Cost” includes, but is not limited to, expenditures that are related to the operation of preschool programs. “Cost” may include a reasonable amount for state and local contributions to employee benefits, including approved retirement programs, agency administration, and any other reasonable program operational costs. “Cost” may also include amounts for licensable
+ facilities in the community served by the program, including lease payments or depreciation, downpayments, and payments of principal and interest on loans incurred to acquire, rehabilitate, or construct licensable facilities, but these costs shall not exceed fair market rents existing in the community in which the facility is located. “Reasonable and necessary costs” are costs that, in nature and amount, do not exceed what an ordinary prudent person would incur in the conduct of a competitive business.
 
 (j) “Elementary school,” as contained in former Section 425 of Title 20 of the United States Code (the National Defense Education Act of 1958, Public Law 85-864, as amended), includes early childhood education programs and all child development programs, for the purpose of the cancellation provisions of loans to students in institutions of higher learning.
 
-(k) “Family childcare home education network” means an entity organized under law that contracts with the department to make payments to licensed family childcare home providers and to provide educational and support services to those providers and to children and families eligible for California state preschool program services.
+(k) “Family childcare home
+ education network” means an entity organized under law that contracts with the department to make payments to licensed family childcare home providers and to provide educational and support services to those providers and to children and families eligible for California state preschool program services.
 
-(l) “Health services” include, but are not limited to, all of the
- following:
+(l) “Health services” include, but are not limited to, all of the following:
 
 (1) Referral, whenever possible, to appropriate health care providers able to provide continuity of medical care.
 
-(2) Health screening and health treatment, including a full range of immunization recorded on the appropriate state immunization form to the extent provided by the Medi-Cal Act (Chapter 7 (commencing with Section 14000) of Part 3 of Division 9 of the Welfare and Institutions Code) and the Child Health and Disability Prevention Program (Article 6 (commencing with Section 124025) of Chapter 3 of Part 2 of Division 106 of the Health and Safety Code), but only to the extent that ongoing care cannot be obtained utilizing community resources.
+(2) Health screening and health treatment, including a full range of immunization recorded on the appropriate state immunization form to the extent provided by the Medi-Cal Act (Chapter 7 (commencing with Section 14000) of Part 3 of Division 9 of the Welfare and Institutions Code) and the Child Health and Disability Prevention
+ Program (Article 6 (commencing with Section 124025) of Chapter 3 of Part 2 of Division 106 of the Health and Safety Code), but only to the extent that ongoing care cannot be obtained utilizing community resources.
 
 (3) Health education and training for children, parents, staff, and providers.
 
-(4) Followup
- treatment through referral to appropriate health care agencies or individual health care professionals.
+(4) Followup treatment through referral to appropriate health care agencies or individual health care professionals.
 
 (m) “Higher educational institutions” means the Regents of the University of California, the Trustees of the California State University, the Board of Governors of the California Community Colleges, and the governing bodies of any accredited private nonprofit institution of postsecondary education.
 
-(n) “Intergenerational staff” means persons of various generations.
+(n) “Intergenerational staff” means persons of
+ various generations.
 
 (o) “Dual language learner children” means children whose first language is a language other than English or children who are developing two or more languages, one of which may be English.
 
-(p) “Parent” means a biological parent, stepparent, adoptive parent, foster parent, caretaker
- relative, or any other adult living with a child who has responsibility for the care and welfare of the child.
+(p) “Parent” means a biological parent, stepparent, adoptive parent, foster parent, caretaker relative, or any other adult living with a child who has responsibility for the care and welfare of the child.
 
 (q) “Program director” means a person who, pursuant to Section 8298, is qualified to serve as a program director.
 
 (r) “Proprietary agency” means an organization or facility providing preschool, which is operated for profit.
 
-(s) “Children with severe disabilities” are children with exceptional needs from birth to 21 years of age, inclusive, who require intensive instruction and training in programs serving pupils with the following profound disabilities: autism, blindness, deafness, severe orthopedic impairments, serious emotional disturbances, or severe intellectual disabilities. “Children with severe disabilities” also include those individuals who would have been eligible for enrollment in a developmental
- center for handicapped pupils under Chapter 6 (commencing with Section 56800) of Part 30 of Division 4 of Title 2 as it read on January 1, 1980.
+(s) “Children with severe disabilities” are children with
+ exceptional needs from birth to 21 years of age, inclusive, who require intensive instruction and training in programs serving pupils with the following profound disabilities: autism, blindness, deafness, severe orthopedic impairments, serious emotional disturbances, or severe intellectual disabilities. “Children with severe disabilities” also include those individuals who would have been eligible for enrollment in a developmental center for handicapped pupils under Chapter 6 (commencing with Section 56800) of Part 30 of Division 4 of Title 2 as it read on January 1, 1980.
 
 (t) (1) “Site supervisor” means a person who, regardless of their title, has operational program responsibility for an early childhood program at a single site.
 
@@ -7674,51 +7675,50 @@ As used in this chapter:
 
 (B) Hold an administrative credential or an administrative services credential issued by the Commission on Teacher Credentialing.
 
-(C) Meet the
- qualifications of a program director under Section 8298.
+(C) Meet the qualifications of a program director under Section 8298.
 
 (3) The Superintendent may waive the requirements of this subdivision if the Superintendent determines that the existence of compelling need is appropriately documented.
 
 (u) “Standard reimbursement rate” means the reimbursement rate applicable to California state preschool programs pursuant to Section 8242.
 
-(v) “Startup costs” means those expenses an agency incurs in the process of opening a new or additional facility before the full enrollment of children.
+(v) “Startup
+ costs” means those expenses an agency incurs in the process of opening a new or additional facility before the full enrollment of children.
 
-(w) “California state preschool program” means those programs that offer part-day or full-day, or both, educational programs for eligible three- and four-year-old children. These programs may be offered by a public, private, or proprietary
- agency, and operated in childcare centers or family childcare homes operating through a family childcare home education network.
+(w) “California state preschool program” means those programs that offer part-day or full-day, or both, educational programs for eligible three- and four-year-old children. These programs may be offered by a public, private, or proprietary agency, and operated in childcare centers or family childcare homes operating through a family childcare home education network.
 
-(x) “Support services” means those services that, when combined with preschool services, help promote the healthy physical, mental, social, and emotional growth of children. Support services may include, but are not limited to: protective services, parent training, provider and staff training, transportation, parent and child counseling, child development resource and referral services, and child placement counseling.
+(x) “Support services” means those services that, when combined with preschool services, help promote the healthy physical, mental, social, and emotional growth of children. Support services may include, but are not limited to: protective services, parent training, provider and staff training, transportation, parent and child counseling, child development resource and referral
+ services, and child placement counseling.
 
 (y) “Teacher” means a person with the appropriate permit issued by the Commission on Teacher Credentialing who provides program supervision and instruction that includes supervision of a number of aides, volunteers, and groups of children.
 
-(z) “Underserved area” means a county
- or subcounty area, including, but not limited to, school districts, census tracts, or ZIP Code areas, where the ratio of publicly subsidized preschool program services to the need for these services is low, as determined by the Superintendent.
+(z) “Underserved area” means a county or subcounty area, including, but not limited to, school districts, census tracts, or ZIP Code areas, where the ratio of publicly subsidized preschool program services to the need for these services is low, as determined by the Superintendent.
 
-(aa) “Three-year-old children” means children who will have their third birthday on or before December 1 of the fiscal year in which they are enrolled in a California state preschool program. Children who have their third birthday on or after December 2 of the fiscal year, may be enrolled in a California state preschool program on or after their third birthday. Any child under four years of age shall be served in a California state preschool program facility, licensed in accordance with Title 22 of the California Code of Regulations.
+(aa) “Three-year-old children” means children who will have their third birthday on or before December 1 of the fiscal year in which they are enrolled in a California state preschool program. Children who have their third birthday on or after December 2 of the
+ fiscal year, may be enrolled in a California state preschool program on or after their third birthday. Any child under four years of age shall be served in a California state preschool program facility, licensed in accordance with Title 22 of the California Code of Regulations.
 
-(ab) “Four-year-old children” means children who will have their fourth birthday on or before December 1 of
- the fiscal year in which they are enrolled in a California state preschool program, or a child whose fifth birthday occurs after September 1 of the fiscal year in which they are enrolled in a California state preschool and whose parent or guardian has opted to retain or enroll them in a California state preschool program.
+(ab) “Four-year-old children” means children who will have their fourth birthday on or before December 1 of the fiscal year in which they are enrolled in a California state preschool program, or a child whose fifth birthday occurs after September 1 of the fiscal year in which they are enrolled in a California state preschool and whose parent or guardian has opted to retain or enroll them in a California state preschool program.
 
 (ac) “Homeless children and youth” has the same meaning as defined in Section 11434a(2) of the federal McKinney-Vento Homeless Assistance Act (42 U.S.C. Sec. 11301 et seq.).
 
 (ad) “Local educational agency” means a school district, a county office of education, a community college district, or a school district acting on behalf of one or more schools within the school district.
 
-(ae) “Funded enrollment” means the number of subsidized children funded to be enrolled, based on the maximum reimbursable
- amount, contract rate, inclusive of any adjustment factors, and approved program calendar, by a California state preschool program contractor.
+(ae) “Funded enrollment” means the number of subsidized children funded to be enrolled, based on the maximum reimbursable amount, contract rate, inclusive of any adjustment factors, and approved program calendar, by a California state preschool program contractor.
 
 (af) (1) Effective no later than March 1, 2024, “part-time” means preschool services certified for a child for fewer than 25 hours per week.
 
-(2) Effective no later than March 1, 2024, “full-time” means preschool services certified for a child for 25 or more hours per week.
+(2) Effective no later than March 1, 2024, “full-time” means preschool services certified for a child for 25 or more hours per
+ week.
 
-(3) Notwithstanding the rulemaking provisions of the Administrative Procedure Act (Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code) and Section 33308.5, until regulations are filed with the Secretary of State to implement this subdivision, the department may implement this subdivision through management bulletins or similar letters
- of instruction on or before December 31, 2023.
+(3) Notwithstanding the rulemaking provisions of the Administrative Procedure Act (Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code) and Section 33308.5, until regulations are filed with the Secretary of State to implement this subdivision, the department may implement this subdivision through management bulletins or similar letters of instruction on or before December 31, 2023.
 
 (4) The department shall initiate a rulemaking action to adopt regulations to implement this subdivision no later than July 1, 2026.
 
-(5) If the provisions of this subdivision are in conflict with the provisions of a memorandum of understanding reached pursuant to Section 10426 of the Welfare and Institutions Code, the memorandum of understanding shall be controlling without further legislative action, except that if such provisions of a memorandum of understanding require the expenditure of funds, the provisions shall not become effective unless approved by the Legislature in the annual Budget Act.
+(5) If the provisions of this subdivision are in conflict with the provisions of a memorandum of understanding reached pursuant to Section 10426 of the Welfare and Institutions Code, the memorandum of understanding shall be controlling without further
+ legislative action, except that if such provisions of a memorandum of understanding require the expenditure of funds, the provisions shall not become effective unless approved by the Legislature in the annual Budget Act.
 
 (ag) This section shall become operative on July 1, 2027.
 
-(History: Repealed (in Sec. 1) and added by Stats. 2024, Ch. 73, Sec. 2.   (SB 163)   Effective July 2, 2024.   Operative July 1, 2027, by its own provisions.)
+(History: Amended (as added by Stats. 2024, Ch. 73, Sec. 2) by Stats. 2026, Ch. 25, Sec. 2.   (AB 150)   Effective June 29, 2026.   Operative July 1, 2027, by its own provisions.)
 -------------------------------------------
 
 8206.
@@ -7897,34 +7897,36 @@ As used in this chapter:
 
 (vi) One who has a member of its household who is certified to receive benefits from Medi-Cal, CalFresh, the California Food Assistance Program, the California Special Supplemental Nutrition Program for Women, Infants, and Children, the federal Food Distribution Program on Indian Reservations, Head Start, Early Head Start, or any other designated means-tested government program, as determined by the department. Children eligible for services pursuant to this subparagraph shall be prioritized by the income declared on the application for the means-tested government program.
 
-(2) Notwithstanding any other law, a part-day California state preschool program may provide services to children in families whose income is no more than 15 percent above
- the income eligibility threshold, as described in Section 8213, after all eligible two-, three-, and four-year-old children have been enrolled. No more than 10 percent of children enrolled, calculated throughout the participating program’s entire contract, may be filled by children in families above the income eligibility threshold.
+(vii) One whose parent or guardian is employed by a local educational agency.
 
-(3) Notwithstanding Section 8213, after all otherwise eligible children have been enrolled as provided in paragraphs (1) and (2), a part-day California state preschool program may provide services to two-, three-, and four-year-old children in families whose income is above the income eligibility threshold if those children are children with exceptional needs. Children receiving services pursuant to this paragraph shall not count towards the 10-percent limit in paragraph (2).
+(2) Notwithstanding any other law, a part-day California state preschool program may provide services to children in families whose income is no more than 15 percent above the income eligibility threshold, as described in Section 8213, after all eligible two-, three-, and four-year-old children have been enrolled. No more than 10 percent of children enrolled, calculated throughout the participating program’s entire contract, may be filled by children in families above the income eligibility threshold.
 
-(4) Notwithstanding any other law, after all otherwise eligible children have
- been enrolled as provided in paragraphs (1) to (3), inclusive, a provider operating a part-day state preschool program within the attendance boundary of a public school, as set forth in Section 8217, may enroll two-, three-, and four-year-old children.
+(3) Notwithstanding Section 8213, after all otherwise eligible children have been enrolled as provided in paragraphs (1) and (2), a part-day California state preschool program may provide services to two-, three-, and four-year-old children in families whose income is above the income eligibility threshold if those children are children with exceptional needs. Children receiving
+ services pursuant to this paragraph shall not count towards the 10-percent limit in paragraph (2).
 
-(b) A part-day California state preschool program contracting agency shall certify eligibility and enroll families into their program within 120 calendar days prior to the first day of the beginning of the new preschool year. Subsequent to enrollment, a child shall be deemed eligible for a part-day California state preschool program for the remainder of the program year and for the following program year, as long as applicable age-eligibility requirements are met, as specified in Sections 8205 and 48000.
+(4) Notwithstanding any other law, after all otherwise eligible children have been enrolled as provided in paragraphs (1) to (3), inclusive, a provider operating a part-day state preschool program within the attendance boundary of a public school or school district, as set forth in Section 8217, may enroll two-, three-, and four-year-old children.
 
-(c) (1) Commencing July 1, 2022, at least 5 percent of a part-day California state preschool program
- contracting agency’s funded enrollment shall be reserved for children with exceptional needs, as defined in Section 8205.
+(b) A part-day California state preschool program contracting agency shall certify eligibility and enroll families into their program within 120 calendar days prior to the first day of the beginning of the new preschool year. Subsequent to
+ enrollment, a child shall be deemed eligible for a part-day California state preschool program for the remainder of the program year and for the following program year, as long as applicable age-eligibility requirements are met, as specified in Sections 8205 and 48000.
+
+(c) (1) Commencing July 1, 2022, at least 5 percent of a part-day California state preschool program contracting agency’s funded enrollment shall be reserved for children with exceptional needs, as defined in Section 8205.
 
 (2) (A) The department shall review data on compliance and provide technical assistance to California state preschool program contracting agencies to assist them in meeting the requirement described in paragraph (1).
 
-(B) Agencies shall be fully funded for the percentage of enrollment specified in paragraph (1), inclusive of the exceptional needs adjustment factor for that enrollment pursuant to Section 8244, to ensure funding is available to enroll children with exceptional needs within the set aside specified in paragraph (1) at any point during the fiscal year. An agency not meeting the requirement to fill the percent of funded enrollment specified in paragraph (1) with children with exceptional needs shall conduct community outreach to
- special education partners to recruit additional children with exceptional needs into their programs.
+(B) Agencies shall be fully funded for the percentage of enrollment
+ specified in paragraph (1), inclusive of the exceptional needs adjustment factor for that enrollment pursuant to Section 8244, to ensure funding is available to enroll children with exceptional needs within the set aside specified in paragraph (1) at any point during the fiscal year. An agency not meeting the requirement to fill the percent of funded enrollment specified in paragraph (1) with children with exceptional needs shall conduct community outreach to special education partners to recruit additional children with exceptional needs into their programs.
 
 (C) (i) Any agency not meeting the applicable requirement described in clause (ii) may be put on a conditional contract as described in Section 8314 unless they have applied and been approved for a waiver pursuant to clause (iii).
 
-(ii) On and after July 1, 2026, any agency not meeting the 5-percent requirement pursuant to paragraph (1).
+(ii) On and after July 1, 2026, any agency not meeting the 5-percent
+ requirement pursuant to paragraph (1).
 
 (iii) The Superintendent shall create an ongoing waiver process for an agency not able to meet the requirement described in paragraph (1).
 
-(3) Children with exceptional needs attending California state preschool programs shall be educated in the least restrictive environment in accordance with
- Section 1412(a)(5)(A) of Title 20 of the United States Code.
+(3) Children with exceptional needs attending California state preschool programs shall be educated in the least restrictive environment in accordance with Section 1412(a)(5)(A) of Title 20 of the United States Code.
 
-(4) (A) Notwithstanding the rulemaking provisions of the Administrative Procedure Act (Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code) and Section 33308.5, until regulations are filed with the Secretary of State to implement this subdivision, the department shall implement this subdivision through management bulletins or similar letters of instruction on or before December 31, 2022.
+(4) (A) Notwithstanding the rulemaking provisions of the Administrative Procedure Act (Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code) and Section 33308.5, until regulations are filed with the Secretary of State to implement this subdivision, the department shall implement this subdivision through management bulletins or similar letters of instruction on
+ or before December 31, 2022.
 
 (B) The department shall initiate a rulemaking action to implement this subdivision on or before December 31, 2023.
 
@@ -7946,15 +7948,16 @@ As used in this chapter:
 
 (iii) Homeless.
 
-(iv) One whose children are recipients of child
- protective services, or whose children have been identified as being abused, neglected, or exploited, or at risk of being abused, neglected, or exploited.
+(iv) One whose children are recipients of child protective services, or whose children have been identified as being abused, neglected, or exploited, or at risk of being abused, neglected, or exploited.
 
 (v) (I) One that has children with exceptional needs, as defined in Section 8205.
 
-(II) Only the children in the family who are children with exceptional needs may be enrolled under the eligibility criteria of this clause. Any other child in the family without exceptional needs may be enrolled pursuant to any of the criteria established in clauses (i) to (iv), inclusive.
+(II) Only the children in the family who are children with exceptional needs may be enrolled under the eligibility criteria of this clause. Any other child in the family without exceptional needs
+ may be enrolled pursuant to any of the criteria established in clauses (i) to (iv), inclusive.
 
-(vi) One who has a member of its household who is certified to receive benefits from Medi-Cal, CalFresh, the California Food Assistance Program, the California Special Supplemental Nutrition Program for Women, Infants, and Children, the federal Food Distribution Program on
- Indian Reservations, Head Start, Early Head Start, or any other designated means-tested government program, as determined by the department. Children eligible for services pursuant to this subparagraph shall be prioritized by the income declared on the application for the means-tested government program.
+(vi) One who has a member of its household who is certified to receive benefits from Medi-Cal, CalFresh, the California Food Assistance Program, the California Special Supplemental Nutrition Program for Women, Infants, and Children, the federal Food Distribution Program on Indian Reservations, Head Start, Early Head Start, or any other designated means-tested government program, as determined by the department. Children eligible for services pursuant to this subparagraph shall be prioritized by the income declared on the application for the means-tested government program.
+
+(vii) One whose parent or guardian is employed by a local educational agency.
 
 (C) The child’s family needs the childcare services because of either of the following:
 
@@ -7978,12 +7981,15 @@ As used in this chapter:
 
 (V) Incapacitated.
 
-(2) (A) Commencing July 1, 2022, at least 5 percent of a full-day California state preschool program contracting agency’s funded enrollment shall be reserved for children with exceptional needs, as defined in Section 8205.
+(VI) Participating in a CalWORKs program activity.
+
+(2) (A) Commencing
+ July 1, 2022, at least 5 percent of a full-day California state preschool program contracting agency’s funded enrollment shall be reserved for children with exceptional needs, as defined in Section 8205.
 
 (B) (i) The department shall review data on compliance and provide technical assistance to California state preschool program contracting agencies to assist them in meeting the requirement described in subparagraph (A).
 
-(ii) Agencies shall be fully funded for the percentage of enrollment specified in subparagraph (A), inclusive of the exceptional needs adjustment factor for that enrollment pursuant to Section 8244, to ensure funding is available to enroll children with exceptional needs within the set aside specified in subparagraph (A) at any point during
- the fiscal year. An agency not meeting the requirement to fill the percent of funded enrollment specified in subparagraph (A) with children with exceptional needs shall conduct community outreach to special education partners to recruit additional children with exceptional needs into their programs.
+(ii) Agencies shall be fully funded for the percentage of enrollment specified in subparagraph (A), inclusive of the exceptional needs adjustment factor for that enrollment pursuant to Section 8244, to ensure funding is available to enroll children with exceptional needs within the set aside specified in subparagraph (A) at any point during the fiscal year. An agency not meeting the requirement to fill the percent of funded enrollment
+ specified in subparagraph (A) with children with exceptional needs shall conduct community outreach to special education partners to recruit additional children with exceptional needs into their programs.
 
 (iii) (I) Any agency not meeting the applicable requirement described in subclause (II) may be put on a conditional contract as described in Section 8314 unless they have applied and been approved for a waiver pursuant to subclause (III).
 
@@ -7991,40 +7997,45 @@ As used in this chapter:
 
 (III) The Superintendent shall create an ongoing waiver process for agencies not able to meet the requirement described in subparagraph (A).
 
-(C) Children with exceptional needs attending California state preschool programs shall be educated in the least restrictive environment in accordance with Section 1412(a)(5)(A) of Title 20 of the United States Code.
+(C) Children with exceptional needs attending
+ California state preschool programs shall be educated in the least restrictive environment in accordance with Section 1412(a)(5)(A) of Title 20 of the United States Code.
 
 (D) (i) Notwithstanding the rulemaking provisions of the Administrative Procedure Act (Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code) and Section 33308.5, until regulations are filed with the Secretary of State to implement this paragraph, the department shall implement this paragraph through management bulletins or similar letters of instruction on or before December 31, 2022.
 
 (ii) The department shall initiate a rulemaking action to implement this paragraph on or before December 31, 2023.
 
-(3) Notwithstanding any other law, a full-day California state preschool program may provide services to children in families whose income is no more than 15 percent above the income eligibility threshold, as described in Section 8213, after all eligible two-, three-, and four-year-old children have been enrolled pursuant to paragraph (1). No more than 10 percent of children enrolled, as calculated throughout the participating program’s entire contract, may be filled by children in families above the income eligibility threshold.
+(3) Notwithstanding any other law, a full-day California state preschool program
+ may provide services to children in families whose income is no more than 15 percent above the income eligibility threshold, as described in Section 8213, after all eligible two-, three-, and four-year-old children have been enrolled pursuant to paragraph (1). No more than 10 percent of children enrolled, as calculated throughout the participating program’s entire contract, may be filled by children in families above the income eligibility threshold.
 
 (4) Notwithstanding paragraph (1), after all families meeting the criteria specified in paragraphs (1) and (3) have been enrolled, a full-day California state preschool program may provide services to two-, three-, and four-year-old children in families who do not meet at least one of the criteria specified in subparagraph (C) of paragraph (1).
 
-(5) After all otherwise eligible children have been enrolled as provided in paragraphs (1), (3), and (4), a provider operating a full-day California state preschool program within the attendance boundary of a public school as set forth in Section 8217 may enroll any two-, three-, or four-year-old child.
+(5) After all otherwise eligible children have been enrolled as provided in paragraphs (1),
+ (3), and (4), a provider operating a full-day California state preschool program within the attendance boundary of a public school
+ or school district, as set forth in Section 8217, may enroll any two-, three-, or four-year-old child.
 
-(e) (1) With the exception of the age requirements and paragraphs (3) and (4), upon establishing initial eligibility or ongoing eligibility for full-day California state preschool program services under this chapter, a family shall be considered to meet all eligibility and need requirements for those services for not less than 24 months, shall receive those services for not less than 24 months before having their eligibility or need recertified, and shall not be required to report changes to income or other changes for at least 24 months.
+(e) (1) With the exception of the age requirements and paragraphs (3) and (4), upon establishing initial eligibility for full-day California state preschool program services under this chapter, a family shall be considered to meet all eligibility and need requirements for those services for not less than 24 months, shall receive those services for not less than 24 months before having their eligibility or need recertified, and shall not be required to report changes to income or
+ other changes for at least 24
+ months, including when a family member transfers to another California state preschool program or when a child is voluntarily disenrolled by their family for any period of time during eligibility.
 
 (2) In the event that the eligibility period as described in paragraph (1) ends before the end of a program year, eligibility shall be extended until the end of the program year, as long as applicable age-eligibility requirements are met, as specified in Section 8205.
 
-(3) A family that establishes initial eligibility or ongoing eligibility on the basis of income shall report increases in income that exceed the threshold for ongoing income eligibility, as described in Section 8213, and the family’s ongoing eligibility for services shall at that time be recertified.
-
-(4) A family may, at any time, voluntarily report income or other changes. This information shall be used, as applicable, to reduce the family’s fees, increase the family’s services, or extend the period of the family’s eligibility before recertification.
+(3) A family may, at any time, voluntarily report income or other changes. This information shall be used, as applicable, to reduce the family’s fees, increase the family’s services, or extend the period of the family’s eligibility before recertification.
 
 (f) (1) Because a family that meets eligibility requirements at its most recent eligibility certification or recertification is considered eligible until the next recertification, as provided in subdivision (d), a payment made by a preschool program for a child during this period shall not be considered an error or an improper payment due to a change in the family’s circumstances during that same period.
 
-(2) Notwithstanding paragraph (1), the Superintendent or the Superintendent’s designated agent may seek to recover payments that are the result of fraud.
+(2) Notwithstanding paragraph (1),
+ the Superintendent or the Superintendent’s designated agent may seek to recover payments that are the result of fraud.
 
-(g) (1) Notwithstanding the rulemaking provisions of the Administrative Procedure Act (Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code) and Section 33308.5, until
- regulations are filed with the Secretary of State to implement subdivision (e), the department shall implement subdivision (e) through management bulletins or similar letters of instruction on or before December 31, 2022.
+(g) (1) Notwithstanding the rulemaking provisions of the Administrative Procedure Act (Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code) and Section 33308.5, until regulations are filed with the Secretary of State to implement subdivision (e), the department shall implement subdivision (e) through management bulletins or similar letters of instruction on or before
+ January 1, 2027.
 
-(2) The department shall initiate a rulemaking action to implement subdivision (e) on or before December 31, 2023.
+(2) The department shall initiate a rulemaking action to implement subdivision (e) on or before December 31, 2028.
 
 (h) The Superintendent shall establish guidelines according to which the director or a duly authorized representative of the California state preschool program will certify children as eligible for state reimbursement purposes.
 
 (i) This section shall become inoperative on July 1, 2027, and, as of January 1, 2028, is repealed.
 
-(History: Amended (as amended by Stats. 2024, Ch. 73, Sec. 7) by Stats. 2025, Ch. 88, Sec. 1.   (AB 1216)   Effective January 1, 2026.   Inoperative July 1, 2027, by its own provisions.    Repealed as of January 1, 2028, by its own provisions.    See later operative version, as amended by Sec. 2 of Stats. 2025, Ch. 88.)
+(History: Amended (as amended by Stats. 2025, Ch. 88, Sec. 1) by Stats. 2026, Ch. 25, Sec. 3.   (AB 150)   Effective June 29, 2026.   Inoperative July 1, 2027, by its own provisions.    Repealed as of January 1, 2028, by its own provisions.    See later operative version, as amended by Sec. 4 of Stats. 2026, Ch. 25.)
 -------------------------------------------
 
 8208.
@@ -8056,24 +8067,27 @@ As used in this chapter:
 (vi) One who has a member of its household who is
  certified to receive benefits from Medi-Cal, CalFresh, the California Food Assistance Program, the California Special Supplemental Nutrition Program for Women, Infants, and Children, the federal Food Distribution Program on Indian Reservations, Head Start, Early Head Start, or any other designated means-tested government program, as determined by the department. Children eligible for services pursuant to this subparagraph shall be prioritized by the income declared on the application for the means-tested government program.
 
-(2) Notwithstanding any other law, a part-day California state preschool program may provide services to children in families whose income is no more than 15 percent above the income eligibility threshold, as described in Section 8213, after all eligible three- and four-year-old children have been enrolled. No more than 10 percent of children enrolled, calculated throughout the participating program’s entire contract, may be
- filled by children in families above the income eligibility threshold.
+(vii) One whose parent or guardian is employed by a local educational agency.
+
+(2) Notwithstanding any other law, a part-day California state preschool program may provide services to children in families whose income is no more than 15 percent above the
+ income eligibility threshold, as described in Section 8213, after all eligible three- and four-year-old children have been enrolled. No more than 10 percent of children enrolled, calculated throughout the participating program’s entire contract, may be filled by children in families above the income eligibility threshold.
 
 (3) Notwithstanding Section 8213, after all otherwise eligible children have been enrolled as provided in paragraphs (1) and (2), a part-day California state preschool program may provide services to three- and four-year-old children in families whose income is above the income eligibility threshold if those children are children with exceptional needs. Children receiving services pursuant to this paragraph shall not count towards the 10-percent limit in paragraph (2).
 
-(4) Notwithstanding any other law, after all otherwise eligible children have been enrolled as provided in paragraphs (1) to (3), inclusive, a provider operating a part-day state preschool program within the attendance boundary of a public school, as set forth in Section 8217, may enroll three- and four-year-old children.
+(4) Notwithstanding any other law, after all otherwise eligible children have been enrolled as
+ provided in paragraphs (1) to (3), inclusive, a provider operating a part-day state preschool program within the attendance boundary of a public school or school district, as set forth in Section 8217, may enroll three- and four-year-old children.
 
-(b) A part-day California state preschool program contracting agency shall certify eligibility and enroll families into their program within 120 calendar days prior to the first day of the beginning of the new preschool year. Subsequent to enrollment, a child shall be deemed eligible for a part-day California state preschool program for the remainder of the program year and for the following program year, as long as applicable age-eligibility requirements are met, as specified in Sections 8205 and 48000.
+(b) A part-day California state preschool program contracting agency shall certify eligibility and enroll families into their program within 120 calendar days prior to the first day of the beginning of the new preschool year. Subsequent to enrollment, a child shall be deemed eligible for a part-day California state preschool program for the remainder of the program year and for the following program year, as long as applicable age-eligibility requirements are met, as specified in Sections 8205 and
+ 48000.
 
 (c) (1) Commencing July 1, 2022, at least 5 percent of a part-day California state preschool program contracting agency’s funded enrollment shall be reserved for children with exceptional needs, as defined in Section 8205.
 
-(2) (A) The department shall review data on compliance
- and provide technical assistance to California state preschool program contracting agencies to assist them in meeting the requirement described in paragraph (1).
+(2) (A) The department shall review data on compliance and provide technical assistance to California state preschool program contracting agencies to assist them in meeting the requirement described in paragraph (1).
 
-(B) Agencies shall be fully funded for the percentage of enrollment specified in paragraph (1), inclusive of the exceptional needs adjustment factor for that enrollment pursuant to Section 8244, to ensure funding is available to enroll children with exceptional needs within the set aside specified in paragraph (1) at any point during the fiscal year. An agency not meeting the requirement to fill the percent of funded enrollment specified in paragraph (1) with children with exceptional needs shall conduct community outreach to special education partners to recruit additional children with exceptional needs into their programs.
+(B) Agencies shall be fully funded for the percentage of enrollment specified in paragraph (1), inclusive of the exceptional needs adjustment factor for that enrollment pursuant to Section 8244, to ensure funding is available to enroll children with exceptional needs within the set aside specified in paragraph (1) at any point during
+ the fiscal year. An agency not meeting the requirement to fill the percent of funded enrollment specified in paragraph (1) with children with exceptional needs shall conduct community outreach to special education partners to recruit additional children with exceptional needs into their programs.
 
-(C) (i) Any agency not meeting the applicable requirement described in
- clause (ii) may be put on a conditional contract as described in Section 8314 unless they have applied and been approved for a waiver pursuant to clause (iii).
+(C) (i) Any agency not meeting the applicable requirement described in clause (ii) may be put on a conditional contract as described in Section 8314 unless they have applied and been approved for a waiver pursuant to clause (iii).
 
 (ii) On and after July 1, 2026, any agency not meeting the 5-percent requirement pursuant to paragraph (1).
 
@@ -8081,8 +8095,7 @@ As used in this chapter:
 
 (3) Children with exceptional needs attending California state preschool programs shall be educated in the least restrictive environment in accordance with Section 1412(a)(5)(A) of Title 20 of the United States Code.
 
-(4) (A) Notwithstanding the rulemaking provisions of the Administrative Procedure Act (Chapter 3.5 (commencing with
- Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code) and Section 33308.5, until regulations are filed with the Secretary of State to implement this subdivision, the department shall implement this subdivision through management bulletins or similar letters of instruction on or before December 31, 2022.
+(4) (A) Notwithstanding the rulemaking provisions of the Administrative Procedure Act (Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code) and Section 33308.5, until regulations are filed with the Secretary of State to implement this subdivision, the department shall implement this subdivision through management bulletins or similar letters of instruction on or before December 31, 2022.
 
 (B) The department shall initiate a rulemaking action to implement this subdivision on or before December 31, 2023.
 
@@ -8102,19 +8115,22 @@ As used in this chapter:
 
 (iii) Homeless.
 
-(iv) One whose children are recipients of child protective services, or whose children have been identified as being abused, neglected, or exploited, or at risk of being abused, neglected, or exploited.
+(iv) One whose children are recipients of child protective services, or whose
+ children have been identified as being abused, neglected, or exploited, or at risk of being abused, neglected, or exploited.
 
 (v) (I) One that has children with exceptional needs, as defined in Section 8205.
 
-(II) Only the children in the family who are children with exceptional needs may be enrolled under the eligibility criteria of this clause. Any other
- child in the family without exceptional needs may be enrolled pursuant to any of the criteria established in clauses (i) to (iv), inclusive.
+(II) Only the children in the family who are children with exceptional needs may be enrolled under the eligibility criteria of this clause. Any other child in the family without exceptional needs may be enrolled pursuant to any of the criteria established in clauses (i) to (iv), inclusive.
 
-(vi) One who has a member of its household who is certified to receive benefits from Medi-Cal, CalFresh, the California Food Assistance Program, the California Special Supplemental Nutrition Program for Women, Infants, and Children, the federal Food Distribution Program on Indian Reservations, Head Start, Early Head Start, or any other designated means-tested government program, as determined by the department. Children eligible for services pursuant to this subparagraph shall be prioritized by the income declared on the application for the means-tested government program.
+(vi) One who has a member of its household who is certified to receive benefits from Medi-Cal, CalFresh, the California Food Assistance Program, the California Special Supplemental Nutrition Program for Women, Infants, and Children, the federal Food Distribution Program on Indian Reservations, Head Start,
+ Early Head Start, or any other designated means-tested government program, as determined by the department. Children eligible for services pursuant to this subparagraph shall be prioritized by the income declared on the application for the means-tested government program.
+
+(vii) One whose parent or guardian is employed by a local educational agency.
 
 (C) The child’s family needs the childcare services because of either of the following:
 
-(i) The child has
- been identified by a legal, medical, or social services agency, a local educational agency liaison for homeless children and youths designated pursuant to Section 11432(g)(1)(J)(ii) of Title 42 of the United States Code, a Head Start program, or an emergency or transitional shelter as one of the following:
+(i) The child has been identified by a legal, medical, or social services agency, a local educational agency liaison for homeless children and youths designated pursuant to Section 11432(g)(1)(J)(ii) of Title 42 of the United States Code, a Head Start program, or an emergency or
+ transitional shelter as one of the following:
 
 (I) A recipient of protective services.
 
@@ -8126,8 +8142,7 @@ As used in this chapter:
 
 (I) Engaged in vocational training leading directly to a recognized trade, paraprofession, or profession.
 
-(II) Engaged in
- an educational program for English language learners or to attain a high school diploma or general educational development certificate.
+(II) Engaged in an educational program for English language learners or to attain a high school diploma or general educational development certificate.
 
 (III) Employed or seeking employment.
 
@@ -8135,15 +8150,17 @@ As used in this chapter:
 
 (V) Incapacitated.
 
+(VI) Participating in a CalWORKs program activity.
+
 (2) (A) Commencing July 1, 2022, at least 5 percent of a full-day California state preschool program contracting agency’s funded enrollment shall be reserved for children with exceptional needs, as defined in Section 8205.
 
-(B) (i) The department shall review data on compliance and provide technical assistance to California state preschool program contracting agencies to assist them in meeting the
- requirement described in subparagraph (A).
+(B) (i) The department shall review data on compliance and provide technical assistance to California state preschool program contracting agencies to assist them in meeting the requirement described in
+ subparagraph (A).
 
 (ii) Agencies shall be fully funded for the percentage of enrollment specified in subparagraph (A), inclusive of the exceptional needs adjustment factor for that enrollment pursuant to Section 8244, to ensure funding is available to enroll children with exceptional needs within the set aside specified in subparagraph (A) at any point during the fiscal year. An agency not meeting the requirement to fill the percent of funded enrollment specified in subparagraph (A) with children with exceptional needs shall conduct community outreach to special education partners to recruit additional children with exceptional needs into their programs.
 
-(iii) (I) Any agency not meeting the applicable requirement described in subclause (II) may be put on a conditional contract as described in Section 8314 unless they have applied and
- been approved for a waiver pursuant to subclause (III).
+(iii) (I) Any agency not meeting the applicable requirement described in subclause (II) may be put on a conditional contract as described in Section 8314 unless they have applied and been approved for a waiver
+ pursuant to subclause (III).
 
 (II) On and after July 1, 2026, any agency not meeting the 5-percent requirement pursuant to subparagraph (A).
 
@@ -8151,8 +8168,8 @@ As used in this chapter:
 
 (C) Children with exceptional needs attending California state preschool programs shall be educated in the least restrictive environment in accordance with Section 1412(a)(5)(A) of Title 20 of the United States Code.
 
-(D) (i)Notwithstanding the rulemaking provisions of the Administrative Procedure Act (Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code) and Section 33308.5, until
- regulations are filed with the Secretary of State to implement this paragraph, the department shall implement this paragraph through management bulletins or similar letters of instruction on or before December 31, 2022.
+(D) (i)Notwithstanding the rulemaking provisions of the Administrative Procedure Act (Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code) and Section 33308.5, until regulations are filed with
+ the Secretary of State to implement this paragraph, the department shall implement this paragraph through management bulletins or similar letters of instruction on or before December 31, 2022.
 
 (ii) The department shall initiate a rulemaking action to implement this paragraph on or before December 31, 2023.
 
@@ -8160,33 +8177,31 @@ As used in this chapter:
 
 (4) Notwithstanding paragraph (1), after all families meeting the criteria specified in paragraphs (1) and (3) have been enrolled, a full-day California state preschool program may provide services to three- and four-year-old children in families who do not meet at least one of the criteria specified in subparagraph (C) of paragraph (1).
 
-(5) After all otherwise eligible children have been enrolled as provided in paragraphs (1), (3), and (4), a provider operating a full-day California state preschool program within the attendance boundary of a public school as set forth in Section 8217 may enroll any three- or four-year-old child.
+(5) After all otherwise eligible children have been enrolled as provided in paragraphs (1), (3), and (4), a provider operating a full-day California state preschool program within the attendance boundary of a public school or school district, as set forth in Section 8217, may enroll any three- or
+ four-year-old child.
 
-(e) (1) With the exception of the age requirements and paragraphs (3) and (4), upon establishing initial eligibility or ongoing eligibility for full-day California state
- preschool program services under this chapter, a family shall be considered to meet all eligibility and need requirements for those services for not less than 24 months, shall receive those services for not less than 24 months before having their eligibility or need recertified, and shall not be required to report changes to income or other changes for at least 24 months.
+(e) (1) With the exception of the age requirements and paragraphs (3) and (4), upon establishing initial eligibility for full-day California state preschool program services under this chapter, a family shall be considered to meet all eligibility and need requirements for those services for not less than 24 months, shall receive those services for not less than 24 months before having their eligibility or need recertified, and shall not be required to report changes to income or other changes for at least 24 months, including when a family member transfers to another California state preschool program or when a child is
+ voluntarily disenrolled by their family for any period of time during eligibility.
 
 (2) In the event that the eligibility period as described in paragraph (1) ends before the end of a program year, eligibility shall be extended until the end of the program year, as long as applicable age-eligibility requirements are met, as specified in Section 8205.
 
-(3) A family that establishes initial eligibility or ongoing eligibility on the basis of income shall report increases in income that exceed the threshold for ongoing income eligibility, as described in Section 8213, and the family’s ongoing
- eligibility for services shall at that time be recertified.
-
-(4) A family may, at any time, voluntarily report income or other changes. This information shall be used, as applicable, to reduce the family’s fees, increase the family’s services, or extend the period of the family’s eligibility before recertification.
+(3) A family may, at any time, voluntarily report income or other changes. This information shall be used, as applicable, to reduce the family’s fees, increase the family’s services, or extend the period of the family’s eligibility before recertification.
 
 (f) (1) Because a family that meets eligibility requirements at its most recent eligibility certification or recertification is considered eligible until the next recertification, as provided in subdivision (d), a payment made by a preschool program for a child during this period shall not be considered an error or an improper payment due to a change in the family’s circumstances during that same period.
 
-(2) Notwithstanding paragraph (1), the Superintendent or the Superintendent’s
- designated agent may seek to recover payments that are the result of fraud.
+(2) Notwithstanding paragraph (1),
+ the Superintendent or the Superintendent’s designated agent may seek to recover payments that are the result of fraud.
 
-(g) (1) Notwithstanding the rulemaking provisions of the Administrative Procedure Act (Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code) and Section 33308.5, until regulations are filed with the Secretary of State to implement subdivision (e), the department shall implement subdivision (e) through management bulletins or similar letters of instruction on or before December 31, 2022.
+(g) (1) Notwithstanding the rulemaking provisions of the Administrative Procedure Act (Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code) and Section 33308.5, until regulations are filed with the Secretary of State to implement subdivision (e), the department shall implement subdivision (e) through management bulletins or similar letters of instruction on or before
+ January 1, 2027.
 
-(2) The department shall initiate a rulemaking action to implement subdivision (e) on or before December 31, 2023.
+(2) The department shall initiate a rulemaking action to implement subdivision (e) on or before December 31, 2028.
 
-(h) The Superintendent shall establish guidelines according to which the director or a duly authorized representative of the California state preschool program will certify
- children as eligible for state reimbursement purposes.
+(h) The Superintendent shall establish guidelines according to which the director or a duly authorized representative of the California state preschool program will certify children as eligible for state reimbursement purposes.
 
 (i) This section shall become operative on July 1, 2027.
 
-(History: Amended (as added by Stats. 2024, Ch. 73, Sec. 8) by Stats. 2025, Ch. 88, Sec. 2.   (AB 1216)   Effective January 1, 2026.   Operative July 1, 2027, by its own provisions.)
+(History: Amended (as amended by Stats. 2025, Ch. 88, Sec. 2) by Stats. 2026, Ch. 25, Sec. 4.   (AB 150)   Effective June 29, 2026.   Operative July 1, 2027, by its own provisions.)
 -------------------------------------------
 
 8209.
@@ -8206,64 +8221,50 @@ As used in this chapter:
 
 (a) Each applicant or contracting agency shall give priority for part-day programs according to the following:
 
-(1) The first priority for services shall be given to three-year-old or four-year-old children who are recipients of child protective services or who are at risk of being neglected, abused, or exploited and for whom there is a written referral from a legal, medical, or social service agency. If an agency is unable to enroll a child in this first priority category, the agency shall refer the child’s parent or guardian to local resources
- and referral services so that services for the child can be located.
- To the extent the contractor has elected to offer services pursuant to Section 8207.1, then priority for services shall be given to two-year-old children who are recipients of child protective services or who are at risk of being neglected, abused, or exploited and for whom there is a written referral from a legal, medical, or social service agency.
+(1) The first priority for services shall be given to three-year-old or four-year-old children who are recipients of child protective services or who are at risk of being neglected, abused, or exploited and for whom there is a written referral from a legal, medical, or social service agency. If an agency is unable to enroll a child in this first priority category, the agency shall refer the child’s parent or guardian to local resources and referral services so that services for the child can be located. To the extent the contractor has elected to offer services pursuant to Section 8207.1, then priority for services shall be given to two-year-old children
+ who are recipients of child protective services or who are at risk of being neglected, abused, or exploited and for whom there is a written referral from a legal, medical, or social service agency.
 
-(2) (A) To the extent that there are additional three- and four-year-old children with exceptional needs interested in enrolling beyond those already enrolled in the percent of funded enrollment set aside pursuant to Section 8208, the second priority for services shall be given to all three- and four-year-old children with
- exceptional needs from families with incomes below the income eligibility threshold, as described in Section 8213.
+(2) (A) The second priority for services shall be given to all three- and four-year-old children with exceptional needs from families with incomes below the income eligibility threshold, as described in Section 8213.
 
-(B) Within this priority category, children with exceptional needs from families with the lowest income according to the income ranking on the most recent schedule of income ceiling eligibility table, as published by the Superintendent at the time of enrollment, shall be enrolled first.
+(B) Within this priority category,
+ children with exceptional needs from families with the lowest income according to the income ranking on the most recent schedule of income ceiling eligibility table, as published by the Superintendent at the time of enrollment, shall be enrolled first.
 
-(3) (A) The third priority for services shall be given to eligible three-year-old or four-year-old children who are not enrolled in a state-funded transitional kindergarten program. This priority shall not include children eligible pursuant to
- clause (v) of subparagraph (B) of paragraph (1) of subdivision (a) of Section 8208 if they are from families with incomes above the income eligibility threshold, as described in Section 8213.
+(C) If enrollment of children with exceptional needs does not exceed the set aside pursuant to Section 8208, this priority category shall also include three- and four-year-old children with exceptional needs from families with incomes above the income eligibility threshold, as described in Section 8213. Families served under this subparagraph with the lowest income, consistent with subparagraph (B), shall be enrolled first.
+
+(3) (A) The third priority for services shall be given to eligible three-year-old
+ or four-year-old children who are not enrolled in a state-funded transitional kindergarten program. This priority shall not include children eligible pursuant to clause (v) of subparagraph (B) of paragraph (1) of subdivision (a) of Section 8208 if they are from families with incomes above the income eligibility threshold, as described in Section 8213.
 
 (B) (i) Within this priority category, eligible children with the lowest income according to the income ranking on the most recent schedule of income ceiling eligibility table, as published by the Superintendent at the time of enrollment, shall be enrolled first.
 
 (ii) If two or more families have the same income ranking according to the most recent schedule of income ceiling eligibility table, a child who is identified as a dual language learner shall be enrolled first.
 
-(iii) If there are no children who are identified as dual language learners, the child that has been on the waiting list for the longest
- time shall be admitted first.
+(iii) If there are no children who are identified as dual language learners, the child that has been on the waiting list for the longest time shall be admitted first.
 
-(4) (A) The fourth priority for services shall be given to eligible two-year-old children, to the extent the contractor has elected to offer services pursuant to Section 8207.1. This priority shall not include children eligible pursuant to clause (v) of subparagraph (B) of paragraph (1) of subdivision (a) of Section 8208 if they are from families with incomes above the income eligibility threshold, as described in Section 8213.
+(4) (A) The fourth priority for services shall be given to children of employees of a local educational agency.
 
-(B) (i) Within this priority category, eligible children with the lowest income according to the income ranking on the most recent schedule of income ceiling eligibility table, as published by the Superintendent at the time of enrollment, shall be enrolled first.
+(B) Within this priority category, eligible children from families with the lowest income according to the income ranking on the most recent schedule of income ceiling eligibility table, as published by the Superintendent at the time of enrollment, shall be enrolled first.
 
-(ii) If two or more families have the same income ranking
- according to the most recent schedule of income ceiling eligibility table, a child who is identified as a dual language learner shall be enrolled first.
+(5) (A) The fifth priority for services shall be given to eligible two-year-old children, to the extent the contractor has elected to offer services pursuant to Section 8207.1. This priority shall not include children eligible pursuant to clause (v) of subparagraph (B) of paragraph (1) of subdivision (a) of Section 8208 if they are from families with incomes above the income eligibility threshold, as described in Section 8213.
+
+(B) (i) Within this priority category, eligible children with the lowest income according to the income ranking on
+ the most recent schedule of income ceiling eligibility table, as published by the Superintendent at the time of enrollment, shall be enrolled first.
+
+(ii) If two or more families have the same income ranking according to the most recent schedule of income ceiling eligibility table, a child who is identified as a dual language learner shall be enrolled first.
 
 (iii) If there are no children who are identified as dual language learners, the child that has been on the waiting list for the longest time shall be admitted first.
 
-(5) (A) The fifth priority, after all otherwise eligible children have been enrolled, shall be children from families whose income is no more than 15 percent above the eligibility income threshold, as described in Section 8213.
+(6) (A) The
+ sixth priority, after all otherwise eligible children have been enrolled, shall be children from families whose income is no more than 15 percent above the eligibility income threshold, as described in Section 8213.
 
-(B) Within this priority category, priority shall be given to
- three- and four-year-old children with exceptional needs interested in enrolling beyond those already enrolled in the set aside pursuant to Section 8208.
+(B) Within this priority category, priority shall be given to three- and four-year-old children with exceptional needs interested in enrolling beyond those already enrolled in the set aside pursuant to Section 8208.
 
-(C) (i) After the children enrolling pursuant to subparagraph (B) are enrolled, three- and four-year-old children without exceptional needs shall be enrolled in income ranking order, with the lowest income according to the income ranking on the most recent schedule of income ceiling eligibility table, as published by the Superintendent at the time of enrollment, being enrolled first.
+(7) After all otherwise eligible children have been enrolled in the first through sixth priority categories, as described in paragraphs (1) to (6), inclusive, a provider may enroll any eligible child pursuant to Section 8208.
 
-(ii) For purposes of clause (i), if two or more families have the same income ranking according to the most recent schedule of income ceiling eligibility table, the child that has been on the waiting list for the longest time shall be admitted first.
+(b) The Superintendent shall set criteria for, and may grant specific waivers of, the priorities established in this section for agencies that wish to serve specific populations, including children with exceptional needs or children of prisoners. These new waivers shall not include proposals to avoid appropriate fee schedules or admit ineligible families, but may include proposals to accept members of special populations in other than strict income order, as long as appropriate fees are paid.
 
-(6) After all otherwise eligible children have been enrolled in the first through fifth priority categories, as described in paragraphs (1) to (5), inclusive, the contractor may enroll the children in the following order:
+(c) This section shall become inoperative on July 1, 2027, and, as of January 1, 2028, is repealed.
 
-(A) A California preschool program site operating within the attendance boundaries of a qualified free and reduced priced meals school, in accordance with Section 8217, may enroll any three-
- or four-year-old children whose families reside within the attendance boundary of the qualified elementary
- school, followed by two-year-old children whose families reside within the attendance boundary of the qualified elementary school, to the extent the contractor has elected to offer services pursuant to Section 8207.1. These children shall, to the extent possible, be enrolled by lowest to highest income according to the most recent schedule of income ceiling eligibility table.
-
-(B) Children enrolling in the California state preschool program to provide expanded learning and care to transitional kindergarten or kindergarten pupils, pursuant to subdivision (l) of Section 48000.
-
-(b) The Superintendent shall set criteria for, and may grant specific waivers of, the priorities established in this section for agencies that wish to serve specific populations, including children with exceptional needs or children of prisoners. These new waivers
- shall not include proposals to avoid appropriate fee schedules or admit ineligible families, but may include proposals to accept members of special populations in other than strict income order, as long as appropriate fees are paid.
-
-(c) (1) Children with exceptional needs enrolled in the percent of funded enrollment set aside pursuant to paragraph (1) of subdivision (c) of Section 8208 shall be enrolled without regard to the priorities listed in subdivision (a).
-
-(2) Within this category, eligible children with the lowest income according to the income ranking on the most recent schedule of income ceiling eligibility table, as published by the Superintendent at the time of enrollment, shall be enrolled first.
-
-(3) If two or more families have the same income ranking according to the most recent
- schedule of income ceiling eligibility table, the child that has been on the waiting list for the longest time shall be admitted first.
-
-(d) This section shall become inoperative on July 1, 2027, and, as of January 1, 2028, is repealed.
-
-(History: Amended (as amended by Stats. 2024, Ch. 73, Sec. 9) by Stats. 2024, Ch. 998, Sec. 2.   (AB 176)   Effective September 30, 2024.   Inoperative July 1, 2027, by its own provisions.   Repealed as of January 1, 2028, by its own provisions.   See later operative version added by Sec. 10 of Stats. 2024, Ch. 73.)
+(History: Amended (as amended by Stats. 2024, Ch. 998, Sec. 2) by Stats. 2026, Ch. 25, Sec. 5.   (AB 150)   Effective June 29, 2026.   Inoperative July 1, 2027, by its own provisions.    Repealed as of January 1, 2028, by its own provisions.    See later operative version, as amended by Sec. 6 of Stats. 2026, Ch. 25.)
 -------------------------------------------
 
 8210.
@@ -8272,116 +8273,96 @@ As used in this chapter:
 
 (1) The first priority for services shall be given to three-year-old or four-year-old children who are recipients of child protective services or who are at risk of being neglected, abused, or exploited and for whom there is a written referral from a legal, medical, or social service agency. If an agency is unable to enroll a child in this first priority category, the agency shall refer the child’s parent or guardian to local resources and referral services so that services for the child can be located.
 
-(2) (A) To the extent that there are
- additional three- and four-year-old children with exceptional needs interested in enrolling beyond those already enrolled in the percent of funded enrollment set aside pursuant to Section 8208, the second priority for services shall be given to all three- and four-year-old children with exceptional needs from families with incomes below the income eligibility threshold, as described in Section 8213.
+(2) (A) The second priority for services shall be given to all three- and four-year-old children with exceptional needs from families with incomes below the income eligibility threshold, as described in Section 8213.
 
 (B) Within this priority category, children with exceptional needs from families with the lowest income according to the income ranking on the most recent schedule of income ceiling eligibility table, as published by the Superintendent at the time of enrollment, shall be enrolled first.
 
-(3) (A) The third priority for services shall be given to eligible three-year-old or four-year-old children who are not enrolled in a state-funded transitional kindergarten
- program. This priority shall not include children eligible pursuant to clause (v) of subparagraph (B) of paragraph (1) of subdivision (a) of Section 8208 if they are from families with incomes above the income eligibility threshold, as described in Section 8213.
+(C) If enrollment of children with exceptional needs does not exceed the set aside pursuant to Section 8208, this priority category shall also include three- and four-year-old children with exceptional needs from families with incomes above the income eligibility threshold, as described in Section 8213. Families served under this subparagraph with the lowest income, consistent with subparagraph (B), shall be enrolled first.
+
+(3) (A) The third priority for services shall be given to eligible three-year-old or four-year-old children who are not enrolled in a state-funded transitional kindergarten program. This priority shall not include children eligible pursuant to clause (v) of subparagraph (B) of paragraph (1) of subdivision (a) of Section 8208 if they are from families with incomes above the income eligibility threshold, as described in Section 8213.
 
 (B) (i) Within this priority category, eligible children with the lowest income according to the income ranking on the most recent schedule of income ceiling eligibility table, as published by the Superintendent at the time of enrollment, shall be enrolled first.
 
 (ii) If two or more families have the same income ranking according to the most recent schedule of income ceiling eligibility table, a child who is identified as a dual language learner shall be enrolled first.
 
-(iii) If there are no children who are identified as dual language
- learners, the child that has been on the waiting list for the longest time shall be admitted first.
+(iii) If there are no children who are identified as dual language learners, the child that has been on the waiting list for the longest time shall be admitted first.
 
-(4) (A) The fourth priority, after all otherwise eligible children have been enrolled, shall be children from families whose income is no more than 15 percent above the eligibility income threshold, as described in Section 8213.
+(4) (A) The fourth priority for services shall be given to children of employees of a local educational agency.
+
+(B) Within this priority category, eligible children with the lowest income according to the income ranking on the most recent schedule of income ceiling eligibility table, as published by the Superintendent at the time of enrollment, shall be enrolled first.
+
+(5) (A) The
+ fifth priority, after all otherwise eligible children have been enrolled, shall be children from families whose income is no more than 15 percent above the eligibility income threshold, as described in Section 8213.
 
 (B) Within this priority category, priority shall be given to three- and four-year-old children with exceptional needs interested in enrolling beyond those already enrolled in the set aside pursuant to Section 8208.
 
-(C) (i) After the children enrolling pursuant to subparagraph (B) are enrolled, three- and four-year-old children without exceptional needs shall be enrolled in income ranking order, with the lowest income according to the income ranking
- on the most recent schedule of income ceiling eligibility table, as published by the Superintendent at the time of enrollment, being enrolled first.
+(6) After all otherwise eligible children have been enrolled in the first through fifth priority categories, as described in paragraphs (1) to
+ (5), inclusive,
+a provider may enroll any eligible child pursuant to Section 8208.
 
-(ii) For purposes of clause (i), if two or more families have the same income ranking according to the most recent schedule of income ceiling eligibility table, the child that has been on the waiting list for the longest time shall be admitted first.
+(b) The Superintendent shall set criteria for, and may grant specific waivers of, the priorities established in this section for agencies that wish to serve specific populations, including children with exceptional needs or children of prisoners. These new waivers shall not include proposals to avoid appropriate fee schedules or admit ineligible families, but may include proposals to accept members of special populations in other than strict income order, as long as appropriate fees are paid.
 
-(5) After all otherwise eligible children have been enrolled in the first through fourth priority categories, as described in paragraphs (1) to (4), inclusive, the contractor may enroll the children in the following order:
+(c) This section shall become operative on July 1, 2027.
 
-(A) A California preschool program site operating within the attendance boundaries of a qualified free and reduced priced meals school, in accordance with Section 8217, may enroll any three- or
- four-year-old children whose families reside within the attendance boundary of the qualified elementary school. These children shall, to the extent possible, be enrolled by lowest to highest income according to the most recent schedule of income ceiling eligibility table.
-
-(B) Children enrolling in the California state preschool program to provide expanded learning and care to transitional kindergarten or kindergarten pupils, pursuant to subdivision (l) of Section 48000.
-
-(b) The Superintendent shall set criteria for, and may grant specific waivers of, the priorities established in this section for agencies that wish to serve specific populations, including children with exceptional needs or children of prisoners. These new waivers shall not include proposals to avoid appropriate fee schedules or admit ineligible families, but may include proposals to accept members of special
- populations in other than strict income order, as long as appropriate fees are paid.
-
-(c) (1) Children with exceptional needs enrolled in the percent of funded enrollment set aside pursuant to paragraph (1) of subdivision (c) of Section 8208 shall be enrolled without regard to the priorities listed in subdivision (a).
-
-(2) Within this category, eligible children with the lowest income according to the income ranking on the most recent schedule of income ceiling eligibility table, as published by the Superintendent at the time of enrollment, shall be enrolled first.
-
-(3) If two or more families have the same income ranking according to the most recent schedule of income ceiling eligibility table, the child that has been on the waiting list for the longest time shall be admitted first.
-
-(d) This section shall become operative on July 1, 2027.
-
-(History: Repealed (in Sec. 9) and added by Stats. 2024, Ch. 73, Sec. 10.   (SB 163)   Effective July 2, 2024.   Operative July 1, 2027, by its own provisions.)
+(History: Amended (as added by Stats. 2024, Ch. 73, Sec. 10) by Stats. 2026, Ch. 25, Sec. 6.   (AB 150)   Effective June 29, 2026.   Operative July 1, 2027, by its own provisions.)
 -------------------------------------------
 
 8211.
 
 (a) Each applicant or contracting agency shall give priority for full-day programs according to the following:
 
-(1) (A) The first priority for services shall be given to three-year-old or four-year-old children who are recipients of child protective services or who are at risk of being neglected, abused, or exploited upon written referral from a legal, medical, or social service agency.
- To the extent the contractor has elected to offer services pursuant to Section 8207.1, then priority for services shall be given to two-year-old children who are recipients of child protective services or who are at risk of being neglected, abused, or exploited and for whom there is a written referral from a legal, medical, or social service agency.
+(1) (A) The first priority for services shall be given to three-year-old or four-year-old children who are recipients of child protective services or who are at risk of being neglected, abused, or exploited upon written referral from a legal, medical, or social service agency. To the extent the contractor has elected to offer services pursuant to Section 8207.1, then priority for services shall be given to two-year-old children who are recipients of child protective services or who are at risk of being neglected, abused, or exploited and for whom there is a written referral from a legal, medical, or social service agency.
 
 (B) If an agency is unable to enroll a child in this first priority category, the agency shall refer the child’s parent or guardian to local resources and referral services so that services for the child can be located.
 
-(2) (A) To the extent that there are additional
- three- and four-year-old children with exceptional needs interested in enrolling beyond those already enrolled in the percent of funded enrollment set aside pursuant to paragraph (1) of subdivision (c) of Section 8208, the second priority for services shall be given to all three- and four-year-old children with exceptional needs from families with incomes below the income eligibility threshold, described in Section 8213.
+(2) (A) The second priority for services shall be given to all three- and four-year-old children with exceptional needs from families with incomes below the income eligibility threshold, described in Section 8213.
 
 (B) Within this priority category, children with exceptional needs from families with the lowest income according to the income ranking on the most recent schedule of income ceiling eligibility table, as published by the Superintendent at the time of enrollment, shall be enrolled first.
 
-(3) (A) The third priority for services shall be given to eligible
- three-year-old or four-year-old children who are not enrolled in a state-funded transitional kindergarten program. This priority shall not include children eligible pursuant to clause (v) of subparagraph (B) of paragraph (1) of subdivision (a) of Section 8208 if they are from families with incomes above the income eligibility threshold, as described in Section 8213.
+(C) If enrollment of children with exceptional needs does not exceed the set aside pursuant to Section 8208, this priority category shall also include three- and four-year-old children with exceptional needs from families with incomes above the income eligibility threshold, as described in Section 8213. Families served under this subparagraph with the lowest income, consistent with subparagraph (B), shall be enrolled first.
+
+(3) (A) The third priority for services shall be given to eligible three-year-old or four-year-old children who are not enrolled in a state-funded transitional kindergarten program. This priority shall not include children eligible pursuant to clause (v) of subparagraph (B) of paragraph (1) of subdivision (a) of Section 8208 if they are from families with incomes above the income eligibility threshold, as described in
+ Section 8213.
 
 (B) (i) Within this priority category, eligible children with the lowest income according to the income ranking on the most recent schedule of income ceiling eligibility table, as published by the Superintendent at the time of enrollment, shall be enrolled first.
-
-(ii) If two or more families have the same income ranking according to the most recent schedule of income ceiling eligibility table, a child who is identified as a dual language learner shall be
- enrolled first.
-
-(iii) If there are no children who are identified as dual language learners, the child that has been on the waiting list for the longest time shall be admitted first.
-
-(4) (A) The fourth priority for services shall be given to eligible two-year-old children, to the extent the contractor has elected to offer services pursuant to Section 8207.1. This priority shall not include children eligible pursuant to clause (v) of subparagraph (B) of paragraph (1) of subdivision (a) of Section 8208 if they are from families with incomes above the income eligibility threshold, as described in Section 8213.
-
-(B) (i) Within this priority category, eligible children with the lowest income according to the income ranking on the most recent schedule of income ceiling eligibility
- table, as published by the Superintendent at the time of enrollment, shall be enrolled first.
 
 (ii) If two or more families have the same income ranking according to the most recent schedule of income ceiling eligibility table, a child who is identified as a dual language learner shall be enrolled first.
 
 (iii) If there are no children who are identified as dual language learners, the child that has been on the waiting list for the longest time shall be admitted first.
 
-(5) (A) The fifth priority, after all otherwise eligible children have been enrolled, shall be children from families whose income is no more than 15 percent above the income eligibility threshold, as described in Section 8213.
+(4) (A) The fourth priority for services shall be given to children of employees of a local educational agency.
 
-(B) Within this priority category,
- priority shall be given to three- and four-year-old children with exceptional needs interested in enrolling beyond those already enrolled in the set aside pursuant to Section 8208.
+(B) Within this priority category, eligible children with the lowest income according to the income ranking on the most recent schedule of income ceiling eligibility table, as published by the Superintendent at the time of enrollment, shall be enrolled first.
+
+(5) (A) The
+ fifth priority for services shall be given to eligible two-year-old children, to the extent the contractor has elected to offer services pursuant to Section 8207.1. This priority shall not include children eligible pursuant to clause (v) of subparagraph (B) of paragraph (1) of subdivision (a) of Section 8208 if they are from families with incomes above the income eligibility threshold, as described in Section 8213.
+
+(B) (i) Within this priority category, eligible children with the lowest income according to the income ranking on the most recent schedule of income ceiling eligibility table, as published by the Superintendent at the time of enrollment, shall be enrolled first.
+
+(ii) If two or more families have the same income ranking according to the most recent schedule of income ceiling eligibility table, a child who
+ is identified as a dual language learner shall be enrolled first.
+
+(iii) If there are no children who are identified as dual language learners, the child that has been on the waiting list for the longest time shall be admitted first.
+
+(6) (A) The sixth priority, after all otherwise eligible children have been enrolled, shall be children from families whose income is no more than 15 percent
+ above the income eligibility threshold, as described in Section 8213.
+
+(B) Within this priority category, priority shall be given to three- and four-year-old children with exceptional needs interested in enrolling beyond those already enrolled in the set aside pursuant to Section 8208.
 
 (C) (i) After the children enrolling pursuant to subparagraph (B) are enrolled, three- and four-year-old children without exceptional needs shall be enrolled in income ranking order, with the lowest income according to the income ranking on the most recent schedule of income ceiling eligibility table, as published by the Superintendent at the time of enrollment, being enrolled first.
 
-(ii) For purposes of clause (i), if two or more families have the same income ranking according
- to the most recent schedule of income ceiling eligibility table, the child that has been on the waiting list for the longest time shall be admitted first.
+(ii) For purposes of clause (i), if two or more families have the same income ranking according to the most recent schedule of income
+ ceiling eligibility table, the child that has been on the waiting list for the longest time shall be admitted first.
 
-(6) After all otherwise eligible children have been enrolled in the first through fifth priority categories, as described in paragraphs (1) to (5), inclusive, the contractor may enroll the children in the following order:
+(7) After all otherwise eligible children have been enrolled in the first through sixth priority categories, as described in paragraphs (1) to (6), inclusive,
+ a provider may enroll any eligible child pursuant to Section 8208.
 
-(A) The contractor may enroll two-, three-, and four-year-old children from families that meet eligibility criteria pursuant to paragraph (4) of subdivision (d) of Section 8208. Within this priority, contractors shall enroll families in income ranking order, lowest to highest, and within income ranking order, to the extent the contractor has elected to offer services pursuant to Section 8207.1, enroll
- three- and four-year-old children before
- two-year-old children.
+(b) The Superintendent shall set criteria for, and may grant specific waivers of, the priorities established in this section for agencies that wish to serve specific populations, including children with exceptional needs or children of prisoners. These new waivers shall not include proposals to avoid appropriate fee schedules or admit ineligible families, but may include proposals to accept members of special
+ populations in other than strict income order, as long as appropriate fees are paid.
 
-(B) For California state preschool program sites operating within the attendance boundaries of a qualified free and reduced priced meals school, in accordance with Section 8217, the contractor may enroll any three- and four-year-old children whose families reside within the attendance boundary of the qualified school without establishing eligibility or a need for services pursuant to paragraph (1) or (3) of subdivision (d) of Section
- 8208, followed by two-year-old children whose families reside within the attendance boundary of the qualified school without establishing eligibility or a need for services pursuant to paragraph (1) or (3) of subdivision (d) of Section 8208, to the extent the contractor has elected to offer services pursuant to Section 8207.1. These families shall, to the extent possible, be enrolled in income ranking order, by lowest to highest income according to the most recent schedule of income ceiling eligibility table.
+(c) This section shall become inoperative on July 1, 2027, and, as of January 1, 2028, is repealed.
 
-(b) The Superintendent shall set criteria for, and may grant specific waivers of, the priorities established in this section for agencies that wish to serve specific populations, including children with exceptional needs or children of prisoners. These new waivers shall not include proposals to avoid appropriate fee schedules or admit ineligible families, but may include proposals to accept
- members of special populations in other than strict income order, as long as appropriate fees are paid.
-
-(c) (1) Children with exceptional needs enrolled in the percent of funded enrollment set aside pursuant to paragraph (1) of subdivision (c) of Section 8208 shall be enrolled without regard to the priorities listed in subdivision (a).
-
-(2) Within this category, eligible children with the lowest income according to the income ranking on the most recent schedule of income ceiling eligibility table, as published by the Superintendent at the time of enrollment, shall be enrolled first.
-
-(3) If two or more families have the same income ranking according to the most recent schedule of income ceiling eligibility table, the child that has been on the waiting list for the longest time shall be admitted
- first.
-
-(d) This section shall become inoperative on July 1, 2027, and, as of January 1, 2028, is repealed.
-
-(History: Amended (as amended by Stats. 2024, Ch. 73, Sec. 11) by Stats. 2024, Ch. 998, Sec. 3.   (AB 176)   Effective September 30, 2024.   Inoperative July 1, 2027, by its own provisions.   Repealed as of January 1, 2028, by its own provisions.   See later operative version added by Sec. 12 of Stats. 2024, Ch. 73.)
+(History: Amended (as amended by Stats. 2024, Ch. 998, Sec. 3) by Stats. 2026, Ch. 25, Sec. 7.   (AB 150)   Effective June 29, 2026.   Inoperative July 1, 2027, by its own provisions.    Repealed as of January 1, 2028, by its own provisions.    See later operative version, as amended by Sec. 8 of Stats. 2026, Ch. 25.)
 -------------------------------------------
 
 8211.
@@ -8390,50 +8371,41 @@ As used in this chapter:
 
 (1) The first priority for services shall be given to three-year-old or four-year-old children who are recipients of child protective services or who are at risk of being neglected, abused, or exploited upon written referral from a legal, medical, or social service agency. If an agency is unable to enroll a child in this first priority category, the agency shall refer the child’s parent or guardian to local resources and referral services so that services for the child can be located.
 
-(2) (A) To the extent that there are additional three- and
- four-year-old children with exceptional needs interested in enrolling beyond those already enrolled in the percent of funded enrollment set aside pursuant to paragraph (1) of subdivision (c) of Section 8208, the second priority for services shall be given to all three- and four-year-old children with exceptional needs from families with incomes below the income eligibility threshold, described in Section 8213.
+(2) (A) The second priority for services shall be given to all three- and four-year-old children with exceptional needs from families with incomes below the income eligibility threshold, described in Section 8213.
 
 (B) Within this priority category, children with exceptional needs from families with the lowest income according to the income ranking on the most recent schedule of income ceiling eligibility table, as published by the Superintendent at the time of enrollment, shall be enrolled first.
 
-(3) (A) The third priority for services shall be given to eligible three-year-old or four-year-old children who are not enrolled in a state-funded transitional
- kindergarten program. This priority shall not include children eligible pursuant to clause (v) of subparagraph (B) of paragraph (1) of subdivision (a) of Section 8208 if they are from families with incomes above the income eligibility threshold, as described in Section 8213.
+(C) If enrollment of children with exceptional needs does not exceed the set aside pursuant to Section 8208, this priority category shall also include three- and four-year-old children with exceptional needs from families with incomes above the income eligibility threshold, as described in Section 8213. Families served under this subparagraph with the lowest income, consistent with subparagraph (B), shall be enrolled first.
+
+(3) (A) The third priority for services shall be given to eligible three-year-old or four-year-old children who are not enrolled in a state-funded transitional kindergarten program. This priority shall not include children eligible pursuant to clause (v) of subparagraph (B) of paragraph (1) of subdivision (a) of Section 8208 if they are from families with incomes above the income eligibility threshold, as described in Section 8213.
 
 (B) (i) Within this priority category, eligible children with the lowest income according to the income ranking on the most recent schedule of income ceiling eligibility table, as published by the Superintendent at the time of enrollment, shall be enrolled first.
 
 (ii) If two or more families have the same income ranking according to the most recent schedule of income ceiling eligibility table, a child who is identified as a dual language learner shall be enrolled first.
 
-(iii) If there are no children who are identified as
- dual language learners, the child that has been on the waiting list for the longest time shall be admitted first.
+(iii) If there are no children who are identified as dual language learners, the child that has been on the waiting list for the longest time shall be admitted first.
 
-(4) (A) The fourth priority, after all otherwise eligible children have been enrolled, shall be children from families whose income is no more than 15 percent above the income eligibility threshold, as described in Section 8213.
+(4) (A) The fourth priority for services shall be given to children of employees of a local educational agency.
+
+(B) Within this priority category, eligible children with the lowest income according to the income ranking on the most recent schedule of income ceiling eligibility table, as published by the Superintendent at the time of enrollment, shall be enrolled first.
+
+(5) (A) The
+ fifth priority, after all otherwise eligible children have been enrolled, shall be children from families whose income is no more than 15 percent above the income eligibility threshold, as described in Section 8213.
 
 (B) Within this priority category, priority shall be given to three- and four-year-old children with exceptional needs interested in enrolling beyond those already enrolled in the set aside pursuant to Section 8208.
 
-(C) (i) After the children enrolling pursuant to subparagraph (B) are enrolled, three- and four-year-old children without exceptional needs shall be enrolled in income ranking order, with the lowest income according to the
- income ranking on the most recent schedule of income ceiling eligibility table, as published by the Superintendent at the time of enrollment, being enrolled first.
+(C) (i) After the children enrolling pursuant to subparagraph (B) are enrolled, three- and four-year-old children without exceptional needs shall be enrolled in income ranking order, with the lowest income according to the income ranking on the most recent schedule of income ceiling eligibility table, as published by the Superintendent at the time of enrollment, being enrolled first.
 
 (ii) For purposes of clause (i), if two or more families have the same income ranking according to the most recent schedule of income ceiling eligibility table, the child that has been on the waiting list for the longest time shall be admitted first.
 
-(5) After all otherwise eligible children have been enrolled in the first through fourth priority categories, as described in paragraphs (1) to (4), inclusive, the contractor may enroll the children in the following order:
+(6) After all otherwise eligible children have been enrolled in the first through fifth priority categories, as described in paragraphs (1) to
+ (5), inclusive, a provider may enroll any eligible child pursuant to Section 8208.
 
-(A) The contractor may enroll three- and four-year-old children from families that meet eligibility criteria pursuant to paragraph (4) of subdivision (d) of Section 8208. Within this
- priority, contractors shall enroll families in income ranking order, lowest to highest, and within income ranking order, enroll four-year-old children before three-year-old children.
+(b) The Superintendent shall set criteria for, and may grant specific waivers of, the priorities established in this section for agencies that wish to serve specific populations, including children with exceptional needs or children of prisoners. These new waivers shall not include proposals to avoid appropriate fee schedules or admit ineligible families, but may include proposals to accept members of special populations in other than strict income order, as long as appropriate fees are paid.
 
-(B) For California state preschool program sites operating within the attendance boundaries of a qualified free and reduced priced meals school, in accordance with Section 8217, the contractor may enroll any three- and four-year-old children whose families reside within the attendance boundary of the qualified school without establishing eligibility or a need for services pursuant to paragraph (1) or (3) of subdivision (d) of Section 8208. These families shall, to the extent possible, be enrolled in income ranking order, by lowest to highest income according to the most recent schedule of income ceiling eligibility table.
+(c) This section shall become operative on July 1, 2027.
 
-(b) The Superintendent shall set criteria for, and may grant specific waivers
- of, the priorities established in this section for agencies that wish to serve specific populations, including children with exceptional needs or children of prisoners. These new waivers shall not include proposals to avoid appropriate fee schedules or admit ineligible families, but may include proposals to accept members of special populations in other than strict income order, as long as appropriate fees are paid.
-
-(c) (1) Children with exceptional needs enrolled in the percent of funded enrollment set aside pursuant to paragraph (1) of subdivision (c) of Section 8208 shall be enrolled without regard to the priorities listed in subdivision (a).
-
-(2) Within this category, eligible children with the lowest income according to the income ranking on the most recent schedule of income ceiling eligibility table, as published by the Superintendent at the time of
- enrollment, shall be enrolled first.
-
-(3) If two or more families have the same income ranking according to the most recent schedule of income ceiling eligibility table, the child that has been on the waiting list for the longest time shall be admitted first.
-
-(d) This section shall become operative on July 1, 2027.
-
-(History: Repealed (in Sec. 11) and added by Stats. 2024, Ch. 73, Sec. 12.   (SB 163)   Effective July 2, 2024.   Operative July 1, 2027, by its own provisions.)
+(History: Amended (as added by Stats. 2024, Ch. 73, Sec. 12) by Stats. 2026, Ch. 25, Sec. 8.   (AB 150)   Effective June 29, 2026.   Operative July 1, 2027, by its own provisions.)
 -------------------------------------------
 
 8212.
@@ -8474,20 +8446,19 @@ As used in this chapter:
 
 (a) For purposes of establishing initial income eligibility for services under this chapter, “income eligible” means that a family’s adjusted monthly income is at or below 100 percent of the state median income, adjusted for family size, as specified in subdivision (c).
 
-(b) For purposes of establishing ongoing income eligibility under this chapter, “ongoing income eligible” means that a family’s adjusted monthly income is at or below
- 100 percent of the state median income, adjusted for family size, as specified in subdivision (c).
+(b) For purposes of establishing ongoing income eligibility under this chapter, “ongoing income eligible” means that a family’s initial income eligibility for services at the time of enrollment will be in effect, regardless of an increase in income.
 
-(c) The Department of Finance shall calculate the state median income for family sizes of one to four, inclusive, by using the most recent census data available on state median family income in the past 12 months by family size. The Department of Finance shall calculate the state median income for family sizes of five and above by using the most recent census data for a family of four and multiplying this number by the ratios for the appropriate family size used in the federal Low-Income Home Energy Assistance Program (42 U.S.C. Sec. 8621 et seq.) and specified in federal regulations at paragraphs (5), (6), and (7) of subdivision (b) of Section 96.85 of Title 45 of the Code of Federal Regulations. The Department of Finance shall update its calculations of the state median income for families according to the
- methodology provided in this subdivision and provide the updated data to the department no later than March 1 of each fiscal year.
+(c) The Department of Finance shall calculate the state median income for family sizes of one to four, inclusive, by using the most recent census data available on state median family income in the past 12 months by family size. The Department of Finance shall calculate the state median income for family sizes of five and above by using the most recent census data for a family of four and multiplying this number by the ratios for the appropriate family size used in the federal Low-Income Home Energy Assistance Program (42 U.S.C. Sec. 8621 et seq.) and specified in federal regulations at paragraphs (5), (6), and
+ (7) of subdivision (b) of Section 96.85 of Title 45 of the Code of Federal Regulations. The Department of Finance shall update its calculations of the state median income for families according to the methodology provided in this subdivision and provide the updated data to the department no later than March 1 of each fiscal year.
 
 (d) The income of a recipient of federal supplemental security income benefits pursuant to Title XVI of the federal Social Security Act (42 U.S.C. Sec. 1381 et seq.) and state supplemental program benefits pursuant to Title XVI of the federal Social Security Act and Chapter 3 (commencing with Section 12000) of Part 3 of Division 9 of the Welfare and Institutions Code shall not be included as income for purposes of determining eligibility for childcare under this chapter.
 
-(e) Payments made on behalf of a child pursuant to Section 11460, 11461.3, 11461.36, or 11461.4 of the Welfare and Institutions Code shall not be included as income for purposes of determining
- eligibility for preschool pursuant to Section 8208.
+(e) Payments made on behalf of a child pursuant to Section 11460, 11461.3, 11461.36,
+ or 11461.4 of the Welfare and Institutions Code shall not be included as income for purposes of determining eligibility for preschool pursuant to Section 8208.
 
 (f) Notwithstanding any other law, guaranteed income payments received by an individual shall not be included as income for purposes of determining eligibility for preschool pursuant to Section 8208. For purposes of this subdivision, “guaranteed income payments” mean unconditional, recurring, regular cash payments, whether publicly or privately funded, that are intended to support the basic needs of eligible recipients, including, but not limited to, payments provided through pilot programs and projects receiving funding from the California Guaranteed Income Pilot Program (Chapter 16 (commencing with Section 18997) of Part 6 of Division 9 of the Welfare and Institutions Code).
 
-(History: Amended by Stats. 2022, Ch. 62, Sec. 6.   (AB 210)   Effective June 30, 2022.)
+(History: Amended by Stats. 2026, Ch. 25, Sec. 9.   (AB 150)   Effective June 29, 2026.)
 -------------------------------------------
 
 8213.5.
@@ -8516,10 +8487,11 @@ If families have to be disenrolled from subsidized preschool services, families 
 
 8215.
 
-The department shall annually monitor funding used in, and hours of service provided in, the California state preschool program, and shall annually report to the Department of Finance and to the
- Legislature a statewide summary identifying the estimated funding used for, and the number of, preschool age children receiving part-day preschool and wraparound childcare services. The annual report shall include a comparison to the prior year on a county-by-county basis.
+(a) The department shall annually monitor funding used in, and hours of service provided in, the California state preschool program, and shall annually report to the Department of Finance and to the Legislature a statewide summary identifying the estimated funding used for, and the number of, preschool age children receiving part-day preschool and wraparound childcare services. The annual report shall include a comparison to the prior year on a county-by-county basis.
 
-(History: Added by renumbering Section 8236.1 by Stats. 2021, Ch. 116, Sec. 36.   (AB 131)   Effective July 23, 2021.)
+(b) The monitoring shall include projections of total enrollment, age of enrolled, and contract earnings, and the projections shall be collected from providers through surveys by October 1 of each fiscal year.
+
+(History: Amended by Stats. 2026, Ch. 25, Sec. 10.   (AB 150)   Effective June 29, 2026.)
 -------------------------------------------
 
 8216.
@@ -8536,44 +8508,47 @@ The department shall annually monitor funding used in, and hours of service prov
 
 8217.
 
-(a) Notwithstanding any other law, a provider operating a state preschool program within the attendance boundary of a public school, except a charter or magnet school, where at least 80 percent of enrolled pupils are eligible for free or reduced-price meals, may enroll two-, three-, and four-year-old children, as defined in Section 8205, in accordance with the enrollment priorities set forth in Sections 8210 and 8211. Any remaining slots may be open to enrollment of any families not otherwise eligible pursuant to Section 8208, subject to both of the following:
+(a) Notwithstanding any other law, a provider operating a state preschool program within the attendance boundary of a school district or public school, except a charter or magnet school, where at least 80 percent of enrolled pupils are unduplicated pupils, as defined in subdivision (b) of Section 42238.02, may enroll two-, three-, and four-year-old children, as defined in Section 8205, in accordance with the enrollment priorities set forth in Sections 8210 and 8211. Any remaining slots may
+ be open to enrollment of any families not otherwise eligible pursuant to Section 8208, subject to both of the following:
 
-(1) Enrollment of eligible
- two-, three-, and four-year-old children pursuant to this paragraph shall be limited to families that establish residency within the attendance boundary of the qualifying public school pursuant to this subdivision. Providers shall require proof of residency as a condition of enrollment.
-
-(2) To the best of their ability, providers shall give first enrollment priority for slots available pursuant to this paragraph to families with the lowest income, and last enrollment priority to families with the highest income.
-
-(b) (1) Notwithstanding the Administrative Procedure Act (Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code) and Section 33308.5, until regulations are filed with the Secretary of State to implement subdivision (a), the department shall implement subdivision
- (a) through management bulletins or similar letters of instruction issued on or before December 1, 2023.
-
-(2) The department shall initiate a rulemaking action to implement subdivision (a) on or before December 31, 2024.
-
-(c) For purposes of this section, “magnet school” means an entire school with a focus on a special area of study, such as science, the performing arts, or career education, designed to attract pupils from across the school district who may choose to attend the magnet school instead of their local public school.
-
-(d) This section shall become inoperative on July 1, 2027, and, as of January 1, 2028, is repealed.
-
-(History: Amended by Stats. 2024, Ch. 998, Sec. 4.   (AB 176)   Effective September 30, 2024.   Inoperative July 1, 2027, by its own provisions.    Repealed as of January 1, 2028, by its own provisions.    See later operative version added by Sec. 5 of Stats. 2024, Ch. 998.)
--------------------------------------------
-
-8217.
-
-(a) Notwithstanding any other law, a provider operating a state preschool program within the attendance boundary of a public school, except a charter or magnet school, where at least 80 percent of enrolled pupils are eligible for free or reduced-price meals, may enroll three- and four-year-old children, as defined in Section 8205, in accordance with the enrollment priorities set forth in Sections 8210 and 8211. Any remaining slots may be open to enrollment of any families not otherwise eligible pursuant to Section 8208, subject to both of the following:
-
-(1) Enrollment of eligible three- and four-year-old children pursuant to this paragraph shall be limited to families that establish residency within the attendance boundary of the qualifying
- public school pursuant to this subdivision. Providers shall require proof of residency as a condition of enrollment.
+(1) Enrollment of eligible two-, three-, and four-year-old children pursuant to this paragraph shall be limited to families that establish residency within, or have a parent or guardian who is employed within, the attendance boundary of the qualifying school district or public school in which the state preschool program is located.
+ Providers shall require proof of residency
+ or employment location as a condition of enrollment.
 
 (2) To the best of their ability, providers shall give first enrollment priority for slots available pursuant to this paragraph to families with the lowest income, and last enrollment priority to families with the highest income.
 
 (b) (1) Notwithstanding the Administrative Procedure Act (Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code) and Section 33308.5, until regulations are filed with the Secretary of State to implement subdivision (a), the department shall implement subdivision (a) through management bulletins or similar letters of instruction issued on or before December 1, 2023.
 
-(2) The department shall initiate a
- rulemaking action to implement subdivision (a) on or before December 31, 2024.
+(2) The department shall initiate a rulemaking action to
+ implement subdivision (a) on or before December 31, 2024.
+
+(c) For purposes of this section, “magnet school” means an entire school with a focus on a special area of study, such as science, the performing arts, or career education, designed to attract pupils from across the school district who may choose to attend the magnet school instead of their local public school.
+
+(d) This section shall become inoperative on July 1, 2027, and, as of January 1, 2028, is repealed.
+
+(History: Amended (as amended by Stats. 2024, Ch. 998, Sec. 4) by Stats. 2026, Ch. 25, Sec. 11.   (AB 150)   Effective June 29, 2026.   Inoperative July 1, 2027, by its own provisions.    Repealed as of January 1, 2028, by its own provisions.    See later operative version, as amended by Sec. 12 of Stats. 2026, Ch. 25.)
+-------------------------------------------
+
+8217.
+
+(a) Notwithstanding any other law, a provider operating a state preschool program within the attendance boundary of a school district or public school, except a charter or magnet school, where at least 80 percent of enrolled pupils are unduplicated pupils, as defined in subdivision (b) of Section 42238.02, may enroll three- and four-year-old children, as defined in Section 8205, in accordance with the enrollment priorities set forth in Sections 8210 and 8211. Any remaining slots may be open
+ to enrollment of any families not otherwise eligible pursuant to Section 8208, subject to both of the following:
+
+(1) Enrollment of eligible three- and four-year-old children pursuant to this paragraph shall be limited to families that establish residency within, or have a parent or guardian who is employed within, the attendance boundary of the qualifying school district or
+ public school in which the state preschool program is located. Providers shall require proof of residency or employment location as a condition of enrollment.
+
+(2) To the best of their ability, providers shall give first enrollment priority for slots available pursuant to this paragraph to families with the lowest income, and last enrollment priority to families with the highest income.
+
+(b) (1) Notwithstanding the Administrative Procedure Act (Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title
+ 2 of the Government Code) and Section 33308.5, until regulations are filed with the Secretary of State to implement subdivision (a), the department shall implement subdivision (a) through management bulletins or similar letters of instruction issued on or before December 1, 2023.
+
+(2) The department shall initiate a rulemaking action to implement subdivision (a) on or before December 31, 2024.
 
 (c) For purposes of this section, “magnet school” means an entire school with a focus on a special area of study, such as science, the performing arts, or career education, designed to attract pupils from across the school district who may choose to attend the magnet school instead of their local public school.
 
 (d) This section shall become operative on July 1, 2027.
 
-(History: Repealed (in Sec. 4) and added by Stats. 2024, Ch. 998, Sec. 5.   (AB 176)   Effective September 30, 2024.   Operative July 1, 2027, by its own provisions.)
+(History: Amended (as added by Stats. 2024, Ch. 998, Sec. 5) by Stats. 2026, Ch. 25, Sec. 12.   (AB 150)   Effective June 29, 2026.   Operative July 1, 2027, by its own provisions.)
 -------------------------------------------
 
 8220.
@@ -9099,16 +9074,32 @@ Until the Superintendent of Public Instruction promulgates regulations for cente
 (4) Rate
  increases shall be subject to federal usage limitations and federal and state program eligibility requirements.
 
-(d) (1) (A) Notwithstanding subdivisions (b) and (c), for the 2023–24 fiscal year and the 2024–25 fiscal year, the cost-of-living adjustment required pursuant to subdivisions (b) and (c) shall instead be zero.
+(d) (1) Funding shall be allocated to the State Department of Education, pursuant to paragraph (2), from a portion of funds in Schedule (1) of Item 6100-194-0001 of, and Schedule (1) of Item 6100-196-0001 of, the Budget Act of 2026 to provide a once-per-month, per-child-served cost of care plus rate for providers serving children enrolled in California state preschool programs.
+
+(2) (A) Of the funding described in paragraph (1), funding is hereby allocated to the State Department of Education to provide preschool providers with a monthly cost of care plus rate increase commencing July 1, 2026. The increase per child shall be equal to the amount
+ calculated in clause (iii) of subparagraph (B).
+
+(B) The Department of Finance shall make the following calculations based on data provided by the State Department of Education:
+
+(i) The total cost of providing the statutory cost of living adjustment for preschool programs in the 2026–27 fiscal year pursuant to Section 42238.15 for the preschool programs described in paragraph (1).
+
+(ii) The estimated cost of providing the monthly cost of care plus rates described in subparagraph (E) of paragraph (2) of subdivision (c) of Section 10277.1 of, and paragraph (3) of subdivision (c) of Section 10277.2 of, the Welfare and Institutions Code in the 2026–27 fiscal year based on the estimates of child enrollment for the 2026–27 fiscal year provided by the State Department of Education.
+
+(iii) Divide the amount calculated in clause (i) by the amount calculated in clause (ii).
+
+(C) Notwithstanding any other law, for the 2026–27 fiscal year, the cost-of-living adjustment shall be 2.009 percent for the purpose of the calculation in subparagraph (B).
+
+(e) (1) (A) Notwithstanding subdivisions (b) and (c), for the 2023–24 fiscal year and the 2024–25 fiscal year, the cost-of-living adjustment required pursuant to subdivisions (b) and (c) shall instead be zero.
 
 (B) It is the intent of the Legislature that any adjustments in the 2023–24, 2024–25, and 2025–26 fiscal years related to reimbursement for programs funded pursuant to this section will be subject to a ratified agreement, and subject to future legislation providing for appropriations related to the budget bill.
 
-(2) Notwithstanding
- subdivisions (b) and (c), for the 2025–26 fiscal year, the cost-of-living adjustment required pursuant to subdivisions (b) and (c) shall instead be zero. 
+(2) Notwithstanding subdivisions (b) and (c), for the 2025–26 fiscal year, the cost-of-living adjustment required pursuant to subdivisions (b) and (c) shall instead be zero.
 
-(e) Commencing July 1, 2026, the cost-of-living adjustment shall be applied consistently with subdivision (m) of Section 10227.6 of the Welfare and Institutions Code.
+(3) Notwithstanding subdivisions (b) and (c), for the 2026–27 fiscal year, the cost-of-living adjustment required pursuant to subdivisions (b) and (c) shall instead be zero.
 
-(History: Amended by Stats. 2025, Ch. 13, Sec. 1.   (SB 120)   Effective June 27, 2025.)
+(f) Commencing July 1, 2026, the cost-of-living adjustment shall be applied consistently with subdivision (m) of Section 10227.6 of the Welfare and Institutions Code.
+
+(History: Amended by Stats. 2026, Ch. 25, Sec. 13.   (AB 150)   Effective June 29, 2026.)
 -------------------------------------------
 
 8243.
@@ -9374,11 +9365,9 @@ In the event that operating agencies are unable to operate due to incomplete rep
 
 8251.
 
-An agency contracting with the department to provide
- California state preschool program services may schedule up to two days of staff training, per contract period, using state reimbursement funding on the topics including procedures for emergencies in preschool programs, licensing regulations relating to preschool programs, recognition and reporting of suspected abuse of children in preschool
- programs, managing challenging behaviors and preventing expulsion of children, and addressing items on the program’s Quality Rating and Improvement System (QRIS) Quality plan.
+An agency contracting with the department to provide California state preschool program services may schedule up to five days of staff training, per contract period, using state reimbursement funding on the topics including procedures for emergencies in preschool programs, licensing regulations relating to preschool programs, recognition and reporting of suspected abuse of children in preschool programs, managing challenging behaviors and preventing expulsion of children, and addressing items on the program’s Quality Rating and Improvement System (QRIS) Quality plan.
 
-(History: Added by renumbering Section 8272.1 by Stats. 2021, Ch. 116, Sec. 99.   (AB 131)   Effective July 23, 2021.)
+(History: Amended by Stats. 2026, Ch. 25, Sec. 14.   (AB 150)   Effective June 29, 2026.)
 -------------------------------------------
 
 
@@ -9391,8 +9380,8 @@ An agency contracting with the department to provide
 
 (b) Families shall be assessed a single flat monthly fee for all state subsidized early childhood services received, including California state preschool program services and services received through childcare and development programs administered by the State Department of Social Services, pursuant to Section 10290 of the Welfare and Institutions Code.
 
-(c) The income of a recipient of federal supplemental security income benefits
- pursuant to Title XVI of the federal Social Security Act (42 U.S.C. Sec. 1381 et seq.) and state supplemental program benefits pursuant to Title XVI of the federal Social Security Act (42 U.S.C. Sec. 1381 et seq.) and Chapter 3 (commencing with Section 12000) of Part 3 of Division 9 of the Welfare and Institutions Code shall not be included in total countable income for purposes of determining the amount of the family fee.
+(c) The income of a recipient of federal supplemental security income
+ benefits pursuant to Title XVI of the federal Social Security Act (42 U.S.C. Sec. 1381 et seq.) and state supplemental program benefits pursuant to Title XVI of the federal Social Security Act (42 U.S.C. Sec. 1381 et seq.) and Chapter 3 (commencing with Section 12000) of Part 3 of Division 9 of the Welfare and Institutions Code shall not be included in total countable income for purposes of determining the amount of the family fee.
 
 (d) Family fees shall be assessed at initial enrollment and reassessed at recertification.
 
@@ -9400,8 +9389,8 @@ An agency contracting with the department to provide
 
 (f) Family fees shall not be based on the cost of care or amount of subsidy payment.
 
-(g) Notwithstanding any other provision of
- this article, family fees shall not be collected for the 2021–22 fiscal year pursuant to Section 263 of Chapter 116 of the Statutes of 2021.
+(g) Notwithstanding any other
+ provision of this article, family fees shall not be collected for the 2021–22 fiscal year pursuant to Section 263 of Chapter 116 of the Statutes of 2021.
 
 (h) (1) Notwithstanding any other law, family fees shall not be collected for the 2022–23 fiscal year.
 
@@ -9409,29 +9398,30 @@ An agency contracting with the department to provide
 
 (i) (1) Notwithstanding any other law, family fees shall not be collected between July 1, 2023, and September 30, 2023, inclusive.
 
-(2) Contractors shall reimburse providers operating within a family childcare home education network for the full amount of the certificate or voucher without
- deducting family fees.
+(2) Contractors shall reimburse providers operating within a family childcare home education network for the full amount of the certificate or
+ voucher without deducting family fees.
 
-(j) Family fees accrued but uncollected prior to October 1, 2023, may be forgiven and not collected.
+(j) By no later than January 1, 2027, contractors shall reimburse California state preschool program providers for the full amount of the certificate or voucher without deducting family fees and shall collect family fees pursuant to this section.
 
-(k) (1) A California state preschool program or childcare provider paid with childcare subsidies, including, but not limited to, a family childcare home provider participating in a family childcare home education network, shall not absorb a reduction in pay for the California state preschool program space or voucher on account of a waiver of or reduction in family fees.
+(k) Family fees accrued but uncollected prior to October 1, 2023, may be forgiven and not collected.
+
+(l) (1) A California state preschool program or childcare provider paid with childcare subsidies, including, but not limited to, a family childcare home provider participating in a family childcare home education network, shall not absorb a reduction in pay for the California state preschool program space or voucher on account of a waiver of or reduction in family fees.
 
 (2) The number of California state preschool program contracted spaces and childcare contracted spaces shall not be reduced on account of a reduction in the collection of family fees.
 
-(History: Amended by Stats. 2023, Ch. 193, Sec. 4.   (SB 140)   Effective September 13, 2023.)
+(History: Amended by Stats. 2026, Ch. 25, Sec. 15.   (AB 150)   Effective June 29, 2026.)
 -------------------------------------------
 
 8253.
 
-(a) A family that receives services pursuant to paragraph (1) of subdivision (a) of Section 8211 may be exempt from family fees for up to 12 months.
+(a) A family that receives services pursuant to paragraph (1) of subdivision (a) of Section 8211 may be exempt from family fees for up to one certification period.
 
-(b) Notwithstanding any other
- law, a family receiving CalWORKs cash aid shall not be charged a family fee.
+(b) Notwithstanding any other law, a family receiving CalWORKs cash aid shall not be charged a family fee.
 
-(c) Notwithstanding any other law, commencing with the 2014–15 fiscal year, family fees shall not be assessed for the part-day California preschool program to eligible families whose children are enrolled in that program pursuant to Article 2
- (commencing with Section 8207).
+(c) Notwithstanding any other law, commencing with the 2014–15 fiscal year, family fees shall not be assessed for the part-day California preschool program to eligible families whose children are enrolled in that program pursuant to
+ Article 2 (commencing with Section 8207).
 
-(History: Added by renumbering Section 8273.1 by Stats. 2021, Ch. 116, Sec. 103.   (AB 131)   Effective July 23, 2021.)
+(History: Amended by Stats. 2026, Ch. 25, Sec. 16.   (AB 150)   Effective June 29, 2026.)
 -------------------------------------------
 
 8254.
