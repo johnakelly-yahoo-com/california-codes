@@ -5,7 +5,7 @@
 
 Source: Official California Legislative Information
         https://downloads.leginfo.legislature.ca.gov/
-Last Updated by State of California: December 10, 2025
+Last Updated by State of California: July 10, 2026
 
 
 ======================================================================
@@ -31761,9 +31761,9 @@ TITLE 6. PLEADINGS AND PROCEEDINGS BEFORE TRIAL [976. - 1054.10.]
 
 (k) The Judicial Council shall adopt rules and standards that are necessary to implement the policies and provisions of this section and the intent of the Legislature.
 
-(l) This section shall remain in effect only until January 1, 2027, and as of that date is repealed.
+(l) This section shall remain in effect only until January 1, 2032, and as of that date is repealed.
 
-(History: Amended (as amended by Stats. 2023, Ch. 190, Sec. 3) by Stats. 2024, Ch. 51, Sec. 10.   (AB 170)   Effective July 2, 2024.   Repealed as of January 1, 2027, by its own provisions.    See later operative version, as amended by Sec. 11 of Stats. 2024, Ch. 51.)
+(History: Amended (as amended by Stats. 2024, Ch. 51, Sec. 10) by Stats. 2026, Ch. 29, Sec. 6.   (SB 174)   Effective June 29, 2026.   Repealed as of January 1, 2032, by its own provisions.    See later operative version, as amended by Sec. 7 of Stats. 2026, Ch. 29.)
 -------------------------------------------
 
 977.
@@ -31822,9 +31822,9 @@ TITLE 6. PLEADINGS AND PROCEEDINGS BEFORE TRIAL [976. - 1054.10.]
 
 (4) This subdivision does not apply to any trial, hearing, or other proceeding in which the defendant was personally present in court at the commencement of the trial, hearing, or other proceeding.
 
-(e) This section shall become operative on January 1, 2027.
+(e) This section shall become operative on January 1, 2032.
 
-(History: Amended (as amended by Stats. 2023, Ch. 190, Sec. 4) by Stats. 2024, Ch. 51, Sec. 11.   (AB 170)   Effective July 2, 2024.   Operative January 1, 2027, by its own provisions.)
+(History: Amended (as amended by Stats. 2024, Ch. 51, Sec. 11) by Stats. 2026, Ch. 29, Sec. 7.   (SB 174)   Effective June 29, 2026.   Operative January 1, 2032, by its own provisions.)
 -------------------------------------------
 
 977.1.
@@ -31854,21 +31854,21 @@ The resolution of questions of fact or issues of law by trial or hearing which c
 
 (b) Notwithstanding subdivision (a), the court may allow a witness to testify through the use of remote technology as otherwise provided by statutes regarding the examination of victims of sexual crimes and conditional examinations of witnesses.
 
-(c) The court shall make findings on the record that any waiver entered
- into pursuant to this section is knowingly, voluntarily, and intelligently made by the defendant.
+(c) The court shall make findings on the record that any waiver
+ entered into pursuant to this section is knowingly, voluntarily, and intelligently made by the defendant.
 
 (d) A written waiver of a witness’s physical presence at a misdemeanor jury trial shall be substantially in the following form:
 
 “Waiver of a Witness’s Physical Presence at Misdemeanor Jury Trials”
 
-“The undersigned defendant, having been advised of their right to have [name of witness] be physically present at a misdemeanor jury trial, hereby knowingly, intelligently, and voluntarily waives the right to have [name of witness] be physically present at the misdemeanor jury trial. The undersigned defendant may withdraw this consent at any time upon a finding of good cause. Good cause to withdraw consent is satisfied when the quality of the technology or audibility at the misdemeanor jury trial inhibits the court reporter’s ability to accurately prepare and certify a
- transcript of the proceeding.”
+“The undersigned defendant, having been advised of their right to have [name of witness] be physically present at a misdemeanor jury trial, hereby knowingly, intelligently, and voluntarily waives the right to have [name of witness] be physically present at the misdemeanor jury trial. The undersigned defendant may withdraw this consent at any time upon a finding of good cause. Good cause to withdraw consent is satisfied when the quality of the technology or audibility at the misdemeanor jury trial inhibits the court reporter’s ability to accurately prepare and
+ certify a transcript of the proceeding.”
 
 (e) The Judicial Council shall adopt rules and standards that are necessary to implement the policies and provisions of this section and the intent of the Legislature.
 
-(f) This section shall remain in effect only until January 1, 2027, and as of that date is repealed.
+(f) This section shall remain in effect only until January 1, 2032, and as of that date is repealed.
 
-(History: Amended by Stats. 2024, Ch. 51, Sec. 12.   (AB 170)   Effective July 2, 2024.   Repealed as of January 1, 2027, by its own provisions.)
+(History: Amended by Stats. 2026, Ch. 29, Sec. 8.   (SB 174)   Effective June 29, 2026.   Repealed as of January 1, 2032, by its own provisions.)
 -------------------------------------------
 
 978.
@@ -34724,8 +34724,8 @@ If there is no authorization pursuant to subdivision (a) of Section 977 and if t
 
 (b) The absence of the defendant in a preliminary hearing after the hearing has commenced in their physical presence shall not prevent continuing the hearing to, and including, holding to answer, filing an information, or discharging the defendant in any of the following cases:
 
-(1) Any case in which the defendant, after being warned by the judge that they will be removed if they continued their disruptive behavior, nevertheless insists on acting in a manner so disorderly, disruptive, and disrespectful of the court that the hearing cannot be carried on with the defendant present in the
- courtroom.
+(1) Any case in which the defendant, after being warned by the judge that they will be removed if they continued their disruptive behavior, nevertheless insists on acting in a manner so disorderly, disruptive, and disrespectful of the court that the hearing cannot be carried on with the defendant present in
+ the courtroom.
 
 (2) Any prosecution for an offense which is not punishable by death in which the defendant is voluntarily absent.
 
@@ -34756,9 +34756,9 @@ If there is no authorization pursuant to subdivision (a) of Section 977 and if t
 (4) This subdivision does not apply to any preliminary hearing in which the defendant was personally present in court at the commencement of the preliminary hearing.
 
 (f) This section shall remain in
- effect only until January 1, 2027, and as of that date is repealed.
+ effect only until January 1, 2032, and as of that date is repealed.
 
-(History: Amended (as amended by Stats. 2023, Ch. 190, Sec. 6) by Stats. 2024, Ch. 51, Sec. 13.   (AB 170)   Effective July 2, 2024.   Repealed as of January 1, 2027, by its own provisions.    See later operative version, as amended by Sec. 14 of Stats. 2024, Ch. 51.)
+(History: Amended (as amended by Stats. 2024, Ch. 51, Sec. 13) by Stats. 2026, Ch. 29, Sec. 9.   (SB 174)   Effective June 29, 2026.   Repealed as of January 1, 2032, by its own provisions.    See later operative version, as amended by Sec. 10 of Stats. 2026, Ch. 29.)
 -------------------------------------------
 
 1043.5.
@@ -34767,8 +34767,8 @@ If there is no authorization pursuant to subdivision (a) of Section 977 and if t
 
 (b) The absence of the defendant in a preliminary hearing after the hearing has commenced in their physical presence shall not prevent continuing the hearing to, and including, holding to answer, filing an information, or discharging the defendant in any of the following cases:
 
-(1) Any case in which the defendant, after being warned by the judge that they will be removed if they continued their disruptive behavior, nevertheless insists on acting in a manner so disorderly, disruptive, and disrespectful of the court that the hearing cannot be carried on with the defendant present in the
- courtroom.
+(1) Any case in which the defendant, after being warned by the judge that they will be removed if they continued their disruptive behavior, nevertheless insists on acting in a manner so disorderly, disruptive, and disrespectful of the court that the hearing cannot be carried on with the defendant present in
+ the courtroom.
 
 (2) Any prosecution for an offense which is not punishable by death in which the defendant is voluntarily absent.
 
@@ -34776,8 +34776,8 @@ If there is no authorization pursuant to subdivision (a) of Section 977 and if t
 
 (d) Subdivisions (a) and (b) shall not limit the right of a defendant to waive the right to be present in accordance with Section 977.
 
-(e) (1) For purposes of subdivision (b), a preliminary hearing shall be deemed to have commenced in the presence of the defendant if the court finds, by clear and convincing evidence, all
- of the following to be true:
+(e) (1) For purposes of subdivision (b), a preliminary hearing shall be deemed to have commenced in the presence of the defendant if the court finds, by clear and convincing evidence,
+ all of the following to be true:
 
 (A) The defendant is in custody and is refusing, without good cause, to appear in court on that day for that preliminary hearing.
 
@@ -34787,8 +34787,8 @@ If there is no authorization pursuant to subdivision (a) of Section 977 and if t
 
 (D) The defendant has been informed that they have the right to remain silent during the preliminary hearing.
 
-(E) The defendant has been informed that their absence without good cause will constitute a voluntary waiver of any constitutional or statutory right to confront any witnesses against them or to testify on their
- own behalf.
+(E) The defendant has been informed that their absence without good cause will constitute a voluntary waiver of any constitutional or statutory right to confront any witnesses against them or to testify on
+ their own behalf.
 
 (F) The defendant has been informed whether or not defense counsel will be present.
 
@@ -34798,9 +34798,9 @@ If there is no authorization pursuant to subdivision (a) of Section 977 and if t
 
 (4) This subdivision does not apply to any preliminary hearing in which the defendant was personally present in court at the commencement of the preliminary hearing.
 
-(f) This section shall become operative on January 1, 2027.
+(f) This section shall become operative on January 1, 2032.
 
-(History: Amended (as amended by Stats. 2023, Ch. 190, Sec. 7) by Stats. 2024, Ch. 51, Sec. 14.   (AB 170)   Effective July 2, 2024.   Operative January 1, 2027, by its own provisions.)
+(History: Amended (as amended by Stats. 2024, Ch. 51, Sec. 14) by Stats. 2026, Ch. 29, Sec. 10.   (SB 174)   Effective June 29, 2026.   Operative January 1, 2032, by its own provisions.)
 -------------------------------------------
 
 1044.
@@ -39489,11 +39489,12 @@ For any order to pay a fine, to make payments to a domestic violence shelter-bas
 
 1203.099.
 
-(a) The Counties of Napa, San Luis Obispo, Santa Barbara, Santa Clara, Santa Cruz, and Yolo may offer a program for individuals convicted of domestic violence that does not comply with the requirement of the batterer’s program in Sections 1203.097 and 1203.098 if the program meets all of the following conditions:
+(a) The Counties of Napa, Sacramento, San Luis Obispo, Santa Barbara, Santa Clara, Santa Cruz, and Yolo may offer a program for individuals convicted of domestic violence that does not comply with the requirement of the batterer’s program in Sections 1203.097 and 1203.098 if the program meets all of the following conditions:
 
 (1) The county develops the program in consultation with the domestic violence service providers and other relevant community partners.
 
-(2) The county performs a risk and needs assessment utilizing an assessment demonstrated to be appropriate for domestic violence offenders for each offender entering the program.
+(2) The county performs a risk and needs assessment utilizing an assessment demonstrated to be appropriate for domestic violence
+ offenders for each offender entering the program.
 
 (3) The offender’s treatment within the program is based on the findings of the risk and needs assessment.
 
@@ -39503,7 +39504,8 @@ For any order to pay a fine, to make payments to a domestic violence shelter-bas
 
 (6) The offender’s treatment within the program is for not less than one year in length, unless an alternative length is established by a validated risk and needs assessment completed by the probation department or an organization approved by the probation department.
 
-(7) The county collects all of the following data for participants in the program:
+(7) The county collects all of
+ the following data for participants in the program:
 
 (A) The offender’s demographic information, including age, gender, race, ethnicity, marital status, familial status, and employment status.
 
@@ -39513,8 +39515,7 @@ For any order to pay a fine, to make payments to a domestic violence shelter-bas
 
 (D) The treatment provided to the offender during the program and if the offender completed that treatment.
 
-(E) The offender’s outcome at the time of program completion, and six months after completion, including subsequent restraining order
- violations, arrests and convictions, and feedback provided by the victim if the victim desires to participate.
+(E) The offender’s outcome at the time of program completion, and six months after completion, including subsequent restraining order violations, arrests and convictions, and feedback provided by the victim if the victim desires to participate.
 
 (8) The county reports all of the following information annually to the Legislature:
 
@@ -39528,22 +39529,23 @@ For any order to pay a fine, to make payments to a domestic violence shelter-bas
 
 (E) Individual data for the items described in paragraph (7).
 
-(b) Offenders who complete a program described in subdivision (a) shall be deemed to have met the batterer’s program requirements set forth in Section 1203.097.
+(b) Offenders who complete a program described in subdivision (a) shall be deemed to have met the batterer’s program requirements
+ set forth in Section 1203.097.
 
 (c) As used in this section, the following definitions shall apply:
 
 (1) “Evidence-based program or practice” means a program or practice that has a high level of research indicating its effectiveness, determined as a result of multiple rigorous evaluations including randomized controlled trials and evaluations that incorporate strong comparison group designs, or a single large multisite randomized study, and, typically, has specified procedures that allow for successful replication.
 
-(2) “Promising
- program or practice” means a program or practice that has some research demonstrating its effectiveness but does not meet the full criteria for an evidence-based designation.
+(2) “Promising program or practice” means a program or practice that has some research demonstrating its effectiveness but does not meet the full criteria for an evidence-based designation.
 
-(d) A report to be submitted pursuant to paragraph (8) of subdivision (a) shall be submitted in compliance with Section 9795 of the Government Code.
+(d) A report to be submitted pursuant to paragraph (8)
+ of subdivision (a) shall be submitted in compliance with Section 9795 of the Government Code.
 
 (e) This section shall become operative on July 1, 2019.
 
-(f) This section shall remain in effect only until July 1, 2026, and as of that date is repealed.
+(f) This section shall remain in effect only until July 1, 2030, and as of that date is repealed.
 
-(History: Amended by Stats. 2023, Ch. 86, Sec. 1.   (AB 479)   Effective July 21, 2023.   Repealed as of July 1, 2026, by its own provisions.)
+(History: Amended by Stats. 2026, Ch. 37, Sec. 1.   (AB 1549)   Effective June 30, 2026.   Repealed as of July 1, 2030, by its own provisions.)
 -------------------------------------------
 
 1203.1.
@@ -48800,54 +48802,58 @@ For a person committed as a mentally disordered sex offender under former Sectio
 
 (a) Before any person subject to the provisions of subdivision (b) of Section 1601 may be placed on outpatient status, the court shall consider all of the following criteria:
 
-(1) In the case of a person who is an inpatient, whether the director of the state hospital or other treatment facility to which the person has been committed advises the court that the defendant will not be a danger to the health and safety of others while on outpatient status, and will benefit from such outpatient status.
+(1) In the case of a person who is an inpatient, whether the medical director or designee of the state hospital or other treatment facility to which the person has been committed advises the
+ committing court, defense counsel, and the prosecutor that the defendant would no longer be a danger to the health and safety of others, or to themselves, while under supervision and treatment in the community, and would benefit from such outpatient status.
 
-(2) In all cases, whether the community program director or a designee, or pursuant to Section 4360.5 of the Welfare and Institutions Code, the independent evaluation panel, advises the court that the defendant
- will not be a danger to the health and safety of others while on outpatient status, will benefit from such status, and identifies an appropriate program of supervision and treatment.
+(2) In all cases, whether the community program director or a designee, or
+ the independent placement panel, advises the court that the defendant will not be a danger to the health and safety of others, or to themselves, while on outpatient status, will benefit from such status, and identifies an appropriate program of supervision and treatment.
 
-(b) Prior to determining whether to place the person on outpatient status, the court shall provide actual notice to the prosecutor and defense counsel, and to the victim, and shall hold a hearing at which the court may specifically order outpatient status for the person.
+(b) Prior to determining whether to place the person on outpatient status, the court shall provide actual notice to the prosecutor and defense counsel, and to the victim, and shall hold a hearing at which the court may specifically order outpatient status for the
+ person.
 
-(c) The community program director or a designee, or the independent evaluation panel, shall prepare and submit the evaluation and the treatment plan specified in paragraph (2) of subdivision (a) to the court within 15 calendar days after notification by the court to do so, except that in the case of a person who is an inpatient, the evaluation and treatment plan shall be submitted within 30 calendar days after notification by the
- court to do so.
+(c) The community program director or a designee, or the independent placement panel, shall prepare and submit the evaluation and the treatment plan specified in paragraph (2) of subdivision (a) to the court within 15 calendar days after notification by the court to do so, except that in the case of a person who is an inpatient, the evaluation and treatment plan shall be submitted within 30 calendar days after notification by the court to do so.
 
-(d) Any evaluations and recommendations pursuant to paragraphs (1) and (2) of subdivision (a) shall include review and consideration of complete, available information regarding the circumstances of the criminal offense and the person’s prior criminal history.
+(d) Any evaluations and recommendations pursuant to paragraphs (1) and (2) of subdivision (a) shall include review and consideration of complete, available information regarding the circumstances of the criminal offense and the
+ person’s prior criminal history.
 
-(History: Amended by Stats. 2022, Ch. 47, Sec. 46.   (SB 184)   Effective June 30, 2022.)
+(History: Amended by Stats. 2026, Ch. 27, Sec. 59.   (SB 164)   Effective June 29, 2026.)
 -------------------------------------------
 
 1603.
 
 (a) Before any person subject to subdivision (a) of Section 1601 may be placed on outpatient status the court shall consider all of the following criteria:
 
-(1) Whether the director of the state hospital or other treatment facility to which the person has been committed advises the committing court and the prosecutor that the defendant would no longer be a danger to the health and safety of others, including themselves, while under supervision and treatment in the community, and will benefit from that status.
+(1) Whether the medical director or designee of the state hospital or other treatment facility to which the person has been committed advises the committing court, defense counsel, and the prosecutor that
+ the defendant would no longer be a danger to the health and safety of others, including themselves, while under supervision and treatment in the community, will benefit from that status, and identifies an appropriate program of supervision and treatment.
 
-(2) Whether the community program director or a designee, or pursuant to Section 4360.5 of the Welfare and Institutions Code, the independent evaluation panel, advises the court that the defendant
- will benefit from that status, and identifies an appropriate program of supervision and treatment.
+(2) Whether the community program director or a designee, or pursuant to Section 4360.5 of the Welfare and Institutions Code, the independent
+ placement panel, advises the
+ committing court, defense counsel, and the prosecutor that the defendant would no longer be a danger to the health and safety of others, including themselves, while under supervision and treatment in the community, will benefit from that status, and identifies an appropriate program of supervision and treatment.
 
 (b) (1) Prior to release of a person under subdivision (a), the prosecutor shall provide notice of the hearing date and pending release to the victim or next of kin of the victim of the offense for which the person was committed where a request for the notice has been filed with the court, and after a hearing in court, the court shall specifically approve the recommendation and plan for outpatient status pursuant to Section 1604. The burden shall be on the victim or next of kin to the victim to keep the court apprised of the party’s current mailing address.
 
-(2) In any case in which the victim or next of kin to the victim has filed a request for notice with the director of the state hospital or other treatment facility, they shall be notified by the director at
- the inception of any program in which the committed person would be allowed any type of day release unattended by the staff of the facility.
+(2) In any case in which the victim or next of kin to the victim has filed a request for notice with the director of the state hospital or other treatment facility, they shall be notified by the director at the inception of any program in which the committed person would be allowed any type of day release unattended by the staff of the facility.
 
-(c) The community program director, their designee, or the independent evaluation panel, shall prepare and submit the evaluation and the treatment plan specified in paragraph (2) of subdivision (a) to the court within 30 calendar days after notification by the court to do so.
+(c) The community program director, their designee, or the independent placement panel, shall prepare and submit the evaluation and the treatment plan specified in paragraph (2) of subdivision (a) to the court within 30 calendar days after notification by the court to do so.
 
 (d) Any evaluations and recommendations pursuant to paragraphs (1) and (2) of subdivision (a) shall include review and consideration of complete, available information regarding the circumstances of the criminal offense and the person’s prior criminal history.
 
-(History: Amended by Stats. 2022, Ch. 47, Sec. 47.   (SB 184)   Effective June 30, 2022.)
+(History: Amended by Stats. 2026, Ch. 27, Sec. 60.   (SB 164)   Effective June 29, 2026.)
 -------------------------------------------
 
 1604.
 
-(a) Upon receipt by the committing court of the recommendation of the director of the state hospital or other treatment facility to which the person has been committed that the person may be eligible for outpatient status as set forth in subdivision (a)(1) of Section 1602 or 1603, the court shall immediately forward such recommendation to the independent evaluation panel described in Section 4360.5 of the Welfare and Institutions Code, prosecutor, and defense counsel. Notwithstanding any law, the court shall provide copies of the arrest reports and the state summary criminal history information to the panel. The panel shall share the recommendation and copies of the arrest reports and the state summary criminal history information with the community program director or designee.
+(a) Upon receipt by the committing court of the recommendation of the medical director or designee of the state hospital or other treatment facility to which the person has been committed that the person may be eligible for outpatient status as set forth in subdivision (a)(1) of Section 1602 or 1603, the court shall immediately forward such recommendation to the independent placement panel described in Section 4360.5 of
+ the Welfare and Institutions Code, prosecutor, and defense counsel. Notwithstanding any law, the court shall provide copies of the arrest reports and the state summary criminal history information to the panel. The panel shall share the recommendation and copies of the arrest reports and the state summary criminal history information with the community program director or designee.
 
-(b) Within 30 calendar days the community program director, designee, or panel, shall submit to the court and, when appropriate, to the director of the state hospital or other treatment facility, a recommendation regarding the defendant’s eligibility for outpatient status, as set forth in subdivision (a)(2) of Section 1602 or 1603 and the recommended plan for outpatient supervision and treatment. The plan shall set forth specific terms and conditions to be followed during outpatient status. The court shall provide copies of this report to the prosecutor and the defense counsel.
+(b) Within 30 calendar days the independent placement panel or designee shall submit to the court and to the medical director of the state hospital or other treatment facility, a recommendation regarding the defendant’s eligibility for outpatient status, as set forth in subdivision (a)(2) of Section 1602 or 1603 and the recommended plan for outpatient supervision and treatment. The plan shall set forth specific terms and conditions to be followed during outpatient status. The court shall provide copies of this report to the prosecutor and the defense counsel.
 
-(c) The court shall calendar the matter for hearing within 15 judicial days of the receipt of the report described in subdivision (b) and shall give notice of the hearing date to the prosecutor, defense counsel, the panel, and, when appropriate, to the director of the state hospital or other facility. In any
- hearing conducted pursuant to this section, the court shall consider the circumstances and nature of the criminal offense leading to commitment and shall consider the person’s prior criminal history.
+(c) The court shall calendar the matter for hearing within 15 judicial days of the receipt of the report described in subdivision (b) and shall give notice of the hearing date to the prosecutor, defense counsel, the community program director, the independent placement panel, and the medical director of the state hospital or other facility. In any hearing conducted pursuant to this section, the court shall consider the circumstances and nature of the criminal offense leading to commitment and shall consider the person’s prior criminal history.
 
-(d) The court shall, after a hearing in court, either approve or disapprove the recommendation for outpatient status. If the approval of the court is given, the defendant shall be placed on outpatient status subject to the terms and conditions specified in the supervision and treatment plan. If the outpatient treatment occurs in a county other than the county of commitment, the court shall transmit a copy of the case record to the superior court in the county where outpatient treatment occurs, so that the record will be available if revocation proceedings are initiated pursuant to Section 1608 or 1609.
+(d) The court
+ shall, after a hearing in court, either approve or disapprove the recommendation for outpatient status. If the approval of the court is given, the defendant shall be placed on outpatient status subject to the terms and conditions specified in the supervision and treatment plan. If the outpatient treatment occurs in a county other than the county of commitment, the court shall transmit a copy of the case record to the superior court in the county where outpatient treatment occurs, so that the record will be available if revocation proceedings are initiated pursuant to Section 1608 or 1609.
 
-(History: Amended by Stats. 2022, Ch. 47, Sec. 48.   (SB 184)   Effective June 30, 2022.)
+(History: Amended by Stats. 2026, Ch. 27, Sec. 61.   (SB 164)   Effective June 29, 2026.)
 -------------------------------------------
 
 1605.
