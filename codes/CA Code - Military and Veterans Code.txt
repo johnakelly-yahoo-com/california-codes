@@ -5,7 +5,7 @@
 
 Source: Official California Legislative Information
         https://downloads.leginfo.legislature.ca.gov/
-Last Updated by State of California: November 27, 2025
+Last Updated by State of California: July 10, 2026
 
 
 ======================================================================
@@ -10111,10 +10111,21 @@ The bonds authorized by this article shall be prepared, executed, issued, sold, 
 
 998.547.
 
-Solely for the purpose of authorizing the issuance and sale pursuant to the State General Obligation Bond Law of the bonds authorized by this article, the Housing for Veterans Finance Committee is hereby created. For purposes of this article, the Housing for Veterans Finance Committee is “the committee” as that term is used in the State General Obligation Bond Law. The committee consists
- of the Controller, Treasurer, Director of Finance, Secretary of Business, Consumer Services, and Housing, and Secretary of Veterans Affairs, or their designated representatives. The Treasurer shall serve as chairperson of the committee. A majority of the committee may act for the committee.
+(a) Solely for the purpose of authorizing the issuance and sale pursuant to the State General Obligation Bond Law of the bonds authorized by this article, the Housing for Veterans Finance Committee is hereby created. For purposes of this article, the Housing for Veterans Finance Committee is “the committee” as that term is used in the State General Obligation Bond Law. The committee consists of the Controller, Treasurer, Director of Finance, Secretary of Business, Consumer Services, and Housing, and Secretary of Veterans Affairs, or their designated representatives. The Treasurer shall serve as chairperson of the committee. A majority of the committee may act for the committee.
 
-(History: Added by Stats. 2013, Ch. 727, Sec. 1.   (AB 639)   Approved in Proposition 41 at the June 3, 2014, election.)
+(b) This section shall become inoperative on July 1, 2026, and, as of January 1, 2026, is repealed.
+
+(History: Amended by Stats. 2026, Ch. 28, Sec. 98.   (SB 170)   Effective June 29, 2026.   Inoperative July 1, 2026, by its own provisions.\n   Repealed as of January 1, 2027, by its own provisions.   See later operative version added by Sec. 99 of Stats. 2026, Ch. 28.)
+-------------------------------------------
+
+998.547.
+
+(a) Solely for the purpose of authorizing the issuance and sale pursuant to the State General Obligation Bond Law of the bonds authorized by this article, the Housing for Veterans Finance Committee is hereby created. For purposes of this article, the Housing for Veterans Finance Committee is “the committee” as that term is used in the State General Obligation Bond Law. The committee consists of the Controller, Treasurer, Director of Finance, Secretary of California Housing and Homelessness, and Secretary of Veterans Affairs, or their designated representatives. The Treasurer shall serve as chairperson of the committee. A majority of the committee may act for the committee.
+
+(b) This section shall become operative on July 1,
+ 2026.
+
+(History: Repealed (in Sec. 98) and added by Stats. 2026, Ch. 28, Sec. 99.   (SB 170)   Effective June 29, 2026.   Operative July 1, 2026, by its own provisions.)
 -------------------------------------------
 
 998.548.
