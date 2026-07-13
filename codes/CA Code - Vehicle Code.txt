@@ -5,7 +5,7 @@
 
 Source: Official California Legislative Information
         https://downloads.leginfo.legislature.ca.gov/
-Last Updated by State of California: December 05, 2025
+Last Updated by State of California: July 10, 2026
 
 
 ======================================================================
@@ -41748,7 +41748,7 @@ This division shall become operative on July 1, 1999.
 
 ======================================================================
 
-DIVISION 12. EQUIPMENT OF VEHICLES [24000. - 28244.]
+DIVISION 12. EQUIPMENT OF VEHICLES [24000. - 28246.]
 
 
 
@@ -46790,7 +46790,7 @@ Notwithstanding subdivision (a) of Section 28111, the State Air Resources Board 
 
 
 
-CHAPTER 6. Connected Vehicle Service [28200. - 28244.]
+CHAPTER 6. Connected Vehicle Service [28200. - 28246.]
 
 
 
@@ -46802,32 +46802,32 @@ Unless the context requires otherwise, for purposes of this chapter, the followi
 
 (a) “Account holder” means a person who is a party to or a user of services provided under a contract for connected vehicle service with a covered provider, and includes, but is not limited to, a subscriber, customer, or registered user.
 
-(b) “Connected vehicle location access” is a type of connected vehicle service that allows a person who is outside of a vehicle, excluding a covered provider or vehicle cellular data provider, to view or track the location of the vehicle, including, but not limited to, a
- location determined by a Global Positioning System (GPS), whether through the internet, an app-based technology, or any other remote wireless connectivity technology.
+(b) “Connected vehicle location access” is a type of connected vehicle service that allows a person who is outside of a vehicle, excluding a covered provider or vehicle cellular data provider, to view or track the location of the vehicle, including, but not limited to, a location determined by a
+ Global Positioning System (GPS), whether through the internet, an app-based technology, or any other remote wireless connectivity technology.
 
-(c) “Connected vehicle service” means any capability provided by or on behalf of a vehicle manufacturer that enables a person, excluding a covered provider or vehicle cellular data provider, to remotely obtain data from, or send commands to, a vehicle, which may be accomplished through a software application that is designed to be operated on a mobile device.
+(c) “Connected vehicle service” means a software application that is designed to be operated on a mobile device provided by or on behalf of a vehicle manufacturer that enables a person, excluding a covered provider or vehicle cellular data provider, to remotely obtain
+ the location of the vehicle or send data from, or send commands to, a vehicle.
 
 (d) “Connected vehicle service account” means an account or other means by which a person enrolls in or obtains access to a connected vehicle service.
 
-(e) “Connected vehicle service request” means a request
- by a driver to terminate a person’s access to connected vehicle service.
+(e) “Connected vehicle service request” means a request by a person to terminate another person’s access to connected vehicle service.
 
 (f) “Covered provider” means a vehicle manufacturer or an entity acting on behalf of the vehicle manufacturer that provides connected vehicle service.
 
-(History: Added by Stats. 2024, Ch. 655, Sec. 2.   (SB 1394)   Effective January 1, 2025.   Operative July 1, 2025, pursuant to Sec. 28206.)
+(g) “Requestor” means any person submitting a connected vehicle service request consistent with subdivision (a) of Section 28224.
+
+(h) “Vehicle” means a motor vehicle having a manufacturer’s maximum gross vehicle weight rating under 6,001 pounds, with connected vehicle service.
+
+(History: Amended by Stats. 2026, Ch. 53, Sec. 1.   (SB 719)   Effective June 30, 2026.)
 -------------------------------------------
 
 28202.
 
-(a) A vehicle with connected vehicle service shall clearly indicate to a person who is inside the vehicle when a person who is outside the vehicle has accessed either of the following:
+(a) A vehicle with connected vehicle service shall clearly indicate to a person who is inside the vehicle if connected vehicle location access is enabled.
 
-(1) Connected vehicle service.
+(b) This section shall apply to vehicles beginning with the 2031 model year.
 
-(2) Connected vehicle location access.
-
-(b) This section shall become operative on January 1, 2028.
-
-(History: Added by Stats. 2024, Ch. 655, Sec. 2.   (SB 1394)   Effective January 1, 2025.   Operative January 1, 2028, by its own provisions.)
+(History: Amended by Stats. 2026, Ch. 53, Sec. 2.   (SB 719)   Effective June 30, 2026.)
 -------------------------------------------
 
 28204.
@@ -46839,17 +46839,9 @@ The provisions of this chapter are severable. If any provision of this chapter o
 
 28206.
 
-(a) This article, except Section 28202, and Article 2 (commencing with Section 28220) shall become operative on July 1, 2025, and apply to vehicles that have connected vehicle service.
+This chapter does not apply to vehicles owned or operated by a rental company, as defined in Section 1939.01 of the Civil Code.
 
-(b) Article 3 (commencing with Section 28240) shall become operative as follows:
-
-(1) On January 1, 2028, for vehicles manufactured on or after January 1, 2028, that have connected vehicle location access.
-
-(2) On July 1, 2026, for vehicles manufactured prior to January 1, 2028, that have connected vehicle location access, and have the capability to receive software updates that provide for the functionality required by Article 3 (commencing with Section 28240).
-
-(c) This chapter does not apply to vehicles owned or operated by a rental company, as defined in Section 1939.01 of the Civil Code.
-
-(History: Added by Stats. 2024, Ch. 655, Sec. 2.   (SB 1394)   Effective January 1, 2025.)
+(History: Amended by Stats. 2026, Ch. 53, Sec. 3.   (SB 719)   Effective June 30, 2026.)
 -------------------------------------------
 
 28210.
@@ -46874,35 +46866,35 @@ A covered provider or any officer, director, employee, vendor, or agent of a cov
 (b) A covered provider shall ensure that all communications provided pursuant to this article are clear, concise, and written in accessible language. It is imperative that drivers, particularly those who are abuse survivors, receive
  support and clear guidance throughout the process for submitting a connected vehicle service request or obtaining a new connected vehicle service account.
 
-(History: Added by Stats. 2024, Ch. 655, Sec. 2.   (SB 1394)   Effective January 1, 2025.   Operative July 1, 2025, pursuant to Sec. 28206.)
+(History: Added by Stats. 2024, Ch. 655, Sec. 2.   (SB 1394)   Effective January 1, 2025.)
 -------------------------------------------
 
 28222.
 
 To enhance transparency and communication, the process to submit a connected vehicle service request or obtain a new connected vehicle service account shall be efficient, secure, user-friendly, and include all of the following features:
 
-(a) Upon submission of a connected vehicle service request or request to obtain a new connected vehicle service account, the covered provider shall automatically send a confirmation email to the driver, acknowledging the receipt of the request. This email shall contain a reference number for the request and an outline of the subsequent steps in the process.
+(a) Upon submission of a connected vehicle service request or request to obtain a new connected vehicle service account consistent with this article, the covered provider shall automatically send a confirmation email to the requestor, acknowledging the receipt of the request. This email shall contain a reference number for the request and an outline of the subsequent steps in the process.
 
-(b) Upon completing the review of the
- request, the covered provider shall inform the driver of the action taken, including, as applicable, whether a person’s access to connected vehicle service has been terminated, or if additional information or proof of legal possession of the vehicle is needed. This alert shall clearly state any relevant details or further actions required from the driver to complete a successful connected vehicle service request.
+(b) Upon
+ completing the review of the request, the covered provider shall inform the requestor of the action taken, including, as applicable, whether a person’s access to connected vehicle service has been terminated, or if additional information or proof of legal possession of the vehicle is needed. This alert shall clearly state any relevant details or further actions required from the requestor to complete a successful connected vehicle service request.
 
-(c) If a connected vehicle service request is approved, the covered provider shall provide the driver with a clear explanation and guidance on how to create their own connected vehicle service account, if applicable, to ensure that the driver can maintain control over the connected vehicle service once another person’s access to connected vehicle service has been terminated.
+(c) If a connected vehicle service request is approved, the covered provider shall provide the requestor with a clear explanation and guidance on how to create their own connected vehicle service account, if applicable, to ensure that the requestor can maintain control over the connected vehicle service once another person’s access to connected vehicle service has been terminated.
 
-(History: Added by Stats. 2024, Ch. 655, Sec. 2.   (SB 1394)   Effective January 1, 2025.   Operative July 1, 2025, pursuant to Sec. 28206.)
+(History: Amended by Stats. 2026, Ch. 53, Sec. 4.   (SB 719)   Effective June 30, 2026.)
 -------------------------------------------
 
 28224.
 
-(a) A driver shall demonstrate to a covered provider the authority to terminate a person’s access to connected vehicle service by providing both of the following:
+(a) A person making a connected vehicle service request shall demonstrate to a covered provider the authority to terminate a person’s access to connected vehicle service by providing both of the following:
 
 (1) The vehicle identification number.
 
-(2) Proof of legal possession of the vehicle, which may be a legal title to the vehicle, or a dissolution decree, temporary court order, or domestic violence restraining order that awards possession or exclusive use of the vehicle to the driver. A court order awarding sole possession or exclusive use of a vehicle shall take priority over a vehicle title showing joint ownership for purposes of this
- article.
+(2) Proof of legal possession of the vehicle, which may be a legal title to the vehicle, or a dissolution decree, temporary court order, or domestic violence restraining order that awards possession or exclusive use of the vehicle to the requestor. A court order awarding sole possession or exclusive use of a vehicle shall take priority over a vehicle title showing joint ownership for purposes
+ of this article.
 
-(b) A covered provider shall not require a driver to provide any proof of legal possession other than what is required in subdivision (a) to establish the authority to terminate a person’s access to connected vehicle service.
+(b) A covered provider shall not require a requestor to provide any proof of legal possession other than what is required in subdivision (a) to establish the authority to terminate a person’s access to connected vehicle service.
 
-(c) A covered provider shall not require a driver to take any action to terminate a person’s access to connected vehicle service other than what is set forth in this section, including, but not limited to, requiring any of the following:
+(c) A covered provider shall not require a requestor to take any action to terminate a person’s access to connected vehicle service other than what is set forth in this section, including, but not limited to, requiring any of the following:
 
 (1) Payment of a fee, penalty, or other charge to complete a connected vehicle service request.
 
@@ -46912,42 +46904,42 @@ To enhance transparency and communication, the process to submit a connected veh
 
 (4) An increase in the rate charged for the connected vehicle service.
 
-(d) A covered provider shall terminate a person’s access to connected vehicle service within two business days after the date of receiving a completed request from a driver who meets the requirements of this section.
+(d) A covered provider shall terminate a person’s access to connected vehicle service within two business days after the date of receiving a completed connected vehicle service request from a requestor who meets the requirements of this section.
 
-(History: Added by Stats. 2024, Ch. 655, Sec. 2.   (SB 1394)   Effective January 1, 2025.   Operative July 1, 2025, pursuant to Sec. 28206.)
+(History: Amended by Stats. 2026, Ch. 53, Sec. 5.   (SB 719)   Effective June 30, 2026.)
 -------------------------------------------
 
 28226.
 
-(a) If a covered provider terminated a person’s access to connected vehicle service in response to a connected vehicle service request, the covered provider shall not provide to the person any data or information regarding the driver, the vehicle, or any new connected vehicle service account that was generated after that person’s access to the connected vehicle service was terminated.
+(a) If a covered provider terminated a person’s access to connected vehicle service in response to a connected vehicle service request, the covered provider shall not provide to the person any data or information regarding the requestor, the vehicle, or any new connected vehicle service account that was generated after that person’s access to the connected vehicle service was terminated.
 
 (b) A covered provider shall ensure that all personal information provided during the process to terminate a person’s access to connected vehicle service is handled with appropriate security and privacy, adhering to relevant data protection laws and regulations.
 
-(c) A covered provider and any officer, director, employee, vendor, or agent thereof shall treat any information submitted by a driver pursuant to this article as confidential and shall comply with applicable privacy laws.
+(c) A covered provider and any officer, director, employee, vendor, or agent thereof shall treat any information submitted by a person making a connected vehicle service request pursuant to this article as confidential and shall comply with applicable privacy laws.
 
-(d) A covered provider shall not share information submitted by a driver pursuant to this article with any third party without the affirmative consent of the driver, unless sharing that information is required to effectuate a connected vehicle service request.
+(d) A covered provider shall not share information submitted by a person making a connected vehicle service request pursuant to this article with any third party without the affirmative consent of the requestor, unless sharing that information is required to effectuate a connected vehicle service request.
 
 (e) Nothing in this section shall preclude a covered provider from responding to a court order or warrant.
 
-(History: Added by Stats. 2024, Ch. 655, Sec. 2.   (SB 1394)   Effective January 1, 2025.   Operative July 1, 2025, pursuant to Sec. 28206.)
+(History: Amended by Stats. 2026, Ch. 53, Sec. 6.   (SB 719)   Effective June 30, 2026.)
 -------------------------------------------
 
 28228.
 
 The termination of connected vehicle service pursuant to this article shall not be deemed to impact legal ownership of a vehicle.
 
-(History: Added by Stats. 2024, Ch. 655, Sec. 2.   (SB 1394)   Effective January 1, 2025.   Operative July 1, 2025, pursuant to Sec. 28206.)
+(History: Added by Stats. 2024, Ch. 655, Sec. 2.   (SB 1394)   Effective January 1, 2025.)
 -------------------------------------------
 
 
 
-  ARTICLE 3. Disabling Connected Vehicle Location Access [28240. - 28244.]
+  ARTICLE 3. Disabling Connected Vehicle Location Access [28240. - 28246.]
 
 28240.
 
 If a vehicle includes connected vehicle location access, a covered provider shall provide a mechanism that can be used by a driver who is inside a vehicle to immediately disable connected vehicle location access.
 
-(History: Added by Stats. 2024, Ch. 655, Sec. 2.   (SB 1394)   Effective January 1, 2025.   Conditionally operative pursuant to Sec. 28206.)
+(History: Added by Stats. 2024, Ch. 655, Sec. 2.   (SB 1394)   Effective January 1, 2025.)
 -------------------------------------------
 
 28242.
@@ -46965,14 +46957,27 @@ A mechanism for disabling connected vehicle location access shall meet all of th
 
 (d) Allow connected vehicle location access that has been disabled from inside the vehicle to be enabled only by a driver who is located inside the vehicle.
 
-(History: Added by Stats. 2024, Ch. 655, Sec. 2.   (SB 1394)   Effective January 1, 2025.   Conditionally operative pursuant to Sec. 28206.)
+(History: Added by Stats. 2024, Ch. 655, Sec. 2.   (SB 1394)   Effective January 1, 2025.)
 -------------------------------------------
 
 28244.
 
-Disabling the connected vehicle location access from inside the vehicle shall not result in an account holder of the connected vehicle service, vehicle manufacturer, or a third-party service provider receiving any notification related to the connected vehicle location access being disabled, including, but not limited to, an alert, email, text, or telephone call.
+Disabling the connected vehicle location access from inside the vehicle shall not result in an account holder of the connected vehicle service receiving any notification related to the connected vehicle location access being disabled, including, but not limited to, an alert, email, text, or telephone call.
 
-(History: Added by Stats. 2024, Ch. 655, Sec. 2.   (SB 1394)   Effective January 1, 2025.   Conditionally operative pursuant to Sec. 28206.)
+(History: Amended by Stats. 2026, Ch. 53, Sec. 7.   (SB 719)   Effective June 30, 2026.)
+-------------------------------------------
+
+28246.
+
+This article shall become operative as follows:
+
+(a) Beginning with the 2031 model year, all vehicles with connected vehicle location access.
+
+(b) For 2028, 2029, and 2030 model year vehicles, as soon as practicable after the vehicle is sold unless technologically infeasible.
+
+(c) On or before July 1, 2027, for 2027 model year or older vehicles unless technologically infeasible.
+
+(History: Added by Stats. 2026, Ch. 53, Sec. 8.   (SB 719)   Effective June 30, 2026.)
 -------------------------------------------
 
 
