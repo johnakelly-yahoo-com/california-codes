@@ -5,7 +5,7 @@
 
 Source: Official California Legislative Information
         https://downloads.leginfo.legislature.ca.gov/
-Last Updated by State of California: February 21, 2026
+Last Updated by State of California: July 10, 2026
 
 
 ======================================================================
@@ -50624,36 +50624,38 @@ Any certification or registration granted by the department is a privilege and n
 
 (2) “Plastic product” means a finished plastic product that requires no further thermoforming, shaping, or processing before being sold for its specified use. “Plastic product” does not include plastic flake, pellet, sheet, or any other form that is an output from a reclaimer’s processing of empty plastic beverage containers.
 
-(3) “Product manufacturer” means a person who
- manufactures a plastic product in this state.
+(3) “Product manufacturer” means a person who manufactures a plastic product in this state.
 
 (4) “Reclaimer” means a certified entity that purchases empty plastic beverage containers that have been collected for recycling in the state, and that washes and processes, in the state, those empty plastic beverage containers into flake, pellet, sheet, or any other form that is then usable as input for the manufacture of new plastic products by product manufacturers in the state.
 
-(b) In order to develop California markets for empty plastic beverage containers collected for recycling in the state, the department may, consistent with Section 14581 and subject to the availability of funds, pay a market development payment to a reclaimer for empty plastic beverage containers collected and managed pursuant to this section and to a
- product manufacturer for plastic flake, pellet, sheet, or any other form of plastic purchased from a reclaimer pursuant to this section.
+(b) In order to develop California markets for empty plastic beverage containers collected for recycling in the state, the department may, consistent with Section 14581 and subject to the availability of funds, pay a market development payment to a reclaimer for empty plastic beverage containers collected and managed pursuant to this section and to a product manufacturer for plastic flake, pellet, sheet, or any other form of plastic purchased from a reclaimer pursuant to this section.
 
 (c) The department shall make a market development payment to a reclaimer or product manufacturer in accordance with this section only if the plastic beverage container is collected, washed, and processed into flake, pellet, sheet, or any other form, and is used in manufacturing, in the state, as follows:
 
-(1) The department shall make a market development payment to a reclaimer for empty plastic beverage containers that are collected, washed, and processed as specified in paragraph (4) of subdivision (a), including to a reclaimer that uses the services of a third party to process the empty plastic beverage containers into a form usable for the
- manufacture of new plastic products.
+(1) The department shall make a market development payment to a reclaimer for empty plastic beverage containers that are collected, washed, and processed as specified in paragraph (4) of subdivision (a), including to a reclaimer that uses the services of a third party to process the empty plastic beverage containers into a form usable for the manufacture of new plastic products.
 
-(2) The department shall make a market development payment to a product manufacturer for plastic flake, pellet, sheet, or any other form of plastic purchased from a reclaimer and used by that product manufacturer to manufacture a plastic product in the state, including to a product manufacturer that uses the services of a third party to process the plastic purchased from a reclaimer in manufacturing the plastic product.
+(2) The department shall make a market development payment to a product manufacturer for plastic flake, pellet, sheet, or any other form of
+ plastic purchased from a reclaimer and used by that product manufacturer to manufacture a plastic product in the state, including to a product manufacturer that uses the services of a third party to process the plastic purchased from a reclaimer in manufacturing the plastic product.
 
-(3) The department shall determine the amount of the market development payment, which may be set at a different level for a reclaimer and a product manufacturer, but shall not exceed one hundred fifty dollars ($150) per ton. In setting the amount of the market development payment for both reclaimers and product manufacturers,
+(3) The department shall determine the amount of the market development payment, which may be set at a different level for a reclaimer and a product manufacturer, but shall not exceed two hundred fifty dollars ($250) per ton. In setting the amount of the market development
+ payment,
  the department shall consider all of the following:
 
-(A) The minimum funding level needed to encourage in-state washing and processing of empty plastic beverage containers collected for recycling in this state.
+(A) Incentive payments to encourage in-state washing and processing of empty plastic beverage containers collected for recycling in this state.
 
-(B) The minimum funding level needed to encourage in-state manufacturing that utilizes flake, pellet, sheet, or any other form processed from empty plastic beverage containers collected for recycling in this state.
+(B) Incentive payments to encourage in-state manufacturing for a circular economy that utilizes flake, pellet, sheet, or
+ any other form processed from empty plastic beverage containers collected for recycling in this state.
 
-(C) The total amount of funds projected to be available for plastic market development payments, and the desire to maintain the minimum funding level needed throughout the year.
+(C) The quality of plastic processed, baled, and sold, the types of products manufactured from plastic, and the overall benefit to the beverage container recycling program and advancing circularity in the state.
 
-(4) The department may make a market development payment to both
- a reclaimer and a product manufacturer for both the empty plastic beverage container and for the flake, pellet, sheet, or any other form processed by the reclaimer from that same empty plastic beverage container.
+(D) The market conditions related to scrap values, and pricing of virgin and recycled materials.
 
-(d) This section shall become inoperative on July 1, 2027, and, as of January 1, 2028, is repealed.
+(4) The department may make a market development payment to both a reclaimer and a product manufacturer for both the empty plastic beverage container and for the flake, pellet, sheet, or any other form processed by the reclaimer from that same empty plastic beverage container.
 
-(History: Amended by Stats. 2024, Ch. 405, Sec. 1.   (AB 2511)   Effective January 1, 2025.   Inoperative July 1, 2027, by its own provisions.   Repealed as of January 1, 2028, by its own provisions.)
+(d) This section shall become inoperative on July 1, 2029, and, as of January 1, 2030,
+ is repealed.
+
+(History: Amended by Stats. 2026, Ch. 62, Sec. 5.   (SB 166)   Effective July 6, 2026.   Inoperative July 1, 2029, by its own provisions.    Repealed as of January 1, 2030, by its own provisions.)
 -------------------------------------------
 
 14549.3.
@@ -50740,6 +50742,35 @@ On or before April 1, 2004, and annually thereafter, or more frequently as deter
  2030, and as of that date is repealed.
 
 (History: Amended by Stats. 2025, Ch. 627, Sec. 2.   (AB 899)   Effective January 1, 2026.   Repealed as of January 1, 2030, by its own provisions.)
+-------------------------------------------
+
+14549.8.
+
+(a) The department shall determine eligibility for a market development payment described in Section 14549.2 based on current market conditions and shall consider factors including, but not limited to, the information required to be reported pursuant to paragraph (1) of subdivision (b).
+
+(b) (1) In order to be eligible for a market development payment, a reclaimer or manufacturer shall report to the department, in a form and manner determined by the department, all of the following:
+
+(A) The source of the plastic.
+
+(B) The quantity and the price of plastic purchased, processed, and sold.
+
+(C) For reclaimers, the quality of the plastic both purchased and sold.
+
+(D) For manufacturers, the types of products that are made from the plastic.
+
+(E) Overall benefit to the beverage container recycling program and advancing circularity in the state.
+
+(2) All information provided to the department in reports specified under paragraph (1) is considered proprietary and confidential in nature. The department shall protect any information obtained pursuant to this section in accordance with Section 14554.
+
+(3) Information regarding the data collected pursuant to this subdivision shall be aggregated and published by the department on its internet website by February 15, 2030.
+
+(c) The reporting specified in subdivision (b) is not a violation of the Cartwright Act (Chapter 2 (commencing with Section 16700) of Part 2 of Division 7 of the Business and Professions Code).
+
+(d) The department shall publish a report on its website regarding proposed methodologies for the verification of recycled plastic no later than January 1, 2032. In developing the report, the department shall consider relevant information on standards for verifying and tracking recycled content programs and approaches in other states, localities, unions, and nations.
+
+(e) This section shall remain in effect only until January 1, 2033, and as of that date is repealed.
+
+(History: Added by Stats. 2026, Ch. 62, Sec. 6.   (SB 166)   Effective July 6, 2026.   Repealed as of January 1, 2033, by its own provisions.)
 -------------------------------------------
 
 14549.9.
@@ -51809,35 +51840,44 @@ CHAPTER 7. Financial Provisions [14580. - 14587.]
 
 (B) Eligible activities for the use of these funds may include, but are not necessarily limited to, support for new or existing curbside programs, neighborhood dropoff programs, public education promoting beverage container recycling, litter prevention, and cleanup, cooperative regional efforts among two or more cities or counties, or both, or other beverage container recycling programs.
 
-(C) These funds shall
- not be used for activities unrelated to beverage container recycling or litter reduction.
+(C) These funds shall not be used for activities unrelated to beverage container recycling or litter reduction.
 
 (D) To receive these funds, a city, county, or city and county shall fill out and return a funding request form to the department. The form shall specify the beverage container recycling or litter reduction activities for which the funds will be used.
 
-(E) The department shall annually prepare and distribute a funding request form to each city, county, or city and county. The form shall specify the amount of beverage container recycling and litter cleanup funds for which the jurisdiction is eligible. The form shall not exceed one double-sided page in length, and may be submitted electronically. If a city, county, or city and county does not return the funding request form within 90 days of receipt
- of the form from the department, the city, county, or city and county is not eligible to receive the funds for that funding cycle.
+(E) The department shall annually prepare and distribute a funding request form to each city, county, or city and county. The form shall specify the amount of beverage container recycling and litter cleanup funds for which the jurisdiction is eligible. The form shall not exceed one double-sided page in length, and may be submitted electronically. If a city, county, or city and county does not return the funding request form within 90 days of receipt of the form from the department, the city, county, or city and county is not eligible to receive the funds for that funding cycle.
 
 (F) For the purposes of this paragraph, per capita population shall be based on the population of the incorporated area of a city or city and county and the unincorporated area of a county. The department may withhold payment to any city, county, or city and county that has prohibited the siting of a supermarket site, caused a supermarket site to close its business, or adopted a land use policy that restricts or prohibits the siting of a supermarket site within its jurisdiction.
 
 (4) One million five hundred thousand dollars ($1,500,000) may be expended annually in the form of grants for beverage container recycling and litter reduction programs.
 
-(5) (A) The department shall expend the amount necessary to pay the processing payment established pursuant to Section 14575. The department shall establish separate processing fee accounts in the fund for each beverage container material type for which a processing payment and processing fee are calculated pursuant to Section 14575, or for which a processing payment is calculated pursuant to Section 14575 and a voluntary artificial scrap value is calculated pursuant to Section 14575.1, into which account shall be deposited both of the following:
+(5) (A) The department shall expend the amount necessary to pay the processing payment established pursuant to Section 14575. The department shall establish separate processing fee accounts in the fund
+ for each beverage container material type for which a processing payment and processing fee are calculated pursuant to Section 14575, or for which a processing payment is calculated pursuant to Section 14575 and a voluntary artificial scrap value is calculated pursuant to Section 14575.1, into which account shall be deposited both of the following:
 
 (i) All amounts paid as processing fees for each beverage container material type pursuant to Section 14575.
 
-(ii) Funds equal to the difference between the amount
- in clause (i) and the amount of the processing payments established in subdivision (b) of Section 14575, and adjusted pursuant to paragraph (2) of subdivision (c) of, and subdivision (f) of, Section 14575, to reduce the processing fee to the level provided in subdivision (e) of Section 14575, or to reflect the agreement by a willing purchaser to pay a voluntary artificial scrap value pursuant to Section 14575.1.
+(ii) Funds equal to the difference between the amount in clause (i) and the amount of the processing payments established in subdivision (b) of Section 14575, and adjusted pursuant to paragraph (2) of subdivision (c) of, and subdivision (f) of, Section 14575, to reduce the processing fee to the level provided in subdivision (e) of Section 14575, or to reflect the agreement by a willing purchaser to pay a voluntary artificial
+ scrap value pursuant to Section 14575.1.
 
 (B) Notwithstanding Section 13340 of the Government Code, the moneys in each processing fee account are hereby continuously appropriated to the department for expenditure without regard to fiscal years, for purposes of making processing payments pursuant to Section 14575.
 
-(6) Up to five million dollars ($5,000,000) may be expended annually by the department for
- the purposes of undertaking a statewide public education and information campaign aimed at promoting increased recycling of beverage containers.
+(6) Up to five million dollars ($5,000,000) may be expended annually by the department for the purposes of undertaking a statewide public education and information campaign aimed at promoting increased recycling of beverage containers.
 
 (7) Up to fifteen million dollars ($15,000,000) may be expended annually by the department for quality incentive payments for empty glass beverage containers pursuant to Section 14549.1.
 
-(8) (A) For the 2019–20 fiscal year to the 2025–26 fiscal year, inclusive, the department may expend funds for market development payments to reclaimers and product manufacturers, pursuant to Section 14549.2.
+(8) (A) For the 2019–20 fiscal year to the 2028–29 fiscal year, inclusive, the department may expend funds for market development payments to reclaimers and product manufacturers, pursuant to Section 14549.2.
 
-(B) For purposes of this paragraph, the definitions in subdivision (a) of Section 14549.2 apply.
+(B) For the purposes of implementing subparagraph (A), the following amounts may be expended by the department:
+
+(i) Up to thirty-five million dollars ($35,000,000) in the 2026–27 fiscal year.
+
+(ii) Up to thirty million dollars ($30,000,000) in the 2027–28 fiscal year.
+
+(iii) Up to twenty-five million dollars ($25,000,000) in the 2028–29 fiscal year.
+
+(C) For the 2026–27 fiscal year to the 2028–29 fiscal year, inclusive, the department may expend up to up to five million ($5,000,000) annually to establish a grant program to support plastic reclaimers and manufacturers operating in California that invest in equipment, facility operations, or other infrastructure necessary to process postconsumer plastic beverage containers and manufacture products using recycled plastic feedstock.
+
+(D) For
+ purposes of this paragraph, the definitions in subdivision (a) of Section 14549.2 apply.
 
 (9) (A) For the 2019–20 fiscal year to the 2025–26 fiscal year, inclusive, the department may expend up to a total of five million dollars ($5,000,000) to support the pilot projects created pursuant to Section 14571.9.
 
@@ -51845,8 +51885,7 @@ CHAPTER 7. Financial Provisions [14580. - 14587.]
 
 (10) The department may expend up to four million dollars ($4,000,000) annually for glass processing incentive grants authorized pursuant to Section 14543.
 
-(11) The
- department may expend up to four million dollars ($4,000,000) annually for empty glass beverage container grants authorized pursuant to Section 14544.
+(11) The department may expend up to four million dollars ($4,000,000) annually for empty glass beverage container grants authorized pursuant to Section 14544.
 
 (12) The department may expend up to one million dollars ($1,000,000) annually for grants to facilitate the transportation of empty glass beverage containers authorized pursuant to Section 14545.
 
@@ -51854,21 +51893,21 @@ CHAPTER 7. Financial Provisions [14580. - 14587.]
 
 (ii) This subparagraph shall become inoperative on January 1, 2028.
 
-(B) (i) Notwithstanding subdivision (c) of Section 14580, upon appropriation by the Legislature specifically for purposes of this subparagraph, on and after January 1, 2028, the department may expend up to twenty million dollars ($20,000,000) annually for glass market development payments authorized pursuant to Section 14549.7.
+(B) (i) Notwithstanding
+ subdivision (c) of Section 14580, upon appropriation by the Legislature specifically for purposes of this subparagraph, on and after January 1, 2028, the department may expend up to twenty million dollars ($20,000,000) annually for glass market development payments authorized pursuant to Section 14549.7.
 
 (ii) This subparagraph shall become inoperative on January 1, 2030.
 
 (b) (1) If the department determines, pursuant to a review made pursuant to Section 14556, that there may be inadequate funds to pay the payments required by this division, the department shall immediately notify the appropriate policy and fiscal committees of the Legislature regarding the inadequacy.
 
-(2) On
- or before 180 days, but not less than 80 days, after the notice is sent pursuant to paragraph (1), the department may reduce or eliminate expenditures, or both, from the funds as necessary, according to the procedure set forth in subdivision (c).
+(2) On or before 180 days, but not less than 80 days, after the notice is sent pursuant to paragraph (1), the department may
+ reduce or eliminate expenditures, or both, from the funds as necessary, according to the procedure set forth in subdivision (c).
 
 (c) If the department determines that there are insufficient funds to make the payments specified pursuant to this section and Section 14575, the department shall reduce all payments proportionally.
 
-(d) Before making an expenditure pursuant to paragraph (6) of subdivision (a), the department shall convene an advisory committee consisting of representatives of the beverage industry, beverage container manufacturers, environmental organizations, the recycling industry, nonprofit organizations, and retailers to advise the department on the most
- cost-effective and efficient method of the expenditure of the funds for that education and information campaign.
+(d) Before making an expenditure pursuant to paragraph (6) of subdivision (a), the department shall convene an advisory committee consisting of representatives of the beverage industry, beverage container manufacturers, environmental organizations, the recycling industry, nonprofit organizations, and retailers to advise the department on the most cost-effective and efficient method of the expenditure of the funds for that education and information campaign.
 
-(History: Amended by Stats. 2025, Ch. 627, Sec. 3.   (AB 899)   Effective January 1, 2026.)
+(History: Amended by Stats. 2026, Ch. 62, Sec. 7.   (SB 166)   Effective July 6, 2026.)
 -------------------------------------------
 
 14581.1.
@@ -68551,28 +68590,50 @@ Notwithstanding any other law, moneys collected for renewable energy pursuant to
 
 25741.
 
-As used in this chapter, the following definitions apply:
+As used in this chapter, all of the following definitions apply:
 
 (a) “Renewable electrical generation facility” means a facility that meets all of the following criteria:
 
-(1) The facility uses biomass, solar thermal, photovoltaic, wind, geothermal, fuel cells or linear generators using fuels described in this paragraph that otherwise meet the requirements of this subdivision, small hydroelectric generation of 30 megawatts or less, digester gas, municipal solid
- waste conversion, landfill gas, ocean wave, ocean thermal, or tidal current, and any additions or enhancements to the facility using that technology.
+(1) The facility meets either of the following criteria:
+
+(A) The facility uses biomass, solar thermal, photovoltaic, wind, geothermal, fuel cells or linear generators using fuels described in this paragraph that otherwise meet the requirements of this subdivision, small hydroelectric generation of 30 megawatts or less, digester gas, municipal solid waste conversion, landfill gas, ocean wave, ocean thermal, or tidal current, and any additions or enhancements to the facility using that
+ technology.
+
+(B) The facility converts hydrogen gas to electricity in a turbine and meets all of the following criteria:
+
+(i) The hydrogen used in the turbine is solely derived from an eligible renewable resource described in subparagraph (A) or through the electrolysis of water, and exclusively uses electricity generated from another renewable electrical generation facility. Any fraction of hydrogen produced through the use of nonrenewable fuels or nonrenewable electricity shall not be eligible to satisfy the requirements of this section.
+
+(ii) The electricity used to derive the hydrogen is not also counted toward a
+ compliance obligation pursuant to the California Renewables Portfolio Standard Program (Article 16 (commencing with Section 399.11) of Chapter 2.3 of Part 1 of Division 1 of the Public Utilities Code) or claimed as renewable generation for any other state program.
+
+(iii) The facility provides the commission with confirmation from the air quality management district or air pollution control district that the facility’s turbine has the capacity to use a fuel for which hydrogen comprises a sufficient quantity of the blend by volume,
+ but not below 20 percent by volume, to achieve a measurable reduction in greenhouse gas emissions.
+
+(iv) The facility has submitted information on the hydrogen production process, as specified by the commission. For electrolytic production, the operator shall demonstrate, for the production process, hourly matching of hydrogen production with renewable energy generation starting January 1, 2030.
+
+(v) The manufacturing of the hydrogen does not result in resource shuffling, as independently determined by the commission based on regional
+ impacts of hydrogen production on zero-carbon generation, local air pollution, and fossil fuel generation.
+
+(vi) The manufacturing of the hydrogen does not use unbundled renewable energy credits.
+
+(vii) The
+ facility provides the commission with confirmation from the air quality management district or air pollution control district that the combustion of hydrogen will result in a net decrease of air pollutants and of greenhouse gas emissions from the electrical sector and will not increase the oxides of nitrogen emissions rate from the turbine compared to natural gas.
+
+(viii) The hydrogen is physically delivered to the turbine.
 
 (2) The facility satisfies one of the following requirements:
 
 (A) The facility is located in the state or near the border of the state with the first point of connection to the transmission network of a balancing authority area primarily located within the state. For purposes of this subparagraph, “balancing authority area” has the same meaning as defined in Section 399.12 of the Public Utilities Code.
 
-(B) The facility has its first point of interconnection to the transmission network outside the state, within the Western Electricity Coordinating Council (WECC) service
- area, and satisfies all of the following requirements:
+(B) The facility has its first point of interconnection to the transmission network outside the state, within the Western Electricity Coordinating Council (WECC) service area, and satisfies all of the following requirements:
 
 (i) It commences initial commercial operation after January 1, 2005.
 
-(ii) It will not cause or contribute to any violation of a California environmental quality standard or requirement.
+(ii) It will not cause or contribute to a violation of a California environmental quality standard or requirement.
 
 (iii) It participates in the accounting system to verify compliance with the renewables portfolio standard established by the commission pursuant to subdivision (b) of Section 399.25 of the Public Utilities Code.
 
-(C) The facility meets the requirements of clauses (ii) and (iii)
- of subparagraph (B), but does not meet the requirements of clause (i) of subparagraph (B) because it commenced initial operation before January 1, 2005, if the facility satisfies either of the following requirements:
+(C) The facility meets the requirements of clauses (ii) and (iii) of subparagraph (B), but does not meet the requirements of clause (i) of subparagraph (B) because it commenced initial operation before January 1, 2005, if the facility satisfies either of the following requirements:
 
 (i) The electricity is from incremental generation resulting from expansion or repowering of the facility.
 
@@ -68580,13 +68641,12 @@ As used in this chapter, the following definitions apply:
 
 (3) If the facility is outside the United States, it is developed and operated in a manner that is as protective of the environment as a similar facility located in the state.
 
-(4) If eligibility
- of the facility is based on the use of landfill gas, digester gas, or another renewable fuel delivered to the facility through a common carrier pipeline, the transaction for the procurement of that fuel, including the source of the fuel and delivery method, satisfies the requirements of Section 399.12.6 of the Public Utilities Code and is verified pursuant to the accounting system established by the commission pursuant to Section 399.25 of the Public Utilities Code, or a comparable system, as determined by the commission.
+(4) If eligibility of the facility is based on the use of landfill gas, digester gas, or another renewable fuel delivered to the facility through a common carrier pipeline, the transaction for the procurement of that fuel, including the source of the fuel and delivery method, satisfies the requirements of Section 399.12.6 of the Public Utilities Code and is verified pursuant to the accounting system established by the commission pursuant to Section 399.25 of the Public Utilities Code, or a comparable system, as determined by the commission.
 
-(b) “Municipal solid waste conversion” means a technology that uses a noncombustion thermal process to convert solid waste to a clean-burning fuel for the purpose of generating electricity, and that meets all of the following criteria:
+(b) “Municipal solid waste conversion” means a technology that uses a noncombustion thermal process to
+ convert solid waste to a clean-burning fuel for the purpose of generating electricity, and that meets all of the following criteria:
 
-(1) The technology does
- not use air or oxygen in the conversion process, except ambient air to maintain temperature control.
+(1) The technology does not use air or oxygen in the conversion process, except ambient air to maintain temperature control.
 
 (2) The technology produces no discharges of air contaminants or emissions, including greenhouse gases as defined in Section 38505 of the Health and Safety Code.
 
@@ -68594,23 +68654,23 @@ As used in this chapter, the following definitions apply:
 
 (4) The technology produces no hazardous wastes.
 
-(5) To the maximum extent feasible, the technology removes all recyclable materials and marketable green waste compostable materials from the solid waste stream before the conversion process and the owner or operator of the facility certifies that those materials will be
- recycled or composted.
+(5) To the maximum extent feasible, the technology removes all recyclable materials and marketable green waste compostable materials from the
+ solid waste stream before the conversion process and the owner or operator of the facility certifies that those materials will be recycled or composted.
 
 (6) The facility at which the technology is used is in compliance with all applicable laws, regulations, and ordinances.
 
 (7) The technology meets any other conditions established by the commission.
 
-(8) The facility certifies that any local agency sending solid waste to the facility diverted at least 30 percent of all solid waste it collects through solid waste reduction, recycling, and
- composting. For purposes of this paragraph, “local agency” means any city, county, or special district, or subdivision thereof, that is authorized to provide solid waste handling services.
+(8) The facility certifies that any local agency sending solid waste to the facility diverted at least 30 percent of all solid waste it collects through solid waste reduction, recycling, and composting. For purposes of this paragraph, “local agency” means any city, county, or special district, or subdivision thereof, that is authorized to provide solid waste handling services.
 
-(c) “Renewable energy public goods charge” means that portion of the nonbypassable system benefits charge required to be collected to fund renewable energy pursuant to the Reliable Electric Service Investments Act (Article 15 (commencing with Section 399) of Chapter 2.3 of Part 1 of Division 1 of the Public Utilities Code).
+(c) “Renewable energy public
+ goods charge” means that portion of the nonbypassable system benefits charge required to be collected to fund renewable energy pursuant to the Reliable Electric Service Investments Act (Article 15 (commencing with Section 399) of Chapter 2.3 of Part 1 of Division 1 of the Public Utilities Code).
 
 (d) “Report” means the report entitled “Investing in Renewable Electricity Generation in California” (June 2001, Publication Number P500-00-022) submitted to the Governor and the Legislature by the commission.
 
-(e) “Retail seller” means a “retail seller” as defined in Section 399.12 of the Public Utilities Code.
+(e) “Retail seller” has the same meaning as defined in Section 399.12 of the Public Utilities Code.
 
-(History: Amended by Stats. 2024, Ch. 556, Sec. 1.   (AB 1921)   Effective January 1, 2025.)
+(History: Amended by Stats. 2026, Ch. 35, Sec. 1.   (SB 1350)   Effective June 29, 2026.)
 -------------------------------------------
 
 25744.5.
@@ -114364,12 +114424,26 @@ For purposes of this chapter, the following definitions shall apply:
 
 75121.
 
-(a) The Strategic Growth Council is hereby established in state government and it shall consist of the Director of State Planning and Research, the Secretary of the Natural Resources Agency, the Secretary for Environmental Protection, the Secretary of Transportation, the Secretary of California Health and Human Services, the Secretary of Business, Consumer Services, and Housing, the Secretary of Food and Agriculture, one member of the public appointed by the Speaker of the Assembly, one member of the public appointed by the Senate Committee on Rules, and one member of the public to be appointed by the Governor. The public members shall have a background in land use planning, local government, resource protection and management, or community development or revitalization and shall serve
- at the pleasure of the appointing authority.
+(a) The Strategic Growth Council is hereby established in state government and it shall consist of the Director of State Planning and Research, the Secretary of the Natural Resources Agency, the Secretary for Environmental Protection, the Secretary of Transportation, the Secretary of California Health and Human Services, the Secretary of Business, Consumer Services, and Housing, the Secretary of Food and Agriculture, one member of the public appointed by the Speaker of the Assembly, one member of the public appointed by the Senate Committee on Rules, and one member of the public to be appointed by the Governor. The public members shall have a background in land use planning, local government, resource protection and management, or community development or revitalization and shall serve at the pleasure of the appointing
+ authority.
 
 (b) Staff for the council shall be reflective of the council’s membership.
 
-(History: Amended by Stats. 2014, Ch. 36, Sec. 20.   (SB 862)   Effective June 20, 2014.   Note: This section was added by Stats. 2008, Ch. 729.  Pursuant to Sec. 5 of Ch. 729, the provisions of Division 43 added on Nov. 7, 2006, by initiative Prop. 84 (Sections 75001 to 75090) prevail over any conflicting provision of Ch. 729.)
+(c) This section shall become inoperative on July 1, 2026, and, as of January 1, 2026, is repealed.
+
+(History: Amended by Stats. 2026, Ch. 28, Sec. 100.   (SB 170)   Effective June 29, 2026.   Inoperative July 1, 2026, by its own provisions.\n   Repealed as of January 1, 2027, by its own provisions.   See later operative version added by Sec. 101 of Stats. 2026, Ch. 28.   Note: This section was added by Stats. 2008, Ch. 729. Pursuant to Sec. 5 of Ch. 729, the provisions of Division 43 added on Nov. 7, 2006, by initiative Prop. 84 (Sections 75001 to 75090) prevail over any conflicting provision of Ch. 729.)
+-------------------------------------------
+
+75121.
+
+(a) The Strategic Growth Council is hereby established in state government and it shall consist of the Director of State Planning and Research, the Secretary of the Natural Resources Agency, the Secretary for Environmental Protection, the Secretary of Transportation, the Secretary of California Health and Human Services, the Secretary of California Housing and Homelessness, the Secretary of Food and Agriculture, one member of the public appointed by the Speaker of the Assembly, one member of the public appointed by the Senate Committee on Rules, and one member of the public to be appointed by the Governor. The public members shall have a background in land use planning, local government, resource protection and management, or community development or revitalization and shall serve at the pleasure of the
+ appointing authority.
+
+(b) Staff for the council shall be reflective of the council’s membership.
+
+(c) This section shall become operative on July 1, 2026.
+
+(History: Repealed (in Sec. 100) and added by Stats. 2026, Ch. 28, Sec. 101.   (SB 170)   Effective June 29, 2026.   Operative July 1, 2026, by its own provisions.)
 -------------------------------------------
 
 75122.
