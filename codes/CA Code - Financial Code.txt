@@ -5,7 +5,7 @@
 
 Source: Official California Legislative Information
         https://downloads.leginfo.legislature.ca.gov/
-Last Updated by State of California: November 27, 2025
+Last Updated by State of California: July 10, 2026
 
 
 ======================================================================
@@ -821,10 +821,12 @@ CHAPTER 3. Department of Financial Protection and Innovation [300. - 414.]
 
 (3) “Stored Value” has the same meaning as set forth in subdivision (x) of Section 2003.
 
-(b) There is in the state government, in the Business, Consumer Services, and Housing Agency, a Department of Financial Protection and Innovation, which has charge of the execution of, among other laws, the laws of this state relating to any of the following: (1) banks or trust companies or the banking or trust business; (2) savings associations or the savings association business; (3) credit unions or the credit union business; (4) persons who engage in the business of receiving money for transmission or such business; (5) issuers of stored value or such business; (6) issuers of payment instruments or the payment instrument business; (7) business and industrial development corporations or the business and industrial development corporation business; (8) insurance premium finance agencies or the insurance premium finance business; (9) persons offering or making any contract constituting bucketing; (10) persons offering or selling
- off-exchange commodities; (11) deferred deposit originators; (12) finance lenders and brokers; (13) residential mortgage lenders and servicers; (14) capital access companies; (15) check sellers, bill payers, and proraters; (16) securities issuers, broker-dealers, agents, investment advisers, and investment adviser representatives; (17) mortgage loan originators employed or supervised by finance lenders or residential mortgage lenders; (18) escrow agents; (19) franchisors; (20) persons holding securities as custodians on behalf of securities owners; (21) persons offering or providing consumer financial products or services in this state; and (22) PACE program administrators.
+(b) There is in the state government, in the Business and Consumer Services Agency, a Department of Financial Protection and Innovation, which has charge of the execution of, among other laws, the laws of this state relating to any of the following: (1) banks or trust companies or the banking or trust business; (2) savings associations or the savings association business; (3) credit unions or the credit union business; (4) persons who engage in the business of receiving money for transmission or such business; (5) issuers of stored value or such business; (6) issuers of payment instruments or the payment instrument business; (7) business and industrial development corporations or the business and industrial development corporation business; (8) insurance premium finance agencies or the insurance premium finance business; (9) persons offering or making any contract constituting bucketing; (10)
+ persons offering or selling off-exchange commodities; (11) deferred deposit originators; (12) finance lenders and brokers; (13) residential mortgage lenders and servicers; (14) capital access companies; (15) check sellers, bill payers, and proraters; (16) securities issuers, broker-dealers, agents, investment advisers, and investment adviser representatives; (17) mortgage loan originators employed or supervised by finance lenders or residential mortgage lenders; (18) escrow agents; (19) franchisors; (20) persons holding securities as custodians on behalf of securities owners; (21) persons offering or providing consumer financial products or services in this state; and (22) PACE program administrators.
 
-(History: Amended by Stats. 2020, Ch. 157, Sec. 1.   (AB 1864)   Effective January 1, 2021.)
+(c) The amendments made to this section by the act adding this subdivision shall become operative on July 1, 2026.
+
+(History: Amended by Stats. 2026, Ch. 28, Sec. 15.   (SB 170)   Effective June 29, 2026.   Operative July 1, 2026, by its own provisions.)
 -------------------------------------------
 
 301.
@@ -6040,9 +6042,11 @@ If any commercial bank has made investments which it was authorized to make at t
 
 1514.
 
-A commercial bank may organize, sponsor, operate, control, or render investment advice to, an investment company, or underwrite, distribute, or sell securities of any investment company which has qualified to sell its securities in this state pursuant to Part 2 (commencing with Section 25100) of Division 1 of Title 4 of the Corporations Code, if the officers and employees of the bank who sell these securities meet such standards with respect to training, experience, and sales practices as established by the Secretary of Business, Consumer Services, and Housing or the secretary’s designee. For the purpose of this section, “investment company” means an investment company as defined in the Investment Company Act of 1940 (15 U.S.C., Sec. 80a-1 et seq.).
+(a) A commercial bank may organize, sponsor, operate, control, or render investment advice to, an investment company, or underwrite, distribute, or sell securities of any investment company which has qualified to sell its securities in this state pursuant to Part 2 (commencing with Section 25100) of Division 1 of Title 4 of the Corporations Code, if the officers and employees of the bank who sell these securities meet such standards with respect to training, experience, and sales practices as established by the commissioner or the commissioner’s designee. For the purpose of this section, “investment company” means an investment company as defined in the Investment Company Act of 1940 (15 U.S.C., Sec. 80a-1 et seq.).
 
-(History: Amended by Stats. 2014, Ch. 401, Sec. 26.   (AB 2763)   Effective January 1, 2015.)
+(b) The amendments made to this section by the act adding this subdivision shall become operative on July 1, 2026.
+
+(History: Amended by Stats. 2026, Ch. 28, Sec. 16.   (SB 170)   Effective June 29, 2026.   Operative July 1, 2026, by its own provisions.)
 -------------------------------------------
 
 1515.
@@ -10045,110 +10049,116 @@ For purposes of this division:
 
 (c) “Control” means both of the following:
 
-(1) When used in reference to a transaction or relationship involving a digital financial asset, power to execute unilaterally or prevent
- indefinitely a digital financial asset transaction.
+(1) When used in reference to a transaction or relationship involving a digital financial asset, power to execute unilaterally or prevent indefinitely a digital
+ financial asset transaction, unless the power to prevent indefinitely is limited to the ability to terminate, suspend, or interrupt a transaction solely in response to unauthorized or fraudulent activity.
 
 (2) When used in reference to a person, the direct or indirect power to do either of the following:
 
 (A) Vote 25 percent or more of any class of the voting securities issued by a person.
 
-(B) Direct or cause the direction of the management and policies of a person, whether through the ownership of voting securities, by contract, other than a commercial contract for goods or nonmanagement services, or otherwise, if no individual is deemed to control a person solely on account of being a director, officer, or employee of such person. 
+(B) Direct or cause the direction of the management and policies of a person, whether through the ownership of voting securities, by contract, other than a commercial contract
+ for goods or nonmanagement services, or otherwise, if no individual is deemed to control a person solely on account of being a director, officer, or employee of such person.
 
-(d) “Covered person” means a person required to obtain a license pursuant to
- this division.
+(d) “Covered person” means a person required to obtain a license pursuant to this division.
 
 (e) “Credit union” means a credit union licensed under the laws of this state, or any other state, or a federal credit union chartered under the laws of the United States.
 
 (f) “Department” means the Department of Financial Protection and Innovation.
 
-(g) (1) “Digital financial asset” means a digital representation of value that is used as a medium of exchange, unit of account, or store of value, and that is not legal tender, whether or not denominated in legal tender.
+(g) (1) “Digital financial asset” means a digital representation of value that is used as a medium of exchange, unit of
+ account, or store of value, and that is not legal tender, whether or not denominated in legal tender.
 
 (2) “Digital financial asset” does not include any of the following:
 
-(A) A transaction in which
- a merchant grants, as part of an affinity or rewards program, value that cannot be taken from or exchanged with the merchant for legal tender, bank or credit union credit, or a digital financial asset.
+(A) A transaction in which a merchant grants, as part of an affinity or rewards program, digital representations of value that primarily relate to the affinity or rewards program and cannot be taken from or exchanged with the merchant for legal tender, bank or credit union credit, or a digital financial asset.
 
-(B) A digital representation of value issued by or on behalf of a publisher and used solely within an online game, game platform, or family of games sold by the same publisher or offered on the same game platform.
+(B) A digital representation of value issued by or on behalf of a publisher and used primarily within online games or game platforms and that is not otherwise a digital financial asset.
 
 (C) A security registered with or exempt from registration with the United States Securities and Exchange Commission or a security qualified with or exempt from qualifications with the department.
 
-(h) “Digital financial asset administration” means issuing a digital financial asset with the authority to
- redeem the digital financial asset for legal tender, bank or credit union credit, or another digital financial asset.
+(D) A digital record of ownership, or equivalent thereto, of tangible or intangible goods, including, but not limited to, any of the following:
 
-(i) “Digital financial asset business activity” means any of the following:
+(i) Works of art, musical compositions, literary works, and similar intellectual property.
 
-(1) Exchanging, transferring, or storing a digital financial asset or engaging in digital financial asset administration, whether directly or through an agreement with a digital financial asset control services vendor.
+(ii) Collectibles, merchandise, virtual land, and in-game assets.
+
+(iii) Digital affinity, loyalty, or
+ rewards points granted by a merchant or a network of participating merchants if all of the following are true:
+
+(I) The points cannot be redeemed with a participating merchant in exchange for legal tender, bank or credit union credit, or a digital financial asset.
+
+(II) The points can only be redeemed by participating merchants as part of the purchase of goods or services, which does not include digital financial assets.
+
+(III) The points are granted or redeemed by participating merchants pursuant to a
+ formal loyalty program intended to reward frequent customers.
+
+(iv) Licenses, tickets, and similar rights to attend events or participate in activities.
+
+(h) “Digital
+ financial asset business activity” means either of the following:
+
+(1) Exchanging, transferring, or storing a digital financial asset.
 
 (2) Holding electronic precious metals or electronic certificates representing interests in precious metals on behalf of another person or issuing shares or electronic certificates representing interests in precious metals.
 
-(3) Exchanging one or
- more digital representations of value used within one or more online games, game platforms, or family of games for either of the following:
-
-(A) A digital financial asset offered by or on behalf of the same publisher from which the original digital representation of value was received.
-
-(B) Legal tender or bank or credit union credit outside the online game, game platform, or family of games offered by or on behalf of the same publisher from which the original digital representation of value was received.
-
-(j) “Digital financial asset control services vendor” means a person that has control of a digital financial asset solely under an agreement with a person that, on behalf of another person, assumes control of the
- digital financial asset.
-
-(k) “Exchange,” when used as a verb, means to assume control of a digital financial asset from, or on behalf of, a resident, at least momentarily, to sell, trade, or convert either of the following:
+(i) “Exchange,” when used as a verb, means to assume control of a digital financial asset from, or on behalf of, a resident, at least momentarily, to sell, trade, or convert either of the following:
 
 (1) A digital financial asset for legal tender, bank or credit union credit, or one or more forms of digital financial assets.
 
 (2) Legal tender or bank or credit union credit for one or more forms of digital financial assets.
 
-(l) “Executive officer” includes, but is not limited to, an individual who is a director, officer, manager, managing member, partner, or trustee of a person that is not an individual, or any other person who performs
- similar policymaking or policy implementation functions.
+(j) “Executive officer” includes, but is not limited to, an individual who is a director, officer, manager, managing member, partner, or trustee of a person that is not an individual, or any other person who performs similar policymaking or policy implementation functions.
 
-(m) “Insolvent” means any of the following:
+(k) “Insolvent” means any of the following:
 
-(1) Having generally ceased to pay debts in the ordinary course of business other than as a result of a bona fide dispute.
+(1) Having generally ceased to pay debts in the
+ ordinary course of business other than as a result of a bona fide dispute.
 
 (2) Being unable to pay debts as they become due.
 
 (3) Being insolvent within the meaning of federal bankruptcy law.
 
-(n) “Legal tender” means a medium of exchange or unit of value, including the coin or paper money of the United States, issued by the United States or by another government.
+(l) “Legal tender” means a medium of exchange or unit of value, including the coin or paper money of the United States, issued by the United States or by another government.
 
-(o) “Licensee” means a person
- licensed or conditionally licensed under this division.
+(m) “Licensee” means a person licensed or conditionally licensed under this division.
 
-(p) (1) “Person” means an individual, partnership, estate, business or nonprofit entity, or other legal entity.
+(n) (1) “Person” means an individual, partnership, estate, business or nonprofit entity, or other legal entity.
 
 (2) “Person” does not include a government-sponsored enterprise, government, or governmental subdivision, agency, or instrumentality.
 
-(q) “Record” means information that is inscribed on a tangible medium or that is stored in an electronic or other medium and is retrievable in perceivable form.
+(o) “Record” means information that is inscribed on a tangible medium or that is stored in an electronic or other medium and is retrievable in perceivable form.
 
-(r) (1) “Resident” means any of the following:
+(p) (1) “Resident” means any of the following:
 
 (A) A person who is domiciled in this state.
 
-(B) A person who is physically located in this state for more
- than 183 days of the previous 365 days.
+(B) A person who is physically located in this state for
+ more than 183 days of the previous 365 days.
 
 (C) A person who has a place of business in this state.
 
 (D) A legal representative of a person that is domiciled in this state.
 
-(2) Notwithstanding paragraph (1), “resident” does not include a licensee or an affiliate, as defined in subdivision (a) of Section 90005, of a licensee. 
+(2) Notwithstanding paragraph (1), “resident” does not include a licensee or an affiliate, as defined in subdivision (a) of Section 90005, of a licensee.
 
-(s) “Responsible individual” means an individual who has direct control over, or significant management policy and decisionmaking authority with respect to, a licensee’s digital financial asset business activity in this state.
+(q) “Responsible individual” means an individual who has direct control over,
+ or significant management policy and decisionmaking authority with respect to, a licensee’s digital financial asset business activity in this state.
 
-(t) “SAFE Act” means the federal Secure
- and Fair Enforcement for Mortgage Licensing Act of 2008 (Public Law 110-289).
+(r) “SAFE Act” means the federal Secure and Fair Enforcement for Mortgage Licensing Act of 2008 (Public Law 110-289).
 
-(u) “Sign” means, with present intent to authenticate or adopt a record, either of the following:
+(s) “Sign” means,
+ with present intent to authenticate or adopt a record, either of the following:
 
 (1) To execute or adopt a tangible symbol.
 
 (2) To attach to, or logically associate with, the record an electronic symbol, sound, or process.
 
-(v) “State” means a state of the United States, the District of Columbia, Puerto Rico, the United States Virgin Islands, or any territory or insular possession subject to the jurisdiction of the United States.
+(t) “State” means a state of the United States, the District of
+ Columbia, Puerto Rico, the United States Virgin Islands, or any territory or insular possession subject to the jurisdiction of the United States.
 
-(w) “Store,” except in the phrase “store of value,” means to maintain
- control of a digital financial asset on behalf of a resident by a person other than the resident. “Storage” and “storing” have corresponding meanings.
+(u) “Store,” except in the phrase “store of value,” means to maintain control of a digital financial asset on behalf of a resident by a person other than the resident. “Storage” and “storing” have corresponding meanings.
 
-(x) “Transfer” means to assume control of a digital financial asset from, or on behalf of, a resident and to subsequently do any of the following:
+(v) “Transfer” means to assume control of a digital financial asset from, or on behalf of, a resident and to subsequently do any of the following:
 
 (1) Credit the digital financial asset to the account of another person.
 
@@ -10156,15 +10166,14 @@ For purposes of this division:
 
 (3) Relinquish control of a digital financial asset to another person.
 
-(y) “United States dollar equivalent of digital
- financial assets” means the equivalent value of a particular digital financial asset in United States dollars shown on a digital financial asset exchange based in the United States for a particular date or period specified in this division.
+(w) “United States dollar equivalent of digital financial assets” means the equivalent value of a particular digital financial asset in United States dollars shown on a digital financial asset exchange based in the United States for a particular date or period specified in this division.
 
-(History: Added by Stats. 2023, Ch. 792, Sec. 1.   (AB 39)   Effective January 1, 2024.)
+(History: Amended by Stats. 2026, Ch. 52, Sec. 1.   (SB 97)   Effective June 30, 2026.)
 -------------------------------------------
 
 3103.
 
-(a) Except as otherwise provided in subdivision (b), this division governs the digital financial asset business activity of a person doing business in this state or, wherever located, who engages in or holds itself out as engaging in the activity with, or on behalf of, a resident. 
+(a) Except as otherwise provided in subdivision (b), this division governs the digital financial asset business activity of a person doing business in this state or, wherever located, who engages in or holds itself out as engaging in the activity with, or on behalf of, a resident.
 
 (b) This division does not apply to activity by any of the following:
 
@@ -10178,8 +10187,8 @@ For purposes of this division:
 
 (C) An association or federal association, as defined in Section 5102, the deposits of which are insured by the Federal Deposit Insurance Corporation or its successor.
 
-(3) A trust company licensed
- pursuant to Section 1042 or a national association authorized under federal law to engage in a trust banking business. 
+(3) A trust company licensed pursuant to Section 1042 or a national association
+ authorized under federal law to engage in a trust banking business.
 
 (4) A federally chartered or state-chartered credit union, with an office in California, the member accounts of which are insured or guaranteed as provided in Section 14858.
 
@@ -10208,25 +10217,25 @@ For purposes of this division:
 (12) A secured creditor under Division 9 (commencing with Section 9101) of the Commercial Code or a creditor with a judicial lien, or lien arising by operation of law, on collateral that is a digital financial asset, if the digital financial asset business activity of the creditor is limited to enforcement of the security interest in compliance with Division 9 (commencing with Section 9101) of the Commercial Code or lien in compliance with the law applicable to the lien.
 
 (13) A person that does not receive compensation, either directly or indirectly, for
- providing digital financial asset products or services or for conducting digital financial asset business activity or that is engaged in testing products or services with the person’s own funds.
+ providing digital financial asset products or services or for conducting digital financial asset business activity, including a person who merely retains the ability to terminate, suspend, or interrupt a digital financial transaction solely to prevent unauthorized or fraudulent activity and who is not compensated for that service, or that is engaged in testing products or services with the person’s own funds.
 
-(14) Any entity or futures commission merchant, swap dealer, or introducing broker registered under the federal Commodity Exchange Act (7 U.S.C. Sec. 1, et seq.)
- to the extent those activities are conducted under authority of that act, are actually regulated by the Commodity Futures Trading Commission, and are entitled to preemption.
+(14) Any entity or futures commission merchant, swap dealer, or introducing broker registered under the federal Commodity Exchange Act (7 U.S.C. Sec. 1, et seq.) to the extent those activities are conducted under authority of that act, are actually regulated by the Commodity Futures Trading Commission, and are entitled to preemption.
 
-(15) A person registered as a securities broker-dealer under federal or state securities laws to the extent of its operation as a broker-dealer.
+(15) A person registered as a
+ securities broker-dealer under federal or state securities laws to the extent of its operation as a broker-dealer.
 
 (16) A person that provides clearance or settlement services pursuant to a registration as a clearing agency or an exemption from registration granted under the federal securities laws to the extent of its operation as such a provider.
 
-(17) A merchant that accepts a digital financial asset as payment for the purchase or
- sale of goods or services, which does not include digital financial assets.
+(17) A merchant that accepts a digital financial asset as payment for the purchase or sale of goods or services, which does not include digital financial assets.
 
-(c) (1) The commissioner may, by regulation or order, either unconditionally or upon specified terms and conditions or for specified periods, exempt from all or part of this division any person or transaction, or class of persons or transactions, if the commissioner finds such action to be in the public interest and that the regulation of such persons or transactions is not necessary for the purposes of this division.
+(c) (1) The commissioner may, by regulation or order, either unconditionally or upon specified terms and conditions or for specified periods, exempt from all or part of this division any person
+ or transaction, or class of persons or transactions, if the commissioner finds such action to be in the public interest and that the regulation of such persons or transactions is not necessary for the purposes of this division.
 
 (2) The commissioner shall post on the commissioner’s internet website a list of all persons, transactions, or classes of person or transactions exempt pursuant to this section, and the part or parts of this division from which they are exempt.
 
 (3) The commissioner may, by regulation or order, amend or rescind any exemption made pursuant to this subdivision.
 
-(History: Added by Stats. 2023, Ch. 792, Sec. 1.   (AB 39)   Effective January 1, 2024.)
+(History: Amended by Stats. 2026, Ch. 52, Sec. 2.   (SB 97)   Effective June 30, 2026.)
 -------------------------------------------
 
 
@@ -10239,12 +10248,11 @@ On or after July 1, 2026, a person shall not engage in digital financial asset b
 
 (a) The person is licensed in this state by the department under Section 3203.
 
-(b) The person submits an application on or before July 1,
- 2026, and is awaiting approval or denial of that application.
+(b) The person submits a completed application on or before July 1, 2026, and is awaiting approval or denial of that application.
 
 (c) The person is exempt from licensure under this division pursuant to Section 3103.
 
-(History: Amended by Stats. 2024, Ch. 945, Sec. 1.   (AB 1934)   Effective January 1, 2025.)
+(History: Amended by Stats. 2026, Ch. 52, Sec. 3.   (SB 97)   Effective June 30, 2026.)
 -------------------------------------------
 
 3203.
@@ -10381,10 +10389,10 @@ On or after July 1, 2026, a person shall not engage in digital financial asset b
 
 3205.
 
-(a) The commissioner may issue a conditional license to an applicant who holds or maintains a license to conduct virtual currency business activity in the state of New York pursuant to Part 200 of Title 23 of the New York Code of Rules and Regulations or a charter as a New York State limited purpose trust company with approval to conduct a virtual currency business under New York law, provided the license was issued or approved no later than January 1, 2023, and the applicant pays all appropriate fees and complies with the requirements of this division.
+(a) The commissioner may issue a conditional license to an applicant who holds or maintains a license to conduct virtual currency business activity in the State of New York pursuant to Part 200 of Title 23 of the New York Code of Rules and Regulations or a charter as a New York State limited purpose trust company with approval to conduct a virtual currency business under New York law, provided the license was issued or approved no later than January 1, 2025, and the applicant pays all appropriate fees and complies with the requirements of this division.
 
-(b) The commissioner may issue a conditional license to an
- applicant pending compliance with the requirements of Section 3219 if all of the following conditions are met:
+(b) The commissioner may issue a conditional license to an applicant pending compliance with the requirements of Section 3219 if
+ all of the following conditions are met:
 
 (1) The applicant has supplied all fingerprints required under Section 3219.
 
@@ -10396,11 +10404,12 @@ On or after July 1, 2026, a person shall not engage in digital financial asset b
 
 (1) Upon issuance of an unconditional license.
 
-(2) Upon denial of a license application.
+(2) Upon denial of a license
+ application.
 
 (3) Upon revocation of a license issued pursuant to Part 200 of Title 23 of the New York Code of Rules and Regulations or disapproval or revocation of a charter as a New York State limited purpose trust company with approval to conduct a virtual currency business under New York law.
 
-(History: Added by Stats. 2023, Ch. 792, Sec. 1.   (AB 39)   Effective January 1, 2024.)
+(History: Amended by Stats. 2026, Ch. 52, Sec. 4.   (SB 97)   Effective June 30, 2026.)
 -------------------------------------------
 
 3207.
@@ -10474,15 +10483,15 @@ On or after July 1, 2026, a person shall not engage in digital financial asset b
 
 (b) The annual report required by subdivision (a) shall be submitted in a form and medium prescribed by the department. The report shall contain all of the following:
 
-(1) Either a copy of the licensee’s most recent reviewed annual financial statement, if the gross revenue generated by the licensee’s digital financial asset business activity in this state was not more than two million dollars ($2,000,000) for the fiscal year ending before
- the anniversary date of issuance of its license under this division, or a copy of the licensee’s most recent audited annual financial statement, if the licensee’s digital financial asset business activity in this state amounted to more than two million dollars ($2,000,000), for the fiscal year ending before the anniversary date.
+(1) Either a copy of the licensee’s most recent reviewed annual financial statement, if the gross revenue generated by the licensee’s digital financial asset business activity in this state was not more than two million dollars ($2,000,000) for the fiscal year ending before the anniversary date of
+ issuance of its license under this division, or a copy of the licensee’s most recent audited annual financial statement, if the licensee’s digital financial asset business activity in this state amounted to more than two million dollars ($2,000,000), for the fiscal year ending before the anniversary date.
 
 (2) If a person other than an individual has control of the licensee, a copy of either of the following:
 
 (A) The person’s most recent reviewed annual financial statement, if the person’s gross revenue was not more than two million dollars ($2,000,000) in the previous fiscal year measured as of the anniversary date of issuance of its license under this division.
 
-(B) The person’s most recent
- audited consolidated annual financial statement, if the person’s gross revenue was more than two million dollars ($2,000,000) in the previous fiscal year measured as of the anniversary date of issuance of its license under this division.
+(B) The person’s most recent audited consolidated annual financial
+ statement, if the person’s gross revenue was more than two million dollars ($2,000,000) in the previous fiscal year measured as of the anniversary date of issuance of its license under this division.
 
 (3) A description of any of the following:
 
@@ -10492,7 +10501,7 @@ On or after July 1, 2026, a person shall not engage in digital financial asset b
 
 (C) Any international, federal, state, or local investigation of the licensee, where permitted by applicable law.
 
-(D) (i) Any data security breach or cybersecurity event of the licensee.
+(D) (i) Any material data security breach or cybersecurity event of the licensee.
 
 (ii) A description of a data security breach pursuant to this subparagraph does not constitute disclosure or notification of a security breach for purposes of Section 1798.82 of the Civil Code.
 
@@ -10506,8 +10515,7 @@ On or after July 1, 2026, a person shall not engage in digital financial asset b
 
 (7) Evidence that the licensee is in compliance with Section 3503.
 
-(8) Evidence that the licensee is in compliance with Section
- 3205.
+(8) Evidence that the licensee is in compliance with Section 3205.
 
 (9) A list of all locations where the licensee engages in its digital financial asset business activity.
 
@@ -10515,35 +10523,35 @@ On or after July 1, 2026, a person shall not engage in digital financial asset b
 
 (11) Any other information the department requires by rule.
 
-(c) (1) On or before February 28 of each year, a licensee and an applicant operating under this division without a license pursuant to subdivision (b) of Section 3201 shall pay its pro rata cost share of all costs
- and expenses reasonably incurred in the administration of this division, as estimated by the commissioner, for the ensuing year and any deficit actually incurred or anticipated in the administration of the program in both the year in which the assessment is made and the preceding year.
+(c) (1) On or before February 28 of each year, a licensee and an applicant operating under this division without a license pursuant to subdivision (b) of Section 3201 shall pay its pro rata cost share of all costs and expenses reasonably incurred in the administration of this division, as estimated by the commissioner, for the ensuing year and any deficit actually incurred or anticipated in the
+ administration of the program in both the year in which the assessment is made and the preceding year.
 
-(2) The pro rata cost share described in paragraph (1) shall be the proportion of residents with whom, or on behalf of, a licensee or an applicant operating under this division without a license pursuant to subdivision (b) of Section 3201 engages in digital financial asset business activity bears to the aggregate residents with whom, or on behalf of, all licensees and applicants operating under this division without a license pursuant to subdivision (b) of Section 3201 engage in digital financial asset business activity, as determined by the commissioner, for
- the costs and expenses reasonably incurred in the administration of this division, not including any costs covered by the fees or cost recoveries under Section 3203 or cost recoveries under Section 3301.
+(2) The pro rata cost share described in paragraph (1) shall be the proportion of residents with whom, or on behalf of, a licensee or an applicant operating under this division without a license pursuant to subdivision (b) of Section 3201 engages in digital financial asset business activity bears to the aggregate residents with whom, or on behalf of, all licensees and applicants operating under this division without a license pursuant to subdivision (b) of Section 3201 engage in digital financial asset business activity, as determined by the commissioner, for the costs and expenses reasonably incurred in the administration of this division, not including any costs covered by the fees or cost recoveries under Section 3203 or cost recoveries
+ under Section 3301.
 
 (3) On or before January 31 of each year, the commissioner shall notify each licensee and applicant operating under this division without a license pursuant to subdivision (b) of Section 3201 of the amount assessed and levied against it.
 
 (4) The commissioner may use funds obtained by the commissioner through the enforcement of this division, including, but not limited to, moneys received through fines, penalties, settlements, or judgements, for the administration of this division, which shall offset amounts assessed and levied against pursuant to this subdivision.
 
-(5) The department may adopt rules that change the calculation of the pro rata cost share and the dates on which assessment notifications and payments are due pursuant to this subdivision, except that the amount of the pro rata cost share shall not exceed the costs and expenses reasonably incurred in the administration of this division.
+(5) The department may adopt rules that change the calculation of the pro rata cost share and the dates on which assessment notifications
+ and payments are due pursuant to this subdivision, except that the amount of the pro rata cost share shall not exceed the costs and expenses reasonably incurred in the administration of this division.
 
 (d) (1) Following at least five business days’ notice to the licensee, the commissioner may by order summarily suspend or revoke the license of any licensee that fails to comply with subdivisions (a) to (c), inclusive, by March 31 of the year in which an assessment is made pursuant to subdivision (c).
 
-(2) The licensee may request a hearing on the order within 30 days
- of receipt of the notice.
+(2) The licensee may request a hearing on the order within 30 days of receipt of the notice.
 
-(3) If the licensee timely requests a hearing on the order and a hearing is not held within 60 days of that request, the order shall be deemed rescinded as of the effective date of the order.
+(3) If the licensee timely requests a hearing on the order and a hearing is not held within 60 days of that
+ request, the order shall be deemed rescinded as of the effective date of the order.
 
 (e) If the department suspends or revokes a license under this division for noncompliance with subdivisions (a) to (c), inclusive, the department may end the suspension or rescind the revocation and notify the licensee of the action if, subject to subdivision (h), not later than 20 days after the license was suspended or revoked, the licensee files an annual report required by subdivision (a), a pro rata cost share required by subdivision (c), and pays any penalty assessed under Section 3407.
 
-(f) The
- department shall give prompt notice to a licensee of the lifting of a suspension or rescission of a revocation after the licensee complies with subdivision (e).
+(f) The department shall give prompt notice to a licensee of the lifting of a suspension or rescission of a revocation after the licensee complies with subdivision (e).
 
 (g) Suspension or revocation of a license under this section does not invalidate a transfer or exchange of digital financial assets for, or on behalf of, a resident made during the suspension or revocation and does not insulate the licensee from liability under this division.
 
 (h) The department may extend a period under this section.
 
-(History: Added by Stats. 2023, Ch. 792, Sec. 1.   (AB 39)   Effective January 1, 2024.)
+(History: Amended by Stats. 2026, Ch. 52, Sec. 5.   (SB 97)   Effective June 30, 2026.)
 -------------------------------------------
 
 3213.
@@ -10724,10 +10732,9 @@ The department may cooperate, coordinate, jointly examine, consult, and share re
 
 (2) A change in the licensee’s business for the conduct of its digital financial asset business activity with, or on behalf of, a resident that meets one of the following criteria:
 
-(A) The change may raise a legal or regulatory issue about the permissibility of the licensee’s digital financial
- business activity.
+(A) The change may raise a legal or regulatory issue about the permissibility of the licensee’s digital financial business activity.
 
-(B) The proposed change may raise safety and soundness or operational concerns.
+(B) The proposed change might raise material safety and soundness or operational concerns.
 
 (C) The proposed change is to digital financial business activity that may cause such activity to be materially different from that previously listed on the application for licensing by the commissioner.
 
@@ -10735,7 +10742,7 @@ The department may cooperate, coordinate, jointly examine, consult, and share re
 
 (b) A report required by this section shall be filed not later than 15 days after the change described in subdivision (a).
 
-(History: Added by Stats. 2023, Ch. 792, Sec. 1.   (AB 39)   Effective January 1, 2024.)
+(History: Amended by Stats. 2026, Ch. 52, Sec. 6.   (SB 97)   Effective June 30, 2026.)
 -------------------------------------------
 
 3309.
@@ -10990,8 +10997,7 @@ CHAPTER 5. Disclosures and Protections [3501. - 3509.]
 
 3501.
 
-(a) When engaging in digital financial business activity with a resident, a covered person shall provide to a resident the disclosures required by subdivision (b) and any additional disclosure the department by rule determines reasonably necessary for the protection of residents. The department shall determine by rule the time and form required for disclosure. A disclosure required by this section shall be made separately from any other information provided by the covered person and in a clear and conspicuous manner in a record the resident may keep. A covered person may propose, for the department’s approval, alternate disclosures as more appropriate for its digital financial asset business activity with, or on behalf of,
- residents.
+(a) When engaging in digital financial business activity with a resident, a covered person shall provide to a resident the disclosures required by subdivision (b) and any additional disclosure the department by rule determines reasonably necessary for the protection of residents. The department shall determine by rule the time and form required for disclosure. A disclosure required by this section shall be made separately from any other information provided by the covered person and in a clear and conspicuous manner in a record the resident may keep. A covered person may propose, for the department’s approval, alternate disclosures as more appropriate for its digital financial asset business activity with, or on behalf of, residents.
 
 (b) Before engaging in digital financial asset business activity with a resident, a covered person shall disclose, to the extent applicable to the digital financial asset business activity the covered person will undertake with the resident, all of the following:
 
@@ -10999,8 +11005,8 @@ CHAPTER 5. Disclosures and Protections [3501. - 3509.]
 
 (2) Whether the product or service provided by the covered person is covered by either of the following:
 
-(A) A form of insurance or other guarantee against loss by an agency of the
- United States as follows:
+(A) A form of insurance or other guarantee against loss by an agency of the United States as
+ follows:
 
 (i) Up to the full United States dollar equivalent of digital financial assets placed under the control of, or purchased from, the covered person as of the date of the placement or purchase, including the maximum amount provided by insurance under the Federal Deposit Insurance Corporation, National Credit Union Share Insurance Fund, or otherwise available from the Securities Investor Protection Corporation.
 
@@ -11014,8 +11020,7 @@ CHAPTER 5. Disclosures and Protections [3501. - 3509.]
 
 (4) A description of all of the following:
 
-(A) The covered person’s liability for an unauthorized, mistaken, or
- accidental transfer or exchange.
+(A) The covered person’s liability for an unauthorized, mistaken, or accidental transfer or exchange.
 
 (B) The resident’s responsibility to provide notice to the covered person of an unauthorized, mistaken, or accidental transfer or exchange.
 
@@ -11025,35 +11030,35 @@ CHAPTER 5. Disclosures and Protections [3501. - 3509.]
 
 (E) The method for the resident to update the resident’s contact information with the covered person.
 
-(5) That the date or time when the transfer or exchange is made and
- the resident’s account is debited may differ from the date or time when the resident initiates the instruction to make the transfer or exchange.
+(5) That the date or time when the transfer or exchange is made and the resident’s account is debited may
+ differ from the date or time when the resident initiates the instruction to make the transfer or exchange.
 
 (6) Whether the resident has a right to stop a preauthorized payment or revoke authorization for a transfer and the procedure to initiate a stop-payment order or revoke authorization for a subsequent transfer.
 
 (7) The resident’s right to receive a receipt, trade ticket, or other evidence of the transfer or exchange.
 
-(8) The resident’s right to at least 14 days’ prior notice of a change in the covered person’s fee schedule, other terms and conditions that have a material impact on digital financial asset business activity with the resident, or the policies applicable to the resident’s
- account.
+(8) The resident’s right to at least 14 days’ prior notice of a change in the covered person’s fee schedule, other terms and conditions that have a material impact on digital financial asset business activity with the resident, or the policies applicable to the resident’s account. The 14-day notice
+ requirement shall not apply to changes in terms and conditions or policies that are reasonably necessary to address a risk of loss to the resident or the covered person, to the extent that the change does not relate to the covered person’s fee schedule.
 
 (9) That no digital financial asset is currently recognized as legal tender by California or the United States.
 
 (10) (A) A list of instances in the past 12 months when the covered person’s service was unavailable to 10,000 or more customers seeking to engage in digital financial asset business activity due to a service outage on the part of the covered person and the causes of each identified service outage.
 
-(B) As part of the disclosure required by this paragraph, the covered person may list any steps the covered person has taken to resolve underlying causes for those outages.
+(B) As part of the disclosure required by
+ this paragraph, the covered person may list any steps the covered person has taken to resolve underlying causes for those outages.
 
-(c) Except as otherwise provided in subdivision (d), at the conclusion
- of a digital financial asset transaction with, or on behalf of, a resident, a covered person shall provide the resident a confirmation in a record which contains all of the following:
+(c) Except as otherwise provided in subdivision (d), at the conclusion of a digital financial asset transaction with, or on behalf of, a resident, a covered person shall provide the resident a confirmation in a record which contains all of the following:
 
 (1) The name and contact information of the covered person, including the toll-free telephone number required under Section 3507.
 
 (2) The type, value, date, precise time, and amount of the transaction.
 
-(3) The fee charged for the transaction, including any charge for conversion of a digital financial asset to legal tender, bank credit, or other digital financial asset, as well as any indirect charges.
+(3) The fee charged for the transaction, including any charge for
+ conversion of a digital financial asset to legal tender, bank credit, or other digital financial asset, as well as any indirect charges.
 
-(d) If a covered person discloses that it will provide a daily confirmation
- in the initial disclosure under subdivision (c), the covered person may elect to provide a single, daily confirmation for all transactions with, or on behalf of, a resident on that day instead of a per transaction confirmation.
+(d) If a covered person discloses that it will provide a daily confirmation in the initial disclosure under subdivision (c), the covered person may elect to provide a single, daily confirmation for all transactions with, or on behalf of, a resident on that day instead of a per transaction confirmation.
 
-(History: Added by Stats. 2023, Ch. 792, Sec. 1.   (AB 39)   Effective January 1, 2024.)
+(History: Amended by Stats. 2026, Ch. 52, Sec. 7.   (SB 97)   Effective June 30, 2026.)
 -------------------------------------------
 
 3503.
@@ -11100,32 +11105,40 @@ CHAPTER 5. Disclosures and Protections [3501. - 3509.]
 
 (D) Established policies and procedures to reevaluate the appropriateness of the continued listing or offering of the digital financial asset, including an evaluation of whether material changes have occurred.
 
-(E) Established policies and procedures to cease
- listing or offering the digital financial asset, including notification to affected consumers and counterparties.
+(E) Established policies and procedures to cease listing or offering the digital financial asset, including notification to affected consumers and counterparties.
 
-(2) Certification by a covered exchange shall not be required for any digital financial asset approved for listing on or before January 1, 2023, by the New York Department of Financial Services pursuant to Part 200 of Title 23 of the New York Code of Rules and Regulations.
+(2) Certification
+ by a covered exchange shall not be required for any digital financial asset approved for listing on or before January 1, 2025, by the New York Department of Financial Services pursuant to Part 200 of Title 23 of the New York Code of Rules and Regulations.
 
-(3) The department, after a finding that a covered exchange has listed or offered a digital financial asset without appropriate certification or after a finding that material misrepresentations were made in the certification process, shall require the covered exchange to cease offering or listing the digital financial asset and may assess the civil penalty of up to twenty thousand dollars ($20,000)
- per day the violation has occurred.
+(3) The department, after a finding that a covered exchange has listed or offered a digital financial asset without appropriate certification or after a finding that material misrepresentations were made in the certification process, shall require the covered exchange to cease offering or listing the digital financial asset and may assess the civil penalty of up to twenty thousand dollars ($20,000) per day the violation has occurred.
 
-(b) (1) A covered exchange shall make every effort to execute a resident’s request to exchange a digital financial asset that the covered exchange receives fully and promptly.
+(b) (1) A covered exchange shall make every effort to execute a resident’s
+ request to exchange a digital financial asset that the covered exchange receives fully and promptly.
 
 (2) (A) A covered exchange shall use reasonable diligence to ensure that the outcome to the resident is as favorable as possible under prevailing market conditions. Compliance with this paragraph shall be determined by factors, including, but not limited to, all of the following:
 
 (i) The character of the market for the digital financial asset, including price and volatility.
 
-(ii) The size and type of
- transaction.
+(ii) The size and type of transaction.
 
 (iii) The number of markets checked.
 
-(iv) Accessibility of appropriate pricing.
+(iv) Accessibility of appropriate
+ pricing.
 
 (B) At least once every six months, a covered exchange shall review aggregated trading records of residents against benchmarks to determine execution quality, shall investigate the causes of any variance, and shall promptly take action to remedy issues identified in that review.
 
-(3) In a transaction for or with a resident, the covered exchange shall not interject a third party between the covered exchange and the best market for the digital financial asset in a manner inconsistent with this subdivision.
+(3) (A) In a transaction for or with a resident, the covered exchange shall not interject a third party between the covered exchange and the best market for the digital financial asset in a manner inconsistent with this subdivision.
+
+(B) This paragraph
+ does not apply to a transaction in which a resident receives stablecoin in exchange for legal tender or bank or credit union credit. For purposes of this subparagraph, “stablecoin” has the same meaning as “payment stablecoin,” as defined in Section 5901 of Title 12 of the United States Code.
 
 (4) If a covered exchange cannot execute directly with a market and employs other means in order to ensure an execution advantageous to the resident, the burden of showing the acceptable circumstances for doing so is on the covered exchange.
+
+(5) A covered exchange shall provide and make available to a resident an up-to-date description of the order execution practices of the covered exchange, which shall include a description of how the covered exchange receives and achieves the order preferences of
+ a resident.
+
+(6) Nothing in this subdivision shall be construed to authorize the department to impose, by rule, specific trade routing rules.
 
 (c) For purposes of this section:
 
@@ -11133,10 +11146,10 @@ CHAPTER 5. Disclosures and Protections [3501. - 3509.]
 
 (2) “Covered exchange” means a covered person that exchanges or holds itself out as being able to exchange a digital financial asset for a resident.
 
-(d) Failure of a
- particular policy or procedure adopted under this section to meet its goals in a particular instance is not a ground for liability of the licensee if the policy or procedure was created, implemented, and monitored properly. Repeated failures of a policy or procedure are evidence that the policy or procedure was not created or implemented properly.
+(d) Failure of a particular policy or procedure adopted under this section to
+ meet its goals in a particular instance is not a ground for liability of the licensee if the policy or procedure was created, implemented, and monitored properly. Repeated failures of a policy or procedure are evidence that the policy or procedure was not created or implemented properly.
 
-(History: Added by Stats. 2023, Ch. 792, Sec. 1.   (AB 39)   Effective January 1, 2024.)
+(History: Amended by Stats. 2026, Ch. 52, Sec. 8.   (SB 97)   Effective June 30, 2026.)
 -------------------------------------------
 
 3507.
@@ -11151,84 +11164,6 @@ A covered person shall prominently display on its internet website a toll-free t
 The requirements imposed on a covered person or a covered exchange under this chapter shall be operative on July 1, 2026.
 
 (History: Amended by Stats. 2024, Ch. 945, Sec. 3.   (AB 1934)   Effective January 1, 2025.)
--------------------------------------------
-
-
-
-CHAPTER 6. Stablecoins [3601. - 3605.]
-
-3601.
-
-(a) Except as provided in Section 3603, a covered person shall not exchange, transfer, or store a digital financial asset or engage in digital financial asset administration, whether directly or through an agreement with a digital financial asset control services vendor, if that digital financial asset is a stablecoin unless both of the following are true:
-
-(1) The issuer of the stablecoin is an applicant, is licensed pursuant to this division, or is a bank, a trust company licensed
- pursuant to Section 1042, or a national association authorized under federal law to engage in a trust banking business.
-
-(2) The issuer of the stablecoin at all times owns eligible securities having an aggregate market value computed in accordance with United States generally accepted accounting principles of not less than the aggregate amount of all of its outstanding stablecoins issued or sold.
-
-(b) For purposes of this chapter:
-
-(1) “Eligible securities” means the United States currency eligible securities described in subdivision (b) of Section
- 2082 or foreign currency eligible securities described in subdivision (c) of Section 2082 as required by the laws or regulations of other jurisdictions.
-
-(2) “Nominal redemption value” means the value at which a digital financial asset can be readily converted, on demand at the time of issuance, into United States dollars or any other national or state currency or a monetary equivalent or otherwise accepted in payment or to satisfy debts denominated in United States dollars or any national or state currency.
-
-(3) “Stablecoin” means a digital financial asset that is pegged to the United States dollar or another national currency and is marketed in a manner that intends to establish a reasonable expectation or belief among the general public that the instrument
- will retain a nominal value that is so stable as to render the nominal value effectively fixed.
-
-(History: Added by Stats. 2023, Ch. 792, Sec. 1.   (AB 39)   Effective January 1, 2024.)
--------------------------------------------
-
-3603.
-
-(a) Notwithstanding subdivision (a) of Section 3601, a covered person may exchange, transfer, or store a stablecoin or engage in digital financial asset administration of that stablecoin, whether directly or through an
- agreement with a digital financial asset control services vendor, if that stablecoin is approved by the commissioner pursuant to subdivision (b), provided that the covered person complies with any requirements, restrictions, or prohibitions established by the commissioner pursuant to subdivision (c).
-
-(b) (1) The commissioner may approve a stablecoin for exchange, transfer, or storage by a covered person, or for issuance pursuant to digital financial asset administration, if the commissioner determines that the stablecoin does not compromise the interests of residents who may use the stablecoin as a payment for goods and services or as a store of value.
-
-(2) In determining whether to make an approval under paragraph (1), the
- commissioner shall consider all of the following factors:
-
-(A) Any legally enforceable rights provided by the issuer of the stablecoin to holders of the stablecoin, including, but not limited to, rights to redeem the stablecoin for legal tender or bank or credit union credit.
-
-(B) The amount, nature, and quality of assets owned or held by the issuer of the stablecoin that may be used to fund any redemption requests from residents.
-
-(C) Any risks related to how the assets described in subparagraph (B) are owned or held by the issuer that may impair the ability of the issuer of the stablecoin to meet any redemption requests from residents.
-
-(D) Any representations made by
- the issuer of the stablecoin related to the potential uses of the stablecoin.
-
-(E) Any representations made by the issuer of the stablecoin related to the risks of using the stablecoin as payment for goods or services or as a store of value.
-
-(F) Any other factors the commissioner deems material to making their determination.
-
-(c) (1) As a condition of providing an approval pursuant to subdivision (b), the commissioner may require the stablecoin issuer to obtain a license under Section 3203 and may impose additional requirements, restrictions, or prohibitions on the activities of the issuer of the stablecoin in order to protect the interests of residents who may use the stablecoin as payment for goods or
- services or as a store of value.
-
-(2) The commissioner may impose additional requirements, restrictions, or prohibitions on the activities of a covered person exchanging, transferring, or storing an approved stablecoin or engaging in digital financial asset administration of an approved stablecoin, whether directly or through an agreement with a digital financial asset control services vendor, in order to protect the interests of residents who may use the stablecoin as a payment for goods or services or as a store of value.
-
-(d) (1) The commissioner shall revoke an approval under subdivision (b) if, after notice and reasonable opportunity to be heard, the commissioner determines that the issuer of the stablecoin markets the stablecoin in a manner that may
- create a reasonable expectation or belief among the general public that the stablecoin poses no more risk to a holder or user of the stablecoin than the risks posed to the holder or user of bank credit or a stored value product issued by a person licensed pursuant to Division 1.2.
-
-(2) The commissioner may revoke an approval under subdivision (b) if, after notice and reasonable opportunity to be heard, the commissioner makes any of the following determinations:
-
-(A) Changes in the activities of the covered person or the issuer of the stablecoin relative to the commissioner’s understanding of those activities when the commissioner made the approval may compromise the interests of residents who use or hold the stablecoin.
-
-(B) Changes in market conditions within the financial system or within markets for digital financial assets relative to the commissioner’s understanding of the financial system or the markets when the commissioner made the approval may compromise the interests of residents who use or hold the stablecoin.
-
-(C) The covered person or the issuer violates any requirement, restriction, or prohibition imposed by the commissioner pursuant to subdivision (c) or any other provision, requirement, rule, or
- regulation under this chapter.
-
-(e) If the commissioner approves a stablecoin pursuant to this section, the commissioner shall make available on the department’s internet website the approval.
-
-(History: Amended by Stats. 2024, Ch. 945, Sec. 4.   (AB 1934)   Effective January 1, 2025.)
--------------------------------------------
-
-3605.
-
-The requirements imposed by this chapter shall be operative on July 1, 2026.
-
-(History: Amended by Stats. 2024, Ch. 945, Sec. 5.   (AB 1934)   Effective January 1, 2025.)
 -------------------------------------------
 
 
@@ -11249,19 +11184,20 @@ CHAPTER 7. Policies and Procedures [3701. - 3702.]
 
 (5) A program to prevent money laundering.
 
-(6) A program to prevent funding of terrorist activity.
+(6) A
+ program to prevent funding of terrorist activity.
 
 (7) (A) A program designed to ensure compliance with this division and other laws of this state or federal laws applicable to the digital financial asset business activity contemplated by the licensee with, or on behalf of, residents and to assist the licensee in achieving the purposes of other state laws and federal laws if violation of those laws has a remedy under this division.
 
 (B) The program described by this paragraph shall specify detailed policies and procedures that the licensee undertakes to minimize the probability that the licensee facilitates the exchange of unregistered securities.
 
-(b) A policy required by subdivision (a)
- shall be in a record and designed to be adequate for a licensee’s contemplated digital financial asset business activity with, or on behalf of, residents, considering the circumstances of all participants and the safe operation of the activity. Any policy and implementing procedure shall be compatible with other policies and the procedures implementing them and not conflict with policies or procedures applicable to the licensee under other state law. A policy and implementing procedure may be one in existence in the licensee’s digital financial asset business activity with, or on behalf of, residents.
+(b) A policy required by subdivision (a) shall be in a record and designed
+ to be adequate for a licensee’s contemplated digital financial asset business activity with, or on behalf of, residents, considering the circumstances of all participants and the safe operation of the activity. Any policy and implementing procedure shall be compatible with other policies and the procedures implementing them and not conflict with policies or procedures applicable to the licensee under other state law. A policy and implementing procedure may be one in existence in the licensee’s digital financial asset business activity with, or on behalf of, residents.
 
 (c) A licensee’s policy for detecting fraud shall include all of the following:
 
-(1) Identification and assessment of the material risks of its digital financial asset
- business activity related to fraud, which shall include any form of market manipulation and insider trading by the licensee, its employees, or its customers.
+(1) Identification and assessment of the material risks of its digital financial asset business activity related to fraud, which shall
+ include any form of market manipulation and insider trading by the licensee, its employees, or its customers.
 
 (2) Protection against any material risk related to fraud identified by the department or the licensee.
 
@@ -11271,8 +11207,8 @@ CHAPTER 7. Policies and Procedures [3701. - 3702.]
 
 (1) Identification and assessment of the material risks of its digital financial asset business activity related to money laundering and financing of terrorist activity.
 
-(2) Procedures,
- in accordance with federal law or guidance published by federal agencies responsible for enforcing federal law, pertaining to money laundering and financing of terrorist activity.
+(2) Procedures, in
+ accordance with federal law or guidance published by federal agencies responsible for enforcing federal law, pertaining to money laundering and financing of terrorist activity.
 
 (3) Filing reports under the Bank Secrecy Act (31 U.S.C. Sec. 5311 et seq.) or Chapter X of Title 31 of the Code of Federal Regulations and other federal or state law pertaining to the prevention or detection of money laundering or financing of terrorist activity.
 
@@ -11303,11 +11239,11 @@ CHAPTER 7. Policies and Procedures [3701. - 3702.]
 
 (2) This subdivision does not apply to either of the following:
 
-(A) An adopted information security program or an operational security program described in subdivision (a).
+(A) Programs with information that is sensitive to potential security risks, including those programs described in paragraphs (1) to (6), inclusive, of subdivision (a).
 
 (B) Any policy or procedure the department previously determined is not subject to this subdivision due to potential security risks.
 
-(History: Added by Stats. 2023, Ch. 792, Sec. 1.   (AB 39)   Effective January 1, 2024.)
+(History: Amended by Stats. 2026, Ch. 52, Sec. 10.   (SB 97)   Effective June 30, 2026.)
 -------------------------------------------
 
 3702.
@@ -21773,7 +21709,7 @@ The Credit Union Advisory Committee shall advise the commissioner and the Deputy
 
 (a) The Credit Union Advisory Committee consists of seven members.
 
-(b) The members of the Credit Union Advisory Committee shall be appointed by the Secretary of Business, Consumer Services, and Housing.
+(b) The members of the Credit Union Advisory Committee shall be appointed by the Secretary of Business and Consumer Services.
 
 (c) The term of a member of the Credit Union Advisory Committee is two years. However, a member may be reappointed.
 
@@ -21781,7 +21717,9 @@ The Credit Union Advisory Committee shall advise the commissioner and the Deputy
 
 (e) No member of the Credit Union Advisory Committee shall receive any compensation, reimbursement for expenses, or other payment from the state in connection with service on the Credit Union Advisory Committee.
 
-(History: Amended by Stats. 2014, Ch. 401, Sec. 30.   (AB 2763)   Effective January 1, 2015.)
+(f) The amendments made to this section by the act adding this subdivision shall become operative on July 1, 2026.
+
+(History: Amended by Stats. 2026, Ch. 28, Sec. 17.   (SB 170)   Effective June 29, 2026.   Operative July 1, 2026, by its own provisions.)
 -------------------------------------------
 
 14383.
@@ -22290,9 +22228,11 @@ Every credit union may invest in securities and other assets described in Chapte
 
 14652.5.
 
-A credit union may organize, sponsor, operate, control, or render investment advice to, an investment company, or underwrite, distribute, or sell securities of any investment company which has qualified to sell its securities in this state pursuant to Part 2 (commencing with Section 25100) of Division 1 of Title 4 of the Corporations Code, if the officers and employees of the credit union who sell these securities meet such standards with respect to training, experience, and sales practices as established by the Secretary of Business, Consumer Services, and Housing or the secretary’s designee. For the purpose of this section, “investment company” means an investment company as defined in the Investment Company Act of 1940 (15 U.S.C., Sec. 80a-1 et seq.).
+(a) A credit union may organize, sponsor, operate, control, or render investment advice to, an investment company, or underwrite, distribute, or sell securities of any investment company which has qualified to sell its securities in this state pursuant to Part 2 (commencing with Section 25100) of Division 1 of Title 4 of the Corporations Code, if the officers and employees of the credit union who sell these securities meet such standards with respect to training, experience, and sales practices as established by the commissioner or the commissioner’s designee. For the purpose of this section, “investment company” means an investment company as defined in the Investment Company Act of 1940 (15 U.S.C., Sec. 80a-1 et seq.).
 
-(History: Amended by Stats. 2014, Ch. 401, Sec. 31.   (AB 2763)   Effective January 1, 2015.)
+(b) The amendments made to this section by the act adding this subdivision shall become operative on July 1, 2026.
+
+(History: Amended by Stats. 2026, Ch. 28, Sec. 18.   (SB 170)   Effective June 29, 2026.   Operative July 1, 2026, by its own provisions.)
 -------------------------------------------
 
 14653.
@@ -27265,10 +27205,11 @@ No industrial loan company shall invest any of its funds, except as authorized i
 
 18022.5.
 
-An industrial loan company may organize, sponsor, operate, control, or render investment advice to, an investment company, or underwrite, distribute, or sell securities of any investment company which has qualified to sell its securities in this state pursuant to Part 2 (commencing with Section 25100) of Division 1, Title 4 of the Corporations Code, if the officers and employees of the industrial loan company who sell these securities meet such standards with respect to training experience, and sales practices as established by the Secretary of Business, Consumer Services, and Housing or the secretary’s designee. For the purpose of this section, “investment company” means an investment company as defined in the Investment Company Act of 1940 (15 U.S.C., Sec. 80a-1 et
- seq.).
+(a) An industrial loan company may organize, sponsor, operate, control, or render investment advice to, an investment company, or underwrite, distribute, or sell securities of any investment company which has qualified to sell its securities in this state pursuant to Part 2 (commencing with Section 25100) of Division 1, Title 4 of the Corporations Code, if the officers and employees of the industrial loan company who sell these securities meet such standards with respect to training experience, and sales practices as established by the commissioner or the commissioner’s designee. For the purpose of this section, “investment company” means an investment company as defined in the Investment Company Act of 1940 (15 U.S.C., Sec. 80a-1 et seq.).
 
-(History: Amended by Stats. 2014, Ch. 401, Sec. 33.   (AB 2763)   Effective January 1, 2015.)
+(b) The amendments made to this section by the act adding this subdivision shall become operative on July 1, 2026.
+
+(History: Amended by Stats. 2026, Ch. 28, Sec. 19.   (SB 170)   Effective June 29, 2026.   Operative July 1, 2026, by its own provisions.)
 -------------------------------------------
 
 18023.
