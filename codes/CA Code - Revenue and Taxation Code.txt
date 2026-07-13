@@ -5,7 +5,7 @@
 
 Source: Official California Legislative Information
         https://downloads.leginfo.legislature.ca.gov/
-Last Updated by State of California: June 03, 2026
+Last Updated by State of California: July 10, 2026
 
 
 ======================================================================
@@ -25124,7 +25124,54 @@ Except where the context otherwise requires, the definitions given in this chapt
 (7) Paragraphs (1) and (5) and Section 6094.1 shall not apply to rentals or leases
  of video cassettes, video tapes, and video discs for private use under which the lessee or renter does not obtain or acquire the right to license, broadcast, exhibit, or reproduce the video cassette, video tape, or video disc.
 
-(History: Amended by Stats. 1987, Ch. 915, Sec. 3.   Effective September 21, 1987.)
+(History: Amended by Stats. 1987, Ch. 915, Sec. 3.   Effective September 21, 1987.   Superseded January 1, 2027; see amendment by Stats. 2026, Ch. 23.)
+-------------------------------------------
+
+6006.
+
+“Sale” means and includes:
+
+(a) Any transfer of title or possession, exchange, or barter, conditional or otherwise, in any manner or by any means whatsoever, of tangible personal property for a consideration. “Transfer of possession” includes only transactions found by the department to be in lieu of a transfer of title, exchange, or barter.
+
+(b) The producing, fabricating, processing, printing, or imprinting of tangible personal property for a consideration for consumers who furnish either directly or indirectly the materials used in the producing, fabricating, processing, printing, or imprinting.
+
+(c) The furnishing and distributing of tangible personal property for a consideration by social clubs and fraternal organizations to their members or others.
+
+(d) The furnishing, preparing, or serving for a consideration of food, meals, or drinks.
+
+(e) A
+ transaction whereby the possession of property is transferred but the seller retains the title as security for the payment of the price.
+
+(f) A transfer for a consideration of the title or possession of tangible personal property which has been produced, fabricated, or printed to the special order of the customer, or of any publication.
+
+(g) Any lease of tangible personal property in any manner or by any means whatsoever, for a consideration, except a lease of:
+
+(1) Motion pictures or animated motion pictures, including television, films, and tapes.
+
+(2) Linen supplies and similar articles when an essential part of the lease agreement is the furnishing of the recurring service of laundering or cleaning the articles.
+
+(3) Household furnishings with a lease of the living quarters in which they are to be used.
+
+(4) Mobile transportation equipment for use in transportation of persons or property as defined in Section 6023.
+
+(5) Tangible personal property leased in substantially the same form as acquired by the lessor or leased in substantially the same form as acquired by a transferor, as to which the lessor or transferor has paid sales tax reimbursement or has paid use tax measured by the purchase price of the property. For purposes of this paragraph, “transferor” shall mean the following:
+
+(A) A person from whom the lessor acquired the property in a transaction described in subdivision (b) of Section 6006.5.
+
+(B) A decedent from whom the lessor acquired the property by will or the laws of succession.
+
+(6) A mobilehome, as defined in Sections 18008 and 18211 of the Health and Safety Code, other than a mobilehome originally sold new prior to July 1, 1980, and not subject to local property taxation.
+
+(7) Paragraphs (1) and (5) and Section 6094.1 shall not apply to rentals or leases of video cassettes, video tapes, and video discs for private use under which the lessee or renter does not obtain or acquire the right to license, broadcast, exhibit, or reproduce the video cassette, video tape, or video disc.
+
+(h) Any transfer of title or possession, exchange, or barter, conditional or otherwise, in any manner or by any means, of a
+ digital product transferred on tangible storage media for a consideration.
+
+(i) Any permanent or temporary transfer of the right, in any manner or by any means whatsoever, to open, view, access, download, copy, update, possess, store, manipulate, or otherwise use a digital product transferred electronically or accessed remotely for a consideration, beginning January 1, 2027.
+
+(j) The amendments made to this section by the act adding this subdivision shall become operative on January 1, 2027.
+
+(History: Amended by Stats. 2026, Ch. 23, Sec. 2.   (SB 122)   Effective June 29, 2026.   Operative January 1, 2027, by its own provisions.)
 -------------------------------------------
 
 6006.1.
@@ -25210,7 +25257,19 @@ A sale of tangible personal property to a contractor or subcontractor for use in
 
 “Use” includes the exercise of any right or power over tangible personal property incident to the ownership of that property, and also includes the possession of, or the exercise of any right or power over, tangible personal property by a lessee under a lease, except that it does not include the sale of that property in the regular course of business.
 
-(History: Amended by Stats. 1965, 1st Ex. Sess., Ch. 2.)
+(History: Amended by Stats. 1965, 1st Ex. Sess., Ch. 2.   Superseded January 1, 2027; see amendment by Stats. 2026, Ch. 23.)
+-------------------------------------------
+
+6009.
+
+(a) “Use” includes the exercise of any right or power over tangible personal property incident to the ownership of that property, and also includes the possession of, or the exercise of any right or power over, tangible personal property by a lessee under a lease, except that it does not include the sale of that property in the regular course of business.
+
+(b) For purposes of subdivision (a), the exercise of any right or power over tangible personal property incident to the ownership of that property includes opening, viewing, accessing, downloading, copying, updating,
+ possessing, storing, or manipulating a digital product transferred electronically or accessed remotely.
+
+(c) The amendments made to this section by the act adding this subdivision shall become operative on January 1, 2027.
+
+(History: Amended by Stats. 2026, Ch. 23, Sec. 3.   (SB 122)   Effective June 29, 2026.   Operative January 1, 2027, by its own provisions.)
 -------------------------------------------
 
 6009.1.
@@ -25237,6 +25296,15 @@ A sale of tangible personal property to a contractor or subcontractor for use in
 (g) Notwithstanding Article 2 (commencing with Section 6481) of Chapter 5, any notice of deficiency determination to a convicted purchaser shall be mailed within one year after the last day of the calendar month following the date of conviction.
 
 (History: Amended by Stats. 2015, Ch. 427, Sec. 3.   (AB 160)   Effective January 1, 2016.)
+-------------------------------------------
+
+6009.5.
+
+(a) For purposes of the use tax liability imposed pursuant to Sections 6052 and 6201.55, “storage” and “use” do not include the keeping, retaining, or exercising of any right or power over a digital product for the purpose of installing or deploying the digital product for use thereafter solely outside the state.
+
+(b) This section shall become operative on January 1, 2027.
+
+(History: Added by Stats. 2026, Ch. 23, Sec. 4.   (SB 122)   Effective June 29, 2026.   Operative January 1, 2027, by its own provisions.)
 -------------------------------------------
 
 6010.
@@ -25274,7 +25342,52 @@ A sale of tangible personal property to a contractor or subcontractor for use in
 
 (7) Paragraphs (1) and (5) and Section 6094.1 shall not apply to rentals or leases of video cassettes, video tapes, and video discs for private use under which the lessee or renter does not obtain or acquire the right to license, broadcast, exhibit, or reproduce the video cassette, video tape, or video disc.
 
-(History: Amended by Stats. 1987, Ch. 915, Sec. 4.   Effective September 21, 1987.)
+(History: Amended by Stats. 1987, Ch. 915, Sec. 4.   Effective September 21, 1987.   Superseded January 1, 2027; see amendment by Stats. 2026, Ch. 23.)
+-------------------------------------------
+
+6010.
+
+“Purchase” means and includes:
+
+(a) Any transfer of title or possession, exchange, or barter, conditional or otherwise, in any manner or by any means whatsoever, of tangible personal property for a consideration. “Transfer of possession” includes only transactions found by the department to be in lieu of a transfer of title, exchange, or barter.
+
+(b) When performed outside this state or when the customer gives a resale certificate pursuant to Article 3 (commencing with Section 6091) of Chapter 2, the producing, fabricating, processing, printing, or imprinting of tangible personal property for a consideration for consumers who furnish either directly or indirectly the materials used in the producing, fabricating, processing, printing, or imprinting.
+
+(c) A transaction whereby the possession of property is transferred but the seller retains the title as security for the payment of the price.
+
+(d) A transfer for a consideration
+ of tangible personal property which has been produced, fabricated, or printed to the special order of the customer, or of any publication.
+
+(e) Any lease of tangible personal property in any manner or by any means whatsoever, for consideration, except a lease of:
+
+(1) Motion pictures or animated motion pictures, including television, films, and tapes.
+
+(2) Linen supplies and similar articles when an essential part of the lease agreement is the furnishing of the recurring service of laundering or cleaning the articles.
+
+(3) Household furnishings with a lease of the living quarters in which they are to be used.
+
+(4) Mobile transportation equipment for use in transportation of persons or property
+ as defined in Section 6023.
+
+(5) Tangible personal property leased in substantially the same form as acquired by the lessor or leased in substantially the same form as acquired by a transferor, as to which the lessor or transferor has paid sales tax reimbursement or has paid use tax measured by the purchase price of the property. For purposes of this paragraph, “transferor” shall mean the following:
+
+(A) A person from whom the lessor acquired the property in a transaction described in subdivision (b) of Section 6006.5.
+
+(B) A decedent from whom the lessor acquired the property by will or the laws of succession.
+
+(6) A mobilehome, as defined in Sections 18008 and 18211 of the Health and Safety Code, other than a mobilehome originally sold new prior to July
+ 1, 1980, and not subject to local property taxation.
+
+(7) Paragraphs (1) and (5) and Section 6094.1 shall not apply to rentals or leases of video cassettes, video tapes, and video discs for private use under which the lessee or renter does not obtain or acquire the right to license, broadcast, exhibit, or reproduce the video cassette, video tape, or video disc.
+
+(f) Any transfer of title or possession, exchange, or barter, conditional or otherwise, in any manner or by any means whatsoever, of a digital product transferred on tangible storage media for a consideration.
+
+(g) Any permanent or temporary transfer of the right, in any
+ manner or by any means whatsoever, to open, view, access, download, copy, update, possess, store, manipulate, or otherwise use a digital product transferred electronically or accessed remotely for a consideration, beginning January 1, 2027.
+
+(h) The amendments made to this section by the act adding this subdivision shall become operative on January 1, 2027.
+
+(History: Amended by Stats. 2026, Ch. 23, Sec. 5.   (SB 122)   Effective June 29, 2026.   Operative January 1, 2027, by its own provisions.)
 -------------------------------------------
 
 6010.1.
@@ -25304,7 +25417,58 @@ If two or more persons engaged in the production and distribution of motion pict
 
 For the purposes of this part, the place of the sale or purchase of tangible personal property is the place where the property is physically located at the time the act constituting the sale or purchase, as defined in this part, takes place.
 
-(History: Added by Stats. 1965, Ch. 1960.)
+(History: Added by Stats. 1965, Ch. 1960.   Superseded January 1, 2027; see amendment by Stats. 2026, Ch. 23.)
+-------------------------------------------
+
+6010.5.
+
+(a) Subject to subdivision (b), for the purposes of this part, the place of the sale or purchase of tangible personal property is the place where the property is physically located at the time the act constituting the sale or purchase, as defined in this part, takes place.
+
+(b) (1) For a digital product transferred on tangible storage media, the place of the sale or purchase of that digital product shall be the place where the tangible storage
+ media is physically located at the time the act constituting the sale or purchase takes place.
+
+(2) If the sale or purchase of a digital product that is not transferred on tangible storage media is an in-person sale or purchase at a location of the seller for which the seller is required to hold a seller’s permit pursuant to Section 6066, the place of the sale or purchase of the digital product transferred electronically or accessed remotely shall be the seller’s place of business in this state where the in-person sale or purchase occurred.
+
+(3) (A) If the sale or purchase of a digital product that is not transferred on tangible storage media is not
+ an in-person sale or purchase, the place of the sale or purchase of a digital product transferred electronically or accessed remotely shall be deemed to be the purchaser’s known address in this state shown in the seller’s records maintained in good faith in the ordinary course of business.
+
+(B) If the purchaser provided more than one address to the seller during the consummation of the sale or purchase, the purchaser’s known address shall be determined from those addresses in this state in the following order of priority:
+
+(i) The purchaser’s billing address.
+
+(ii) The purchaser’s shipping or delivery address.
+
+(iii) The mailing address associated with the purchaser’s payment instrument.
+
+(iv) The purchaser’s mailing address.
+
+(C) If a purchaser does not provide an address to the seller during the consummation of the sale or purchase, the purchaser’s known address in this state shall be determined from the addresses in this state the purchaser previously provided to the seller in the following order
+ of priority:
+
+(i) The purchaser’s most recent billing address.
+
+(ii) The purchaser’s most recent shipping or delivery address.
+
+(iii) The purchaser’s most recent mailing address associated with the purchaser’s payment instrument.
+
+(iv) The purchaser’s most recent mailing address.
+
+(4) If neither paragraph (2) or (3) apply, the place of the sale or purchase of a digital product transferred electronically or accessed remotely shall be deemed to be outside of this state.
+
+(c) The amendments made to this section by the act adding this subdivision shall become operative on January 1, 2027.
+
+(History: Amended by Stats. 2026, Ch. 23, Sec. 6.   (SB 122)   Effective June 29, 2026.   Operative January 1, 2027, by its own provisions.)
+-------------------------------------------
+
+6010.5.1.
+
+(a) The place of use of a digital product shall be the place where any right or power is exercised over the digital product. The right or power to remotely access a digital product is exercised at the place where the person accessing the digital product is located.
+
+(b) It shall be presumed that a digital product that was purchased outside of this state, as determined pursuant to Section 6010.5, and used in this state within 90 days from the date of sale or purchase was purchased for storage, use, or other consumption in this state.
+
+(c) This section shall become operative on January 1, 2027.
+
+(History: Added by Stats. 2026, Ch. 23, Sec. 7.   (SB 122)   Effective June 29, 2026.   Operative January 1, 2027, by its own provisions.)
 -------------------------------------------
 
 6010.6.
@@ -25411,7 +25575,28 @@ As used in this section:
 (d) “Custom computer program” means a computer program prepared to the special order of the customer and includes those services represented by separately stated charges for
  modifications to an existing prewritten program which are prepared to the special order of the customer. The term does not include a “canned” or prewritten computer program which is held or existing for general or repeated sale or lease, even if the prewritten or “canned” program was initially developed on a custom basis or for in-house use. Modification to an existing prewritten program to meet the customer’s needs is custom computer programming only to the extent of the modification.
 
-(History: Added by Stats. 1982, Ch. 1274, Sec. 2.   Effective September 22, 1982.)
+(History: Added by Stats. 1982, Ch. 1274, Sec. 2.   Effective September 22, 1982.   Superseded January 1, 2027; see amendment by Stats. 2026, Ch. 23.)
+-------------------------------------------
+
+6010.9.
+
+(a) “Sale” and “purchase,” for the purposes of this part, do not include the design, development, writing, translation, fabrication, lease, or transfer for a consideration of title or possession, of custom computer software, other than a basic operational program, either in the form of written procedures or in the form of tangible storage media on which, or in which, the custom computer software is recorded, or any required documentation or manuals designed to facilitate the use of the custom computer software so transferred.
+
+(b) As used in this section:
+
+(1) “Basic operational program” has the meaning defined in Section 995.2.
+
+(2) “Computer” means an electronic device, including word processing equipment, that is programmable and includes a processor (CPU) and internal memory.
+
+(3) “Computer software” means a set of coded instructions designed to cause a computer or automatic data processing equipment to perform a task.
+
+(4) (A) “Custom computer software” means computer software prepared to the special order of a single customer and includes those services represented by separately stated charges for modifications to existing prewritten computer software that are prepared to the special order of the customer.
+
+(B) “Custom computer software” does not include prewritten computer software that is held or existing for general or repeated sale or lease, even if the prewritten computer software was initially developed on a custom basis or for in-house use. Modification to existing prewritten computer software to meet the customer’s needs is custom computer software only to the extent of the modification.
+
+(c) The amendments made to this section by the act adding this subdivision shall become operative on January 1, 2027.
+
+(History: Amended by Stats. 2026, Ch. 23, Sec. 8.   (SB 122)   Effective June 29, 2026.   Operative January 1, 2027, by its own provisions.)
 -------------------------------------------
 
 6010.10.
@@ -25815,7 +26000,88 @@ For the purposes of this section, the phrase “tangible personal property of a 
 
 “Tangible personal property” means personal property which may be seen, weighed, measured, felt, or touched, or which is in any other manner perceptible to the senses.
 
-(History: Added by Stats. 1941, Ch. 36.)
+(History: Added by Stats. 1941, Ch. 36.   Superseded January 1, 2027; see amendment by Stats. 2026, Ch. 23.)
+-------------------------------------------
+
+6016.
+
+(a) “Tangible personal property” means either of the following:
+
+(1) Personal property
+ that can be seen, weighed, measured, felt, touched, or is in any other manner perceptible to the senses.
+
+(2) A digital product and any copyright or patent interests associated therewith.
+
+(b) The amendments made this section by the act adding this subdivision shall become operative on January 1, 2027.
+
+(History: Amended by Stats. 2026, Ch. 23, Sec. 9.   (SB 122)   Effective June 29, 2026.   Operative January 1, 2027, by its own provisions.)
+-------------------------------------------
+
+6016.1.
+
+(a) “Digital product” means prewritten computer software transferred on tangible storage media, transferred electronically, or accessed remotely.
+
+(b) “Digital product” does not include any of the following:
+
+(1) A digital asset.
+
+(2) A digital audio work.
+
+(3) A digital audiovisual work.
+
+(4) A digital book.
+
+(5) Digital infrastructure.
+
+(6) A digital video game
+ product.
+
+(7) A digital visual work.
+
+(c) As used in this section:
+
+(1) “Computer” has the meaning defined in Section 6010.9.
+
+(2) “Computer software” has the meaning defined in Section 6010.9.
+
+(3) “Custom computer software” has the meaning defined in Section 6010.9.
+
+(4) “Digital asset” means a digital representation of value that is recorded on a cryptographically secured distributed ledger or any similar technology, as specified by the Secretary of the Treasury of the United States.
+
+(5) “Digital audio work” means a work that results from the fixation of a series
+ of musical, spoken, or other sounds, including a ringtone or music, that is transferred electronically or accessed remotely.
+
+(6) “Digital audiovisual work” means a series of related images that when shown in succession impart an impression of motion, together with accompanying sounds, if any, that is transferred electronically or accessed remotely.
+
+(7) “Digital book” means a work that is generally recognized in the ordinary and usual sense as a book that is transferred electronically or accessed remotely.
+
+(8) “Digital infrastructure” means a cloud-based service provided remotely that allows a user to create, deploy, scale, or run the user’s own computer software on the service provider’s digital platform without managing, operating, or maintaining the user’s own infrastructure, including any hardware, software,
+ networks, and facilities that are required to allow the user to create, deploy, scale, or run the user’s own computer software, required to complete the task.
+
+(9) “Digital video game product” means an electronic, interactive game played for entertainment purposes by manipulating an input device to produce visual feedback on a screen that is transferred electronically or accessed remotely.
+
+(10) “Digital visual work” means artwork created by using computer hardware and software processes which results in artwork in a digital format that is transferred electronically or accessed remotely.
+
+(11) “Prewritten computer software” means computer software that is held or existing for general or repeated sale or lease, even if the prewritten software was initially developed on a custom basis or for in-house use, including the
+ combination of two or more prewritten programs.
+
+(d) This section shall become operative on January 1, 2027.
+
+(History: Added by Stats. 2026, Ch. 23, Sec. 10.   (SB 122)   Effective June 29, 2026.   Operative January 1, 2027, by its own provisions.)
+-------------------------------------------
+
+6016.2.
+
+(a) “Accessed remotely” means to have accessed for consideration by use of a digital code, password, or other means prewritten computer software that resides on the vendor’s server or the server of a third party.
+
+(b) “Tangible storage media” means any tangible device or material capable of storing a digital product, including, but not limited to, any internal or external drive, disk, memory card, or other item capable of storing a digital product.
+
+(c) “Transferred electronically” means obtained by the purchaser, by means other than tangible storage media, in a manner that allows the purchaser to open, view, access, download, copy, possess, store, manipulate, update, or
+ otherwise use the digital product.
+
+(d) This section shall become operative on January 1, 2027.
+
+(History: Added by Stats. 2026, Ch. 23, Sec. 11.   (SB 122)   Effective June 29, 2026.   Operative January 1, 2027, by its own provisions.)
 -------------------------------------------
 
 6016.3.
@@ -26513,6 +26779,43 @@ There are exempted from the taxes imposed by Section 6051.5 the gross receipts d
 (History: Amended by Stats. 2017, Ch. 5, Sec. 23.   (SB 1)   Effective April 28, 2017.)
 -------------------------------------------
 
+6052.
+
+(a) Notwithstanding Section 6010.5, and except as provided in subdivision (c), a retailer is relieved from liability to pay sales tax on the sale or purchase of a digital product that is transferred electronically or accessed remotely if the following applies, unless the purchaser is an insurer, as defined in Section 28 of Article XIII of the California Constitution:
+
+(1) (A) The gross receipts from the sale of digital products by a retailer to a purchaser that are transferred electronically or accessed remotely exceed five million dollars ($5,000,000) in the aggregate in the current calendar year, or, beginning January 1, 2028, in the current or the preceding calendar year.
+
+(B) The purchaser shall become liable for the use tax pursuant to subdivision (b) on the transaction that caused the retailer to exceed the threshold specified in subparagraph (A) and any adjustments made pursuant to paragraph (2).
+
+(2) (A) On or before October 1, 2031, and every five years thereafter, the department shall multiply the amount specified in subparagraph (A) of paragraph (1) by the percentage increase in the California Consumer Price Index for All Urban Consumers between October 1, 2026, and the date of the calculation required by this subparagraph, and the result shall be rounded to the nearest one million dollars ($1,000,000) and shall be the applicable amount for the succeeding calendar year.
+
+(B) The applicable amount computed pursuant to subparagraph (A) shall be operative beginning
+ January 1 of the succeeding calendar year, and four years thereafter, as an adjustment of the amount specified in subparagraph (A) of paragraph (1).
+
+(b) If a retailer is relieved from liability to pay sales tax pursuant to subdivision (a), the purchaser is liable for the use tax and shall self-assess and pay directly to the department taxes due under this part, Part 1.5 (commencing with Section 7200), and, if otherwise applicable, Part 1.6 (commencing with Section 7251) and Part 1.7 (commencing with Section 7280) on the transaction that caused the retailer to exceed the threshold specified in subparagraph (A) of paragraph (1) of subdivision (a) and any adjustments made pursuant to paragraph (2) of subdivision (a).
+
+(c) (1) If the department determines that it is necessary for the efficient administration of this part, the department may waive the requirement
+ for the purchaser to self-assess and pay taxes due directly to the department under subdivision (b), and the retailer shall be liable to pay the sales tax if the purchaser submits to the department a request for waiver in a form and manner prescribed by the department that includes all the places of business where the applicant expects to be a place of first use for purchases of digital products subject to subdivision (a).
+
+(2) A purchaser that submits a request for waiver to the department under paragraph (1) shall also submit to the retailer all places of business where the purchaser expects to be a place of first use, which shall be considered the place of sale for purposes of the sales tax.
+
+(d) A purchaser that is required to pay use taxes to the department under subdivision (b) shall obtain a use tax direct payment permit pursuant to the procedures provided in Section
+ 7051.3.
+
+(e) This section shall become operative on January 1, 2027.
+
+(History: Added by Stats. 2026, Ch. 23, Sec. 12.   (SB 122)   Effective June 29, 2026.   Operative January 1, 2027, by its own provisions.)
+-------------------------------------------
+
+6054.
+
+(a) A retailer is relieved from liability to pay sales tax or collect use tax on the sale or purchase of a digital product transferred electronically or accessed remotely if the place of the sale or purchase of the digital product was deemed to be outside of this state pursuant to Section 6010.5, and the retailer demonstrates to the satisfaction of the department that the retailer made a reasonable effort to obtain accurate and complete address information from the purchaser.
+
+(b) This section shall become operative on January 1, 2027.
+
+(History: Added by Stats. 2026, Ch. 23, Sec. 13.   (SB 122)   Effective June 29, 2026.   Operative January 1, 2027, by its own provisions.)
+-------------------------------------------
+
 6055.
 
 (a) (1) A retailer is relieved from liability for sales tax that became due and payable, insofar as the measure of the tax is represented by accounts that have been found to be worthless and charged off for income tax purposes by the retailer or, if the retailer is not required to file income tax returns, charged off in accordance with generally accepted accounting principles. A retailer that has previously paid the tax may, under rules and regulations prescribed by the department, take as a deduction the amount found worthless and charged off by the retailer. If these accounts are thereafter in whole or in part collected by the retailer, the amount collected shall be included in the first return filed after the collection and the tax shall be paid with the return.
@@ -27171,6 +27474,35 @@ The 14 cent reduction shall be operative for each calendar year commencing on th
  board by the Director of Finance pursuant to subdivision (b) of Section 99006 of the Government Code.
 
 (History: Repealed and added by Stats. 2003, 5th Ex. Sess., Ch. 2, Sec. 4.14.   Effective December 12, 2003.   Repealing and adding actions operative March 3, 2004, pursuant to Sec. 8 of Ch. 2.   Section operative July 1, 2004, by its own provisions.   Became inoperative on January 1, 2016, pursuant to its own provisions.)
+-------------------------------------------
+
+6201.55.
+
+(a) Notwithstanding Section 6010.5 and except as provided in subdivision (c), a retailer is relieved of the obligation to collect use tax on the sale or purchase of a digital product that is transferred electronically or accessed remotely if the following applies:
+
+(1) (A) The sales price of digital products purchased by a purchaser from a retailer that are transferred electronically or accessed remotely exceeds five million dollars ($5,000,000) in the aggregate in the current calendar year, or beginning January 1, 2028, in the current or the preceding calendar year.
+
+(B) The purchaser shall be responsible for reporting and paying the use tax to the
+ department pursuant to subdivision (b) on the transaction that caused the purchaser to exceed the threshold specified in subparagraph (A) and any adjustments made pursuant to paragraph (2).
+
+(2) (A) On or before October 1, 2031, and every five years thereafter, the department shall multiply the amount specified in subparagraph (A) of paragraph (1) by the percentage increase in the California Consumer Price Index for All Urban Consumers between October 1, 2026, and the date of the calculation required by this subparagraph, and the result shall be rounded to the nearest one million dollars ($1,000,000) and shall be the applicable amount for the succeeding calendar year.
+
+(B) The applicable amount computed pursuant to subparagraph (A) shall be operative beginning January 1 of the succeeding calendar year, and four years thereafter, as an adjustment of the amount
+ specified in subparagraph (A) of paragraph (1).
+
+(b) If a retailer is relieved from the obligation to collect use tax pursuant to subdivision (a), the purchaser shall self-assess and pay directly to the department taxes due under this part, Part 1.5 (commencing with Section 7200), and, if otherwise applicable, Part 1.6 (commencing with Section 7251) and Part 1.7 (commencing with Section 7280) on the transaction that caused the purchaser to exceed the threshold specified in subparagraph (A) of paragraph (1) of subdivision (a) and any adjustments made pursuant to paragraph (2) of subdivision (a).
+
+(c) (1) If the department determines that it is necessary for the efficient administration of this part, the department may waive the requirement for the purchaser to self-assess and pay taxes due directly to the department under subdivision (b), and the retailer shall
+ have an obligation to collect the use tax if the purchaser submits to the department a request for waiver in a form and manner prescribed by the department that includes all the places of business where the applicant expects to be a place of first use for purchases of digital products subject to subdivision (a).
+
+(2) A purchaser that submits a request for waiver to the department under paragraph (1) shall also submit to the retailer all places of business where the purchaser expects to be a place of first use, which shall be considered the place of use for purposes of the use tax.
+
+(d) A purchaser that is required to pay taxes to the department under subdivision (b) shall obtain a use tax direct payment permit pursuant to the procedures provided in Section 7051.3.
+
+(e) This section shall become operative on January 1,
+ 2027.
+
+(History: Added by Stats. 2026, Ch. 23, Sec. 14.   (SB 122)   Effective June 29, 2026.   Operative January 1, 2027, by its own provisions.)
 -------------------------------------------
 
 6201.6.
@@ -28414,6 +28746,15 @@ There are exempted from the taxes imposed by this part the gross receipts from t
 (History: Added by Stats. 1991, Ch. 236, Sec. 3.3.   Effective July 29, 1991.)
 -------------------------------------------
 
+6362.4.
+
+(a) There are exempted from the taxes imposed by this part the gross receipts from the sale or lease of, and the storage, use, or other consumption in this state of, the right to reproduce or copy a digital product in order for copies of the digital product to be distributed for consideration to third parties, even if a copy of the digital product is transferred concurrently with the granting of that right. Any tangible storage media on which the digital product is transferred is merely incidental.
+
+(b) This section shall become operative on January 1, 2027.
+
+(History: Added by Stats. 2026, Ch. 23, Sec. 15.   (SB 122)   Effective June 29, 2026.   Operative January 1, 2027, by its own provisions.)
+-------------------------------------------
+
 6362.5.
 
 (a) There are exempted from the taxes imposed by this part the gross receipts from the sale or lease of, and the storage, use, or other consumption in this state of, master tapes or master records embodying sound, except amounts subject to the taxes imposed by other provisions of this part paid by a customer in connection with the customer’s production of master tapes or master records to a recording studio for the tangible elements of such master records or master tapes.
@@ -29126,6 +29467,52 @@ There are exempted from the taxes imposed by this part the gross receipts from t
 (History: Amended by Stats. 1993, Ch. 88, Sec. 1.   Effective January 1, 1994.)
 -------------------------------------------
 
+6372.
+
+(a) There are exempted from the taxes imposed by this part the gross receipts from the sale of, and the storage, use, or other consumption of, a digital product purchased solely for use outside of this state or in interstate or foreign commerce.
+
+(b) (1) The burden of proving that the exemption created by this section applies is on the seller who makes the sale of a digital product, unless the seller takes from the purchaser a certificate to the effect that the property is purchased solely for use outside of this state or in interstate or foreign commerce in the form and manner prescribed by the department.
+
+(2) The certificate described by this subdivision
+ relieves the person selling the digital product from the duty of paying sales tax and collecting the use tax only if taken in good faith.
+
+(c) If a purchaser certifies in writing to a seller that a purchase of a digital product is exempted by this section and uses the digital product in this state, the purchaser shall be liable for payment of sales tax as if the purchaser were a retailer making a retail sale of the property at the time of that use, and the cost of the property to the purchaser shall be deemed the gross receipts from that retail sale.
+
+(d) (1) A purchaser that purchases a digital product for use in this state and a digital product solely for use outside of this state or in interstate or foreign commerce in the same transaction may issue an exemption certificate under this section for the purchase of any of those digital products eligible for the
+ exemption and report and pay use tax on any of those digital products used in this state.
+
+(2) A purchaser that issues an exemption certificate described in paragraph (1) shall report and pay use tax in a manner that reflects the use tax due on any of those digital products used in this state.
+
+(e) (1) The department may set forth, authorize, or require alternative methods to calculate the sales or use tax due in this state that fairly reflects the sales or use tax due on any digital product sold or purchased for use in this state, including on licenses of digital products concurrently available for use in multiple locations.
+
+(2) If an alternative method set forth, authorized, or required by the department pursuant to paragraph (1) is used to calculate the sales or use tax due, Section 6406 shall
+ not apply.
+
+(3) The department may prescribe any forms or exemption certificates, as necessary to administer this subdivision.
+
+(f) The exemption created by this section does not apply to a sale or purchase of a digital product transferred on tangible storage media.
+
+(g) This section shall become operative on January 1, 2027.
+
+(History: Added by Stats. 2026, Ch. 23, Sec. 16.   (SB 122)   Effective June 29, 2026.   Operative January 1, 2027, by its own provisions.)
+-------------------------------------------
+
+6372.1.
+
+(a) There are exempted from the taxes imposed by this part the gross receipts from the sale of, and the storage, use, or other consumption of, a digital product that represents a service provided in electronic form in which both of the following apply:
+
+(1) The service primarily involves the application of human effort by the service provider.
+
+(2) The human effort described in paragraph (1) originated after the customer requested the service.
+
+(b) The exemption provided by this section does not apply to the sale or purchase of the right to use the provider’s computer software running on a cloud infrastructure or the
+ right to access that software from various client devices through either a thin client interface, including a web browser, or a program interface.
+
+(c) This section shall become operative on January 1, 2027.
+
+(History: Added by Stats. 2026, Ch. 23, Sec. 17.   (SB 122)   Effective June 29, 2026.   Operative January 1, 2027, by its own provisions.)
+-------------------------------------------
+
 6373.
 
 (a) There are exempted from the taxes imposed by this part the gross receipts from the sale of, and the storage, use, or other consumption in this state of tangible personal property the gross receipts of which are received in the form of CalFresh benefits acquired by the purchaser pursuant to the federal Food and Nutrition Act of 2008 (Chapter 51 (commencing with Section 2011) of Title 7 of the United States Code), including subsequent amendments thereto.
@@ -29770,7 +30157,22 @@ A credit shall be allowed against, but shall not exceed, the taxes imposed on an
 
 A credit, otherwise permitted by the foregoing provisions of this section, shall not be allowed against taxes which are measured by periodic payments made under a lease, to the extent that the taxes imposed by any other state, political subdivision thereof, or the District of Columbia were also measured by periodic payments made under a lease for a period prior to the storage, use, or other consumption of the property in this state.
 
-(History: Amended by Stats. 1969, Ch. 24.)
+(History: Amended by Stats. 1969, Ch. 24.   Superseded January 1, 2027; see amendment by Stats. 2026, Ch. 23.)
+-------------------------------------------
+
+6406.
+
+(a) A credit shall be allowed against, but shall not exceed, the taxes imposed on any person by Chapter 3 (commencing with Section 6201) of this part, by any ordinance enacted pursuant to Part 1.5 (commencing with Section 7200), and by any ordinance enacted pursuant to Part 1.6 (commencing with Section 7251) by reason of the storage, use, or other consumption of tangible personal property in this state to the extent that the person has paid a retail sales or use tax, or reimbursement therefor, imposed with respect to that property by any other state, political subdivision thereof, or the District of Columbia prior to the storage, use, or other consumption of that property in this state. The credit shall be apportioned to the taxes against which it is allowed in proportion to the amounts of those taxes.
+
+(b) A credit shall be allowed against, but shall not exceed, the total sales taxes imposed on any retailer by Chapter 2 (commencing with Section 6051) of this part, by any ordinance enacted pursuant to Part 1.5
+ (commencing with Section 7200), and by any ordinance enacted pursuant to Part 1.6 (commencing with Section 7251) with respect to a retail sale in this state of a digital product transferred electronically or accessed remotely to the extent that the retailer has paid a retail sales tax imposed with respect to that digital product by any other state, political subdivision thereof, or the District of Columbia at the time of sale.
+
+(c) A credit allowed by
+ this section shall not be allowed against taxes that are measured by periodic payments made under a lease, to the extent that the taxes imposed by any other state, political subdivision thereof, or the District of Columbia were also measured by periodic payments made under a lease for a period before the storage, use, or other consumption of the property in this state.
+
+(d) The amendments made to this section by the act adding this subdivision shall become operative on January 1, 2027.
+
+(History: Amended by Stats. 2026, Ch. 23, Sec. 18.   (SB 122)   Effective June 29, 2026.   Operative January 1, 2027, by its own provisions.)
 -------------------------------------------
 
 6407.
@@ -32233,7 +32635,61 @@ The board may adopt rules and regulations which provide for the issuance of a pe
 
 (f) It is the intent of the Legislature that the board administer this part in a manner which assures that local use tax be received by the county, city, city and county, or redevelopment agency where the first use occurs.
 
-(History: Amended by Stats. 1998, Ch. 15, Sec. 1.   Effective April 7, 1998.)
+(History: Amended by Stats. 1998, Ch. 15, Sec. 1.   Effective April 7, 1998.   Superseded January 1, 2027; see amendment by Stats. 2026, Ch. 23.)
+-------------------------------------------
+
+7051.3.
+
+(a) “Use tax direct payment permit” means a permit issued by the department that allows a taxpayer to self-assess and pay state and local use tax under Part 1 (commencing with Section 6001), Part 1.5 (commencing with Section 7200), and if otherwise applicable, Part 1.6 (commencing with Section 7251), and Part 1.7 (commencing with Section 7280) directly to the department.
+
+(b) (1) (A) Every person seeking to pay use taxes directly to the department shall file an application for a use tax direct payment permit. An application for a use tax direct payment permit shall be made upon a form prescribed by the department and shall set forth the name under which the applicant transacts or intends to transact business, the location of the place or places of business where the applicant intends to make direct payment of use tax, and any other information that the department may require.
+
+(B) (i) Except as provided in clause (ii), an applicant for a use tax direct payment permit may register as a place to make direct payment of use tax any of the places of business in this state that the applicant expects to
+ be a place of first use for purchases subject to use tax in accordance with the requirements of subdivision (e).
+
+(ii) An applicant for a use tax direct payment permit who is required to pay use tax directly to the department pursuant to Section 6052 or Section 6201.55 shall register as a place to make direct payment of use tax any of the places of business in this state that the applicant expects to be a place of first use for purchases of digital products transferred electronically or accessed remotely that are subject to use tax in accordance with the requirements of subdivision (e).
+
+(2) The application described in paragraph (1) shall be signed pursuant to the
+ following:
+
+(A) If the owner of the taxpayer is a natural person, the owner shall sign the application.
+
+(B) If the taxpayer is an association or partnership, a member or partner shall sign the application.
+
+(C) If the taxpayer is a corporation, an executive officer or a person specifically authorized by the corporation shall sign the application.
+
+(c) Pursuant to an application, a use tax direct payment permit
+ shall be issued to any person who meets both of the following conditions:
+
+(1) The applicant agrees to self-assess and pay directly to the department any use tax liability incurred under this section.
+
+(2) The applicant certifies to the department either of the following:
+
+(A) The applicant is the purchaser for its own use or is the lessee of tangible personal property at a cost of five hundred thousand dollars ($500,000) or more in the aggregate, during the calendar year immediately preceding the application for the permit.
+
+(B) The applicant is a county, city, or city and county.
+
+(d) A use tax direct payment permit shall be issued to any person required to pay use tax directly to the department on purchases of digital products transferred electronically or accessed remotely pursuant to Section 6052 or 6201.55 for a period of 12 months.
+
+(e) (1) Any person who holds a valid use tax direct payment permit shall self-assess and pay directly to the department use taxes due under this part, Part 1.5 (commencing with Section 7200), and if otherwise applicable, Part 1.6 (commencing with Section 7251), and Part 1.7 (commencing with Section 7280) for all purchases subject to use tax for which a use tax direct payment exemption certificate was issued, and shall report on the tax return required to be filed by Section 6452, the amount of local use tax applicable to each county, city, or city and county in which the first “use,” as defined in Section 6009, occurs.
+
+(2) A person required to pay use tax directly to the department on purchases of digital products pursuant to Section 6052 or 6201.55 shall issue an exemption certificate to a retailer of digital products transferred electronically or accessed remotely.
+
+(f) The department shall allow any holder of a use tax direct payment permit to issue a use tax direct payment certificate to any registered retailer or seller subject to all of the following:
+
+(1) The use tax direct payment certificate shall be in a form prescribed by the department and shall be signed by, and bear the name, address, and permit number of, the holder of the use tax direct payment permit.
+
+(2) Once a use tax direct payment certificate has been issued by a holder of a use tax direct payment permit, it shall remain effective until revised or withdrawn by the holder of the permit or until the retailer or seller has received actual notice that the permit has been revoked by the department.
+
+(3) A use tax direct payment certificate relieves a person selling property from the duty of collecting use tax only if taken in good faith from a person who holds a use tax direct payment permit. A purchaser who issues a use tax direct payment certificate that is accepted in good faith by a seller or retailer of tangible personal property shall be the sole person liable for any sales tax and related interest and penalties with respect to any transaction that is subsequently determined by the department to be subject to sales tax and not use tax.
+
+(4) Any person who holds a use tax direct payment permit and gives a use tax direct payment certificate to a seller or retailer shall, in addition to any applicable use tax liabilities, be subject to the same penalty provisions that apply to a seller or retailer.
+
+(g) It is the intent of the Legislature that the department administer this part in a manner that assures that local use tax will be received by the county, city, or city and county where the first use occurs.
+
+(h) The amendments made to this section by the act adding this subdivision shall become operative on January 1, 2027.
+
+(History: Amended by Stats. 2026, Ch. 23, Sec. 19.   (SB 122)   Effective June 29, 2026.   Operative January 1, 2027, by its own provisions.)
 -------------------------------------------
 
 7051.5.
@@ -33904,6 +34360,15 @@ The sales tax portion of any sales and use tax ordinance adopted under this part
 (History: Repealed and added by Stats. 2003, 5th Ex. Sess., Ch. 2, Sec. 4.16.   Effective December 12, 2003.   Operative March 3, 2004, pursuant to Sec. 8 of Ch. 2.)
 -------------------------------------------
 
+7202.1.
+
+(a) For the purposes of a tax adopted under this part, any retail sale of a digital product transferred electronically or accessed remotely is subject to the sourcing rule established pursuant to subdivision (b) of Section 6010.5.
+
+(b) This section shall become operative on January 1, 2027.
+
+(History: Added by Stats. 2026, Ch. 23, Sec. 20.   (SB 122)   Effective June 29, 2026.   Operative January 1, 2027, by its own provisions.)
+-------------------------------------------
+
 7202.5.
 
 In addition to the provisions set forth in paragraphs (1) to (8), inclusive, of subdivision (h) of Section 7202, a city, county, or city and county sales and use tax ordinance may provide that any person subject to a sales and use tax under the city's, county's, or city and county’s ordinance shall be entitled to credit against the payment of taxes due under that ordinance the amount of sales and use taxes due to the redevelopment agency pursuant to Section 7202.6.
@@ -34587,7 +35052,7 @@ PART 1.6. TRANSACTIONS AND USE TAXES [7251. - 7279.6.]
 
 
 
-  CHAPTER 1. General Provisions and Definitions [7251. - 7253.]
+  CHAPTER 1. General Provisions and Definitions [7251. - 7254.]
 
 7251.
 
@@ -34615,6 +35080,15 @@ The combined rate of all taxes imposed in accordance with this part in any count
 “Transaction” or “transactions” as used in this part have the same meaning respectively as the words “sale” or “sales,” and the word “transactor” as used in this part has the same meaning as “seller,” as “sale” or “sales” and “seller” are used in Part 1 (commencing with Section 6001) of this division.
 
 (History: Added by Stats. 1969, Ch. 24.)
+-------------------------------------------
+
+7254.
+
+(a) For the purposes of a tax adopted under this part, any retail sale of a digital product transferred electronically or accessed remotely is subject to the sourcing rule established pursuant to subdivision (b) of Section 6010.5.
+
+(b) The section shall become operative on January 1, 2027.
+
+(History: Added by Stats. 2026, Ch. 23, Sec. 21.   (SB 122)   Effective June 29, 2026.   Operative January 1, 2027, by its own provisions.)
 -------------------------------------------
 
 
@@ -48791,7 +49265,7 @@ PART 10. PERSONAL INCOME TAX [17001. - 18181.]
 
 
 
-  CHAPTER 1. General Provisions and Definitions [17001. - 17039.5.]
+  CHAPTER 1. General Provisions and Definitions [17001. - 17039.6.]
 
 17001.
 
@@ -49638,10 +50112,9 @@ Notwithstanding Section 17039 or any other provision in this part to the contrar
 
 17039.4.
 
-(a) Notwithstanding any provision of this part or Part 10.2 (commencing with Section 18401) to the contrary, for taxpayers not required to be included in a combined report under Section 25101 or 25110, or taxpayers not authorized to be included in a combined report under Section 25101.15, for each taxable year beginning on or after January 1, 2024, and before January 1, 2027, the total of all business credits otherwise allowable under any provision of Chapter 2 (commencing with Section 17041), including the carryover of any business credit under a former provision of that chapter, for the taxable year shall not reduce the “net tax,” as defined in Section 17039, by more than five million dollars ($5,000,000).
+(a) Notwithstanding any provision of this part or Part 10.2 (commencing with Section 18401) to the contrary, for taxpayers not required to be included in a combined report under Section 25101 or 25110, or taxpayers not authorized to be included in a combined report under Section 25101.15, for each taxable year beginning on or after January 1, 2024, and before January 1, 2030, the total of all business credits otherwise allowable under any provision of Chapter 2 (commencing with Section 17041), including the carryover of any business credit under a former provision of that chapter, for the taxable year shall not reduce the “net tax,” as defined in Section 17039, by more than five million dollars ($5,000,000).
 
-(b) Notwithstanding any provision of this part or
- Part 10.2 (commencing with Section 18401) to the contrary, for taxpayers required to be included in a combined report under Section 25101 or 25110, or taxpayers authorized to be included in a combined report under Section 25101.15, for each taxable year beginning on or after January 1, 2024, and before January 1, 2027, the total of all business credits otherwise allowable under any provision of Chapter 2 (commencing with Section 17041), including the carryover of any business credit under a former provision of that chapter, by all members of the combined report shall not reduce the aggregate amount of “tax,” as defined in Section 23036, of all members of the combined report by more than five million dollars ($5,000,000).
+(b) Notwithstanding any provision of this part or Part 10.2 (commencing with Section 18401) to the contrary, for taxpayers required to be included in a combined report under Section 25101 or 25110, or taxpayers authorized to be included in a combined report under Section 25101.15, for each taxable year beginning on or after January 1, 2024, and before January 1, 2030, the total of all business credits otherwise allowable under any provision of Chapter 2 (commencing with Section 17041), including the carryover of any business credit under a former provision of that chapter, by all members of the combined report shall not reduce the aggregate amount of “tax,” as defined in Section 23036, of all members of the combined report by more than five million dollars ($5,000,000).
 
 (c) For purposes of this section, “business credit” means a credit allowable under any provision of Chapter 2 (commencing with Section 17041) other than the following credits:
 
@@ -49659,6 +50132,120 @@ Notwithstanding Section 17039 or any other provision in this part to the contrar
 
 (7) The credit allowed by Section 17053.5 (relating to renter’s tax credit).
 
+(8) The credit allowed by Section 17054 (relating to credit for personal
+ exemption).
+
+(9) The credit allowed by Section 17054.5 (relating to credit for qualified joint custody head of household and a qualified taxpayer with a dependent parent).
+
+(10) The credit allowed by Section 17054.7 (relating to credit for qualified senior head of household).
+
+(11) The credit allowed by Section 17058 (relating to credit for low-income housing).
+
+(12) The credit allowed by Section 17061 (relating to refunds pursuant to the Unemployment Insurance Code).
+
+(d) Any annual refundable credit amount included in an election pursuant to Section 17039.5 is not included in the limitation set forth in
+ subdivision (a) or (b).
+
+(e) Notwithstanding the operative date in subdivision (a), for taxable years beginning on or after January 1, 2027, if an election is made pursuant to subdivision (k) of Section 17053.98.1, both the credit allowed against the “net tax” under clause (i) of subparagraph (A) of paragraph (3) of subdivision (k) of Section 17053.98.1 and the annual refundable amount calculated under subdivision (k) of Section 17053.98.1 shall not be included in the limitation set forth in subdivisions (a) and (b).
+
+(f) Any amounts included in an election pursuant to Section 6902.5, relating to an irrevocable election to apply credit amounts under Section 17053.85, 17053.95, 17053.98, 17053.98.1, 23685, 23695, 23698, or 23698.1 against qualified sales and use tax, as defined in Section 6902.5, are not included in the five-million-dollar ($5,000,000) limitation set forth in subdivision (a) or (b).
+
+(g) The amount of any credit otherwise allowable for the taxable year under Section 17039 that is not allowed due to application of this section shall remain a credit carryover amount under this part.
+
+(h) The carryover period for any credit that is not allowed due to the application of this section shall be increased by the number of taxable years the credit or any portion thereof was not allowed.
+
+(i) Notwithstanding anything to the contrary in this part or Part 10.2 (commencing with Section 18401), the credits listed in subdivision (c) shall be applied after any business credits, as limited by subdivision (a) or (b), are applied.
+
+(j) For taxpayers that make the election under subdivision (k) of Section 17053.98.1, any amount of refundable credits pursuant to that subdivision over the five-million-dollar ($5,000,000) limitation under this section shall be allowed in the first taxable year beginning on or after January 1, 2027.
+
+(k) If a taxpayer makes the election under both Section 17039.5 and subdivision (k) of Section 17053.98.1 with respect to the credit amount under Section 17053.98.1, the total amount of credit allowed pursuant to both elections shall not exceed the credit amount allowed under subdivision (a) of Section 17053.98.1.
+
+ (l) Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code does not apply to any standard, criterion, procedure, determination, rule, notice, or guideline established or issued by the Franchise Tax Board pursuant to this section.
+
+(m) The amendments made to this section by Section 6 of Chapter 17 of the Statutes of 2025 shall be operative for taxable years beginning on or after January 1, 2026.
+
+(n) The amendments made to this section by the act adding this subdivision shall be operative for taxable years beginning on or after January 1, 2027.
+
+(History: Amended by Stats. 2026, Ch. 23, Sec. 22.   (SB 122)   Effective June 29, 2026.   Operative as prescribed by its own provisions.)
+-------------------------------------------
+
+17039.5.
+
+(a) (1) For taxable years beginning on or after January 1, 2024, and before January 1, 2030, a taxpayer may make an election to receive an annual refundable credit amount of qualified credits for each taxable year to be allowed pursuant to paragraph (2).
+
+(2) In each taxable year of the refundable period, the annual refundable credit amount shall be allowed as a credit against the “net tax” computed under this part for the taxable year, and the excess, if any, shall be credited against other amounts due, if any, and the balance, if any, shall be paid from the Tax Relief and Refund Account to the taxpayer.
+
+(b) For purposes of this section, the following definitions shall apply:
+
+(1) “Annual refundable credit amount” means 20 percent of the
+ credit amount for the taxable year.
+
+(2) (A) “Credit amount” means the amount of the qualified credits that would have otherwise been available to reduce net tax in the taxable year of the election but for the limitation under Section 17039.4.
+
+(B) In the case of a pass-thru entity, the “credit amount” refers to the pro rata share or distributive share of the credit passed through to the partner or shareholder of the qualified taxpayer. For purposes of this subparagraph, the term “pass-thru entity” means any partnership, “S” corporation, or limited liability company treated as a partnership.
+
+(C) In the case of an assigned credit, the “credit amount” refers to the credit amount that was assigned to the taxpayer.
+
+(D) In the case of
+ taxpayers required to be included in a combined report under Section 25101 or 25110, or taxpayers authorized to be included in a combined report under Section 25101.15, the “credit amount” refers to the credit amount of all members of the combined report.
+
+(3) “Qualified credits” means the credits subject to the limitation under Section 17039.4.
+
+(4) “Refundable period” means the first five consecutive taxable years beginning the third taxable year after the taxable year that the taxpayer makes an election under this section.
+
+(c) No portion of the annual refundable credit amount can be assigned to another taxpayer.
+
+(d) The following shall apply for purposes of the election pursuant to this section:
+
+(1) The taxpayer may make an election for each taxable year beginning on or after January 1, 2024, and before January 1, 2030.
+
+(2) Each election shall be irrevocable and shall be made on an original, timely filed return required under Part 10.2 (commencing with Section 18401) for the taxable year that the election is made in the form and manner as prescribed by the Franchise Tax Board.
+
+(e) (1) Any adjustment of an annual refundable credit amount shall be treated as a mathematical error appearing on the return. This includes, but is not limited to, all of the following:
+
+(A) A valid election as required under this section was not made.
+
+(B) The Franchise Tax Board determines that credit
+ amount overstatements in any taxable year resulted in an overstatement in any carryover amount or an overstatement of any refundable credit amount.
+
+(C) The Franchise Tax Board determines that the credit amount was overstated as a result of any subsequent adjustment in the amount of net tax, including, but not limited to, an audit adjustment or claim for refund.
+
+(2) Any amount of tax due resulting from such disallowance may be assessed by the Franchise Tax Board in the same manner as provided by Section 19051.
+
+(f) (1) The Franchise Tax Board may prescribe regulations necessary or appropriate to carry out the purposes of this section.
+
+(2) Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government
+ Code shall not apply to any rule, guideline, or procedure prescribed by the Franchise Tax Board pursuant to this section.
+
+(g) This section shall remain in effect only until December 1, 2037, and as of that date is repealed.
+
+(History: Amended by Stats. 2026, Ch. 23, Sec. 23.   (SB 122)   Effective June 29, 2026.   Repealed as of December 1, 2037, by its own provisions.)
+-------------------------------------------
+
+17039.6.
+
+(a) Notwithstanding any provision of this part or Part 10.2 (commencing with Section 18401) to the contrary, for taxpayers not required to be included in a combined report under Section 25101 or 25110, or taxpayers not authorized to be included in a combined report under Section 25101.15, for each taxable year beginning on or after January 1, 2030, the total of all business credits otherwise allowable under any provision of Chapter 2 (commencing with Section 17041), including the carryover of any business credit under a former provision of that chapter, for the taxable year shall not reduce the “net tax,” as defined in Section 17039, by more than 70 percent or five million dollars ($5,000,000), whichever is greater.
+
+(b) Notwithstanding any
+ provision of this part or Part 10.2 (commencing with Section 18401) to the contrary, for taxpayers required to be included in a combined report under Section 25101 or 25110, or taxpayers authorized to be included in a combined report under Section 25101.15, for each taxable year beginning on or after January 1, 2030, the total of all business credits otherwise allowable under any provision of Chapter 2 (commencing with Section 17041), including the carryover of any business credit under a former provision of that chapter, by all members of the combined report shall not reduce the aggregate amount of “tax,” as defined in Section 23036, of all members of the combined report by more than 70 percent or five million dollars ($5,000,000), whichever is greater.
+
+(c) For purposes of this section, “business credit” means a credit allowable under any provision of Chapter 2 (commencing with Section 17041) other than the following credits:
+
+(1) The credit allowed by Section 17052 (relating to credit for earned income).
+
+(2) The credit allowed by Section 17052.1 (relating to credit for young child).
+
+(3) The credit allowed by Section 17052.2 (relating to credit for foster youth).
+
+(4) The credit allowed by Section 17052.6 (relating to credit for household and dependent care).
+
+(5) The credit allowed by Section 17052.10 or 17052.11 (relating to the elective tax under the Small Business Relief Act).
+
+(6) The credit allowed by Section 17052.25 (relating to credit for adoption costs).
+
+(7) The credit allowed by
+ Section 17053.5 (relating to renter’s tax credit).
+
 (8) The credit allowed by Section 17054 (relating to credit for personal exemption).
 
 (9) The credit allowed by Section 17054.5 (relating to credit for qualified joint custody head of household and a qualified taxpayer with a dependent parent).
@@ -49669,81 +50256,20 @@ Notwithstanding Section 17039 or any other provision in this part to the contrar
 
 (12) The credit allowed by Section 17061 (relating to refunds pursuant to the Unemployment Insurance Code).
 
-(d) Any amounts included in an election pursuant to Section 6902.5, relating to an irrevocable election to apply credit amounts under Section 17053.85, 17053.95, 17053.98, 17053.98.1, 23685, 23695, 23698, or 23698.1 against qualified sales and use tax, as defined in Section 6902.5, are not included in the five-million-dollar ($5,000,000) limitation set forth in subdivision (a) or (b).
+(d) Any amounts included in an election
+ pursuant to Section 6902.5, relating to an irrevocable election to apply credit amounts under Section 17053.85, 17053.95, 17053.98, 17053.98.1, 23685, 23695, 23698, or 23698.1 against qualified sales and use tax, as defined in Section 6902.5, are not included in the limitation set forth in subdivision (a) or (b).
 
-(e) The amount of any credit otherwise allowable for the taxable year under Section 17039 that is not allowed due to application of this section shall remain a credit carryover amount under this part.
+(e) Any annual refundable credit amount included in an election pursuant to Section 17039.5 is not included in the limitation set forth in subdivision (a) or (b).
 
-(f) The carryover period for any credit that is not allowed due to the application of this section shall be increased by the number of taxable years the credit or any portion thereof was not allowed.
+(f) If an election is made pursuant to subdivision (k) of Section 17053.98.1, both the credit allowed against the “net tax” under clause (i) of subparagraph (A) of paragraph (3) of subdivision (k) of Section 17053.98.1 and the annual refundable amount calculated under subdivision (k) of Section 17053.98.1 shall not be included in the limitation set forth in subdivisions (a) and (b) of this section.
 
-(g) Notwithstanding anything to the contrary in this part or Part 10.2 (commencing with Section 18401), the credits listed in subdivision (c) shall be applied after any business credits, as limited by subdivision (a) or (b), are applied.
+(g) The amount of any credit otherwise allowable for the taxable year under Section 17039 that is not allowed due to application of this section shall remain a credit carryover amount under this part.
 
-(h) For taxpayers that make the election under subdivision (k) of Section 17053.98.1, any amount of refundable credits pursuant to that subdivision over the five million dollar ($5,000,000) limitation under this section shall be allowed in the first taxable year for which the limitation under this section is not operative.
+(h) Notwithstanding anything to the contrary in this part or Part 10.2 (commencing with Section 18401), the credits listed in subdivision (c) shall be applied after any business credits, as limited by subdivision (a) or (b), are applied.
 
-(i) If a taxpayer makes the election under both Section 17039.5 and subdivision (k) of Section 17053.98.1 with respect to the credit amount under Section 17053.98.1, the total amount of credit allowed pursuant to both elections shall not exceed the credit amount allowed
- under subdivision (a) of Section 17053.98.1.
+(i) Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code does not apply to any standard, criterion, procedure, determination, rule, notice, or guideline established or issued by the Franchise Tax Board pursuant to this section.
 
-(j) Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code does not apply to any standard, criterion, procedure, determination, rule, notice, or guideline established or issued by the Franchise Tax Board pursuant to this section.
-
-(k) (1) For taxable years beginning on or after January 1, 2025, and before January 1, 2026, this section shall not apply if, by May 14, 2025, the Director of Finance determines that General Fund money over the multiyear forecast is sufficient without the revenue impact of the net operating loss suspension and credit limitation, and pursuant to legislation in the annual Budget Act to not apply this section of law.
-
-(2) For taxable years beginning on or after January 1, 2026, and
- before January 1, 2027, this section shall not apply if, by May 14, 2026, the Director of Finance determines that General Fund money over the multiyear forecast is sufficient without the revenue impact of the net operating loss suspension and credit limitation, and pursuant to legislation in the annual Budget Act to not apply this section of law.
-
-(l) The amendments made to this section by the act adding this subdivision shall be operative for taxable years beginning on or after January 1, 2026.
-
-(History: Amended by Stats. 2025, Ch. 17, Sec. 6.   (SB 132)   Effective June 27, 2025.   Operative January 1, 2026, as prescribed by its own provisions.)
--------------------------------------------
-
-17039.5.
-
-(a) (1) For taxable years beginning on or after January 1, 2024, and before January 1, 2027, a taxpayer may make an election to receive an annual refundable credit amount of qualified credits for each taxable year to be allowed pursuant to paragraph (2).
-
-(2) In each taxable year of the refundable period, the annual refundable credit amount shall be allowed as a credit against the “net tax” computed under this part for the taxable year, and the excess, if any, shall be credited against other amounts due, if any, and the balance, if any, shall be paid from the Tax Relief and Refund Account to the taxpayer.
-
-(b) For purposes of this section, the following
- definitions shall apply:
-
-(1) “Annual refundable credit amount” means 20 percent of the credit amount for the taxable year.
-
-(2) (A) “Credit amount” means the amount of the qualified credits that would have otherwise been available to reduce net tax in the taxable year of the election but for the limitation under Section 17039.4.
-
-(B) In the case of a pass-thru entity, the “credit amount” refers to the pro rata share or distributive share of the credit passed through to the partner or shareholder of the qualified taxpayer. For purposes of this subparagraph, the term “pass-thru entity” means any partnership, “S” corporation, or limited liability company treated as a partnership.
-
-(C) In the case of an assigned credit, the “credit
- amount” refers to the credit amount that was assigned to the taxpayer.
-
-(D) In the case of taxpayers required to be included in a combined report under Section 25101 or 25110, or taxpayers authorized to be included in a combined report under Section 25101.15, the “credit amount” refers to the credit amount of all members of the combined report.
-
-(3) “Qualified credits” means the credits subject to the limitation under Section 17039.4.
-
-(4) “Refundable period” means the first five consecutive taxable years beginning the third taxable year after the taxable year that the taxpayer makes an election under this section.
-
-(c) No portion of the annual refundable credit amount can be assigned to another taxpayer.
-
-(d) The following shall apply for purposes of the election pursuant to this section:
-
-(1) The taxpayer may make an election for each taxable year beginning on or after January 1, 2024, and before January 1, 2027.
-
-(2) Each election shall be irrevocable and shall be made on an original, timely filed return required under Part 10.2 (commencing with Section 18401) for the taxable year that the election is made in the form and manner as prescribed by the Franchise Tax Board.
-
-(e) (1) Any adjustment of an annual refundable credit amount shall be treated as a mathematical error appearing on the return. This includes, but is not limited to, all of the following:
-
-(A) A valid election as required under this section was not
- made.
-
-(B) The Franchise Tax Board determines that credit amount overstatements in any taxable year resulted in an overstatement in any carryover amount or an overstatement of any refundable credit amount.
-
-(C) The Franchise Tax Board determines that the credit amount was overstated as a result of any subsequent adjustment in the amount of net tax, including, but not limited to, an audit adjustment or claim for refund.
-
-(2) Any amount of tax due resulting from such disallowance may be assessed by the Franchise Tax Board in the same manner as provided by Section 19051.
-
-(f) (1) The Franchise Tax Board may prescribe regulations necessary or appropriate to carry out the purposes of this section.
-
-(2) Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code shall not apply to any rule, guideline, or procedure prescribed by the Franchise Tax Board pursuant to this section.
-
-(g) This section shall remain in effect only until December 1, 2034, and as of that date is repealed.
-
-(History: Added by Stats. 2024, Ch. 42, Sec. 8.   (SB 175)   Effective June 29, 2024.   Repealed as of December 1, 2034, by its own provisions.)
+(History: Added by Stats. 2026, Ch. 23, Sec. 24.   (SB 122)   Effective June 29, 2026.)
 -------------------------------------------
 
 
@@ -59094,25 +59620,27 @@ Part IV of Subchapter K of Chapter 1 of Subtitle A of the Internal Revenue Code 
 
 (a) Except as provided in subdivision (f), for each taxable year beginning on or after January 1, 1997, every limited partnership doing business in this state (as defined by Section 23101) and required to file a return under Section 18633 shall pay annually to this state a tax for the privilege of doing business in this state in an amount equal to the applicable amount specified in Section 23153.
 
-(b) (1) In addition to any limited partnership that is doing business in this state and therefore is subject to the
- tax imposed by subdivision (a), for each taxable year beginning on or after January 1, 1997, every limited partnership that has executed, acknowledged, and filed a certificate of limited partnership with the Secretary of State pursuant to Section 15621 or 15902.01 of the Corporations Code, and every foreign limited partnership that has registered with the Secretary of State pursuant to Section 15692 or 15909.01 of the Corporations Code, shall pay annually the tax prescribed in subdivision (a). The tax shall be paid for each taxable year, or part thereof, until a certificate of cancellation is filed on behalf of the limited partnership with the office of the Secretary of State pursuant to Section 15623, 15696, 15902.03, or 15909.07 of the Corporations Code.
+(b) (1) In addition to any limited partnership that is doing business in this state and therefore is subject to the tax imposed by subdivision (a), for each taxable year beginning on or after January 1, 1997, every limited partnership that has executed, acknowledged, and filed a certificate of limited partnership with the Secretary of State
+ pursuant to Section 15621 or 15902.01 of the Corporations Code, and every foreign limited partnership that has registered with the Secretary of State pursuant to Section 15692 or 15909.01 of the Corporations Code, shall pay annually the tax prescribed in subdivision (a). The tax shall be paid for each taxable year, or part thereof, until a certificate of cancellation is filed on behalf of the limited partnership with the office of the Secretary of State pursuant to Section 15623, 15696, 15902.03, or 15909.07 of the Corporations Code.
 
-(2) If a taxpayer files a return with the Franchise Tax Board that is designated its final return, that board shall notify the taxpayer that the tax imposed by this chapter is due annually
- until a certificate of cancellation is filed with the Secretary of State pursuant to Section 15623, 15696, 15902.03, or 15909.07 of the Corporations Code.
+(2) If a taxpayer files a return with the Franchise Tax Board that is designated its final return, that board shall notify the taxpayer that the tax imposed by this chapter is due annually until a certificate of cancellation is filed with the Secretary of State pursuant to Section 15623, 15696, 15902.03, or 15909.07 of the Corporations Code.
 
-(c) The tax imposed by this chapter shall be due and payable on the date the return is required to be filed under former Section 18432 or 18633.
+(c) The
+ tax imposed by this chapter shall be due and payable on the date the return is required to be filed under former Section 18432 or 18633.
 
 (d) For purposes of this section, “limited partnership” means any partnership formed by two or more persons under the laws of this state or any other jurisdiction and having one or more general partners and one or more limited partners.
 
-(e) Notwithstanding subdivision (b), any limited partnership that ceased doing business prior to January 1, 1997, filed a final return with the Franchise Tax Board for a taxable year ending before January 1, 1997, and filed a certificate of dissolution with the Secretary of State pursuant
- to Section 15623 of the Corporations Code prior to January 1, 1997, shall not be subject to the tax imposed by this chapter for any period following the date the certificate of dissolution was filed with the Secretary of State, but only if the limited partnership files a certificate of cancellation with the Secretary of State pursuant to Section 15623 of the Corporations Code. In the case where a notice of proposed deficiency assessment of tax or a notice of tax due (whichever is applicable) is mailed after January 1, 2001, the first sentence of this subdivision shall not apply unless the certificate of cancellation is filed with the Secretary of State not later than 60 days after the date of the mailing of the notice.
+(e) Notwithstanding subdivision (b), any limited partnership that ceased doing business prior to January 1, 1997, filed a final return with the Franchise Tax Board for a taxable year ending before January 1, 1997, and filed a certificate of dissolution with the Secretary of State pursuant to Section 15623 of the Corporations Code prior to January 1, 1997, shall not be subject to the tax imposed by this chapter for any period following the date the certificate of dissolution was filed with the Secretary of State,
+ but only if the limited partnership files a certificate of cancellation with the Secretary of State pursuant to Section 15623 of the Corporations Code. In the case where a notice of proposed deficiency assessment of tax or a notice of tax due (whichever is applicable) is mailed after January 1, 2001, the first sentence of this subdivision shall not apply unless the certificate of cancellation is filed with the Secretary of State not later than 60 days after the date of the mailing of the notice.
 
-(f) (1) Every limited partnership doing business in this state as described in subdivision (a) that files a certificate of
- limited partnership or registers with the Secretary of the State pursuant to subdivision (b) on or after January 1, 2021, and before January 1, 2024, shall not be subject to the tax imposed under this section for its first taxable year.
+(f) (1) (A) Every limited partnership doing business in this state as described in subdivision (a) that files a certificate of limited partnership or registers with the Secretary of the State pursuant to subdivision (b) on or after January 1, 2021, and before January 1, 2024, shall not be subject to the
+ tax imposed under this section for its first taxable year.
 
-(2) This subdivision shall become operative only for a taxable year in which any budget measure appropriates one dollar ($1) or more to the Franchise Tax Board for the costs associated with administration of this subdivision.
+(B) This subdivision shall become operative only for a taxable year in which any budget measure appropriates one dollar ($1) or more to the Franchise Tax Board for the costs associated with administration of this subdivision.
 
-(History: Amended by Stats. 2020, Ch. 8, Sec. 9.   (AB 85)   Effective June 29, 2020.)
+(2) For taxable years beginning on or after January 1, 2027, and before January 1, 2030, every limited partnership required to file a return under Section 18633 shall, instead of the amount specified in Section 23153, pay the annual tax to this state in the amount of four hundred dollars ($400) for its first taxable year.
+
+(History: Amended by Stats. 2026, Ch. 23, Sec. 25.   (SB 122)   Effective June 29, 2026.)
 -------------------------------------------
 
 17936.
@@ -59145,23 +59673,22 @@ A limited partnership shall not be subject to the taxes imposed by this chapter 
 
 (a) Except as provided in subdivision (g), for each taxable year beginning on or after January 1, 1997, a limited liability company doing business in this state (as defined in Section 23101) shall pay annually to this state a tax for the privilege of doing business in this state in an amount equal to the applicable amount specified in subdivision (d) of Section 23153 for the taxable year.
 
-(b) (1) In addition to any limited liability company that is doing business in this state and is therefore subject to the tax imposed by subdivision (a), for each
- taxable year beginning on or after January 1, 1997, a limited liability company shall pay annually the tax prescribed in subdivision (a) if articles of organization have been accepted, or a certificate of registration has been issued, by the office of the Secretary of State. The tax shall be paid for each taxable year, or part thereof, until a certificate of cancellation of registration or of articles of organization is filed on behalf of the limited liability company with the office of the Secretary of State.
+(b) (1) In addition to any limited liability company that is doing business in this state and is therefore subject to the tax imposed by subdivision (a), for each taxable year beginning on or after January 1, 1997, a limited liability company shall pay annually the tax prescribed in subdivision (a) if articles of organization have been accepted, or a
+ certificate of registration has been issued, by the office of the Secretary of State. The tax shall be paid for each taxable year, or part thereof, until a certificate of cancellation of registration or of articles of organization is filed on behalf of the limited liability company with the office of the Secretary of State.
 
-(2) If a taxpayer files a return with the Franchise Tax Board that is designated as its final return, the Franchise Tax Board shall notify the taxpayer that the annual tax shall continue to be due annually until a certificate of dissolution is filed with the Secretary of State pursuant to Section 17707.08 of the Corporations Code or a certificate of cancellation is filed with the Secretary of State pursuant to Section 17708.06 of the
- Corporations Code.
+(2) If a taxpayer files a return with the Franchise Tax Board that is designated as its final return, the Franchise Tax Board shall notify the taxpayer that the annual tax shall continue to be due annually until a certificate of dissolution is filed with the Secretary of State pursuant to Section 17707.08 of the Corporations Code or a certificate of cancellation is filed with the Secretary of State pursuant to Section 17708.06 of the Corporations Code.
 
-(c) The tax assessed under this section shall be due and payable on or before the 15th day of the fourth month of the taxable year.
+(c) The tax assessed under this section shall be due and payable on or before the 15th day of the fourth month
+ of the taxable year.
 
 (d) For purposes of this section, “limited liability company” means an organization, other than a limited liability company that is exempt from the tax and fees imposed under this chapter pursuant to Section 23701h or Section 23701x, that is formed by one or more persons under the law of this state, any other country, or any other state, as a “limited liability company” and that is not taxable as a corporation for California tax purposes.
 
-(e) Notwithstanding anything in this section to the contrary, if the office of the Secretary of State files a certificate of cancellation pursuant to Section 17707.02 of the Corporations Code for any limited liability company, then
- paragraph (1) of subdivision (f) of Section 23153 shall apply to that limited liability company as if the limited liability company were properly treated as a corporation for that limited purpose only, and paragraph (2) of subdivision (f) of Section 23153 shall not apply. Nothing in this subdivision entitles a limited liability company to receive a reimbursement for any annual taxes or fees already paid.
+(e) Notwithstanding anything in this section to the contrary, if the office of the Secretary of State files a certificate of cancellation pursuant to Section 17707.02 of the Corporations Code for any limited liability company, then paragraph (1) of subdivision (f) of Section 23153 shall apply to that limited liability company as if the limited liability company were properly treated as a corporation for that limited purpose
+ only, and paragraph (2) of subdivision (f) of Section 23153 shall not apply. Nothing in this subdivision entitles a limited liability company to receive a reimbursement for any annual taxes or fees already paid.
 
 (f) (1) Notwithstanding any provision of this section to the contrary, for taxable years beginning on or after January 1, 2020, a limited liability company that is a small business solely owned by a deployed member of the United States Armed Forces shall not be subject to the tax imposed under this section for any taxable year the owner is deployed and the limited liability company operates at a loss or ceases operation.
 
-(2) The Franchise Tax Board may
- promulgate regulations as necessary or appropriate to carry out the purposes of this subdivision, including a definition for “ceases operation.”
+(2) The Franchise Tax Board may promulgate regulations as necessary or appropriate to carry out the purposes of this subdivision, including a definition for “ceases operation.”
 
 (3) For the purposes of this subdivision, all of the following definitions apply:
 
@@ -59173,16 +59700,18 @@ A limited partnership shall not be subject to the taxes imposed by this chapter 
 
 (B) “Operates at a loss” means a limited liability company’s expenses exceed its receipts.
 
-(C) “Small business” means a limited liability company with total income from all sources derived from, or attributable to, the state of two hundred fifty thousand dollars ($250,000) or less.
+(C) “Small business” means a limited liability company with total income from all sources derived from, or
+ attributable to, the state of two hundred fifty thousand dollars ($250,000) or less.
 
 (4) This subdivision shall become inoperative for taxable years beginning on or after January 1, 2030.
 
-(g) (1) Every limited liability company doing business in this state as described in subdivision (a) that organizes or registers with the Secretary of the State pursuant to subdivision (b) on or after January 1, 2021, and before January 1, 2024, shall not be subject to the tax imposed under this section for its first taxable year.
+(g) (1) (A) Every limited liability company doing business in this state as described in subdivision (a) that organizes or registers with the Secretary of the State pursuant to subdivision (b) on or after January 1, 2021, and before January 1, 2024, shall not be subject to the tax imposed under this section for its first taxable year.
 
-(2) This subdivision shall become
- operative only for a taxable year in which any budget measure appropriates one dollar ($1) or more to the Franchise Tax Board for the costs associated with administration of this subdivision.
+(B) This subdivision shall become operative only for a taxable year in which any budget measure appropriates one dollar ($1) or more to the Franchise Tax Board for the costs associated with administration of this subdivision.
 
-(History: Amended by Stats. 2020, Ch. 8, Sec. 10.   (AB 85)   Effective June 29, 2020.)
+(2) For taxable years beginning on or after January 1, 2027, and before January 1, 2030, every limited liability company required to file a return under Section 18633 shall, instead of the amount specified in Section 23153, pay the annual tax to this state in the amount of four hundred dollars ($400) for its first taxable year.
+
+(History: Amended by Stats. 2026, Ch. 23, Sec. 26.   (SB 122)   Effective June 29, 2026.)
 -------------------------------------------
 
 17942.
@@ -59265,8 +59794,8 @@ A limited liability company shall not be subject to the taxes and fees imposed b
 
 (a) Except as provided in subdivision (e), for each taxable year beginning on or after January 1, 1997, every limited liability partnership doing business in this state (as defined in Section 23101) and required to file a return under Section 18633 shall pay annually to the Franchise Tax Board a tax for the privilege of doing business in this state in an amount equal to the applicable amount specified in paragraph (1) of subdivision (d) of Section 23153 for the taxable year.
 
-(b) In addition to any limited liability partnership that
- is doing business in this state and therefore is subject to the tax imposed by subdivision (a), for each taxable year beginning on or after January 1, 1997, every registered limited liability partnership that has registered with the Secretary of State pursuant to Section 16953 of the Corporations Code and every foreign limited liability partnership that has registered with the Secretary of State pursuant to Section 16959 of the Corporations Code shall pay annually the tax prescribed in subdivision (a). The tax shall be paid for each taxable year, or part thereof, until any of the following occurs:
+(b) In addition to any limited liability partnership that is doing business in this state and therefore is subject to the tax imposed by subdivision (a), for each taxable year beginning on or after January 1, 1997, every registered limited liability partnership that has registered with the
+ Secretary of State pursuant to Section 16953 of the Corporations Code and every foreign limited liability partnership that has registered with the Secretary of State pursuant to Section 16959 of the Corporations Code shall pay annually the tax prescribed in subdivision (a). The tax shall be paid for each taxable year, or part thereof, until any of the following occurs:
 
 (1) A notice of cessation is filed with the Secretary of State pursuant to subdivision (b) of Section 16954 or 16960 of the Corporations Code.
 
@@ -59278,12 +59807,14 @@ A limited liability company shall not be subject to the taxes and fees imposed b
 
 (d) If a taxpayer files a return with the Franchise Tax Board that is designated as its final return, the Franchise Tax Board shall notify the taxpayer that the annual tax shall continue to be due annually until a certificate of cancellation is filed with the Secretary of State pursuant to Section 16954 or 16960 of the Corporations Code.
 
-(e) (1) Every limited liability partnership doing
- business in this state as described in subdivision (a) that registers with the Secretary of the State pursuant to subdivision (b) on or after January 1, 2021, and before January 1, 2024, shall not be subject to the tax imposed under this section for its first taxable year.
+(e) (1) (A) Every limited liability partnership doing business in this state as described in subdivision (a) that registers with the Secretary of the State pursuant to subdivision (b) on or after January 1,
+ 2021, and before January 1, 2024, shall not be subject to the tax imposed under this section for its first taxable year.
 
-(2) This subdivision shall become operative only for a taxable year in which any budget measure appropriates one dollar ($1) or more to the Franchise Tax Board for the costs associated with administration of this subdivision.
+(B) This subdivision shall become operative only for a taxable year in which any budget measure appropriates one dollar ($1) or more to the Franchise Tax Board for the costs associated with administration of this subdivision.
 
-(History: Amended by Stats. 2020, Ch. 8, Sec. 11.   (AB 85)   Effective June 29, 2020.)
+(2) For taxable years beginning on or after January 1, 2027, and before January 1, 2030, every limited liability partnership required to file a return under Section 18633 shall, instead of the amount specified in Section 23153, pay the annual tax to this state in the amount of four hundred dollars ($400) for its first taxable year.
+
+(History: Amended by Stats. 2026, Ch. 23, Sec. 27.   (SB 122)   Effective June 29, 2026.)
 -------------------------------------------
 
 17948.2.
@@ -68528,9 +69059,12 @@ The Franchise Tax Board shall preserve reports and tax returns for three years f
 
 (4) Payment of any delinquencies referred for collection under Article 7 (commencing with Section 19291) of Chapter 5.
 
-(b) Notwithstanding the payment priority established by this section, voluntary payments designated by the taxpayer as payment for a personal income tax liability or as a payment on amounts authorized to be collected under Section 19722, shall not be applied pursuant to this priority, but shall instead be applied as designated.
+(5) Payment of any taxes imposed under Part 10.8 (commencing with Section 22000).
 
-(History: Amended by Stats. 2020, Ch. 8, Sec. 12.   (AB 85)   Effective June 29, 2020.)
+(b) Notwithstanding the payment priority established by this section, voluntary payments designated by the taxpayer as payment for a personal income tax liability or as a payment on amounts authorized to
+ be collected under Section 19722, shall not be applied pursuant to this priority, but shall instead be applied as designated.
+
+(History: Amended by Stats. 2026, Ch. 23, Sec. 28.   (SB 122)   Effective June 29, 2026.)
 -------------------------------------------
 
 
@@ -72973,6 +73507,65 @@ If a payment is received on or after January 1, 1998, by the board from a taxpay
 
 
 
+PART 10.8. Taxation of Anti-Weaponization Fund Payments Act [22000. - 22000.]
+
+22000.
+
+(a) Notwithstanding any other law, for taxable years beginning on or after January 1, 2026, and before January 1, 2030, there shall be imposed on a taxpayer, a tax equal to 100 percent of any settlement fund payment received by the taxpayer during the taxable year. 
+
+(b) (1) For purposes of this part, the following definitions shall apply:
+
+(A) “Member of the family” means the following:
+
+(i) The spouse of an individual.
+
+(ii) An individual who bears a relationship to an individual which is described in subparagraphs (A) to (G) of
+ Section 152(d)(2) of the Internal Revenue Code, relating to relationship.
+
+(B) “Settlement fund payment” means any payment, distribution, or monetary transfer received by a taxpayer during the taxable year, from either of the following:
+
+(i) The Anti-Weaponization Fund established by the Department of Justice in relation to President Donald J. Trump v. Internal Revenue Service, Case No. 1:26-cv-20609 (S.D. Fla. 2026), or any subsequent fund, settlement, or agreement.
+
+(ii) Any fund, trust, or account, the assets of which are derived from the outcome, whether by settlement, verdict, or otherwise, of any civil action that was filed by a specified person, who is not the taxpayer, against the United States, or any agency or instrumentality thereof, or against any state and its political subdivisions.
+
+(C) “Specified person” means any of the following:
+
+(i) An individual who served, or is currently serving, as President of the United States. 
+
+(ii) A member of the family of an individual who served, or is currently serving, as President of the United States.
+
+(iii) A person controlled, based on principles specified in Section 52(b) of the Internal Revenue Code, by one or more individuals described in clause (i) or (ii).
+
+(D) “Taxpayer” has the same meaning as Sections 17004 and 23037.
+
+(2) Unless the context otherwise requires, the definitions set forth in this part and those in Part 10 (commencing with Section 17001), Part 10.2
+ (commencing with Section 18401), or Part 11 (commencing with Section 23001) shall apply to this part.
+
+(c) Any specified settlement fund payment that is taxed under subdivision (a) shall be excluded from the gross income under Part 10 (commencing with Section 17001) or Part 11 (commencing with Section 23001) for the taxable year that the specified settlement fund payment is subject to tax.
+
+(d) The tax imposed under subdivision (a) shall not be reduced by any deduction or credit allowed under Part 10 (commencing with Section 17001) or Part 11 (commencing with Section 23001). 
+
+(e) The tax imposed under subdivision (a) shall be in addition to, and not in place of, any other tax or fee that is due and payable under Part 10 (commencing with Section 17001), Part 10.2 (commencing with Section 18401), or Part 11 (commencing
+ with Section 23001), and shall not change any filing requirements for those taxes and fees.
+
+(f) (1) The tax imposed by this part shall be due and payable on or before the due date of the original return that the taxpayer is required to file pursuant to Part 10.2 (commencing with Section 18401) without regard to any extension of time for filing the return for the taxable year of the imposition of tax imposed under subdivision (a).
+
+(2) All taxes paid pursuant to this section shall be made in the form and manner as prescribed by the Franchise Tax Board.
+
+(3) The tax imposed under this part shall be assessed and collected pursuant to Part 10.2 (commencing with Section 18401), except Articles 6 (commencing with Section 19101) and 7 (commencing with Section 19131) of Chapter 4 of Part 10.2 shall not
+ apply.
+
+(g) (1) The Franchise Tax Board may adopt regulations that are necessary or appropriate to implement this part.
+
+(2) The Administrative Procedure Act (Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code) shall not apply to any regulation, rule, guideline, or procedure prescribed by the Franchise Tax Board pursuant to this part.
+
+(h) This part shall remain in effect until December 1, 2030, and as of that date is repealed.
+
+(History: Added by Stats. 2026, Ch. 23, Sec. 29.   (SB 122)   Effective June 29, 2026.   Repealed as of December 1, 2030, by its own provisions.   Note: Repeal affects Part 10.8, commencing with Section 22000.)
+-------------------------------------------
+
+
+
 PART 11. CORPORATION TAX LAW [23001. - 25141.]
 
 
@@ -73261,54 +73854,54 @@ Notwithstanding Section 23036 or any other provision in this part to the contrar
 
 23036.4.
 
-(a) Notwithstanding any provision of this part or Part 10.2 (commencing with Section 18401) to the contrary, except as provided in subdivision (d), for taxpayers not required to be included in a combined report under Section 25101 or 25110, or taxpayers not authorized to be included in a combined report under Section 25101.15, for each taxable year beginning on or after January 1, 2024, and before January 1, 2027, the total of all credits otherwise allowable under any provision of Chapter 3.5 (commencing with Section 23604) including the carryover of any credit under a former provision of that chapter, for the taxable year shall not reduce the “tax,” as defined in Section 23036, by more than five million dollars ($5,000,000).
+(a) Notwithstanding any provision of this part or Part 10.2 (commencing with Section 18401) to the contrary, except as provided in subdivision (d), for taxpayers not required to be included in a combined report under Section 25101 or 25110, or taxpayers not authorized to be included in a combined report under Section 25101.15, for each taxable year beginning on or after January 1, 2024, and before January 1, 2030, the total of all credits otherwise allowable under any provision of Chapter 3.5 (commencing with Section 23604), including the carryover of any credit under a former provision of that chapter, for the taxable year shall not reduce the “tax,” as defined in Section 23036, by more than five million dollars ($5,000,000).
 
-(b) Notwithstanding any provision of this part or Part 10.2 (commencing with Section 18401) to the contrary, except as provided in subdivision (d), for taxpayers required to be included in a combined report under Section 25101 or 25110, or taxpayers authorized to be included in a combined report under Section 25101.15, for each taxable year beginning on or after January 1, 2024, and before January 1, 2027, the total of all credits otherwise allowable under any provision of Chapter 3.5 (commencing with Section 23604), including the carryover of any credit under a former provision of that chapter, by all members of the combined report shall not reduce the aggregate amount of “tax,” as defined in Section 23036, of all members of the combined report by more than five million dollars ($5,000,000).
+(b) Notwithstanding any provision of this part or Part 10.2 (commencing with Section 18401) to the contrary, except as provided in subdivision (d), for taxpayers required to be included in a combined report under Section 25101 or 25110, or taxpayers authorized to be included in a combined report under Section 25101.15, for each taxable year beginning on or after January 1, 2024, and before January 1, 2030, the total of all credits otherwise allowable under any provision of Chapter 3.5 (commencing with Section 23604), including the carryover of any credit under a former provision of that chapter, by all members of the combined report shall not reduce the aggregate amount of “tax,” as defined in Section 23036, of all members of the combined report by more than five million dollars ($5,000,000).
 
-(c) Any amounts included in an election pursuant to Section 6902.5, relating to an irrevocable election to apply credit amounts under Section
- 17053.85, 17053.95, 17053.98, 17053.98.1, 23685, 23695, 23698, or 23698.1 against qualified sales and use tax, as defined in Section 6902.5, are not included in the five million dollar ($5,000,000) limitation set forth in subdivision (a) or (b).
+(c) Any amounts included in an election pursuant to Section 6902.5, relating to an irrevocable election to apply credit amounts under Section 17053.85, 17053.95, 17053.98, 17053.98.1, 23685, 23695, 23698, or 23698.1 against qualified sales and use tax, as defined in Section 6902.5, are not included in the five million dollar ($5,000,000) limitation set forth in subdivision (a) or
+ (b).
 
 (d) The limitation under subdivision (a) or (b) shall not apply to the credit allowed by Section 23610.5 (relating to credit for low-income housing).
 
-(e) The amount of any credit otherwise allowable for the taxable year under Section 23036 that is not allowed due to the application of this section shall remain a credit carryover amount
- under this part.
+(e) Any annual refundable credit amount included in an election pursuant to Section 23036.5 is not included in the limitation set forth in subdivision (a) or (b).
 
-(f) The carryover period for any credit that is not allowed due to the application of this section shall be increased by the number of taxable years the credit or any portion thereof was not allowed.
+(f) Notwithstanding the operative date in subdivision (a), for taxable years beginning on or after January 1, 2027, if an election is made pursuant to subdivision (k) of Section 23698.1, both the credit allowed against the “tax” under clause (i) of subparagraph (A) of paragraph (3) of subdivision (k) of Section
+ 23698.1 and the annual refundable amount calculated under subdivision (k) of Section 23698.1 shall not be included in the limitation set forth in subdivisions (a) and (b). 
 
-(g) For taxpayers that make the election under subdivision (k) of Section 23698.1, any amount of refundable credits pursuant to that subdivision over the five million dollar ($5,000,000) limitation under this section shall be allowed in the first taxable year for which the limitation under this section is not operative.
+(g) The amount of any credit otherwise allowable for the taxable year under Section 23036 that is not allowed due to the application of this section shall remain a credit carryover amount under this part.
 
-(h) If a taxpayer makes the election under both Section 23036.5 and subdivision (k) of Section 23698.1 with respect to the credit amount under Section 23698.1, the total amount of credit allowed pursuant to
- both elections shall not exceed the credit amount allowed under subdivision (a) of Section 23698.1. 
+(h) The carryover period for any credit that is not allowed due to the application of this section shall be increased by the number of taxable years the credit or any portion thereof was not allowed.
 
-(i) Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code does not apply to any standard, criterion, procedure, determination, rule, notice, or guideline established or issued by the Franchise Tax Board pursuant to this section.
+(i) For taxpayers that make the election under subdivision (k) of Section 23698.1, any amount of refundable credits pursuant to that subdivision over the five-million-dollar ($5,000,000) limitation under this section shall be allowed in the first taxable year beginning on or after January 1, 2027.
 
-(j) (1) For taxable years beginning on or after January 1, 2025, and before January 1, 2026, this section
- shall not apply if, by May 14, 2025, the Director of Finance determines that General Fund money over the multiyear forecast is sufficient without the revenue impact of the net operating loss suspension and credit limitation, and pursuant to legislation in the annual Budget Act to not apply this section of law.
+(j) If a taxpayer makes the election under both Section 23036.5 and subdivision (k) of Section 23698.1 with respect to the credit amount under Section 23698.1, the total amount of credit allowed pursuant to both elections shall not exceed the credit amount allowed under subdivision (a) of Section 23698.1.
 
-(2) For taxable years beginning on or after January 1, 2026, and before January 1, 2027, this section shall not apply if, by May 14, 2026, the Director of Finance determines that General Fund money over the multiyear forecast is sufficient without the revenue impact of the net operating loss suspension and credit limitation, and pursuant to legislation in the annual Budget Act to not apply this section of law.
+(k) Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code does not apply to any standard, criterion, procedure, determination, rule, notice, or guideline established or issued by the Franchise Tax Board pursuant to this section.
 
-(History: Amended by Stats. 2024, Ch. 42, Sec. 11.   (SB 175)   Effective June 29, 2024.)
+(l) The amendments made to this section by the act adding this subdivision shall be operative for taxable years beginning on or after January 1, 2027.
+
+(History: Amended by Stats. 2026, Ch. 23, Sec. 30.   (SB 122)   Effective June 29, 2026.   Operative as prescribed by its own provisions.)
 -------------------------------------------
 
 23036.5.
 
-(a) (1) For taxable years beginning on or after January 1, 2024, and before January 1, 2027, a taxpayer may make an election to receive an annual refundable credit amount of qualified credits for each taxable year to be allowed pursuant to paragraph (2).
+(a) (1) For taxable years beginning on or after January 1, 2024, and before January 1, 2030, a taxpayer may make an election to receive an annual refundable credit amount of qualified credits for each taxable year to be allowed pursuant to paragraph (2).
 
 (2) In each taxable year of the refundable period, the annual refundable credit amount shall be allowed as a credit against the “tax” computed under this part for the taxable year, and the excess, if any, shall be credited against other amounts due, if any, and the balance, if any, shall be paid from the Tax Relief and Refund Account to the taxpayer.
 
-(b) For purposes of this section, the following
- definitions shall apply:
+(b) For purposes of this section, the following definitions shall apply:
 
-(1) “Annual refundable credit amount” means 20 percent of the credit amount for the taxable year.
+(1) “Annual refundable credit amount” means 20 percent of the
+ credit amount for the taxable year.
 
 (2) (A) “Credit amount” means the amount of the qualified credits that would have otherwise been available to reduce net tax in the taxable year of the election but for the limitation under Section 23036.4.
 
 (B) In the case of a pass-thru entity, the “credit amount” refers to the pro rata share or distributive share of the credit passed through to the partner or shareholder of the qualified taxpayer. For purposes of this subparagraph, the term “pass-thru entity” means any partnership, “S” corporation, or limited liability company treated as a partnership.
 
-(C) In the case of an assigned credit, the “credit
- amount” refers to the credit amount that was assigned to the taxpayer.
+(C) In the case of an assigned credit, the “credit amount” refers to the credit amount that was assigned to the taxpayer.
 
-(D) In the case of taxpayers required to be included in a combined report under Section 25101 or 25110, or taxpayers authorized to be included in a combined report under Section 25101.15, the “credit amount” refers to the credit amount of all members of the combined report.
+(D) In the case of
+ taxpayers required to be included in a combined report under Section 25101 or 25110, or taxpayers authorized to be included in a combined report under Section 25101.15, the “credit amount” refers to the credit amount of all members of the combined report.
 
 (3) “Qualified credits” means the credits subject to the limitation under Section 23036.4.
 
@@ -73318,16 +73911,16 @@ Notwithstanding Section 23036 or any other provision in this part to the contrar
 
 (d) The following shall apply for purposes of the election pursuant to this section:
 
-(1) The taxpayer may make an election for each taxable year beginning on or after January 1, 2024, and before January 1, 2027.
+(1) The taxpayer may make an election for each taxable year beginning on or after January 1, 2024, and before January 1, 2030.
 
 (2) Each election shall be irrevocable and shall be made on an original, timely filed return required under Part 10.2 (commencing with Section 18401) for the taxable year that the election is made in the form and manner as prescribed by the Franchise Tax Board.
 
 (e) (1) Any adjustment of an annual refundable credit amount shall be treated as a mathematical error appearing on the return. This includes, but is not limited to, all of the following:
 
-(A) A valid election as required under this section was not
- made.
+(A) A valid election as required under this section was not made.
 
-(B) The Franchise Tax Board determines that credit amount overstatements in any taxable year resulted in an overstatement in any carryover amount or an overstatement of any refundable credit amount.
+(B) The Franchise Tax Board determines that credit
+ amount overstatements in any taxable year resulted in an overstatement in any carryover amount or an overstatement of any refundable credit amount.
 
 (C) The Franchise Tax Board determines that the credit amount was overstated as a result of any subsequent adjustment in the amount of net tax, including, but not limited to, an audit adjustment or claim for refund.
 
@@ -73335,11 +73928,35 @@ Notwithstanding Section 23036 or any other provision in this part to the contrar
 
 (f) (1) The Franchise Tax Board may prescribe regulations necessary or appropriate to carry out the purposes of this section.
 
-(2) Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code shall not apply to any rule, guideline, or procedure prescribed by the Franchise Tax Board pursuant to this section.
+(2) Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government
+ Code shall not apply to any rule, guideline, or procedure prescribed by the Franchise Tax Board pursuant to this section.
 
-(g) This section shall remain in effect only until December 1, 2034, and as of that date is repealed.
+(g) This section shall remain in effect only until December 1, 2037, and as of that date is repealed.
 
-(History: Added by Stats. 2024, Ch. 42, Sec. 12.   (SB 175)   Effective June 29, 2024.   Repealed as of December 1, 2034, by its own provisions.)
+(History: Amended by Stats. 2026, Ch. 23, Sec. 31.   (SB 122)   Effective June 29, 2026.   Repealed as of December 1, 2037, by its own provisions.)
+-------------------------------------------
+
+23036.6.
+
+(a) Notwithstanding any provision of this part or Part 10.2 (commencing with Section 18401) to the contrary, except as provided in subdivision (d), for taxpayers not required to be included in a combined report under Section 25101 or 25110, or taxpayers not authorized to be included in a combined report under Section 25101.15, for each taxable year beginning on or after January 1, 2030, the total of all credits otherwise allowable under any provision of Chapter 3.5 (commencing with Section 23608), including the carryover of any credit under a former provision of that chapter, for the taxable year shall not reduce the “tax,” as defined in Section 23036, by more than 70 percent or five million dollars ($5,000,000), whichever is greater.
+
+(b) Notwithstanding any provision of this part or Part 10.2 (commencing with Section 18401) to the contrary, except as provided in subdivision (d), for taxpayers required to be included in a combined report under Section 25101 or 25110, or taxpayers authorized to be included in a combined report under Section 25101.15, for each taxable year beginning on or after January 1, 2030, the total of all credits otherwise allowable under any provision of Chapter 3.5 (commencing with Section 23608), including the carryover of any credit under a former provision of that chapter, by all members of the combined report shall not reduce the aggregate amount of “tax,” as defined in Section 23036, of all members of the combined report by more than 70 percent or five million dollars ($5,000,000), whichever is greater.
+
+(c) Any amounts included in an election pursuant to Section 6902.5, relating to an irrevocable election to apply credit amounts under
+ Section 17053.85, 17053.95, 17053.98, 17053.98.1, 23685, 23695, 23698, or 23698.1 against qualified sales and use tax, as defined in Section 6902.5, are not included in the limitation set forth in subdivision (a) or (b).
+
+(d) The limitation under subdivision (a) or (b) shall not apply to the credit allowed by Section 23610.5 (relating to credit for low-income housing).
+
+(e) Any annual refundable credit amount included in an election pursuant to Section 23036.5 is not included in the limitation set forth in subdivision (a) or (b).
+
+(f) If an election is made pursuant to subdivision (k) of Section 23698.1, both the credit allowed against the “tax” under clause (i) of subparagraph (A) of paragraph (3) of subdivision (k) of Section 23698.1 and the annual refundable amount calculated under subdivision (k) of Section 23698.1
+ shall not be included in the limitation set forth in subdivisions (a) and (b) of this section.
+
+(g) The amount of any credit otherwise allowable for the taxable year under Section 23036 that is not allowed due to the application of this section shall remain a credit carryover amount under this part.
+
+(h) Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code does not apply to any standard, criterion, procedure, determination, rule, notice, or guideline established or issued by the Franchise Tax Board pursuant to this section.
+
+(History: Added by Stats. 2026, Ch. 23, Sec. 32.   (SB 122)   Effective June 29, 2026.)
 -------------------------------------------
 
 23037.
@@ -90659,20 +91276,20 @@ The board shall, in each calendar quarter, post on its Web site the amounts of c
 
 (b) The moneys in the accounts within the Breast Cancer Fund shall, upon appropriation by the Legislature, be allocated as follows:
 
-(1) The moneys in
- the Breast Cancer Research Account shall be allocated for research with respect to the cause, cure, treatment, earlier detection, and prevention of breast cancer as follows:
+(1) The moneys in the
+ Breast Cancer Research Account shall be allocated for research with respect to the cause, cure, treatment, earlier detection, and prevention of breast cancer as follows:
 
-(A) Ten percent to the Cancer Surveillance Section of the State Department of Health Care Services for the collection of breast cancer-related data and the conduct of breast cancer-related epidemiological research by the state cancer registry established pursuant to Section 103885 of the Health and Safety Code.
+(A) Ten percent to the Cancer Surveillance Section of the State Department of Public Health for the collection of breast cancer-related data and the conduct of breast cancer-related epidemiological research by the state cancer registry established pursuant to Section 103885 of the Health and Safety Code.
 
-(B) Ninety percent to the Breast Cancer Research Program, that is hereby created at the University of California, for the awarding of grants and contracts to researchers for research with respect to
- the cause, cure, treatment, prevention, and earlier detection of breast cancer and with respect to the cultural barriers to accessing the health care system for early detection and treatment of breast cancer.
+(B) Ninety percent to the Breast Cancer Research Program, that is hereby created at the University of California, for the awarding of grants and contracts to researchers for research with respect to the
+ cause, cure, treatment, prevention, and earlier detection of breast cancer and with respect to the cultural barriers to accessing the health care system for early detection and treatment of breast cancer.
 
 (2) The moneys in the Breast Cancer Control Account shall be allocated to the Breast Cancer Control Program, that is hereby created for the provision of early breast cancer detection services for uninsured and underinsured women. The Breast Cancer Control Program shall be established in the State Department of Health Care Services and shall be administered in coordination with the breast and cervical cancer control program established pursuant to Public Law 101-354.
 
-(c) The
- early breast cancer detection services provided by the Breast Cancer Control Program shall include all of the following:
+(c) The early breast cancer detection services provided by the Breast Cancer Control Program shall include all of the following:
 
-(1) Screening, including mammography, of women for breast cancer as an early detection health care measure.
+(1) Screening,
+ including mammography, of women for breast cancer as an early detection health care measure.
 
 (2) After screening, medical referral of screened women and services necessary for definitive diagnosis, including nonradiological techniques or biopsy.
 
@@ -90680,26 +91297,22 @@ The board shall, in each calendar quarter, post on its Web site the amounts of c
 
 (4) Outreach and health education activities to ensure that uninsured and underinsured women are aware of and appropriately utilize the services provided by the Breast Cancer Control Program.
 
-(d) (1) Any entity funded by the Breast Cancer Control Program shall coordinate with other local providers of breast cancer screening, diagnostic, followup, education, and advocacy services to avoid duplication of effort. Any entity funded by the program shall comply with any applicable state and federal standards regarding mammography quality assurance.
+(d) (1) Any entity funded by the Breast Cancer Control Program shall coordinate with other local providers of breast cancer screening, diagnostic, followup, education, and
+ advocacy services to avoid duplication of effort. Any entity funded by the program shall comply with any applicable state and federal standards regarding mammography quality assurance.
 
-(2) To the extent required or permitted by federal law, a provider of breast cancer screening or diagnostic services may employ digital mammography technology for the purposes of mammography screening and diagnostic procedures that are conducted prior to January 1, 2014, when film, otherwise known as analog, mammography technology is unavailable. To the extent required or permitted by federal law and notwithstanding paragraph (3) of subdivision (a) of Section 14105.18 of the Welfare and Institutions Code, the payment rate for all mammography screening that is
- conducted prior to January 1, 2014, shall be limited to the Medi-Cal payment rate for film mammography screening.
+(2) To the extent required or permitted by federal law, a provider of breast cancer screening or diagnostic services may employ digital mammography technology for the purposes of mammography screening and diagnostic procedures that are conducted prior to January 1, 2014, when film, otherwise known as analog, mammography technology is unavailable. To the extent required or permitted by federal law and notwithstanding paragraph (3) of subdivision (a) of Section 14105.18 of the Welfare and Institutions Code, the payment rate for all mammography screening that is conducted prior to January 1, 2014, shall be limited to the Medi-Cal payment rate for film mammography screening.
 
-(e) Notwithstanding Section 10231.5 of the Government Code, each year, the State Department of Health Care Services shall submit an annual report about the Breast Cancer Control Program, including information described in subdivision (f), to the fiscal and appropriate policy committees of the Legislature and to other appropriate entities. The department shall submit the report, in accordance with Section 9795 of the Government Code, no later than February 28 each fiscal year.
+(e) Notwithstanding Section
+ 10231.5 of the Government Code, each year, the State Department of Health Care Services shall submit an annual report about the Breast Cancer Control Program, including information described in subdivision (f), to the fiscal and appropriate policy committees of the Legislature and to other appropriate entities. The department shall submit the report, in accordance with Section 9795 of the Government Code, no later than February 28 each fiscal year.
 
-(f) Any entity funded by the Breast Cancer Control Program shall collect data and maintain records that are determined by the State Department of Health Care Services to be necessary
- to facilitate the department’s ability to monitor and evaluate the effectiveness of the
- program entities and the program.
- The costs associated with the report described in subdivision (e) shall be paid from the allocation made pursuant to paragraph (2) of subdivision (b). The report shall describe the activities and effectiveness of the program and shall include, but not be limited to, the following types of information:
+(f) Any entity funded by the Breast Cancer Control Program shall collect data and maintain records that are determined by the State Department of Health Care Services to be necessary to facilitate the department’s ability to monitor and evaluate the effectiveness of the program entities and the program. The costs associated with the report described in subdivision (e) shall be paid from the allocation made pursuant to paragraph (2) of subdivision (b). The report shall describe the activities and
+ effectiveness of the program and shall include, but not be limited to, the following types of information:
 
-(1) The number
- of recipients served.
+(1) The number of recipients served.
 
 (2) The ethnic, geographic, and age breakdown.
 
-(3) The
- breast and cervical cancer
- stages of presentation.
+(3) The breast and cervical cancer stages of presentation.
 
 (4) The breast and cervical cancer diagnostic and treatment status.
 
@@ -90709,33 +91322,30 @@ The board shall, in each calendar quarter, post on its Web site the amounts of c
 
 (7) Program activities and monitoring data.
 
-(8) A breakdown of expenditures for clinical service activities, including, but not limited to, office visits and consults, screening mammograms, diagnostic mammograms, diagnostic breast procedures, case management, and other clinical services.
+(8) A breakdown of expenditures for clinical service activities,
+ including, but not limited to, office visits and consults, screening mammograms, diagnostic mammograms, diagnostic breast procedures, case management, and other clinical services.
 
 (g) The Breast Cancer Control Program shall be conducted in consultation with the Breast Cancer Research Program created pursuant to subparagraph (B) of paragraph (1) of subdivision (b).
 
-(h) In implementing the Breast Cancer Control Program, the State Department of
- Health Care Services may appoint and consult with an advisory panel appointed by the Director of Health Care Services and consisting of one ex officio, nonvoting member from the Breast Cancer Research Program, breast cancer researchers, and representatives from voluntary, nonprofit health organizations, health care professional organizations, breast cancer survivor groups, and breast cancer and health care-related advocacy groups. It is the intent of the Legislature that breast cancer-related survivors and advocates and health advocates for low-income women compose at least one-third of the advisory panel. It is also the intent of the Legislature that the State Department of
- Health Care Services collaborate closely with the panel.
+(h) In implementing the Breast Cancer Control Program, the State Department of Health Care Services may appoint and consult with an advisory panel appointed by the Director of Health Care Services and consisting of one ex officio, nonvoting member from the Breast Cancer Research Program, breast cancer researchers, and representatives from voluntary, nonprofit health organizations, health care professional organizations, breast cancer survivor groups, and breast cancer and health care-related advocacy groups. It is the
+ intent of the Legislature that breast cancer-related survivors and advocates and health advocates for low-income women compose at least one-third of the advisory panel. It is also the intent of the Legislature that the State Department of Health Care Services collaborate closely with the panel.
 
 (i) It is the intent of the Legislature in enacting the Breast Cancer Control Program to decrease cancer mortality rates attributable to breast cancer among uninsured and underinsured women, with special emphasis on low-income, Native American, and minority women. It is also the intent of the Legislature that the communities served by the Breast Cancer Control Program reflect the ethnic, racial, cultural, and geographic diversity of the state and that the Breast Cancer Control Program fund entities where uninsured and underinsured women are most likely to seek their health care.
 
-(j) The State Department of
- Health Care Services or any entity funded by the Breast Cancer Control Program shall collect personal and medical information necessary to administer this program from any individual applying for services under the program. The information shall be confidential and shall not be disclosed other than for purposes directly connected with the administration of this program or except as otherwise provided by law or pursuant to prior written consent of the subject of the information.
+(j) The
+ State Department of Health Care Services or any entity funded by the Breast Cancer Control Program shall collect personal and medical information necessary to administer this program from any individual applying for services under the program. The information shall be confidential and shall not be disclosed other than for purposes directly connected with the administration of this program or except as otherwise provided by law or pursuant to prior written consent of the subject of the information.
 
-The State Department of Health Care Services or any entity funded by the Breast Cancer Control Program may disclose the confidential information to medical personnel and fiscal intermediaries of the state to the extent necessary to administer this
- program, and to other state public health agencies or medical researchers when the confidential information is necessary to carry out the duties of those agencies or researchers in the investigation, control, or surveillance of breast cancer.
+The State Department of Health Care Services or any entity funded by the Breast Cancer Control Program may disclose the confidential information to medical personnel and fiscal intermediaries of the state to the extent necessary to administer this program, and to other state public health agencies or medical researchers when the confidential information is necessary to carry out the duties of those agencies or researchers in the investigation, control, or surveillance of
+ breast cancer.
 
-(k) The State Department of
- Health Care Services shall adopt regulations to implement this act in accordance with the rulemaking provisions of the Administrative Procedure Act (Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code). The initial adoption of implementing regulations shall be deemed an emergency and shall be considered as necessary for the immediate preservation of the public peace, health and safety, or general welfare, within the meaning of Section 11346.1 of the Government Code. Emergency regulations adopted pursuant to this section shall remain in effect for no more than 180 days.
+(k) The State Department of Health Care Services shall adopt regulations to implement this act in accordance with the rulemaking provisions of the Administrative Procedure Act (Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code). The initial adoption of implementing regulations shall be deemed an emergency and shall be considered as necessary for the immediate preservation of the public peace, health and safety, or general welfare, within the meaning of Section 11346.1 of the Government Code. Emergency regulations adopted pursuant to this section shall remain in effect for no more than 180 days.
 
 (l) It is the intent of the Legislature in enacting this section that this section supersede and be operative in place of Section 30461.6 of the Revenue and Taxation Code as added by Chapter 660 of the Statutes of 1993.
 
-(m) To implement the Breast Cancer Control Program, the State Department of
- Health Care Services may contract, to the extent permitted by Section 19130 of the Government Code, with public and private entities, or utilize existing health care service provider enrollment and payment mechanisms, including the Medi-Cal program’s fiscal intermediary. However, the Medi-Cal program’s fiscal intermediary shall only be utilized if services provided under the program are specifically identified and reimbursed in a manner that does not claim federal financial reimbursement. Any contracts with, and the utilization of, the Medi-Cal program’s fiscal intermediary shall not be subject to Chapter 3 (commencing with Section 12100) of Part 2 of Division 2 of the Public Contract Code. Contracts to implement the Breast Cancer Control Program entered into by the State Department of
- Health Care Services
- with entities other than the Medi-Cal program’s fiscal intermediary shall not be subject to Part 2 (commencing with Section 10100) of Division 2 of the Public Contract Code.
+(m) To implement the Breast Cancer Control Program, the State Department of Health Care Services may contract, to the extent permitted by Section 19130 of the Government Code, with public and private entities, or utilize existing health care service provider enrollment and payment mechanisms, including the Medi-Cal program’s fiscal intermediary. However, the Medi-Cal program’s fiscal intermediary shall only be utilized if services provided under the program are specifically identified and reimbursed in a manner that does not claim federal financial reimbursement. Any contracts with, and the utilization of, the Medi-Cal program’s fiscal intermediary shall not be subject to Chapter 3 (commencing with Section 12100) of Part 2 of Division 2 of the Public Contract Code. Contracts to implement the Breast Cancer Control Program entered into by the State Department of Health Care Services with entities other than the Medi-Cal program’s fiscal intermediary
+ shall not be subject to Part 2 (commencing with Section 10100) of Division 2 of the Public Contract Code.
 
-(History: Amended by Stats. 2025, Ch. 105, Sec. 48.   (AB 144)   Effective September 17, 2025.)
+(History: Amended by Stats. 2026, Ch. 27, Sec. 62.   (SB 164)   Effective June 29, 2026.)
 -------------------------------------------
 
 30462.
@@ -100554,18 +101164,9 @@ Notwithstanding Section 43011, for purposes of the fees administered under Secti
 
 43012.
 
-For purposes of this part, “taxpayer” means both of the following:
+For purposes of this part, “taxpayer” means any person liable for the payment of a fee or tax administered pursuant to this part.
 
-(a) (1) On and after January 1, 2022, a person liable for the payment of a fee or a tax specified in paragraph (1) of subdivision (a) of
- Section 25173.6 of the Health and Safety Code, paragraph (1) of subdivision (a) of Section 25174 of the Health and Safety Code, paragraph (1) of subdivision (a) of Section 25174.01 of the Health and Safety Code, or imposed by Section 105310 of the Health and Safety Code.
-
-(2) This subdivision applies to the fees due for the 2022 reporting period and thereafter.
-
-(b) (1) A person liable for the payment of a fee or a tax described in subdivision (a) of Section 25205.25 of the Health and Safety Code, or imposed by Section 105310 of the Health and Safety Code.
-
-(2) This subdivision applies only to fees due through the June 2022 reporting period and any earlier periods.
-
-(History: Amended by Stats. 2024, Ch. 72, Sec. 46.   (SB 156)   Effective July 2, 2024.)
+(History: Amended by Stats. 2026, Ch. 62, Sec. 8.   (SB 166)   Effective July 6, 2026.)
 -------------------------------------------
 
 43013.
@@ -100748,53 +101349,52 @@ The fee imposed pursuant to Section 105310 of the Health and Safety Code, that i
 
 43155.
 
-(a) Any person who fails to pay any tax, installment, or prepayment, except amounts of determinations made by the California Department of Tax and Fee Administration under Article 2 (commencing with Section 43201), within the time required shall pay a penalty of 10 percent of the
- tax, installment, or prepayment, plus interest at the modified adjusted rate per month, or fraction thereof, established pursuant to Section 6591.5, from the date on which the tax or the amount of tax required to be collected became due and payable to the state until the date of payment.
+(a) Any person who fails to pay any tax, installment, or prepayment, except amounts of determinations made by the California Department of Tax and Fee Administration under Article 2 (commencing with Section 43201), within the time required shall pay a penalty of 10 percent of the tax, installment, or prepayment, plus interest at the modified adjusted rate per month, or fraction thereof, established pursuant to Section 6591.5, from the date on which the tax or the amount of tax required to be collected became due and payable to the state until the date of payment.
 
 (b) Any person who fails to file a return with the California Department of Tax and Fee Administration in accordance with this part within the time prescribed for the filing of a
- return, a penalty of 10 percent of the amount of
- tax, exclusive of previously remitted installments, shall be added thereto on account of the delinquency.
+ return shall pay a penalty of 10 percent of the amount of tax, exclusive of previously remitted installments.
 
 (c) The penalties imposed by this section shall be limited to a maximum of 10 percent of the taxes for which the return, installment, or prepayment is required for any one return, installment, or prepayment.
 
-(d) The amendments made to this section by the act
- adding this subdivision shall apply to any return or payment that becomes due on or after November 30, 2024. This section does not apply to any fee imposed pursuant to Section 25205.5 or 25205.5.2 of the Health and Safety Code for any return or payment that becomes due on or after November 30, 2024.
+(d) This section does not apply to a return or payment that becomes due on or after November 30, 2024, for any fee imposed pursuant to Section 25205.5 or former Section 25205.5.2 of the Health and Safety Code.
 
-(History: Amended by Stats. 2024, Ch. 72, Sec. 52.   (SB 156)   Effective July 2, 2024.)
+(History: Amended by Stats. 2026, Ch. 62, Sec. 9.   (SB 166)   Effective July 6, 2026.)
 -------------------------------------------
 
 43155.01.
 
-(a) A person who fails to pay any generation and handling fee or installment, except amounts of determinations made by the California Department of Tax and Fee Administration under Article 2 (commencing with Section 43201), within the time required shall pay a penalty, plus interest at the modified adjusted rate per month, or fraction of a month, established pursuant to Section 6591.5, from the date on which the fee or the amount of fee required to be collected became due and payable to the state until the date of payment, as follows:
+(a) (1) A person who fails to pay any generation and handling fee or installment required pursuant to Section 43152.7, except amounts of determinations made by the California Department of Tax and Fee Administration under Article 2 (commencing with Section 43201), within the time required shall pay a penalty, plus interest at the modified adjusted rate per month, or fraction of a month, established pursuant to Section 6591.5, from the date on which the fee or the amount of fee required to be
+ collected became due and payable to the state until the date of payment, as follows:
 
-(1) For a delinquency period of 30 days or fewer from the date the installment or fee became due and payable, the penalty shall be 10 percent of the amount of the delinquent fee or installment not timely remitted.
+(A) For a delinquency period of 30 days or fewer from the date the installment or fee became due and payable, the penalty shall be 10 percent of the amount of the delinquent fee or installment not timely remitted.
 
-(2) For a delinquency period of at least 31 days, but not more than 60 days, from the date the installment or fee became due and payable, the penalty shall be 25 percent of the amount of the delinquent fee or installment not timely remitted.
+(B) For a delinquency period of at
+ least 31 days, but not more than 60 days, from the date the installment or fee became due and payable, the penalty shall be 25 percent of the amount of the delinquent fee or installment not timely remitted.
 
-(3) For a delinquency period of at least 61 days, but not more than 90 days, from the date the installment or fee became due and payable, the penalty shall be 50 percent of the amount of the delinquent fee or installment not timely remitted.
+(C) For a delinquency period of at least 61 days, but not more than 90 days, from the date the installment or fee became due and payable, the penalty shall be 50 percent of the amount of the delinquent fee or installment not timely remitted.
 
-(4) For a delinquency period of 91 days or more from the date the
- installment or fee became due and payable, the penalty shall be 100 percent of the amount of the delinquent fee or installment not timely remitted.
+(D) For a delinquency period of 91 days or more from the date the installment or fee became due and payable, the penalty shall be 100 percent of the amount of the delinquent fee or installment not timely remitted.
 
-(b) For any person who fails to file a generation and handling fee return with the California Department of Tax and Fee Administration in accordance with this part within the time prescribed for the filing of a generation and handling fee return, a penalty shall be added on account of the delinquency, as follows:
+(2) The penalty imposed by this subdivision shall apply to every delinquent fee or installment.
+
+(b) A person who fails to file a generation and handling fee return
+ required pursuant to Section 43152.7 shall pay a penalty based upon the length of the delinquency, as follows:
 
 (1) For a delinquency period of 30 days or fewer from the date the return became due, the penalty shall be 10 percent of the amount of the fee, exclusive of previously remitted installments.
 
 (2) For a delinquency period of at least 31 days, but not more than 60 days, from the date the return became due, the penalty shall be 25 percent of the amount of the fee, exclusive of previously remitted installments.
 
-(3) For a
- delinquency period of at least 61 days, but not more than 90 days, from the date the return became due, the penalty shall be 50 percent of the amount of the fee, exclusive of previously remitted installments.
+(3) For a delinquency period of at least 61 days, but not more than 90 days, from the date the return became due, the penalty shall be 50 percent of the amount of the fee, exclusive of previously remitted installments.
 
 (4) For a delinquency period of 91 days or more from the date the return became due, the penalty shall be 100 percent of the amount of the fee, exclusive of previously remitted installments.
 
-(c) The sum of the penalties imposed pursuant to subdivisions (a) and (b) shall not exceed 100 percent of the total fee required pursuant to Section 25205.5 of the Health and Safety Code.
+(c) The sum of the penalties imposed pursuant to subdivisions (a) and (b) shall not exceed 100 percent of the total fee required pursuant to Section 25205.5 or former Section 25205.5.2 of the Health and Safety Code.
 
 (d) Notwithstanding any other limitation to the penalty amount imposed for any one installment, fee, or return specified in this part, the penalties imposed pursuant to this section shall be in addition to any other penalties imposed under this part.
 
-(e) This section applies to any fee imposed
- pursuant to Section 25205.5 of the Health and Safety Code for any return or payment that becomes due on or after November 30, 2024.
+(e) This section shall only apply to a return or payment that becomes due on or after November 30, 2024, for any fee imposed pursuant to Section 25205.5 or former Section 25205.5.2 of the Health and Safety Code.
 
-(History: Amended by Stats. 2024, Ch. 499, Sec. 78.   (SB 1528)   Effective January 1, 2025.)
+(History: Amended by Stats. 2026, Ch. 62, Sec. 10.   (SB 166)   Effective July 6, 2026.)
 -------------------------------------------
 
 43155.5.
@@ -100958,34 +101558,30 @@ Every person who is required to file the returns and make the payments specified
 
 43170.
 
-(a) Any person whose estimated tax liability under this part averages twenty thousand dollars ($20,000) or more per month, as determined by the California Department of Tax and Fee Administration pursuant to methods of calculation prescribed by the California Department of Tax and Fee Administration, shall remit amounts due by an electronic funds transfer under procedures prescribed by the
- California Department of Tax and Fee Administration.
+(a) Any person whose estimated tax liability under this part averages twenty thousand dollars ($20,000) or more per month, as determined by the California Department of Tax and Fee Administration pursuant to methods of calculation prescribed by the California Department of Tax and Fee Administration, shall remit amounts due by an electronic funds transfer under procedures prescribed by the California Department of Tax and Fee Administration.
 
 (b) Any person whose estimated tax liability under this part averages less than twenty thousand dollars ($20,000) per month may elect to remit amounts due by electronic funds transfer with the approval of the California Department of Tax and Fee Administration.
 
-(c) Any person remitting amounts due pursuant to subdivision (a) or (b) shall perform electronic funds transfer in compliance with the due dates set forth in Article 1 (commencing with Section 43151). Payment is deemed complete on the date the electronic funds transfer is initiated if settlement to the state’s demand account occurs on
- or before the banking day following the date the transfer is initiated. If settlement to the state’s demand account does not occur on or before the banking day following the date the transfer is initiated, payment is deemed to occur on the date settlement occurs.
+(c) Any person remitting amounts due pursuant to subdivision (a) or (b) shall perform electronic funds transfer in compliance with the due dates set forth in Article 1 (commencing with Section 43151). Payment is deemed complete on the date the electronic funds transfer is initiated if settlement to the state’s demand account occurs on or before the banking day following the date the transfer is initiated. If settlement to the state’s demand account does not occur on or before the banking day following the date the transfer is initiated, payment is deemed to occur on the date settlement occurs.
 
-(d) Any person remitting taxes by electronic funds transfer shall, on or before the due date of the remittance, file a return for the preceding reporting period in the form and manner prescribed by the California Department of Tax and Fee Administration. Any person who fails to timely file the required return shall pay a penalty of 10 percent of the amount of taxes, exclusive of
- previously remitted installments, with respect to the period for which the return is required.
+(d) Any person remitting taxes by electronic funds transfer shall, on or before the due date of the remittance, file a return for the preceding reporting period in the form and manner prescribed by the California Department of Tax and Fee Administration. Any person who fails to timely file the required return shall pay a penalty of 10 percent
+ of the amount of taxes, exclusive of previously remitted installments, with respect to the period for which the return is required.
 
 (e) Any person required to remit taxes pursuant to this article who remits those taxes by means other than appropriate electronic funds transfer shall pay a penalty of 10 percent of the taxes incorrectly remitted.
 
-(f) Any person who fails to pay any tax to the state or any amount of tax, installment, or prepayment required to be collected and paid to the state, except amounts of determinations made by the
- California Department of Tax and Fee Administration under Article 2 (commencing with Section 43201), within the time required shall pay a penalty of 10 percent of the tax or amount of tax, in addition to the tax or amount of tax, plus interest at the modified adjusted rate per month, or fraction thereof, established pursuant to Section 6591.5, from the date on which the tax or amount of tax required to be collected became due and payable to the state until the date of payment.
+(f) Any person who fails to pay any tax to the state or any amount of tax, installment, or prepayment required to be collected and paid to the state, except amounts of determinations made by the California Department of Tax and Fee Administration under Article 2 (commencing with Section 43201), within the time required shall pay a penalty of 10 percent of the tax or amount of tax, in addition to the tax or amount of tax, plus interest at the modified adjusted rate per month, or fraction thereof, established pursuant to Section 6591.5, from
+ the date on which the tax or amount of tax required to be collected became due and payable to the state until the date of payment.
 
-(g) In determining whether a person’s estimated tax liability averages twenty thousand dollars ($20,000) or more per month, the California Department of Tax and Fee Administration may consider tax returns filed pursuant to this part
- and any other information in the
- California Department of Tax and Fee Administration’s possession.
+(g) In determining whether a person’s estimated tax liability averages twenty thousand dollars ($20,000) or more per month, the California Department of Tax and Fee Administration may consider tax returns filed pursuant to this part and any other information in the California Department of Tax and Fee Administration’s possession.
 
 (h) (1) The penalties imposed by subdivisions (d), (e), and (f) shall be limited to a maximum of 10 percent of the taxes due for any one return, installment, or prepayment. Any person remitting taxes by electronic funds transfer shall be subject to the penalties under this section and not Section 43155.
 
-(2) Notwithstanding paragraph (1), any person remitting fees
- imposed pursuant to Section 25205.5 of the Health and Safety Code by electronic funds transfer is subject to the penalties imposed by this section and the penalties imposed by Section 43155.01.
+(2) Notwithstanding paragraph (1), any
+ person remitting fees imposed pursuant to Section 25205.5 or former Section 25205.5.2 of the Health and Safety Code by electronic funds transfer is subject to the penalties imposed by this section and the penalties imposed by Section 43155.01.
 
-(i) The board shall promulgate regulations pursuant to Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code for purposes of implementing this section.
+(i) The California Department of Tax and Fee Administration shall promulgate regulations pursuant to Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code for purposes of implementing this section.
 
-(History: Amended by Stats. 2024, Ch. 72, Sec. 56.   (SB 156)   Effective July 2, 2024.)
+(History: Amended by Stats. 2026, Ch. 62, Sec. 11.   (SB 166)   Effective July 6, 2026.)
 -------------------------------------------
 
 43171.
@@ -101030,19 +101626,18 @@ If the board finds that a person’s failure to make payment by an appropriate e
 
 43201.
 
-(a) If the California Department of Tax and Fee Administration is dissatisfied with the return or report filed or the amount of tax paid to the state by any taxpayer, or if no return or report has been filed or no payment or payments of the taxes have been made to the state by a taxpayer, the California Department of Tax and Fee Administration may compute and determine the amount to be paid, based upon any information available to it. In addition, where the California Department of Tax and Fee Administration is authorized to collect a tax for another state agency, the California Department of Tax and Fee Administration may issue a notice of determination or similar billing document for collection of the tax. One or more additional determinations may be made of the amount of tax due for
- one, or for more than one, period. The amount of tax so determined shall bear interest at the modified adjusted rate per month, or fraction thereof, established pursuant to Section 6591.5, from the date the amount of the tax, or any portion thereof, became due and payable until the date of payment. In making a determination, the California Department of Tax and Fee Administration may offset overpayments for a period or periods against underpayments for another period or periods and against the interest and penalties on the underpayments.
+(a) If the California Department of Tax and Fee Administration is dissatisfied with the return or report filed or the amount of tax paid to the state by any taxpayer, or if no return or report has been filed or no payment or payments of the taxes have been made to the state by a taxpayer, the California Department of Tax and Fee Administration may compute and determine the amount to be paid, based upon any information available to it. In addition, where the California Department of Tax and Fee Administration is authorized to collect a tax for another state agency, the California Department of Tax and Fee Administration may issue a notice of determination or similar billing document for collection of the tax. One or more additional determinations may be made of the amount of tax due for one, or for more than one, period. The
+ amount of tax so determined shall bear interest at the modified adjusted rate per month, or fraction thereof, established pursuant to Section 6591.5, from the date the amount of the tax, or any portion thereof, became due and payable until the date of payment. In making a determination, the California Department of Tax and Fee Administration may offset overpayments for a period or periods against underpayments for another period or periods and against the interest and penalties on the underpayments.
 
 (b) If any part of the deficiency for which a determination of an additional amount due is found to have been occasioned by negligence or intentional disregard of this part or authorized regulations, a penalty of 10 percent of the amount of the determination shall be added, plus interest as provided above.
 
-(c) If any part of the deficiency for
- which a determination of an additional amount due is found to be occasioned by fraud or an intent to evade this part or authorized regulations, a penalty of 25 percent of the amount of the determination shall be added, plus interest as provided in subdivision (a).
+(c) If any part of the deficiency for which a determination of an additional
+ amount due is found to be occasioned by fraud or an intent to evade this part or authorized regulations, a penalty of 25 percent of the amount of the determination shall be added, plus interest as provided in subdivision (a).
 
 (d) The California Department of Tax and Fee Administration shall give to the taxpayer written notice of its determination. The notice shall be served in one of the following manners:
 
-(1) By placing the notice in a sealed envelope, with postage
- paid, addressed to the taxpayer at their address as it appears in the records of the California Department of Tax and Fee Administration.
- Service made pursuant to this paragraph shall be deemed complete at the time of the deposit of the notice in a United States Post Office, or a mailbox, sub-post office, substation, or mail chute, or other facility regularly maintained or provided by the United States Postal Service without extension of time for any reason.
+(1) By placing the notice in a sealed envelope, with postage paid, addressed to the taxpayer at their address as it appears in the records of the California Department of Tax and Fee Administration. Service made pursuant to this paragraph shall be deemed complete at the time of the deposit of the notice in a United States Post Office, or a mailbox, sub-post office, substation, or mail chute, or other facility regularly maintained or provided by the United States Postal Service
+ without extension of time for any reason.
 
 (2) By personally delivering the notice to the person to be served. Service made pursuant to this paragraph shall be deemed complete at the time of delivery. Personal service to a corporation may be made by delivery of a notice to any person designated in the Code of Civil Procedure to be served for the corporation with summons and complaint in a civil action.
 
@@ -101050,14 +101645,14 @@ If the board finds that a person’s failure to make payment by an appropriate e
 
 (i) The taxpayer requests the notice of determination to be sent electronically via secure transmission.
 
-(ii) The California Department of Tax and Fee Administration has evidence that the taxpayer no longer receives mail at the address of record and has previously
- provided an address for electronic mail.
+(ii) The California Department of Tax and Fee Administration has evidence that the taxpayer no longer receives mail at
+ the address of record and has previously provided an address for electronic mail.
 
 (B) Service provided pursuant to subparagraph (A) shall be deemed complete at the time the California Department of Tax and Fee Administration electronically transmits the notice via the taxpayer’s secure web portal, without extension of time for any reason.
 
-(e) This section shall not apply to any fee imposed pursuant to Section 25205.5 or 25205.5.2 of the Health and Safety Code for any return or payment that becomes due on or after November 30, 2024.
+(e) This section does not apply to a return or payment that becomes due on or after November 30, 2024, for any fee imposed pursuant to Section 25205.5 or former Section 25205.5.2 of the Health and Safety Code.
 
-(History: Amended by Stats. 2024, Ch. 499, Sec. 79.   (SB 1528)   Effective January 1, 2025.)
+(History: Amended by Stats. 2026, Ch. 62, Sec. 12.   (SB 166)   Effective July 6, 2026.)
 -------------------------------------------
 
 43201.01.
@@ -101068,44 +101663,44 @@ If the board finds that a person’s failure to make payment by an appropriate e
 (b) If any part of the deficiency for which a determination of an additional amount due is found to have been occasioned by negligence or intentional disregard of this part or authorized regulations, a penalty of 10 percent of the amount of the determination shall be added, plus interest as provided in subdivision (a).
 
 (c) If a feepayer willfully or knowingly provides incorrect
- information or withholds information that results in a deficient payment or nonpayment, as determined by California Department of Tax and Fee Administration, a penalty of 300 percent of the amount of the determination shall be added.
+ information or withholds information that results in a deficient payment or nonpayment, as determined by California Department of Tax and Fee Administration based upon a preponderance of the evidence, a penalty of 300 percent of the amount of the determination shall be added.
 
 (d) Notwithstanding any other limitation to the maximum penalty amount imposed for any one payment or return specified in this part, the penalties imposed pursuant to this section shall be in addition to any other penalties imposed under this part.
 
-(e) The California Department of Tax and Fee Administration shall give to the feepayer written notice of its determination. The notice shall be served in one of the following manners:
+(e) The California Department of Tax and Fee Administration shall give to the feepayer written notice of its determination. The notice shall be served in one
+ of the following manners:
 
- (1) By placing the notice
- in a sealed envelope, with postage paid, addressed to the feepayer at their address as it appears in the records of the California Department of Tax and Fee Administration. Service made pursuant to this paragraph shall be deemed complete at the time of the deposit of the notice in a United States post office, or a mailbox, subpost office, substation or mail chute, or other facility regularly maintained or provided by the United States Postal Service without extension of time for any reason.
+(1) By placing the notice in a sealed envelope, with postage paid, addressed to the feepayer at their address as it appears in the records of the California Department of Tax and Fee Administration. Service made pursuant to this paragraph shall be deemed complete at the time of the deposit of the notice in a United States post office, or a mailbox, subpost office, substation or mail chute, or other facility regularly maintained or provided by the United States Postal Service without extension of time for any reason.
 
-(2) By personally delivering the notice to the person to be served. Service made pursuant to this paragraph shall be deemed complete at the time of delivery. Personal service to a corporation may be made by delivery of a notice to any person designated in the Code of Civil Procedure to be served for the corporation with summons and complaint in a civil action.
+(2) By personally delivering the notice to the person to be served. Service made pursuant to this paragraph shall be deemed complete at the time of delivery. Personal service to a corporation may be made by delivery of a notice to any person designated in the Code of Civil Procedure to be served for the corporation with summons and complaint
+ in a civil action.
 
 (3) (A) By delivering the notice electronically via secure transmission when either of the following applies:
 
-(i) The feepayer requests the notice of determination to be sent
- electronically via secure transmission.
+(i) The feepayer requests the notice of determination to be sent electronically via secure transmission.
 
 (ii) The California Department of Tax and Fee Administration has evidence that the feepayer no longer receives mail at the address of record and has previously provided an address for electronic mail.
 
 (B) Service provided pursuant to subparagraph (A) shall be deemed complete at the time the California Department of Tax and Fee Administration electronically transmits the notice via the feepayer’s secure web portal, without extension of time for any reason.
 
-(f) This section shall only apply to any return or payment that becomes due on or after November 30, 2024, and shall only apply to the generation and handling fee imposed pursuant to Section 25205.5 or 25205.5.2 of the Health and Safety Code.
+(f) This section shall only apply to a return or payment that becomes due on or after November 30, 2024, for any fee imposed pursuant to Section 25205.5 or former Section 25205.5.2 of the Health and Safety Code.
 
-(History: Amended by Stats. 2024, Ch. 499, Sec. 80.   (SB 1528)   Effective January 1, 2025.)
+(History: Amended by Stats. 2026, Ch. 62, Sec. 13.   (SB 166)   Effective July 6, 2026.)
 -------------------------------------------
 
 43202.
 
-(a) Except in the case of fraud, intent to evade this part, authorized rules and regulations, or failure to make a return, every notice of a determination of an additional amount due shall be served within three years after the date when the amount should have been paid or the return was due, or within three years after the return was filed, whichever period expires later. In the case of failure to make a return, the notice of determination shall be
- served
- within eight years after the date the report or return was due.
+(a) Except in the case of fraud or intent to evade this part or authorized rules and regulations as set forth in subdivision (c) of Section 43201, willful or knowing provision of incorrect information or withholding of information as set forth in subdivision
+ (c) of Section 43201.01, or failure to make a return, every notice of a determination of an additional amount due shall be served within three years after the date when the amount should have been paid or the return was due, or within three years after the return was filed, whichever period expires later. In the case of failure to make a return, the notice of determination shall be served within eight years after the date the report or return was due.
 
-(b) The limitation specified in subdivision (a) shall not apply to a liability for the fees described in subdivisions (b) and (c) of Section 25205.25 of the Health and Safety Code that is proposed to be determined with respect to a taxpayer if a notice of determination for the fee imposed pursuant to Section 25205.2 of the Health and Safety Code has been given pursuant to Section 43201 or 43350 for the same period and site, or with respect to a taxpayer that has paid the fee imposed by Section 25205.2 of the Health and Safety Code for the same period and site. The notice of determination with respect to the fees described in subdivisions (b) and (c) of Section 25205.25 of the Health and Safety Code shall be given within 90 days from the date of final action of the California Department of Tax and Fee Administration or final judicial action, whichever is later,
- concerning liability for the fee imposed pursuant to Section 25205.2 of the Health and Safety Code.
+(b) The limitation specified in subdivision (a) shall not apply to a liability for the fees described in subdivision (c) of Section 25205.25 of the Health and Safety Code that is proposed to be determined with respect to a taxpayer if a notice of determination for
+ the fee imposed pursuant to Section 25205.2 of the Health and Safety Code has been given pursuant to Section 43201 or 43350 for the same period and site, or with respect to a taxpayer that has paid the fee imposed by Section 25205.2 of the Health and Safety Code for the same period and site. The notice of determination with respect to the fees described in subdivision (c) of Section 25205.25 of the Health and Safety Code shall be given within 90 days from the date of final action of the California Department of Tax and Fee Administration or final judicial action, whichever is later, concerning liability for the fee imposed pursuant to Section 25205.2 of the Health and Safety Code.
 
-(c) The limitation specified in subdivision (a) shall not apply to a liability for the fee imposed pursuant to Section 25205.2 of the Health and Safety Code that is proposed to be determined with respect to a taxpayer if a notice of determination for the fees described in subdivisions (b) and (c) of Section 25205.25 of the Health and Safety Code has been given pursuant to Section 43201 or 43350 for the same period and site, or with respect to a taxpayer that has paid the fees described in subdivisions (b) and (c) of Section 25205.25 of the Health and Safety Code for the same period and site. The notice of determination with respect to the fee imposed pursuant to Section 25205.2 of the Health and Safety Code shall be given within 90 days from the date of final action of the California Department of Tax and Fee Administration or final judicial
- action, whichever is later, concerning liability for the fees described in subdivisions (b) and (c) of Section 25205.25 of the Health and Safety Code.
+(c) The limitation specified in subdivision (a) shall
+ not apply to a liability for the fee imposed pursuant to Section 25205.2 of the Health and Safety Code that is proposed to be determined with respect to a taxpayer if a notice of determination for the fees described in subdivision (c) of Section 25205.25 of the Health and Safety Code has been given pursuant to Section 43201 or 43350 for the same period and site, or with respect to a taxpayer that has paid the fees described in subdivision (c) of Section 25205.25 of the Health and Safety Code for the same period and site. The notice of determination with respect to the fee imposed pursuant
+ to Section 25205.2 of the Health and Safety Code shall be given within 90 days from the date of final action of the California Department of Tax and Fee Administration or final judicial action, whichever is later, concerning liability for the fees described in subdivision (c) of Section 25205.25 of the Health and Safety Code.
 
-(History: Amended by Stats. 2024, Ch. 499, Sec. 81.   (SB 1528)   Effective January 1, 2025.)
+(History: Amended by Stats. 2026, Ch. 62, Sec. 14.   (SB 166)   Effective July 6, 2026.)
 -------------------------------------------
 
 43203.
@@ -101554,35 +102149,25 @@ When an amount represented by a person who is a feepayer under this part to a cu
 
 43452.
 
-(a) Except as provided in subdivisions (b), (e), and (f), no refund shall be approved by the
- California Department of Tax and Fee Administration after three years from the date the taxes were due and payable for the period for which the overpayment was made, or, with respect to determinations made under Article 2 (commencing with Section 43201) of Chapter 3, after six months from the date the determinations become final, or after six months from the date of overpayment, whichever period expires later, unless a claim therefor is filed with the
- California Department of Tax and Fee Administration within that period. Except as provided in subdivisions (e) and (f), no credit shall be approved by the
- California Department of Tax and Fee Administration after the expiration of that period, unless a claim for credit is filed with the board within that period or unless the credit relates to a period for which a waiver is given pursuant to Section 43204.
+(a) Except as provided in subdivisions (b), (e), and (f), no refund shall be approved by the California Department of Tax and Fee Administration after three years from the date the taxes were due and payable for the period for which the overpayment was made, or, with respect to determinations made under Article 2 (commencing with Section 43201) of Chapter 3, after six months from the date the determinations become final, or after six months from the date of overpayment, whichever period expires later, unless a claim therefor is filed with the California Department of Tax and Fee Administration within that period. Except as provided in subdivisions (e) and (f), no credit shall be approved by the California Department of Tax and Fee Administration after the expiration of that period, unless a claim for credit is filed with the
+ board within that period or unless the credit relates to a period for which a waiver is given pursuant to Section 43204.
 
-(b) A refund may be approved by the
- California Department of Tax and Fee Administration for any period for which a waiver is given under Section 43204 if a claim therefor is filed with the
- California Department of Tax and Fee Administration before the expiration of the period agreed upon.
+(b) A refund may be approved by the California Department of Tax and Fee Administration for any period for which a waiver is given under Section 43204 if a claim therefor is filed with the California Department of Tax and Fee Administration before the expiration of the period agreed upon.
 
 (c) Every claim for refund or credit shall be in writing and shall state the specific grounds upon which the claim is founded.
 
-(d) A claim for refund of taxes paid under this part shall not be accepted, considered, or approved by the
- California Department of Tax and Fee Administration if the claim is founded upon the grounds that the director has improperly or erroneously determined that any substance is a hazardous or extremely hazardous waste. Any appeal of a determination that a substance is a hazardous or extremely hazardous waste shall be made to the director.
+(d) A claim for refund of taxes paid under this part shall not be accepted, considered, or approved by the California Department of Tax and Fee Administration if the claim is founded upon the grounds that the director has improperly or erroneously determined that any substance is a
+ hazardous or extremely hazardous waste. Any appeal of a determination that a substance is a hazardous or extremely hazardous waste shall be made to the director.
 
-(e) Notwithstanding subdivision (a), the California Department of Tax and Fee Administration may, within 90 days from the date of final action
- of the California Department of Tax and Fee Administration or final judicial action, whichever is later, concerning liability for the fees described in Section 25205.25 of the Health and Safety Code, grant a refund or apply a credit pursuant to Section 43451 for any amount of tax, penalty, or interest that has been overpaid concerning a fee imposed pursuant to Section 25205.2 of the Health and Safety Code, if the taxpayer has paid or is being assessed a fee
- described in subdivision (b) or (c) of Section 25205.25 of the Health and Safety Code for the same period and site.
+(e) Notwithstanding subdivision (a), the California Department of Tax and Fee Administration may, within 90 days from the date of final action of the California Department of Tax and Fee Administration or final judicial action, whichever is later, concerning liability for the fees described in subdivision (c) of Section 25205.25 of the Health and Safety Code, grant a refund or apply a credit pursuant to Section 43451 for any amount of tax, penalty, or interest that has been overpaid concerning a fee imposed pursuant to Section 25205.2 of the Health and Safety Code, if the taxpayer has paid or is being assessed a fee described in subdivision
+ (c) of Section 25205.25 of the Health and Safety Code for the same period and site.
 
-(f) Notwithstanding subdivision (a), the
- California Department of Tax and Fee Administration may, within 90 days from the date of final
- action of the California Department of Tax and Fee Administration or final judicial action, whichever is later, concerning liability for the fee imposed pursuant to Section 25205.2 of the Health and Safety Code, grant a refund or apply a credit pursuant to Section 43451 for any amount of tax, penalty, or interest that has been overpaid concerning a fee described in subdivision (b) or (c) of Section 25205.25 of the Health and Safety Code, if the taxpayer has paid or is being assessed a fee imposed pursuant to Section 25205.2 of the Health and Safety Code for the same period and site.
+(f) Notwithstanding subdivision (a), the California Department of Tax and Fee Administration may, within 90 days from the date of final action of the California Department of Tax and Fee Administration or final judicial action, whichever is later, concerning liability for the fee imposed pursuant to Section 25205.2 of the Health and Safety Code, grant a refund or apply a credit pursuant to Section 43451 for any amount of tax, penalty, or interest that has been overpaid concerning a fee described in subdivision (c) of Section 25205.25 of the Health and Safety Code, if the taxpayer has paid or is being assessed a fee imposed pursuant to Section 25205.2 of the Health and Safety Code for the same period and site.
 
-(g) Any
- overpayment of the
- fees described in subdivision (b) of Section 25205.25 of the Health and Safety Code by a person submitting hazardous waste for disposal to a hazardous waste facility at which hazardous waste is disposed of who is required to collect the fee shall be credited or refunded by the state to the person who submitted the hazardous waste for disposal. However, if the facility has paid the amount to the
- California Department of Tax and Fee Administration and establishes to the satisfaction of the
- California Department of Tax and Fee Administration that it has not collected the amount from the person submitting the hazardous waste for disposal or has refunded the amount to that person, the overpayment may be credited or refunded by the state to the facility.
+(g) Any overpayment of the
+ fee described in subdivision (b) of Section 25205.25 of the Health and Safety Code by a person submitting hazardous waste for disposal to a hazardous waste facility at which hazardous waste is disposed of who is required to collect the fee shall be credited or refunded by the state to the person who submitted the hazardous waste for disposal. However, if the facility has paid the amount to the California Department of Tax and Fee Administration and establishes to the satisfaction of the California Department of Tax and Fee Administration that it has not collected the amount from the person submitting the hazardous waste for disposal or has refunded the amount to that person, the overpayment may be credited or refunded by the state to the facility.
 
-(History: Amended by Stats. 2024, Ch. 72, Sec. 62.   (SB 156)   Effective July 2, 2024.)
+(History: Amended by Stats. 2026, Ch. 62, Sec. 15.   (SB 166)   Effective July 6, 2026.)
 -------------------------------------------
 
 43452.1.
@@ -101899,18 +102484,19 @@ Upon completion of the managed audit and verification by the board, interest on 
 
 43507.5.
 
-(a) The Legislature hereby finds and declares that changes made to the imposition and administration of the disposal fee, facility fee, generator fee, and transportable treatment unit fee set forth in Sections 28, 53, 54, and 64 of Chapter 73 of the Statutes of 2021 were not intended to repeal the authority of the Department of Toxic Substances Control and the California Department of Tax and Fee Administration to continue to administer and collect those fees. Therefore, the California Department of Tax and Fee Administration may continue billing and collecting fees due, making any refunds and effecting any credits, disposing of the money collected, and assessing any interest or penalties that have accrued, and may commence or continue to pursue any action or proceeding regarding the following fees:
+(a) The Legislature hereby finds and declares that changes made to the imposition and administration of the disposal fee, generator fee, and transportable treatment unit fee set forth in Sections 28, 54, and 64 of Chapter 73 of the Statutes of 2021 were not intended to repeal the authority of the Department of Toxic Substances Control and the California Department of Tax and Fee Administration to continue to administer and collect those fees. Therefore, the California Department of Tax and Fee Administration may continue billing and collecting fees due, making any refunds and effecting any credits, disposing of the money collected, and
+ assessing any interest or penalties that have accrued, and may commence or continue to pursue any action or proceeding regarding the following fees:
 
 (1) The disposal fee imposed pursuant to Section 25174.1 of the Health and Safety Code, as that section read on December 31, 2022, for hazardous waste disposed of on or before June 30, 2022, that was due and payable on or before September 30, 2022.
 
 (2) The generator fee imposed pursuant to Section 25205.5 of the Health and Safety Code, as that section read on December 31, 2021, for hazardous waste generated on or before December 31, 2021, that was due and payable on or before February 28, 2022.
 
-(3) The transportable treatment unit fee imposed pursuant to Section 25205.14 of the Health and Safety Code, as that section read on
- December 31, 2022, for each facility or transportable treatment unit authorized on or before June 30, 2022, and that was due and payable on or before December 31, 2022.
+(3) The transportable treatment unit fee imposed pursuant to Section 25205.14 of the Health and Safety Code, as that section read on December 31, 2022, for each facility or
+ transportable treatment unit authorized on or before June 30, 2022, and that was due and payable on or before December 31, 2022.
 
 (b) A fee, including any applicable penalty or interest, collected pursuant to this section shall be administered pursuant to this part as it read at the time the fees described in subdivision (a) were originally imposed.
 
-(History: Amended by Stats. 2024, Ch. 499, Sec. 87.   (SB 1528)   Effective January 1, 2025.)
+(History: Amended by Stats. 2026, Ch. 62, Sec. 16.   (SB 166)   Effective July 6, 2026.)
 -------------------------------------------
 
 
