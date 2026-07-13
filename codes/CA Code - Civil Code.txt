@@ -5,7 +5,7 @@
 
 Source: Official California Legislative Information
         https://downloads.leginfo.legislature.ca.gov/
-Last Updated by State of California: November 27, 2025
+Last Updated by State of California: July 10, 2026
 
 
 ======================================================================
@@ -41595,22 +41595,21 @@ Notwithstanding any other remedy a borrower may have based on an alleged failure
 
 1916.12.
 
-(a) The Legislature finds that the economic environment of financial institutions has become increasingly volatile as a result of regulatory revisions enacted by the United States Congress and federal agencies including, but not necessarily limited to, the Comptroller of the Currency, the Federal Home Loan Bank Board, Federal Reserve Board, and the Depository Institutions Deregulation Committee. The
-Legislature further finds that deposit rate ceilings are being phased out while the cost of and competition for funds have escalated. It is the purpose of this section to maintain the quality of competition between state-licensed and federally regulated financial institutions in the field of mortgage lending, as well as promote the convenience, advantage and best interests of California residents in their pursuit of adequate and available housing. In order to remain competitive and provide the optimum housing environment for the citizens of California, state institutions require the ability to respond in a timely manner to changes in mortgage lending parameters initiated at the federal level. Local regulatory guidelines must promote continued parity between the state and federal levels in order to avoid creation of discriminatory burdens upon state institutions and to protect interests held by California citizens. It is the intent of the Legislature to eliminate past and prevent future inequities between
-state and federal financial institutions doing business in the State of California by creating a sensitive and responsive mortgage parity procedure.
+(a) The Legislature finds that the economic environment of financial institutions has become increasingly volatile as a result of regulatory revisions enacted by the United States Congress and federal agencies including, but not necessarily limited to, the Comptroller of the Currency, the Federal Home Loan Bank Board, Federal Reserve Board, and the Depository Institutions Deregulation Committee. The Legislature further finds that deposit rate ceilings are being phased out while the cost of and competition for funds have escalated. It is the purpose of this section to maintain the quality of competition between state-licensed and federally regulated financial institutions in the field of mortgage lending, as well as promote the convenience, advantage and best interests of California residents in their pursuit of adequate and
+ available housing. In order to remain competitive and provide the optimum housing environment for the citizens of California, state institutions require the ability to respond in a timely manner to changes in mortgage lending parameters initiated at the federal level. Local regulatory guidelines must promote continued parity between the state and federal levels in order to avoid creation of discriminatory burdens upon state institutions and to protect interests held by California citizens. It is the intent of the Legislature to eliminate past and prevent future inequities between state and federal financial institutions doing business in the State of California by creating a sensitive and responsive mortgage parity procedure.
 
-(b) The Secretary of the Business, Consumer Services, and Housing Agency, or the secretary’s designee as defined by subdivision (c) of Section 1918.5 of the Civil Code, shall have the authority to prescribe rules and regulations extending to lenders who make loans upon the security of residential real property any right, power, privilege or duty relating to mortgage instruments that is equivalent to authority extended to federally regulated financial institutions by federal statute or regulation.
+(b) The Secretary of Business and Consumer Services or the secretary’s designee as defined by subdivision (c) of Section 1918.5, shall have the authority to prescribe rules and regulations extending to lenders who make loans upon the security of residential real property any right, power, privilege or duty relating to mortgage instruments that is equivalent to authority extended to federally regulated financial institutions by federal statute or regulation.
 
-(c) In order to grant equivalent mortgage lending authority to state financial institutions to that which has been extended to federal financial institutions, the secretary or the secretary’s designee shall adopt such regulations within 60
-days of the effective date of the statute or regulation extending the comparable right, power, privilege, or duty to federally regulated financial institutions.
+(c) In order to grant equivalent mortgage lending authority to state financial institutions to that which has been extended to federal financial institutions, the secretary or the secretary’s designee shall adopt such regulations within 60 days of the effective date of the statute or regulation extending the comparable right, power, privilege, or duty to federally regulated financial institutions.
 
 (d) The provisions of Sections 1916.5, 1916.6, 1916.7, 1916.8, and 1916.9, and any other provisions of law relating to the requirements for changes in the rate of interest on loans, shall not be applicable to loans made pursuant to the provisions of this section and regulations promulgated thereunder.
 
 (e) Any regulations adopted pursuant to this section shall expire on January 1 of the second succeeding year following the end of the calendar year in which the regulation was promulgated. Subsequent amendments to these regulations cannot extend this expiration date.
 
-(f) This section shall become operative on December 31, 1983.
+(f) The amendments made to this section
+ by the act adding this subdivision shall become operative on July 1, 2026.
 
-(History: Amended by Stats. 2013, Ch. 353, Sec. 10.   (SB 820)   Effective September 26, 2013.   Operative July 1, 2013, by Sec. 129 of Ch. 353.)
+(History: Amended by Stats. 2026, Ch. 28, Sec. 12.   (SB 170)   Effective June 29, 2026.   Operative July 1, 2026, by its own provisions.)
 -------------------------------------------
 
 
@@ -43010,14 +43009,15 @@ As used in this chapter:
 
 (a) “Evidence of debt” means a note or negotiable instrument.
 
-(b) “Secretary” means the Secretary of the Business, Consumer Services, and Housing.
+(b) “Secretary” means the Secretary of Business and Consumer Services.
 
-(c) “Secretary’s designee” means the director of a
-department within the agency that licenses or regulates the institutions, organizations, or persons engaged in a business related to or affecting compliance with this chapter.
+(c) “Secretary’s designee” means the director of a department within the agency that licenses or regulates the institutions, organizations, or persons engaged in a business related to or affecting compliance with this chapter.
 
 (d) “Security document” means a mortgage contract, deed of trust, real estate sales contract, or any note or negotiable instrument issued in connection therewith, when its purpose is to finance the purchase or construction of real property occupied or intended to be occupied by the borrower, containing four or fewer residential units or on which four or fewer residential units are to be constructed.
 
-(History: Amended by Stats. 2013, Ch. 353, Sec. 11.   (SB 820)   Effective September 26, 2013.   Operative July 1, 2013, by Sec. 129 of Ch. 353.)
+(e) The amendments made to this section by the act adding this subdivision shall become operative on July 1, 2026.
+
+(History: Amended by Stats. 2026, Ch. 28, Sec. 13.   (SB 170)   Effective June 29, 2026.   Operative July 1, 2026, by its own provisions.)
 -------------------------------------------
 
 1920.
@@ -66684,8 +66684,7 @@ To the extent existing funds are available, the Department of Consumer Affairs a
 
 (2) The name of the association.
 
-(3) The street address of
- the business or corporate office of the association, if any.
+(3) The street address of the business or corporate office of the association, if any.
 
 (4) The street address of the association’s onsite office, if different from the street address of the business or corporate office, or if there is no onsite office, the street address of the responsible officer or managing agent of the association.
 
@@ -66693,8 +66692,8 @@ To the extent existing funds are available, the Department of Consumer Affairs a
 
 (6) The name, street address, and daytime telephone number of the association’s managing agent, if any.
 
-(7) The county, and, if in
- an incorporated area, the city in which the development is physically located. If the boundaries of the development are physically located in more than one county, each of the counties in which it is located.
+(7) The county, and, if in an incorporated area, the city in which the development is physically located. If the boundaries of the development are physically located in more than one
+ county, each of the counties in which it is located.
 
 (8) If the development is in an unincorporated area, the city closest in proximity to the development.
 
@@ -66704,29 +66703,30 @@ To the extent existing funds are available, the Department of Consumer Affairs a
 
 (11) The number of separate interests in the development.
 
-(b) The association shall submit the information required by this
- section as follows:
+(b) The association shall submit the information required by this section as follows:
 
-(1) By incorporated associations, within 90 days after the filing of its original articles of incorporation, and thereafter at the time the association files its statement of principal business activity with the Secretary of State pursuant to Section 8210 of the Corporations Code.
+(1) By incorporated associations, within 90 days after the filing of its original articles of incorporation, and thereafter at the time the association files its
+ statement of principal business activity with the Secretary of State pursuant to Section 8210 of the Corporations Code.
 
 (2) By unincorporated associations, in July 2003, and in that same month biennially thereafter. Upon changing its status to that of a corporation, the association shall comply with the filing deadlines in paragraph (1).
 
-(c) The association shall notify the Secretary of State of any change in the street address of the association’s onsite office or of the responsible officer or managing agent of the association in the form
- and for a fee prescribed by the Secretary of State, within 60 days of the change.
+(c) The association shall notify the Secretary of State of any change in the street address of the association’s onsite office or of the responsible officer or managing agent of the association in the form and for a fee prescribed by the Secretary of State, within 60 days of the change.
 
 (d) The penalty for an incorporated association’s noncompliance with the initial or biennial filing requirements of this section shall be suspension of the association’s rights, privileges, and powers
  as a corporation and monetary penalties, to the same extent and in the same manner as suspension and monetary penalties imposed pursuant to Section 8810 of the Corporations Code.
 
 (e) The statement required by this section may be filed, notwithstanding suspension of the corporate powers, rights, and privileges under this section or under provisions of the Revenue and Taxation Code. Upon the filing of a statement under this section by a corporation that has suffered suspension under this section, the Secretary of State shall certify that fact to the Franchise Tax Board and the corporation may thereupon be relieved from suspension, unless the corporation is held in suspension by the Franchise Tax Board by reason of Section 23301, 23301.5, or 23775 of the Revenue and Taxation Code.
 
-(f) The Secretary of State shall make the information submitted pursuant to paragraph (5) of subdivision (a) available only for governmental purposes and only to Members of the Legislature and the Business, Consumer Services, and Housing Agency, upon written request. All other information submitted pursuant to this section shall be subject to public inspection pursuant to the California Public Records Act (Division 10 (commencing with Section 7920.000) of Title 1 of the Government Code). The information submitted pursuant to this section shall be made available for governmental or public inspection.
+(f) The Secretary of State shall make the information submitted pursuant to paragraph (5) of subdivision
+ (a) available only for governmental purposes and only to Members of the Legislature and the Business and Consumer Services Agency, upon written request. All other information submitted pursuant to this section shall be subject to public inspection pursuant to the California Public Records Act (Division 10 (commencing with Section 7920.000) of Title 1 of the Government Code). The information submitted pursuant to this section shall be made available for governmental or public inspection.
 
 (g) Whenever any form is filed pursuant to this section, it supersedes any previously filed form.
 
-(h) The Secretary of State may destroy or otherwise dispose of any form
- filed pursuant to this section after it has been superseded by the filing of a new form.
+(h) The Secretary of State may destroy or otherwise dispose of any form filed pursuant to this section after it has been superseded by the filing of a new form.
 
-(History: Amended by Stats. 2021, Ch. 615, Sec. 53.   (AB 474)   Effective January 1, 2022.   Operative January 1, 2023, pursuant to Sec. 463 of Stats. 2021, Ch. 615.)
+(i) The amendments made to this section by the act adding this subdivision shall become operative on July 1, 2026.
+
+(History: Amended by Stats. 2026, Ch. 28, Sec. 14.   (SB 170)   Effective June 29, 2026.   Operative July 1, 2026, by its own provisions.)
 -------------------------------------------
 
 
