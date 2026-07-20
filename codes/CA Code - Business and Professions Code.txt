@@ -5,7 +5,7 @@
 
 Source: Official California Legislative Information
         https://downloads.leginfo.legislature.ca.gov/
-Last Updated by State of California: July 10, 2026
+Last Updated by State of California: July 17, 2026
 
 
 ======================================================================
@@ -122777,31 +122777,27 @@ The commission shall charge a twenty-dollar ($20) fee to issue federal identific
 
 (a) Except as provided in Sections 18646 and 18832, every person who conducts a contest or wrestling exhibition shall, within 72 hours after the determination of every contest or wrestling exhibition that admission is charged and received, furnish to the commission the following:
 
-(1) A written report executed under penalty of perjury by one of the officers, showing the amount of the gross receipts, not to exceed four million dollars ($4,000,000), and the gross price for the contest or wrestling exhibition charged directly or indirectly and no matter by whom received, for the sale, lease, or other exploitation of broadcasting and television rights of the contest or wrestling exhibition,
- and without any deductions, except for expenses incurred for one broadcast announcer, telephone line connection, and transmission mobile equipment facility, which may be deducted from the gross taxable base when those expenses are approved by the commission.
+(1) A written report executed under penalty of perjury by one of the officers, showing the amount of the gross receipts, not to exceed four million dollars ($4,000,000), and the gross price for the contest or wrestling exhibition charged directly or indirectly and no matter by whom received, for the sale, lease, or other exploitation of broadcasting and television rights of the contest or wrestling exhibition, and without any deductions, except for expenses incurred for one broadcast
+ announcer, telephone line connection, and transmission mobile equipment facility, which may be deducted from the gross taxable base when those expenses are approved by the commission.
 
-(2) A fee of 5 percent, exclusive of any federal taxes paid thereon, of the amount paid for admission to the contest or wrestling exhibition, except that for any one contest, the fee shall not exceed the amount of
- two hundred thousand dollars ($200,000). The commission shall report to the Legislature on the fiscal impact of the two-hundred-thousand-dollar ($200,000) limit on fees collected by the commission for admissions revenues during its next sunset review.
+(2) A fee of 5 percent, exclusive of any federal taxes paid thereon, of the amount paid for admission to the contest or wrestling exhibition, except that for any one contest, the fee shall not exceed the amount of two hundred thousand dollars ($200,000). The commission shall report to the Legislature on the fiscal impact of the two-hundred-thousand-dollar ($200,000) limit on fees collected by the commission for admissions revenues during its next sunset review.
 
-(A) The amount of the gross receipts upon which the fee provided for in paragraph (2) is calculated shall not include any assessments levied by the commission under Section 18711.
+(A) The amount of the gross receipts upon which the fee provided for in this paragraph is calculated shall not include any assessments levied by the commission under Section 18711.
 
-(B) If the fee for any one boxing contest exceeds seventy thousand dollars ($70,000), the amount
- in excess of seventy thousand dollars ($70,000) shall be paid one-half to the commission and one-half to the Boxers’ Pension Fund.
+(B) If the fee for any one boxing contest exceeds seventy thousand dollars ($70,000), the amount in excess of seventy thousand dollars ($70,000) shall be paid one-half to the commission and one-half to the Boxers’ Pension Fund.
 
 (C) The fee shall apply to the amount actually paid for admission and not to the regular established price.
 
-(D) A fee is not due in the case of a person admitted free of charge. However, if the total number of persons admitted free of charge to a boxing, kickboxing, or martial arts contest, or wrestling exhibition exceeds 33 percent of the
- total number of spectators, then a fee of one dollar ($1) per complimentary ticket or pass used to gain admission to the contest shall be paid to the commission for each complimentary ticket or pass that exceeds the numerical total of 33 percent of the total number of spectators.
+(D) A fee is not due in the case of a person admitted free of charge. However, if the total number of persons admitted free of charge to a boxing, kickboxing, or martial arts contest, or wrestling exhibition exceeds 33 percent of the total number of spectators, then a fee of one dollar ($1) per complimentary ticket or pass used to gain
+ admission to the contest shall be paid to the commission for each complimentary ticket or pass that exceeds the numerical total of 33 percent of the total number of spectators.
 
-(E) The minimum fee for an amateur contest or exhibition shall not be less than one thousand dollars ($1,000). The minimum fee for a professional contest or exhibition shall not be less than one thousand two hundred fifty dollars ($1,250).
+(E) The minimum fee for an amateur contest or exhibition shall not be less than one thousand dollars ($1,000). The minimum fee for a professional contest or exhibition shall not be less than two thousand five hundred dollars ($2,500).
 
-(3) A fee of up to 5 percent, to be established by the commission through regulations to become operative on or before July 1, 2008, and updated periodically as needed, of the gross price, exclusive of any federal taxes paid thereon, for the sale, lease, or other exploitation
- of broadcasting or television rights thereof, except that in no case shall the fee be less than one thousand dollars ($1,000) or more than thirty-five thousand dollars ($35,000).
+(3) A fee of up to 5 percent, to be established by the commission through regulations to become operative on or before July 1, 2008, and updated periodically as needed, of the gross price, exclusive of any federal taxes paid thereon, for the sale, lease, or other exploitation of broadcasting or television rights thereof, except that in no case shall the fee be less than one thousand dollars ($1,000) or more than fifty thousand dollars ($50,000).
 
-(b) As used in this section, “person” includes a promoter, club, individual, corporation, partnership, association, or other organization, and “wrestling exhibition” means a performance of wrestling skills and techniques by two or more individuals, that admission is charged or is broadcast or televised,
- the participating individuals are not required to use their best efforts in order to win, and the winner may have been selected before the performance commences.
+(b) As used in this section, “person” includes a promoter, club, individual, corporation, partnership, association, or other organization, and “wrestling exhibition” means a performance of wrestling skills and techniques by two or more individuals, that admission is charged or is broadcast or televised, the participating individuals are not required to use their best efforts in order to win, and the winner may have been selected before the performance commences.
 
-(History: Amended by Stats. 2023, Ch. 591, Sec. 1.   (AB 1703)   Effective January 1, 2024.)
+(History: Amended by Stats. 2026, Ch. 84, Sec. 1.   (SB 172)   Effective July 13, 2026.)
 -------------------------------------------
 
 18825.
