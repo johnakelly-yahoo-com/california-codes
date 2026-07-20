@@ -5,7 +5,7 @@
 
 Source: Official California Legislative Information
         https://downloads.leginfo.legislature.ca.gov/
-Last Updated by State of California: April 07, 2026
+Last Updated by State of California: July 17, 2026
 
 
 ======================================================================
@@ -501,56 +501,68 @@ The department may expend money appropriated for the administration of the provi
 
 (B) For the Return-to-Work Program set forth in Section 139.48.
 
-(C) For the enforcement of the insurance coverage program established and maintained by the Labor Commissioner pursuant to Section 90.3.
+(C) For the
+ enforcement of the insurance coverage program established and maintained by the Labor Commissioner pursuant to Section 90.3.
 
 (2) The fund shall consist of surcharges made pursuant to subparagraph (A) of paragraph (1) of subdivision (f).
 
-(b) (1) The Uninsured Employers Benefits Trust Fund is hereby created as a special trust fund account in the State Treasury, of which the director is trustee, and its sources of funds are as provided in subparagraph (A) of paragraph (1) of subdivision (f). Notwithstanding Section 13340 of the Government Code, the fund is continuously appropriated for the payment of nonadministrative expenses of the workers’ compensation program for workers injured while
- employed by uninsured employers in accordance with Article 2 (commencing with Section 3710) of Chapter 4 of Part 1 of Division 4, and shall not be used for any other purpose. All moneys collected shall be retained in the trust fund until paid as benefits to workers injured while employed by uninsured employers. Nonadministrative expenses include audits and reports of services prepared pursuant to subdivision (b) of Section 3716.1. The surcharge amount for this fund shall be stated separately.
+(b) (1) The Uninsured Employers Benefits Trust Fund is hereby created as a special trust fund account in the State Treasury, of which the director is trustee, and its sources of funds are as provided in subparagraph (A) of paragraph (1) of subdivision (f). Notwithstanding Section 13340 of the Government Code, the fund is continuously appropriated for the payment of nonadministrative expenses of the workers’ compensation program for workers injured while employed by uninsured employers in accordance with Article 2 (commencing with Section 3710) of Chapter 4 of Part 1 of Division 4, and shall not be used for any other purpose.
+ All moneys collected shall be retained in the trust fund until paid as benefits to workers injured while employed by uninsured employers. Nonadministrative expenses include audits and reports of services prepared pursuant to subdivision (b) of Section 3716.1. The surcharge amount for this fund shall be stated separately.
 
 (2) Notwithstanding any other provision of law, all references to the Uninsured Employers Fund shall mean the Uninsured Employers Benefits Trust Fund.
 
-(3) Notwithstanding paragraph (1), in the event that budgetary restrictions or impasse prevent the timely payment of administrative expenses
- from the Workers’ Compensation Administration Revolving Fund, those expenses shall be advanced from the Uninsured Employers Benefits Trust Fund. Expense advances made pursuant to this paragraph shall be reimbursed in full to the Uninsured Employers Benefits Trust Fund upon enactment of the annual Budget Act.
+(3) Notwithstanding paragraph (1), in the event that budgetary restrictions or impasse prevent the timely payment of administrative expenses from the Workers’ Compensation Administration Revolving Fund, those expenses shall be advanced from the Uninsured Employers Benefits Trust Fund. Expense advances made pursuant to this paragraph shall be reimbursed in full to the Uninsured Employers Benefits Trust Fund upon
+ enactment of the annual Budget Act.
 
-(4) Any moneys from penalties collected pursuant to Section 3722 as a result of the insurance coverage program established under Section 90.3 shall be deposited in the State Treasury to the credit of the Workers’ Compensation Administration Revolving Fund created under this section, to cover expenses incurred by the director under the insurance coverage program. The amount of any penalties in excess of payment of administrative expenses incurred by the director for the insurance coverage program established under Section 90.3
- shall be deposited in the State Treasury to the credit of the Uninsured Employers Benefits Trust Fund for nonadministrative expenses, as prescribed in paragraph (1), and notwithstanding paragraph (1), shall only be available upon appropriation by the Legislature.
+(4) Any moneys from penalties collected pursuant to Section 3722 as a result of the insurance coverage program established under Section 90.3 shall be deposited in the State Treasury to the credit of the Workers’ Compensation Administration Revolving Fund created under this section, to cover expenses incurred by the director under the insurance coverage program. The amount of any penalties in excess of payment of administrative expenses incurred by the director for the insurance coverage program established under Section 90.3 shall be deposited in the State Treasury to the credit of the Uninsured Employers Benefits Trust Fund for nonadministrative expenses, as prescribed in paragraph (1), and notwithstanding paragraph (1), shall only be available upon appropriation by the Legislature.
 
-(c) (1) The Subsequent Injuries Benefits Trust Fund is hereby created as a special trust fund account in the State Treasury, of which the director is trustee, and its sources of funds are as provided in subparagraph (A) of paragraph (1) of subdivision (f). Notwithstanding Section 13340 of the Government Code, the fund is continuously appropriated for the nonadministrative expenses of the workers’ compensation program for workers who have suffered serious injury and who are suffering from previous and serious permanent disabilities or physical impairments, in accordance
- with Article 5 (commencing with Section 4751) of Chapter 2 of Part 2 of Division 4, and Section 4 of Article XIV of the California Constitution, and shall not be used for any other purpose. All moneys collected shall be retained in the trust fund until paid as benefits to workers who have suffered serious injury and who are suffering from previous and serious permanent disabilities or physical impairments. Nonadministrative expenses include audits and reports of services pursuant to subdivision (c) of Section 4755. The surcharge amount for this fund shall be stated separately.
+(c) (1) The Subsequent Injuries
+ Benefits Trust Fund is hereby created as a special trust fund account in the State Treasury, of which the director is trustee, and its sources of funds are as provided in subparagraph (A) of paragraph (1) of subdivision (f). Notwithstanding Section 13340 of the Government Code, the fund is continuously appropriated for the nonadministrative expenses of the workers’ compensation program for workers who have suffered serious injury and who are suffering from previous and serious permanent disabilities or physical impairments, in accordance with Article 5 (commencing with Section 4750) of Chapter 2 of Part 2 of Division 4, and Section 4 of Article XIV of the California Constitution, and shall not be used for any other purpose. All moneys collected shall be retained in the trust fund until paid as benefits to workers
+ who have suffered serious injury and who are suffering from previous and serious permanent disabilities or physical impairments. Nonadministrative expenses include audits and reports of services pursuant to subdivision (c) of Section 4755. The surcharge amount for this fund shall be stated separately.
 
 (2) Notwithstanding any other law, all references to the Subsequent Injuries Fund shall mean the Subsequent Injuries Benefits Trust Fund.
 
-(3) Notwithstanding paragraph (1), in the event that budgetary restrictions
- or impasse prevent the timely payment of administrative expenses from the Workers’ Compensation Administration Revolving Fund, those expenses shall be advanced from the Subsequent Injuries Benefits Trust Fund. Expense advances made pursuant to this paragraph shall be reimbursed in full to the Subsequent Injuries Benefits Trust Fund upon enactment of the annual Budget Act.
+(3) Notwithstanding paragraph (1), in the event that budgetary restrictions or impasse prevent the timely payment of administrative expenses from the Workers’ Compensation Administration Revolving Fund, those expenses shall be advanced from the Subsequent Injuries Benefits Trust Fund. Expense advances made pursuant to this paragraph shall be reimbursed in full to the Subsequent Injuries Benefits Trust Fund upon enactment of the annual Budget
+ Act.
 
-(d) (1) The Occupational Safety and Health Fund is hereby created as a special account in the State Treasury. Moneys in the account may be expended by the department, upon appropriation by the Legislature, for support of the Division of Occupational Safety and Health, the Occupational Safety and Health Standards Board, and the Occupational Safety and Health Appeals Board, and the activities these entities perform as set forth in this division, and
- Division 5 (commencing with Section 6300).
+(d) (1) The Occupational Safety and Health Fund is hereby created as a special account in the State Treasury. Moneys in the account may be expended by the department, upon appropriation by the Legislature, for support of the Division of Occupational Safety and Health, the Occupational Safety and Health Standards Board, and the Occupational Safety and Health Appeals Board, and the activities these entities perform as set forth in this division, and Division 5 (commencing with Section 6300).
 
-(2) On and after the effective date of the act amending this section to add this paragraph in the 2013–14 Regular Session of the Legislature, any moneys in the Cal-OSHA Targeted Inspection and Consultation Fund and any assets, liabilities, revenues, expenditures, and encumbrances of that fund, less five million dollars ($5,000,000), shall be transferred to the Occupational Safety and Health Fund. On June 30, 2014, the remaining five million dollars ($5,000,000) in the Cal-OSHA Targeted Inspection and Consultation Fund, or any remaining balance in that fund, shall be transferred to, and become part of, the Occupational Safety and Health Fund.
+(2) On and after the effective date of the act amending this section to add this paragraph in the 2013–14 Regular Session of the Legislature, any moneys in the Cal-OSHA Targeted Inspection and Consultation Fund and any assets, liabilities, revenues, expenditures, and encumbrances of that fund, less five million dollars ($5,000,000), shall be transferred to the
+ Occupational Safety and Health Fund. On June 30, 2014, the remaining five million dollars ($5,000,000) in the Cal-OSHA Targeted Inspection and Consultation Fund, or any remaining balance in that fund, shall be transferred to, and become part of, the Occupational Safety and Health Fund.
 
-(e) The Labor Enforcement and Compliance Fund is hereby created as a special account in the
- State Treasury. Moneys in the fund may be expended by the department, upon appropriation by the Legislature, for the support of the activities that the Division of Labor Standards Enforcement performs pursuant to this division and Division 2 (commencing with Section 200), Division 3 (commencing with Section 2700), and Division 4 (commencing with Section 3200).
+(e) The Labor Enforcement and Compliance Fund is hereby created as a special account in the State Treasury. Moneys in the fund may be expended by the department, upon appropriation by the Legislature, for the support of the activities that the Division of Labor Standards Enforcement performs pursuant to this division and Division 2 (commencing with Section 200), Division 3 (commencing with Section 2700), and Division 4 (commencing with Section 3200).
 
-(f) (1) (A) Separate surcharges shall be levied by the director upon all employers, as defined in Section 3300, for purposes of deposit in the Workers’ Compensation Administration Revolving Fund, the Uninsured Employers Benefits Trust Fund, the Subsequent Injuries Benefits Trust Fund, and the Occupational Safety and Health Fund. The total amount of the surcharges shall be allocated between self-insured employers and insured employers in
- proportion to payroll respectively paid in the most recent year for which payroll information is available. The director shall adopt reasonable regulations governing the manner of collection of the surcharges. The regulations shall require the surcharges to be paid by self-insurers to be expressed as a percentage of indemnity paid during the most recent year for which information is available, and the surcharges to be paid by insured employers to be expressed as a percentage of premium. In no event shall the surcharges paid by insured employers be considered a premium for computation of a gross premium tax or agents’ commission. In no event shall the total amount of the surcharges paid by insured and self-insured employers exceed the amounts reasonably necessary to carry out the purposes of this section.
+(f) (1) (A) Separate surcharges shall be levied by the director upon all employers, as defined in Section
+ 3300, for purposes of deposit in the Workers’ Compensation Administration Revolving Fund, the Uninsured Employers Benefits Trust Fund, the Subsequent Injuries Benefits Trust Fund,
+ the Labor Enforcement and Compliance Fund, and the Occupational Safety and Health Fund. The total amount of the surcharges shall be allocated between self-insured employers and insured employers in proportion to payroll respectively paid in the most recent year for which payroll information is available. The director shall adopt reasonable regulations governing the manner of collection of the surcharges. The regulations shall require the surcharges to be paid by self-insurers to be expressed as a percentage of indemnity paid during the most recent year for which information is available, and the surcharges to be paid by insured employers to be expressed as a percentage of premium. In no event shall the surcharges paid by insured employers be considered a premium for computation of a gross premium tax or agents’ commission. In no event shall the total amount of the surcharges paid by insured and self-insured employers exceed the amounts reasonably necessary to carry
+ out the purposes of this section.
 
-(B) Assessments shall be levied by the
- director upon all employers, as defined in Section 3300, as necessary, to collect the aggregate amount determined by the Fraud Assessment Commission pursuant to Section 1872.83 of the Insurance Code. Revenues derived from the assessments shall be deposited in the Workers’ Compensation Fraud Account in the Insurance Fund and shall only be expended, upon appropriation by the Legislature, for the investigation and prosecution of workers’ compensation fraud and the willful failure to secure payment of workers’ compensation, as prescribed by Section 1872.83 of the Insurance Code. The total amount of the assessment shall be allocated between self-insured employers and insured employers in proportion to payroll respectively paid in the most recent year for which payroll information is available. The director shall promulgate reasonable rules and regulations governing the manner of collection of
- the assessment. The rules and regulations shall require the assessment to be paid by self-insurers to be expressed as a percentage of indemnity paid during the most recent year for which information is available, and the assessment to be paid by insured employers to be expressed as a percentage of premium. In no event shall the assessment paid by insured employers be considered a premium for computation of a gross premium tax or agents’ commission.
+(B) Assessments shall be levied by the director upon all employers, as defined in Section 3300, as necessary, to collect the aggregate amount determined by the Fraud Assessment Commission pursuant to Section 1872.83 of the Insurance Code. Revenues derived from the assessments shall be deposited in the Workers’ Compensation Fraud Account in the Insurance Fund and shall only be expended, upon appropriation by the Legislature, for the investigation and prosecution of workers’ compensation fraud and the willful failure to secure payment of workers’ compensation, as prescribed by Section 1872.83 of the Insurance Code. The total amount of the assessment shall be allocated between self-insured employers and insured employers in proportion to payroll respectively paid in the most recent year for which payroll information is available. The director shall promulgate reasonable rules and regulations governing the manner
+ of collection of the assessment. The rules and regulations shall require the assessment to be paid by self-insurers to be expressed as a percentage of indemnity paid during the most recent year for which information is available, and the assessment to be paid by insured employers to be expressed as a percentage of premium. In no event shall the assessment paid by insured employers be considered a premium for computation of a gross premium tax or agents’ commission.
 
-(2) The surcharge levied by the director for the Occupational Safety and Health Fund, pursuant to subparagraph (A) of paragraph (1), shall not generate revenues in excess of fifty-seven million dollars ($57,000,000) on and after the 2013–14 fiscal year, adjusted for each fiscal year as appropriate to fund any increases in the appropriation as approved by the Legislature, and to reconcile any over/under
- assessments from previous fiscal years pursuant to Sections 15606 and 15609 of Title 8 of the California Code of Regulations. For the 2013–14 fiscal year only, the revenue cap established in this paragraph shall be reduced by an amount equivalent to the balance transferred from the Cal-OSHA Targeted Inspection and Consultation Fund established in Section 62.7, less any amount of that balance loaned to the State Public Works Enforcement Fund, to the Occupational Safety and Health Fund pursuant to subdivision (d).
+(C) Any employer or insurer on behalf of its insured employers who fails to timely or completely make payment as required by this section shall pay a penalty of 10 percent of the unpaid amount, unless it is shown that the failure to timely or completely make payment was for reasonable cause and was not the result of willful neglect, in which case the director may waive or reduce the penalty. The
+ director may also waive or reduce the penalty if imposition of the penalty would otherwise be unjust. If the director waives or reduces the penalty, the director has the sole discretion to determine the terms and conditions under which the penalty is waived or reduced. The director shall return any penalty the director determines has been paid by mistake.
 
-(3) A separate surcharge shall be levied by the director upon all employers, as defined in Section 3300, for purposes of deposit in the Labor Enforcement and Compliance Fund. The total amount of the surcharges shall be allocated between employers in proportion to payroll respectively paid in the most recent year for which
- payroll information is available. The director shall adopt reasonable regulations governing the manner of collection of the surcharges. In no event shall the total amount of the surcharges paid by employers exceed the amounts reasonably necessary to carry out the purposes of this section.
+(D) (i) Any surcharges or assessments due by an employer or insurer on behalf of its insured employers under this section shall be paid by electronic funds transfer.
 
-(4) The surcharge levied by the director for the Labor Enforcement and Compliance Fund shall not exceed forty-six million dollars ($46,000,000) in the 2013–14 fiscal year, adjusted as appropriate to fund any increases in the appropriation as approved by the Legislature, and to reconcile any over/under assessments from previous fiscal years pursuant to Sections 15606 and 15609 of Title 8 of the California Code of Regulations.
+(ii) Any employer or insurer on behalf of its insured employers required to remit payment by electronic funds transfer pursuant to this section who makes payment by other means shall pay a penalty of 10 percent of the payment amount, unless it is shown that the failure to make payment by electronic funds transfer was for reasonable cause and was
+ not the result of willful neglect, in which case the director may waive or reduce the penalty. The director may also waive or reduce the penalty if imposition of the penalty would otherwise be unjust. If the director waives or reduces the penalty, the director has the sole discretion to determine the terms and conditions under which the penalty is waived or reduced. The director shall return any penalty the director determines has been paid by mistake.
 
-(5) The regulations adopted pursuant to paragraph (1) to (4), inclusive,
- shall be exempt from the rulemaking provisions of the Administrative Procedure Act (Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code).
+(iii) Any employer or insurer on behalf of its insured employers required to remit payment by electronic funds transfer pursuant to this section may request a waiver of the requirement from the director to allow for an alternate manner of payment. The director has the sole discretion to decide whether to grant a waiver and the sole discretion to determine the terms, conditions, and duration of a waiver.
 
-(History: Amended by Stats. 2025, Ch. 23, Sec. 4.   (SB 129)   Effective June 30, 2025.)
+(iv) For purposes of this
+ section, “electronic funds transfer” has the same meaning as defined in Section 20027.5 of the Government Code, except any reference in that section to the board shall mean the director. “Electronic funds transfer” also includes transfers authorized under Section 11255 of the Government Code.
+
+(E) Penalties collected under this section shall be deposited into the Workers’ Compensation Administration Revolving Fund, except for penalties collected from private self-insured employers, which shall be deposited into the Self-Insurance Plans Fund as provided in subdivision (b) of Section 3702.5.
+
+(2) The surcharge levied by the director for the Occupational Safety and Health Fund, pursuant to subparagraph (A) of paragraph (1), shall not generate revenues in excess of fifty-seven million dollars ($57,000,000) on and after the 2013–14 fiscal year, adjusted for each
+ fiscal year as appropriate to fund any increases in the appropriation as approved by the Legislature, and to reconcile any over/under assessments from previous fiscal years pursuant to Sections 15606 and 15609 of Title 8 of the California Code of Regulations. For the 2013–14 fiscal year only, the revenue cap established in this paragraph shall be reduced by an amount equivalent to the balance transferred from the Cal-OSHA Targeted Inspection and Consultation Fund established in Section 62.7, less any amount of that balance loaned to the State Public Works Enforcement Fund, to the Occupational Safety and Health Fund pursuant to subdivision (d).
+
+(3) The surcharge levied by the director for the Labor Enforcement and Compliance Fund, pursuant to subparagraph (A) of paragraph (1), shall not exceed forty-six million dollars ($46,000,000) in the 2013–14 fiscal year, adjusted as appropriate to fund any increases in the appropriation as approved by the Legislature, and to reconcile any over/under assessments from previous fiscal years pursuant to Sections 15606 and 15609 of Title 8 of the California Code of Regulations.
+
+(4) The regulations adopted pursuant to paragraph (1) to (3), inclusive, shall be exempt from the rulemaking provisions of the Administrative Procedure Act (Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code).
+
+(History: Amended by Stats. 2026, Ch. 83, Sec. 3.   (SB 171)   Effective July 13, 2026.)
 -------------------------------------------
 
 62.8.
@@ -2141,9 +2153,9 @@ The administrative director may appoint a deputy to act when he or she is absent
 
 138.1.
 
-The administrative director shall be appointed by the Governor with the advice and consent of the Senate and shall hold office at the pleasure of the Governor. He or she shall receive the salary provided for by Chapter 6 (commencing with Section 11550) of Part 1 of Division 3 of Title 2 of the Government Code.
+The administrative director shall be appointed by the Governor with the advice and consent of the Senate and shall hold office at the pleasure of the Governor.
 
-(History: Amended by Stats. 2011, Ch. 559, Sec. 9.   (AB 1426)   Effective October 7, 2011.)
+(History: Amended by Stats. 2026, Ch. 83, Sec. 4.   (SB 171)   Effective July 13, 2026.)
 -------------------------------------------
 
 138.2.
@@ -25891,17 +25903,18 @@ A certificate of consent to administer claims of self-insured employers may be r
 
 (2) For failure to deposit and maintain a security deposit, an amount up to 10 percent of the increase not timely filed or five thousand dollars ($5,000), whichever is less, for each 30 days or portion thereof during which there is a failure.
 
-(3) For a failure to timely or completely pay an assessment, an amount up to the assessment or two thousand five hundred dollars ($2,500), whichever is less, for each 30 days or portion thereof during which there is a failure.
+(3) For a failure to timely or completely pay an assessment or failure to make payment of an assessment by electronic funds transfer, an amount as determined pursuant to paragraph (1) of subdivision (f) of Section 62.5.
 
 (4) Where the failure was by an employer which knew or reasonably should have known of the obligation, the director shall, in addition, award reimbursement for all expenditures and costs by the fund or any intervening party, including a reasonable attorney fee.
 
 (5) Where the failure was malicious, fraudulent, in bad faith, or a repeated violation, the director may award, as an additional civil penalty, liquidated damages of up to double the amounts assessed under paragraphs (1) to (4), inclusive, for deposit in the General Fund.
 
-(b) An employer may deposit and maintain a security deposit or pay an assessment, reserving its right to challenge the amount or liability therefor at a hearing. If the director or the appeals board or a court, upon appeal, concludes that the employer is not liable or the amounts are excessive, then the director may waive, release, compromise, refund, or otherwise remit amounts which had been paid or deposited by an employer. The director may condition the waiver, release, compromise, refund, or remittance upon the present and continued future compliance with the obligations of subdivision (a) of Section 3702.8 for a period up to two years.
+(b) An employer may deposit and maintain a security deposit or pay an assessment, reserving its right to challenge the amount or liability therefor at a hearing. If the director or the appeals board or a court, upon appeal, concludes that the employer is not liable or the amounts are excessive, then the director may waive, release, compromise,
+ refund, or otherwise remit amounts which had been paid or deposited by an employer. The director may condition the waiver, release, compromise, refund, or remittance upon the present and continued future compliance with the obligations of subdivision (a) of Section 3702.8 for a period up to two years.
 
-(c) Notwithstanding subdivision (b), where a violation has occurred, the director may waive, release, compromise, or otherwise reduce any civil penalty otherwise due upon a showing that a violation occurred through the employer’s mistake, inadvertence, surprise, or excusable neglect. Neglect is not excusable within the meaning of this subdivision where the employer knew, or reasonably should have known, of the obligations.
+(c) Notwithstanding subdivision (b), where a violation has occurred, the director may waive, release, compromise, or otherwise reduce any civil penalty otherwise due upon a showing that a violation occurred through the employer’s mistake, inadvertence, surprise, or excusable neglect. Neglect is not excusable within the meaning of this subdivision where the employer knew, or reasonably should have known, of the obligations. This subdivision does not apply to the penalty described in paragraph (3) of subdivision (a) or any penalty imposed pursuant to Section 62.5.
 
-(History: Added by Stats. 1986, Ch. 1128, Sec. 12.   Effective September 25, 1986.)
+(History: Amended by Stats. 2026, Ch. 83, Sec. 5.   (SB 171)   Effective July 13, 2026.)
 -------------------------------------------
 
 3702.10.
@@ -30186,23 +30199,26 @@ The person to whom the death benefit is paid for the use of the several benefici
 
 4706.5.
 
-(a) Whenever any fatal injury is suffered by an employee under circumstances that would entitle the employee to compensation benefits, but for his or her death, and the employee does not leave surviving any person entitled to a dependency death benefit, the employer shall pay a sum to the Department of Industrial Relations equal to the total dependency death benefit that would be payable to a surviving spouse with no dependent minor children.
+(a) Whenever any fatal injury is suffered by an employee under circumstances that would entitle the employee to compensation benefits, but for their death, and the employee does not leave surviving any person entitled to a dependency death benefit, the employer shall pay a sum to the Department of Industrial Relations equal to the total dependency death benefit that would be payable to a surviving spouse with no dependent minor children.
 
-(b) When the deceased employee leaves no surviving dependent, personal representative, heir, or other person entitled to the accrued and unpaid compensation referred to in Section 4700, the accrued and unpaid compensation shall be paid by the employer to the Department of Industrial Relations.
+(b) When the deceased employee leaves no surviving dependent, personal representative, heir, or other person entitled to the
+ accrued and unpaid compensation referred to in Section 4700, the accrued and unpaid compensation shall be paid by the employer to the Department of Industrial Relations.
 
-(c) The payments to be made to the Department of Industrial Relations, as required by subdivisions (a) and (b), shall be deposited in the General Fund and shall be credited, as a reimbursement, to any appropriation to the Department of Industrial Relations for payment of the additional compensation for subsequent injury provided in Article 5 (commencing with Section 4751), in the fiscal year in which the Controller’s receipt is issued.
+(c) The payments to be made to the Department of Industrial Relations, as required by subdivisions (a) and (b), shall be deposited in the General Fund and shall be credited, as a reimbursement, to any appropriation to the Department of Industrial Relations for payment of the additional compensation for subsequent injury provided in Article 5 (commencing with Section 4750), in the fiscal year in which the Controller’s receipt is issued.
 
-(d) The payments to be made to the Department of Industrial Relations, as required by subdivision (a), shall be paid to the department in a lump sum in the manner provided in subdivision (b) of Section 5101.
+(d) The payments to be made to the Department of Industrial Relations, as required
+ by subdivision (a), shall be paid to the department in a lump sum in the manner provided in subdivision (b) of Section 5101.
 
 (e) The Department of Industrial Relations shall keep a record of all payments due the state under this section, and shall take any steps as may be necessary to collect those amounts.
 
 (f) Each employer, or the employer’s insurance carrier, shall notify the administrative director, in any form as the administrative director may prescribe, of each employee death, except when the employer has actual knowledge or notice that the deceased employee left a surviving dependent.
 
-(g) When, after a reasonable search, the employer concludes that the deceased employee left no one surviving who is entitled to a dependency death benefit, and concludes that the death was under circumstances that would entitle the employee to compensation benefits, the employer may voluntarily make the payment referred to in subdivision (a). Payments so made shall be construed as payments made pursuant to an appeals board findings and award. Thereafter, if the appeals board finds that the deceased employee did in fact leave a person surviving who is entitled to a dependency death benefit, upon that finding, all payments referred to in subdivision (a) that have been made shall be forthwith returned to the employer, or if insured, to the employer’s workers’ compensation carrier that indemnified the employer for the loss.
+(g) When, after a reasonable search, the employer concludes that the deceased employee left no one surviving who is entitled to a dependency death benefit, and concludes that the death was under circumstances that would entitle
+ the employee to compensation benefits, the employer may voluntarily make the payment referred to in subdivision (a). Payments so made shall be construed as payments made pursuant to an appeals board findings and award. Thereafter, if the appeals board finds that the deceased employee did in fact leave a person surviving who is entitled to a dependency death benefit, upon that finding, all payments referred to in subdivision (a) that have been made shall be forthwith returned to the employer, or if insured, to the employer’s workers’ compensation carrier that indemnified the employer for the loss.
 
 (h) This section does not apply where there is no surviving person entitled to a dependency death benefit or accrued and unpaid compensation if a death benefit is paid to any person under paragraph (6) of subdivision (a) of Section 4702.
 
-(History: Amended by Stats. 2006, Ch. 119, Sec. 3.   Effective January 1, 2007.)
+(History: Amended by Stats. 2026, Ch. 83, Sec. 6.   (SB 171)   Effective July 13, 2026.)
 -------------------------------------------
 
 4707.
@@ -30340,36 +30356,162 @@ Any person who is convicted of any crime in connection with the assassination of
 
 
 
-  ARTICLE 5. Subsequent Injuries Payments [4751. - 4756.]
+  ARTICLE 5. Subsequent Injuries Payments [4750. - 4758.]
+
+4750.
+
+For the purposes of this article, the following terms have the following meanings:
+
+(a) “Administrative director” means the Administrative Director of the Division of Workers’ Compensation.
+
+(b) “Combine,” “combined,” or “combination” means the incorporation of two or more values into a single value pursuant to the Multiple Disabilities Table or the Combined Values Chart in the Schedule for Rating Permanent Disabilities adopted in Section 9805 of Title 8 of the California Code of Regulations, pursuant to Sections 4660 and 4660.1.
+
+(c) “Director” means the Director of Industrial Relations or the director’s designated agents.
+
+(d) “Final determination” means final resolution by judicial determination, review, appeal, and writ.
+
+(e) (1) “Labor disabling” means one of the following that resulted in a loss of earnings, interfered with the employee’s work activity in the occupation or occupations in which the employee was employed, or otherwise had a demonstrable impact on the employee’s ability to perform work activity:
+
+(A) An impairment that resulted in an award of permanent partial disability.
+
+(B) A nonindustrial impairment that could support an award of permanent partial disability.
+
+(2) A preexisting disability is not labor disabling if treatable by medication or the use of a medical device so
+ that the employee engaged in employment without incapacity to do work.
+
+(3) Notwithstanding Ferguson v. Industrial Accident Commission (1958) 50 Cal.2d 469, and its progeny, the Legislature intends, by revising the definition of “labor disabling” in Section 4750 of the Labor Code as added by this act, to restore the Subsequent Injuries Benefits Trust Fund to its original intent.
+
+(f) (1) “Opposite” means the other hand, arm, foot, leg, or eye that sustained the industrial injury and resulting disability subsequent to the already-disabled identical opposing member.
+
+(2) For the purposes of determining the identical opposing member, “arm” includes the wrist, elbow, and shoulder, but not the hand.
+
+(3) For the purposes of determining the
+ identical opposing member, “leg” includes the ankle, knee, and hip, but not the foot.
+
+(g) “Preexisting disability” or “preexisting disability or impairment” means a disability that meets both the following criteria:
+
+(1) Existed prior to the subsequent industrial injury.
+
+(2) Was labor disabling at the time of the subsequent industrial injury.
+
+(h) “SIBTF” means the Subsequent Injuries Benefits Trust Fund.
+
+(i) “SIBTF benefits” means additional permanent disability payments due to an eligible employee under this article.
+
+(j) “Subsequent industrial injury” or “subsequent compensable injury” means a compensable industrial injury
+ that is asserted as the basis for a claim for SIBTF benefits.
+
+(k) “Whole person impairment percentage” means the whole person impairment rating, also referred to as the impairment standard, as determined in accordance with the American Medical Association Guides to the Evaluation of Permanent Impairment, Fifth Edition, without adjustment for diminished future earning capacity, occupation or age of the employee, or any other factor, and without multiplication by the 1.4 adjustment factor referred to in subdivision (b) of Section 4660.1.
+
+(History: Added by Stats. 2026, Ch. 83, Sec. 7.   (SB 171)   Effective July 13, 2026.)
+-------------------------------------------
 
 4751.
 
-If an employee who is permanently partially disabled receives a subsequent compensable injury resulting in additional permanent partial disability so that the degree of disability caused by the combination of both disabilities is greater than that which would have resulted from the subsequent injury alone, and the combined effect of the last injury and the previous disability or impairment is a permanent disability equal to 70 percent or more of total, he shall be paid in addition to the compensation due under this code for the permanent partial disability caused by the last injury compensation for the remainder of the combined permanent disability existing after the last injury as provided in this article; provided, that either (a) the previous disability or impairment affected a hand, an arm, a foot, a leg, or an eye, and the permanent disability resulting from the subsequent injury affects the opposite and corresponding member, and such latter permanent disability, when considered alone and without regard to, or adjustment for, the occupation or age of the employee, is equal to 5 percent or more of total, or (b) the permanent disability resulting from the subsequent injury, when considered alone and without regard to or adjustment for the occupation or the age of the employee, is equal to 35 percent or more of total.
+(a) If an employee who is permanently partially disabled receives a subsequent compensable injury resulting in additional permanent partial disability so that the degree of disability caused by the combination of both disabilities is greater than that which would have resulted from the subsequent injury alone, and the combined effect of the last injury and the preexisting disability or impairment is a permanent disability equal to 70 percent or more of total,
+ the employee
+ shall be paid in addition to the compensation due under this code for the permanent partial disability caused by the last injury compensation for the remainder of the combined permanent disability existing after the last injury as provided in this article, provided that one of the following circumstances exist:
 
-(History: Amended by Stats. 1959, Ch. 1034.)
+(1) The preexisting disability or impairment
+ was to a hand, an arm, a foot, a leg, or an eye, and the whole person impairment percentage resulting from the subsequent injury
+ is to the opposite hand, arm, foot, leg, or eye, and the latter whole person impairment percentage, when considered alone, after apportionment, is equal to 5 percent or more of total.
+
+(2) The whole person impairment percentage resulting from the subsequent injury, when considered
+ alone, after apportionment, is equal to 35 percent or more of total.
+
+(b) An employee who sustains an industrial injury that results in 100 percent permanent total disability is not entitled to additional compensation from SIBTF.
+
+(c) An employee who receives an award of additional permanent disability payments from SIBTF based on 100 percent combined permanent disability shall not apply to SIBTF again for additional permanent disability payments.
+
+(d) An employee shall provide the director with all documentation and any other information as may be required by the director, in their discretion, to determine the employee’s eligibility for SIBTF benefits.
+
+(e) Liability by SIBTF for any additional permanent disability benefits under this article shall commence upon a final determination of SIBTF liability and after any reduction pursuant to Section 4753. Any payments by SIBTF under this article shall commence within 30 days of the final determination of SIBTF liability.
+
+(History: Amended by Stats. 2026, Ch. 83, Sec. 8.   (SB 171)   Effective July 13, 2026.)
 -------------------------------------------
 
 4753.
 
-Such additional compensation is not in addition to but shall be reduced to the extent of any monetary payments received by the employee, from any source whatsoever, for or on account of such preexisting disability or impairment, except as to payments being made to the employee or to which he is entitled as a pension or other compensation for disability incurred in service in the armed forces of the United States, and except as to payments being made to him or to which he is entitled as assistance under the provisions of Chapter 2 (commencing with Section 11200), Chapter 3 (commencing with Section 12000), Chapter 4 (commencing with Section 12500), Chapter 5 (commencing with Section 13000), or Chapter 6 (commencing with Section 13500) of Part 3, or Part 5 (commencing with Section 17000), of Division 9 of the Welfare and Institutions Code, and excluding from such monetary payments received by the employee for or on account of such preexisting disability or impairment a sum equal to all sums reasonably and necessarily expended by the employee for or on account of attorney’s fees, costs and expenses incidental to the recovery of such monetary payments.
+(a) (1) SIBTF benefits are not in addition to but shall be reduced to the extent of any monetary payments received by the employee, from any source whatsoever, for or on account of the preexisting disability or
+ impairment.
 
-All cases under this section and under Section 4751 shall be governed by the terms of this section and Section 4751 as in effect on the date of the particular subsequent injury.
+(2) Paragraph (1) does not apply to any of the following:
 
-(History: Amended by Stats. 1971, Ch. 438.)
+(A) Payments being made to the employee or to which the employee is entitled as a pension or other compensation for disability incurred in service in the armed forces of the United
+ States.
+
+(B) Payments being made to the employee or to which the employee is entitled as assistance under the provisions of Chapter 2 (commencing with Section 11200), Chapter 3 (commencing with Section 12000), Chapter 4 (commencing with Section 12500), Chapter 5 (commencing with Section 13000), or Chapter 6 (commencing with Section 13500) of Part 3, or Part 5 (commencing with Section 17000), of Division 9 of the Welfare and Institutions
+ Code.
+
+(C) A
+ sum equal to all sums reasonably and necessarily expended by the employee for or on account of attorney’s fees, costs, and expenses incidental to the recovery of monetary payments for the employee’s preexisting disability.
+
+(b) An employee applying for SIBTF benefits shall provide the director with documentation and other information about any monetary payments they receive for or on account of a preexisting disability or impairment requested by the director. No issue relating to a dispute over any monetary payments received by the employee for or on account of a preexisting disability or impairment may be the subject of a declaration of readiness to proceed unless the director has first been provided with the documentation or other information requested by the director.
+
+(c) This section shall be given broad interpretation to prevent double recovery.
+
+(History: Amended by Stats. 2026, Ch. 83, Sec. 9.   (SB 171)   Effective July 13, 2026.)
 -------------------------------------------
 
 4753.5.
 
-In any hearing, investigation, or proceeding, the state shall be represented by the Attorney General, or the attorneys of the Department of Industrial Relations, as appointed by the director. Expenses incident to representation, including costs for investigation, medical examinations, other expert reports, fees for witnesses, and other necessary and proper expenses, but excluding the salary of any of the Attorney General’s deputies, shall be reimbursed from the Workers’ Compensation Administration Revolving Fund. No witness fees or fees for medical services shall exceed those fees prescribed by the appeals board for the same services in those cases where the appeals board, by rule, has prescribed fees. Reimbursement pursuant to this section shall be in addition to, and in augmentation of, any other appropriations made or funds available for the use or support of the legal representation.
+In any hearing, investigation, or proceeding, the state shall be represented by the Attorney General, or the attorneys of the Department of Industrial Relations, as appointed by the director. Expenses incident to representation, including costs for investigation, medical examinations, other expert reports, fees for witnesses, and other necessary and proper expenses, but excluding the salary of any of the Attorney General’s deputies, shall be reimbursed from the Workers’ Compensation Administration Revolving Fund. No witness fees or fees for medical or medical-legal services shall exceed those fees
+ for the same services prescribed by the appeals board or the administrative director by rule or regulation. Reimbursement pursuant to this section shall be in addition to, and in augmentation of, any other appropriations made or funds available for the use or support of the legal representation.
 
-(History: Amended by Stats. 2006, Ch. 538, Sec. 489.   Effective January 1, 2007.)
+(History: Amended by Stats. 2026, Ch. 83, Sec. 10.   (SB 171)   Effective July 13, 2026.)
 -------------------------------------------
 
 4754.
 
-The appeals board shall fix and award the amounts of special additional compensation to be paid under this article, and shall direct the State Compensation Insurance Fund to pay the additional compensation so awarded. Such additional compensation may be paid only from funds appropriated for such purpose. Out of any such appropriation the fund may reimburse itself for the cost of service rendered in payment of compensation awards pursuant to this article and maintenance of accounts and records pertaining thereto, which cost shall not exceed 5 percent of the amount of award paid.
+(a) The appeals board shall fix and award the amounts of SIBTF benefits to be paid under this article, and shall direct the
+ director, as trustee or administrator of SIBTF, to pay the additional compensation awarded.
 
-(History: Amended by Stats. 1965, Ch. 1513.)
+(b) For the purposes of determining eligibility for SIBTF benefits and the amount of an award of SIBTF benefits, all of the following shall apply:
+
+(1) The preexisting disability or impairment’s existence and effect on the employee’s ability to engage in work shall be found by a medical evaluator in a medical-legal report that constitutes substantial evidence and documented in medical evidence in existence prior to the subsequent industrial injury. The evidentiary presumption established in subdivision (b) of Section 4664 does not apply.
+
+(2) The degree of prior permanent partial disability shall be rated
+ as the disability is determined to have existed on the date of the subsequent compensable injury.
+
+(3) For purposes of determining whether the degree of permanent disability caused by the subsequent compensable injury meets the threshold requirements for an award of SIBTF benefits as set forth in subdivision (a) of Section 4751, whole person impairment percentage ratings for multiple body parts shall not be added, but shall be combined with the subsequent compensable injury.
+
+(History: Amended by Stats. 2026, Ch. 83, Sec. 11.   (SB 171)   Effective July 13, 2026.)
+-------------------------------------------
+
+4754.1.
+
+(a) This section shall apply to all compensable subsequent injuries for which there has not been a final determination of SIBTF liability as of the date this section is operative.
+
+(b) For purposes of determining eligibility for, and the amount of an award of, SIBTF benefits to be paid under this article, the existence of preexisting permanent partial disability that existed at the time of the subsequent compensable injury shall be determined by substantial evidence based on medical records, testimony, and other evidence in existence at the time of the subsequent industrial injury. A preexisting disability or impairment shall not be established by a retroactive prophylactic work restriction.
+
+(c) Medical-legal evidence in a claim for SIBTF benefits pursuant to this article shall be obtained in the manner set forth in Article 2 (commencing with Section 4060) of Chapter 7 of Part 1. A claim for SIBTF benefits pursuant to this article shall be supported only by medical-legal evidence obtained in the course of the claim for the subsequent industrial injury, unless no evidence exists or the evaluator who opined in the claim for the subsequent industrial injury is no longer serving as an evaluator.
+
+(d) Any new medical-legal evidence in a claim for SIBTF benefits pursuant to this article shall not be used to establish liability for a subsequent industrial injury or the level of the subsequent injury disability. The underlying claim for regular benefits shall not be relitigated in the claim for SIBTF benefits.
+
+(e) Vocational rehabilitation reports, or other
+ vocational evidence, obtained solely for a proceeding pursuant to this article that were not obtained for use as evidence in the proceeding for compensation for the subsequent compensable injury are not admissible, and the costs of those reports shall not be reimbursable in proceedings under this article.
+
+(f) The director may issue regulations as necessary for the implementation and orderly and effective administration of this article.
+
+(History: Added by Stats. 2026, Ch. 83, Sec. 12.   (SB 171)   Effective July 13, 2026.)
+-------------------------------------------
+
+4754.2.
+
+An application for SIBTF benefits under this article shall be made five years from the date of the subsequent industrial injury described in subdivision (a) of Section 4751 or six months from a resolution of the issue of permanent disability in the subsequent injury claim whether by compromise and release, stipulations with request for award, or findings and award, whichever date is later. Section 3202 shall not be applied to extend the time for filing an application for SIBTF benefits beyond the limitations period established by this section.
+
+(History: Added by Stats. 2026, Ch. 83, Sec. 13.   (SB 171)   Effective July 13, 2026.)
+-------------------------------------------
+
+4754.3.
+
+(a) SIBTF shall not be liable for the payment of interest on any awards or order for payment of attorney’s fees.
+
+(b) SIBTF shall not be liable for any penalties.
+
+(c) The director, as administrator and trustee, shall pay the claimant only those benefits as allowed under this article.
+
+(History: Added by Stats. 2026, Ch. 83, Sec. 14.   (SB 171)   Effective July 13, 2026.)
 -------------------------------------------
 
 4754.5.
@@ -30381,29 +30523,80 @@ Nothing in this article shall impair the right of the Attorney General or the De
 
 4755.
 
-(a) The State Compensation Insurance Fund may draw from the State Treasury out of the Subsequent Injuries Benefits Trust Fund for the purposes specified in Section 4751, without at the time presenting vouchers and itemized statements, a sum not to exceed in the aggregate fifty thousand dollars ($50,000), to be used as a cash revolving fund. The revolving fund shall be deposited in any banks and under any conditions as the Department of Finance determines. The Controller shall draw his or her warrants in favor of the State Compensation Insurance Fund for the amounts so withdrawn and the Treasurer shall pay these warrants.
+(a) The director may draw from the State Treasury out of the Subsequent Injuries Benefits Trust Fund for the purposes specified in Section 4751, without at the time presenting vouchers and itemized statements, a sum not to exceed in the aggregate fifty thousand dollars ($50,000), to be used as a cash revolving fund. The revolving fund shall be deposited in any banks and under any conditions as the Department of Finance determines. The Controller shall draw
+ their
+ warrants in favor of the director for the amounts so withdrawn and the Treasurer shall pay these warrants.
 
-(b) Expenditures made from the revolving fund in payments on
- claims for any additional compensation and for adjusting services are exempted from the operation of Section 16003 of the Government Code. Reimbursement of the revolving fund for these expenditures shall be made upon presentation to the Controller of an abstract or statement of the expenditures. The abstract or statement shall be in any form as the Controller requires.
+(b) Expenditures made from the revolving fund in payments on claims for any additional compensation and for adjusting services are exempted from the operation of Section 16003 of the Government Code. Reimbursement of the revolving fund for these expenditures shall be made upon presentation to the Controller of an abstract or statement of the expenditures. The abstract or statement shall be in any form as the Controller requires.
 
-(c) The director shall assign claims adjustment services and legal representation services respecting matters concerning subsequent injuries. The director or his or her representative may make these service assignments within the department, or he or she may contract for these services with the State Compensation Insurance Fund, for a fee in addition to that authorized by Section 4754, except insofar as these matters might conflict with the interests of the State Compensation Insurance Fund. The administrative costs associated with these services shall be reimbursed from the
- Workers’ Compensation Administration Revolving Fund, except when a budget impasse requires advances as provided in subdivision (d) of Section 62.5. To the extent permitted by state law, the director may contract for audits or reports of services under this section.
+(c) The director shall assign claims adjustment services and legal representation services respecting matters
+ concerning subsequent injuries. The director or
+ their representative may make these service assignments within the department, or they may contract for these services with the State Compensation Insurance Fund or outside vendors, for a fee in addition to that authorized by Section 4754, except insofar as these matters might conflict with the interests of the State Compensation Insurance Fund. The administrative costs associated with these services shall be reimbursed from the Workers’ Compensation Administration Revolving Fund, except when a budget impasse requires advances as provided in subdivision (d) of Section 62.5.
+ To the extent permitted by state law, the director may contract for audits or reports of services under this section.
 
-(History: Amended by Stats. 2012, Ch. 728, Sec. 121.   (SB 71)   Effective January 1, 2013.)
+(History: Amended by Stats. 2026, Ch. 83, Sec. 15.   (SB 171)   Effective July 13, 2026.)
 -------------------------------------------
 
 4756.
 
-(a) The Legislature finds and declares that it is in the best interest of the State of California to provide a person, regardless of his or her citizenship or immigration status, with the benefits provided pursuant to this article, and therefore enacts this section pursuant to Section 1621(d) of Title 8 of the United States Code.
+(a) The Legislature finds and declares that it is in the best interest of the State of California to provide a person, regardless of their citizenship or immigration status, with the benefits provided pursuant to this article, and therefore enacts this section pursuant to Section 1621(d) of Title 8 of the United States Code.
 
-(b) A person shall not be prohibited from receiving compensation paid or payable from the Subsequent Injuries Benefits Trust Fund solely because of his or her citizenship or immigration status.
+(b) A person shall not be prohibited from receiving compensation paid or payable from the Subsequent Injuries Benefits Trust Fund solely because of
+ their citizenship or immigration status.
 
-(c) It is the intent of the Legislature to override Section 15740 of Article 1
- of Subchapter 2.1.1 of Chapter 8 of Division 1 of Title 8 of the California Code of Regulations.
+(c) It is the intent of the Legislature to override Section 15740 of Article 1 of Subchapter 2.1.1 of Chapter 8 of Division 1 of Title 8 of the California Code of Regulations.
 
 (d) The provisions of this section are declaratory of existing law.
 
-(History: Added by Stats. 2015, Ch. 290, Sec. 2.   (SB 623)   Effective January 1, 2016.)
+(History: Amended by Stats. 2026, Ch. 83, Sec. 16.   (SB 171)   Effective July 13, 2026.)
+-------------------------------------------
+
+4757.
+
+(a) The Legislature finds and declares that the changes made by the act that added this section are procedural and shall apply to all claims for SIBTF benefits, as defined in Section 4750 of the Labor Code, for which there is not a final determination as of the date this section is operative.
+
+(b) Subdivision (a) does not apply to Section 4754.2 of the Labor Code as added by the act that added this section.
+
+(History: Added by Stats. 2026, Ch. 83, Sec. 17.   (SB 171)   Effective July 13, 2026.)
+-------------------------------------------
+
+4758.
+
+(a) This section applies to a claim for SIBTF benefits that meets any of the following criteria:
+
+(1) Prior to June 1, 2026, the Workers’ Compensation Appeals Board district office set a date for the trial regarding the claim for SIBTF benefits.
+
+(2) Prior to June 1, 2026, a pretrial conference statement regarding the claim for SIBTF benefits was signed by counsel for the applicant or the applicant if unrepresented and by counsel for the director and filed with the Workers’ Compensation Appeals Board district office.
+
+(3) (A) On or prior to June 1, 2026, a declaration of readiness to proceed
+ requesting a mandatory settlement conference was filed with the Workers’ Compensation Appeals Board district office indicating that the SIBTF claim was ready to proceed to trial.
+
+(B) Notwithstanding subparagraph (A), this section does not apply to a declaration of readiness to proceed requesting a mandatory settlement conference filed with the Workers’ Compensation Appeals Board district office on or prior to June 1, 2026, indicating that the SIBTF claim was ready to proceed to trial that was continued or taken off calendar because the claim was not ready to proceed to trial.
+
+(C) A claim described in subparagraph (A) where the mandatory settlement conference is continued or taken off calendar because the parties have reached a settlement is subject to this section.
+
+(4) The application for SIBTF benefits was filed
+ with the Workers’ Compensation Appeals Board district office on or before July 1, 2020.
+
+(b) For claims described in subdivision (a), all of the following provisions shall apply in lieu of Sections 4751, 4753, 4753.5, and 4754, as those sections were amended by the act that added this section:
+
+(1) If an employee who is permanently partially disabled receives a subsequent compensable injury resulting in additional permanent partial disability so that the degree of disability caused by the combination of both disabilities is greater than that which would have resulted from the subsequent injury alone, and the combined effect of the last injury and the previous disability or impairment is a permanent disability equal to 70 percent or more of total, they shall be paid in addition to the compensation due under this code for the permanent partial disability caused by the last injury
+ compensation for the remainder of the combined permanent disability existing after the last injury as provided in this article; provided, that either (a) the previous disability or impairment affected a hand, an arm, a foot, a leg, or an eye, and the permanent disability resulting from the subsequent injury affects the opposite and corresponding member, and such latter permanent disability, when considered alone and without regard to, or adjustment for, the occupation or age of the employee, is equal to 5 percent or more of total, or (b) the permanent disability resulting from the subsequent injury, when considered alone and without regard to or adjustment for the occupation or the age of the employee, is equal to 35 percent or more of total. 
+
+(2) Such additional compensation is not in addition to but shall be reduced to the extent of any monetary payments received by the employee, from
+ any source whatsoever, for or on account of such preexisting disability or impairment, except as to payments being made to the employee or to which they are entitled as a pension or other compensation for disability incurred in service in the Armed Forces of the United States, and except as to payments being made to the employee or to which the employee is entitled as assistance under the provisions of Chapter 2 (commencing with Section 11200), Chapter 3 (commencing with Section 12000), Chapter 4 (commencing with Section 12500), Chapter 5 (commencing with Section 13000), or Chapter 6 (commencing with Section 13500) of Part 3, or Part 5 (commencing with Section 17000), of Division 9 of the Welfare and Institutions Code, and excluding from such monetary payments received by the employee for or on account of such preexisting disability or impairment a sum equal to all sums reasonably and necessarily expended by the employee for or on account of attorney’s fees, costs, and expenses incidental to the recovery of
+ such monetary payments.
+
+(3) In any hearing, investigation, or proceeding, the state shall be represented by the Attorney General, or the attorneys of the Department of Industrial Relations, as appointed by the director. Expenses incident to representation, including costs for investigation, medical examinations, other expert reports, fees for witnesses, and other necessary and proper expenses, but excluding the salary of any of the Attorney General’s deputies, shall be reimbursed from the Workers’ Compensation Administration Revolving Fund. No witness fees or fees for medical services shall exceed those fees prescribed by the appeals board for the same services in those cases where the appeals board, by rule, has prescribed fees. Reimbursement pursuant to this section shall be in addition to, and in augmentation of, any other appropriations made or funds available for the use or support of the legal representation. 
+
+(4) The appeals board shall fix and award the amounts of special additional compensation to be paid under this article, and shall direct the director, as trustee or administrator of SIBTF, to pay the additional compensation so awarded. Such additional compensation may be paid only from funds appropriated for such purpose. Out of any such appropriation the fund may reimburse itself for the cost of service rendered in payment of compensation awards pursuant to this article and maintenance of accounts and records pertaining thereto, which cost shall not exceed 5 percent of the amount of award paid. 
+
+(c) Sections 4750, 4754.1, 4754.2, 4754.3, and 4757, as amended by the act that added this section, shall not apply to claims described in subdivision (a).
+
+(d) This
+ section shall become inoperative on July 1, 2031, and, as of January 1, 2032, is repealed.
+
+(History: Added by Stats. 2026, Ch. 83, Sec. 18.   (SB 171)   Effective July 13, 2026.   Inoperative July 1, 2031, by its own provisions.   Repealed as of January 1, 2032, by its own provisions.)
 -------------------------------------------
 
 
@@ -33004,25 +33197,13 @@ The requirements of this section shall in no way be construed so as to broaden t
 
 5909.
 
-(a) A petition for reconsideration is deemed to have been denied by the appeals board unless it is acted upon within 60 days from the date a trial judge transmits a case to the appeals board. 
+(a) A petition for reconsideration is deemed to have been denied by the appeals board unless it is acted upon within 60 days from the date a trial judge transmits a case to the appeals board.
 
-(b) (1) When a trial judge transmits a case to the appeals board, the trial judge shall provide notice to the parties of the
- case and the appeals board.
+(b) (1) When a trial judge transmits a case to the appeals board, the trial judge shall provide notice to the parties of the case and the appeals board.
 
 (2) For purposes of paragraph (1), service of the accompanying report, pursuant to subdivision (b) of Section 5900, shall constitute providing notice.
 
-(c) This section shall remain in effect only until July 1, 2026, and as of that date is repealed.
-
-(History: Amended by Stats. 2024, Ch. 52, Sec. 27.   (AB 171)   Effective July 2, 2024.   Repealed as of July 1, 2026, by its own provisions.   See later operative version added by Sec. 28 of Stats. 2024, Ch. 52.)
--------------------------------------------
-
-5909.
-
-(a) A petition for reconsideration is deemed to have been denied by the appeals board unless it is acted upon within 60 days from the date of filing.
-
-(b) This section shall take effect on July 1, 2026.
-
-(History: Repealed (in Sec. 27) and added by Stats. 2024, Ch. 52, Sec. 28.   (AB 171)   Effective July 2, 2024.   Operative July 1, 2026, by its own provisions.)
+(History: Amended (as amended by Stats. 2024, Ch. 52, Sec. 27) by Stats. 2026, Ch. 83, Sec. 19.   (SB 171)   Effective July 13, 2026.)
 -------------------------------------------
 
 5910.
