@@ -5,7 +5,7 @@
 
 Source: Official California Legislative Information
         https://downloads.leginfo.legislature.ca.gov/
-Last Updated by State of California: July 10, 2026
+Last Updated by State of California: July 17, 2026
 
 
 ======================================================================
@@ -4471,69 +4471,63 @@ The director shall permit the use of any information in the director’s possess
 
 (b) To properly present a claim for benefits.
 
-(c) To acquaint a worker or their authorized agent with the worker’s existing or prospective right
- to benefits.
+(c) To acquaint a worker or their authorized agent with the worker’s existing or prospective right to benefits.
 
 (d) To furnish an employer or their authorized agent with information to enable the employer to fully discharge their obligations or safeguard their rights under this division or Division 3 (commencing with Section 9000).
 
 (e) To enable an employer to receive a reduction in contribution rate.
 
-(f) To enable federal, state, or local governmental departments or agencies, subject to federal law, to verify or determine the eligibility or entitlement of an applicant for, or a recipient of, public social services provided pursuant to Division 9 (commencing with Section 10000) of the Welfare and Institutions Code, or Part A of Subchapter IV of the federal Social Security Act (42 U.S.C. Sec. 601 et seq.), and
- state or federal subsidies offered through the California Health Benefit Exchange provided pursuant to Title 22 (commencing with Section 100500) of the Government Code,
+(f) To enable federal, state, or local governmental departments or agencies, subject to federal law, to verify or determine the eligibility or entitlement of an applicant for, or a recipient of, public social services provided pursuant to Division 9 (commencing with Section 10000) of the Welfare and Institutions Code, or Part A of Subchapter IV of the federal Social Security Act (42 U.S.C. Sec. 601 et seq.), and state or federal subsidies offered through the California Health Benefit Exchange provided pursuant to Title 22 (commencing with Section 100500) of the Government Code,
  when the verification or determination is directly connected with, and limited to, the administration of public social services.
 
 (g) To enable county administrators of general relief or assistance, or their representatives, to determine entitlement to locally provided general relief or assistance, when the determination is directly connected with, and limited to, the administration of general relief or assistance.
 
-(h) To enable state or local governmental departments or agencies to seek criminal, civil, or administrative remedies in connection with the unlawful application for, or receipt of, relief provided under Division 9 (commencing with Section 10000) of the Welfare and Institutions Code or to enable the collection of expenditures for medical assistance services
- pursuant to Part 5 (commencing with Section 17000) of Division 9 of the Welfare and Institutions Code.
+(h) To enable state or local governmental departments or agencies to seek criminal, civil, or administrative remedies in connection with the unlawful application for, or receipt of, relief provided under Division 9 (commencing with Section 10000) of the Welfare and Institutions Code or to enable the collection of expenditures for medical assistance services pursuant to Part 5 (commencing with Section 17000) of Division 9 of the Welfare and Institutions Code.
 
-(i) To provide any law enforcement agency with the name, address, telephone number, birth date, social security number, physical description, and names and addresses of present and past employers, of any victim, suspect, missing person, potential witness, or person for whom a felony arrest warrant has been issued, when a request for this information is made by any investigator or peace officer as defined by Sections 830.1 and 830.2 of the Penal Code, or by any federal law enforcement officer to whom the Attorney General has delegated authority to enforce federal search warrants, as defined under Sections 60.2 and 60.3 of Title 28 of the Code of Federal Regulations, as amended, and when the requesting officer has been
- designated by the head of the law enforcement agency and requests this information in the course of and as a part of an investigation into the commission of a crime when there is a reasonable suspicion that the crime is a felony and that the information would lead to relevant evidence. The information provided pursuant to this subdivision shall be provided to the extent permitted by federal law and regulations, and to the extent the information is available and accessible within the constraints and configurations of existing department records. Any person who receives any information under this subdivision shall make a written report of the information to the law enforcement agency that employs the person, for filing under the normal procedures of that agency.
+(i) To provide any law enforcement agency with the name, address, telephone number, birth date, social security number, physical description, and names and addresses of present and past employers, of any victim, suspect, missing person, potential witness, or person for whom a felony arrest warrant has been issued, when a request for this information is made by any investigator or peace officer as defined by Sections 830.1 and 830.2 of the Penal Code, or by any federal law enforcement officer to whom the Attorney General has delegated authority to enforce federal search warrants, as defined under Sections 60.2 and 60.3 of Title 28 of the Code of Federal Regulations, as amended, and when the requesting officer has been designated by the head of the law enforcement agency and requests this information in the course of and as a part of an investigation into the commission of a crime when there is a reasonable suspicion that the crime is a felony and
+ that the information would lead to relevant evidence. The information provided pursuant to this subdivision shall be provided to the extent permitted by federal law and regulations, and to the extent the information is available and accessible within the constraints and configurations of existing department records. Any person who receives any information under this subdivision shall make a written report of the information to the law enforcement agency that employs the person, for filing under the normal procedures of that agency.
 
-(1) This subdivision shall not be construed to authorize the release to any law
- enforcement agency of a general list identifying individuals applying for or receiving benefits.
+(1) This subdivision shall not be construed to authorize the release to any law enforcement agency of a general list identifying individuals applying for or receiving benefits.
 
 (2) The department shall maintain records pursuant to this subdivision only for periods required under regulations or statutes enacted for the administration of its programs.
 
 (3) This subdivision shall not be construed as limiting the information provided to law enforcement agencies to that pertaining only to applicants for, or recipients of, benefits.
 
-(4) The department shall notify all applicants for benefits that release of confidential information from their records will not be protected should there be a felony arrest warrant issued against the applicant or in the event of an investigation by a law enforcement agency into
- the commission of a felony.
+(4) The department shall notify all applicants for benefits that release of confidential information from their records will not be protected should there be a felony arrest warrant issued against the applicant or in the event of an investigation by a law enforcement agency into the commission of a felony.
 
-(j) To provide public employee retirement systems in California with information relating to the earnings of any person who has applied for or is receiving a disability income, disability allowance, or disability retirement allowance, from a public employee retirement system. The earnings information shall be released only upon written request from the governing board specifying that the person has applied for or is receiving a disability allowance or disability retirement allowance from its retirement system. The request may be made by the chief executive officer of the system or by an employee of the system so authorized and identified by name and title by the chief executive officer in writing.
+(j) To provide public employee retirement systems in California with information relating to the earnings of any person who has applied for or is receiving a disability income, disability allowance, or disability retirement allowance, from a public employee retirement system. The earnings information shall be released only upon written
+ request from the governing board specifying that the person has applied for or is receiving a disability allowance or disability retirement allowance from its retirement system. The request may be made by the chief executive officer of the system or by an employee of the system so authorized and identified by name and title by the chief executive officer in writing.
 
-(k) To enable the Division of Labor Standards
- Enforcement in the Department of Industrial Relations to seek criminal, civil, or administrative remedies in connection with the failure to pay, or the unlawful payment of, wages pursuant to Chapter 1 (commencing with Section 200) of Part 1 of Division 2 of, and Chapter 1 (commencing with Section 1720) of Part 7 of Division 2 of, the Labor Code.
+(k) To enable the Division of Labor Standards Enforcement in the Department of Industrial Relations to seek criminal, civil, or administrative remedies in connection with the failure to pay, or the unlawful payment of, wages pursuant to Chapter 1 (commencing with Section 200) of Part 1 of Division 2 of, and Chapter 1 (commencing with Section 1720) of Part 7 of Division 2 of, the Labor Code.
 
-(l) To enable federal, state, or local governmental departments or agencies to administer child support enforcement programs under Part D of Title IV of the federal Social Security Act (42 U.S.C. Sec. 651 et seq.).
+(l) To enable federal, state, or local governmental departments or agencies to administer child support enforcement
+ programs under Part D of Title IV of the federal Social Security Act (42 U.S.C. Sec. 651 et seq.).
 
-(m) To provide federal, state, or local governmental departments or agencies with wage and claim information in its possession that will assist those departments and agencies in the administration of the Victims of
- Crime Program or in the location of victims of crime who, by state mandate or court order, are entitled to restitution that has been or can be recovered.
+(m) To provide federal, state, or local governmental departments or agencies with wage and claim information in its possession that will assist those departments and agencies in the administration of the Victims of Crime Program or in the location of victims of crime who, by state mandate or court order, are entitled to restitution that has been or can be recovered.
 
 (n) To provide federal, state, or local governmental departments or agencies with information concerning any individuals who are or have been:
 
 (1) Directed by state mandate or court order to pay restitution, fines, penalties, assessments, or fees as a result of a violation of law.
 
-(2) Delinquent or in default on guaranteed student loans or who owe repayment of funds received through other financial assistance programs administered by those agencies. The information released by the director for the purposes of this paragraph shall not include unemployment insurance
- benefit information.
+(2) Delinquent or in default on guaranteed student loans or who owe repayment of funds received through other financial assistance programs administered by those agencies. The information released by the director for the purposes of this paragraph shall not include unemployment insurance benefit information.
 
-(o) To provide an authorized governmental agency with any and all relevant information that relates to any specific workers’ compensation insurance fraud investigation. The information shall be provided to the extent permitted by federal law and regulations. For purposes of this subdivision, “authorized governmental agency” means the district attorney of any county, the office of the Attorney General, the Contractors State License Board, the Department of Industrial Relations, and the Department of Insurance. An authorized governmental agency may disclose this information to the State Bar of California, the Medical Board of California, or any other licensing board or department whose licensee is the subject of a workers’ compensation insurance fraud investigation. This subdivision shall not prevent any authorized
- governmental agency from reporting to any board or department the suspected misconduct of any licensee of that body.
+(o) To provide an authorized governmental agency with any and all relevant information that relates to any specific workers’ compensation insurance fraud investigation. The information shall be provided to the extent permitted by federal law and regulations. For purposes of this subdivision, “authorized governmental agency” means the district attorney of any county, the office of the Attorney General, the Contractors State License Board, the Department of Industrial Relations, and the Department of Insurance. An authorized governmental agency may disclose this information to the State Bar of California, the Medical Board of
+ California, or any other licensing board or department whose licensee is the subject of a workers’ compensation insurance fraud investigation. This subdivision shall not prevent any authorized governmental agency from reporting to any board or department the suspected misconduct of any licensee of that body.
 
 (p) To enable the Director of Consumer Affairs, or the director’s representative, to access unemployment insurance quarterly wage data on a case-by-case basis to verify information on school administrators, school staff, and students provided by those schools who are being investigated for possible violations of Chapter 8 (commencing with Section 94800) of Part 59 of Division 10 of Title 3 of the Education Code.
 
-(q) To provide employment tax information to the tax officials of Mexico, if a reciprocal agreement exists. For purposes of this subdivision, “reciprocal agreement” means a formal agreement to exchange information between national taxing officials of Mexico and
- taxing authorities of the State Board of Equalization, the Franchise Tax Board, and the Employment Development Department. Furthermore, the reciprocal agreement shall be limited to the exchange of information that is essential for tax administration purposes only. Taxing authorities of the State of California shall be granted tax information only on California residents. Taxing authorities of Mexico shall be granted tax information only on Mexican nationals.
+(q) To provide employment tax information to the tax officials of Mexico, if a reciprocal agreement exists. For purposes of this subdivision, “reciprocal agreement”
+ means a formal agreement to exchange information between national taxing officials of Mexico and taxing authorities of the State Board of Equalization, the Franchise Tax Board, and the Employment Development Department. Furthermore, the reciprocal agreement shall be limited to the exchange of information that is essential for tax administration purposes only. Taxing authorities of the State of California shall be granted tax information only on California residents. Taxing authorities of Mexico shall be granted tax information only on Mexican nationals.
 
 (r) To enable city and county planning agencies to develop economic forecasts for planning purposes. The information shall be limited to businesses within the jurisdiction of the city or county whose planning agency is requesting the information, and shall not include information regarding individual employees.
 
-(s) To
- provide the State Department of Developmental Services with wage and employer information that will assist in the collection of moneys owed by the recipient, parent, or any other legally liable individual for services and supports provided pursuant to Chapter 9 (commencing with Section 4775) of Division 4.5 of, and Chapter 2 (commencing with Section 7200) and Chapter 3 (commencing with Section 7500) of Division 7 of, the Welfare and Institutions Code.
+(s) To provide the
+ State Department of Developmental Services with wage and employer information that will assist in the collection of moneys owed by the recipient, parent, or any other legally liable individual for services and supports provided pursuant to Chapter 9 (commencing with Section 4775) of Division 4.5 of, and Chapter 2 (commencing with Section 7200) and Chapter 3 (commencing with Section 7500) of Division 7 of, the Welfare and Institutions Code.
 
 (t) To provide the State Board of Equalization with employment tax information that will assist in the administration of tax programs. The information shall be limited to the exchange of employment tax information essential for tax administration purposes to the extent permitted by federal law and regulations.
 
-(u) This
- section shall not be construed to authorize or permit the use of information obtained in the administration of this code by any private collection agency.
+(u) This section shall not be construed to authorize or permit the use of information obtained in the administration of this code by any
+ private collection agency.
 
 (v) The disclosure of the name and address of an individual or business entity that was issued an assessment that included penalties under Section 1128 or 1128.1 shall not be in violation of Section 1094 if the assessment is final. The disclosure may also include any of the following:
 
@@ -4541,71 +4535,68 @@ The director shall permit the use of any information in the director’s possess
 
 (2) The amount of the penalty imposed under Section 1128 or 1128.1 that is included in the assessment.
 
-(3) The facts that resulted in the charging of the penalty under Section 1128 or
- 1128.1.
+(3) The facts that resulted in the charging of the penalty under Section 1128 or 1128.1.
 
-(w) To enable the Contractors State License Board to verify the employment history of an individual applying for licensure pursuant to Section 7068 of the Business and Professions Code.
+(w) To enable the Contractors State License Board to verify the employment history of an individual applying for licensure pursuant to Section 7068 of
+ the Business and Professions Code.
 
 (x) To provide any peace officer with the Division of Investigation in the Department of Consumer Affairs information pursuant to subdivision (i) when the requesting peace officer has been designated by the Chief of the Division of Investigation and requests this information in the course of and as part of an investigation into the commission of a crime or other unlawful act when there is reasonable suspicion to believe that the crime or act may be connected to the information requested and would lead to relevant information regarding the crime or unlawful act.
 
-(y) To enable the Labor Commissioner of the Division of Labor Standards Enforcement in the Department of Industrial Relations to identify, pursuant to Section 90.3 of the Labor Code, unlawfully uninsured employers. The information shall be provided to the extent permitted by federal law and regulations.
+(y) To enable the Labor Commissioner of the Division of Labor Standards Enforcement in the Department of Industrial Relations to identify, pursuant to Section 90.3 of the Labor Code, unlawfully uninsured employers. The information shall be provided to the extent permitted by federal law
+ and regulations.
 
-(z) To enable the Chancellor of the California Community Colleges, in accordance with the requirements of Section 84754.5 of the Education Code, to obtain quarterly wage data, commencing January 1, 1993, on students who have attended one or more community colleges, to assess the impact of education on the employment and earnings of students, to conduct the annual evaluation of district-level and individual college performance in achieving priority educational outcomes, and to submit
- the required reports to the Legislature and the Governor. The information shall be provided to the extent permitted by federal statutes and regulations.
+(z) To enable the Chancellor of the California Community Colleges, in accordance with the requirements of Section 84754.5 of the Education Code, to obtain quarterly wage data, commencing January 1, 1993, on students who have attended one or more community colleges, to assess the impact of education on the employment and earnings of students, to conduct the annual evaluation of district-level and individual college performance in achieving priority educational outcomes, and to submit the required reports to the Legislature and the Governor. The information shall be provided to the extent permitted by federal statutes and regulations.
 
-(aa) To enable the Public Employees’ Retirement System to seek criminal, civil, or administrative remedies in connection with the unlawful application for, or receipt of, benefits provided under Part 3 (commencing with Section 20000) of Division 5 of Title 2 of the Government Code.
+(aa) To enable the Public Employees’ Retirement System to seek criminal, civil, or administrative remedies in connection with the unlawful application for, or receipt of, benefits provided under Part 3 (commencing with Section 20000)
+ of Division 5 of Title 2 of the Government Code.
 
-(ab) To enable the State Department of Education, the University of California, the California State University, and the Chancellor of the California Community Colleges, pursuant to the requirements prescribed by the federal American Recovery and Reinvestment Act of 2009 (Public Law 111-5), to obtain quarterly wage data, commencing July 1,
- 2010, on students who have attended their respective systems to assess the impact of education on the employment and earnings of those students, to conduct the annual analysis of district-level and individual district or postsecondary education system performance in achieving priority educational outcomes, and to submit the required reports to the Legislature and the Governor. The information shall be provided to the extent permitted by federal statutes and regulations.
+(ab) To enable the State Department of Education, the University of California, the California State University, and the Chancellor of the California Community Colleges, pursuant to the requirements prescribed by the federal American Recovery and Reinvestment Act of 2009 (Public Law 111-5), to obtain quarterly wage data, commencing July 1, 2010, on students who have attended their respective systems to assess the impact of education on the employment and earnings of those students, to conduct the annual analysis of district-level and individual district or postsecondary education system performance in achieving priority educational outcomes, and to submit the required reports to the Legislature and the Governor. The information shall be provided to the extent permitted by federal statutes and regulations.
 
-(ac) To provide the Agricultural Labor Relations Board with employee, wage, and employer information, for use in the investigation or enforcement of the Alatorre-Zenovich-Dunlap-Berman Agricultural Labor Relations Act of 1975 (Part 3.5 (commencing with Section 1140) of Division 2 of the Labor Code). The information shall be provided to the extent permitted by federal
- statutes and regulations.
+(ac) To provide the
+ Agricultural Labor Relations Board with employee, wage, and employer information, for use in the investigation or enforcement of the Alatorre-Zenovich-Dunlap-Berman Agricultural Labor Relations Act of 1975 (Part 3.5 (commencing with Section 1140) of Division 2 of the Labor Code). The information shall be provided to the extent permitted by federal statutes and regulations.
 
 (ad) (1) To enable the State Department of Health Care Services, the California Health Benefit Exchange, the Managed Risk Medical Insurance Board, and county departments and agencies to obtain information regarding employee wages, California employer names and account numbers, employer reports of wages and number of employees, and disability insurance and unemployment insurance claim information, for the purpose of:
 
-(A) Verifying or determining the eligibility of an applicant for, or a recipient of, state health subsidy programs, limited to the Medi-Cal program provided pursuant to Chapter 7 (commencing with Section 14000) of Part 3 of Division 9 of the Welfare and Institutions Code, and the Medi-Cal Access Program provided pursuant
- to Chapter 2 (commencing with Section 15810) of Part 3.3 of Division 9 of the Welfare and Institutions Code, when the verification or determination is directly connected with, and limited to, the administration of the state health subsidy programs referenced in this subparagraph.
+(A) Verifying or determining the eligibility of an applicant for, or a
+ recipient of, state health subsidy programs, limited to the Medi-Cal program provided pursuant to Chapter 7 (commencing with Section 14000) of Part 3 of Division 9 of the Welfare and Institutions Code, and the Medi-Cal Access Program provided pursuant to Chapter 2 (commencing with Section 15810) of Part 3.3 of Division 9 of the Welfare and Institutions Code, when the verification or determination is directly connected with, and limited to, the administration of the state health subsidy programs referenced in this subparagraph.
 
-(B) Verifying or determining the eligibility of an applicant for, or a recipient of, state or federal subsidies offered through the California Health Benefit Exchange, provided pursuant to Title 22 (commencing with Section 100500) of the Government Code, including federal tax credits and cost-sharing assistance pursuant to the federal Patient Protection and Affordable Care Act (Public Law 111-148), as amended by the federal Health Care and Education Reconciliation Act of 2010 (Public Law 111-152), when the verification or determination is directly connected with, and
- limited to, the administration of the California Health Benefit Exchange.
+(B) Verifying or determining the eligibility of an applicant for, or a recipient of, state or federal subsidies offered through the California Health Benefit Exchange, provided pursuant to Title 22 (commencing with Section 100500) of the Government Code, including federal tax credits and cost-sharing assistance pursuant to the federal Patient Protection and Affordable Care Act (Public Law 111-148), as amended by the
+ federal Health Care and Education Reconciliation Act of 2010 (Public Law 111-152), when the verification or determination is directly connected with, and limited to, the administration of the California Health Benefit Exchange.
 
 (C) Verifying or determining the eligibility of employees and employers for health coverage through the Small Business Health Options Program, provided pursuant to Section 100502 of the Government Code, when the verification or determination is directly connected with, and limited to, the administration of the Small Business Health Options Program.
 
 (2) The information provided under this subdivision shall be subject to the requirements of, and provided to the extent permitted by, federal law and regulations, including Part 603 of Title 20 of the Code of Federal Regulations.
 
-(ae) To provide any peace officer with the Investigations Division
- of the Department of Motor Vehicles with information pursuant to subdivision (i), when the requesting peace officer has been designated by the Chief of the Investigations Division and requests this information in the course of, and as part of, an investigation into identity theft, counterfeiting, document fraud, or consumer fraud, and there is reasonable suspicion that the crime is a felony and that the information would lead to relevant evidence regarding the identity theft, counterfeiting, document fraud, or consumer fraud. The information provided pursuant to this subdivision shall be provided to the extent permitted by federal law and regulations, and to the extent the information is available and accessible within the constraints and configurations of existing department records. Any person who receives any information under this subdivision shall make a written report of the information
- to the Investigations Division of the Department of Motor Vehicles, for filing under the normal procedures of that division.
+(ae) To provide any
+ peace officer with the Investigations Division of the Department of Motor Vehicles with information pursuant to subdivision (i), when the requesting peace officer has been designated by the Chief of the Investigations Division and requests this information in the course of, and as part of, an investigation into identity theft, counterfeiting, document fraud, or consumer fraud, and there is reasonable suspicion that the crime is a felony and that the information would lead to relevant evidence regarding the identity theft, counterfeiting, document fraud, or consumer fraud. The information provided pursuant to this subdivision shall be provided to the extent permitted by federal law and regulations, and to the extent the information is available and accessible within the constraints and configurations of existing department records. Any person who receives any information under this subdivision shall make a written report of the information to the Investigations Division of the Department of Motor Vehicles,
+ for filing under the normal procedures of that division.
 
-(af) Until January 1, 2020, to enable the Department of Finance to prepare and submit the report required by Section 13084 of the Government Code that identifies all employers in California that employ 100 or more employees who receive benefits from the Medi-Cal program (Chapter 7 (commencing with Section 14000) of Part 3 of Division 9 of the Welfare and Institutions Code). The information used for this purpose shall be limited to information obtained pursuant to Section 11026.5 of the Welfare and Institutions Code and from the administration of personal income tax wage withholding pursuant to Division 6 (commencing with Section 13000) and the disability insurance program and may be disclosed to the Department of
- Finance only for the purpose of preparing and submitting the report and only to the extent not prohibited by federal law.
+(af) Until January 1, 2020, to enable the Department of Finance to prepare and submit the report required by Section 13084 of the Government Code that identifies all employers in California that employ 100 or more employees who receive benefits from the Medi-Cal program (Chapter 7 (commencing with Section 14000) of Part 3 of Division 9 of the Welfare and Institutions Code). The information used for this purpose shall be limited to information obtained pursuant to Section 11026.5 of the Welfare and Institutions Code and from the administration of personal income tax wage withholding pursuant to Division 6 (commencing with Section 13000) and the disability insurance program and may be disclosed to the Department of Finance only for the purpose of preparing and submitting the report and only to the extent not prohibited by federal law.
 
 (ag) To provide, to the extent permitted by federal law and regulations, the Student Aid Commission with wage information in order to verify the employment status of an individual applying for a Cal Grant C award pursuant to subdivision (c) of Section 69439 of the Education Code.
 
-(ah) To enable the Department of Corrections and Rehabilitation to obtain quarterly wage data of former inmates who have been incarcerated within the prison system in order to assess the impact of rehabilitation services or the lack of these services on the employment and earnings of these former inmates. Quarterly data for a former inmate’s employment status and wage history shall be
- provided for a period of one year, three years, and five years following release. The data shall only be used for the purpose of tracking outcomes for former inmates in order to assess the effectiveness of rehabilitation strategies on the wages and employment histories of those formerly incarcerated. The information shall be provided to the department to the extent not prohibited by federal law.
+(ah) To enable the Department of Corrections and Rehabilitation to obtain quarterly wage data of former inmates who have been incarcerated within the prison system in order to assess the impact of rehabilitation services or the lack of these services on the employment and earnings of these former inmates. Quarterly data for a former inmate’s employment status and wage history shall be provided for a period of one year, three years, and five years following release. The data shall only be used for the purpose of tracking outcomes for former inmates in order to assess the effectiveness of rehabilitation strategies on the wages and employment histories of
+ those formerly incarcerated. The information shall be provided to the department to the extent not prohibited by federal law.
 
-(ai) To enable federal, state, or local government departments or agencies, or their contracted agencies, subject to federal law, including the confidentiality, disclosure, and other requirements set forth in Part 603 of Title 20 of the Code of Federal Regulations, to evaluate, research, or forecast the effectiveness of public social services programs administered pursuant to Division 9 (commencing with Section 10000) of the Welfare and
- Institutions Code, or Part A of Subchapter IV of Chapter 7 of the federal Social Security Act (42 U.S.C. Sec. 601 et seq.), when the evaluation, research, or forecast is directly connected with, and limited to, the administration of the public social services programs.
+(ai) To enable federal, state, or local government departments or agencies, or their contracted agencies, subject to federal law, including the confidentiality, disclosure, and other requirements set forth in Part 603 of Title 20 of the Code of Federal Regulations, to evaluate, research, or forecast the effectiveness of public social services programs administered pursuant to Division 9 (commencing with Section 10000) of the Welfare and Institutions Code, or Part A of Subchapter IV of Chapter 7 of the federal Social Security Act (42 U.S.C. Sec. 601 et seq.), when the evaluation, research, or forecast is directly connected with, and limited to, the administration of the public social services programs.
 
-(aj) (1) To enable the California Workforce Development Board, the Chancellor of the California Community Colleges, the Superintendent of Public Instruction, the Department of Rehabilitation, the State Department of Social Services, the Bureau for Private Postsecondary Education, the Department of Industrial Relations, the Division of Apprenticeship Standards, the Department of Corrections and Rehabilitation, the California Correctional Training and Rehabilitation Authority, the Employment Training Panel, and a chief elected official, as that term is
- defined in Section 3102(9) of Title 29 of the United States Code, to access any relevant quarterly wage data necessary for the evaluation and reporting of their respective program performance outcomes as required and permitted by various local, state, and federal laws pertaining to performance measurement and program evaluation, including responsibilities arising under Sections 14013, 14033, and 14042 of this code and Sections 2032 and 2038 of the Streets and Highways Code; the federal Workforce Innovation and Opportunity Act (Public Law 113-128); the workforce metrics dashboard pursuant to paragraph (1) of subdivision (i) of Section 14013; the Adult Education Block Grant Program consortia performance metrics pursuant to Section 84920 of the Education Code; the economic and workforce development program performance measures pursuant to Section 88650 of the Education Code; and the California
- Community Colleges Economic and Workforce Development Program performance measures established in Part 52.5 (commencing with Section 88600) of Division 7 of Title 3 of the Education Code. Disclosures under this subdivision shall comply with federal and state privacy laws that require the informed consent from program participants of city and county departments or agencies that administer public
- workforce development programs for the evaluation, research, or forecast of their programs regardless of local, state, or federal funding source.
+(aj) (1) To enable the California
+ Workforce Development Board, the Chancellor of the California Community Colleges, the Superintendent of Public Instruction, the Department of Rehabilitation, the State Department of Social Services, the Bureau for Private Postsecondary Education, the Department of Industrial Relations, the Division of Apprenticeship Standards, the Department of Corrections and Rehabilitation, the California Correctional Training and Rehabilitation Authority, the Employment Training Panel, and a chief elected official, as that term is defined in Section 3102(9) of Title 29 of the United States Code, to access any relevant quarterly wage data necessary for the evaluation and reporting of their respective program performance outcomes as required and permitted by various local, state, and federal laws pertaining to performance measurement and program evaluation, including responsibilities arising under Sections 14013, 14033, and 14042 of this code and Sections 2032 and 2038 of the Streets and Highways Code; the federal Workforce
+ Innovation and Opportunity Act (Public Law 113-128); the workforce metrics dashboard pursuant to paragraph (1) of subdivision (i) of Section 14013; the Adult Education Block Grant Program consortia performance metrics pursuant to Section 84920 of the Education Code; the economic and workforce development program performance measures pursuant to Section 88650 of the Education Code; and the California Community Colleges Economic and Workforce Development Program performance measures established in Part 52.5 (commencing with Section 88600) of Division 7 of Title 3 of the Education Code. Disclosures under this subdivision shall comply with federal and state privacy laws that require the informed consent from program participants of city and county departments or agencies that administer public workforce development programs for the evaluation, research, or forecast of their programs regardless of local, state, or federal funding source.
 
-(2) The department shall do all of the following:
+(2) The
+ department shall do all of the following:
 
 (A) Consistent with this subdivision, develop the minimum requirements for granting a request for disclosure of information authorized by this subdivision regardless of local, state, or federal funding source.
 
 (B) Develop a standard application for submitting a request for disclosure of information authorized by this subdivision.
 
-(C) Approve or deny a request for disclosure of information authorized by this subdivision, or request additional information, within
- 20 business days of receiving the standard application. The entity submitting the application shall respond to any request by the department for additional information within 20 business days of receipt of the department’s request. Within 30 calendar days of receiving any additional information, the department shall provide a final approval or denial of the request for disclosure of information authorized by this subdivision. Any approval, denial, or request for additional information shall be in writing. Denials shall identify the reason or category of reasons for the denial.
+(C) Approve or deny a request for disclosure of information authorized by this subdivision, or request additional information, within 20 business days of receiving the standard application. The entity submitting the application shall respond to any request by the department for additional information within 20 business days of receipt of the department’s request. Within 30 calendar days of receiving any additional information, the department shall
+ provide a final approval or denial of the request for disclosure of information authorized by this subdivision. Any approval, denial, or request for additional information shall be in writing. Denials shall identify the reason or category of reasons for the denial.
 
 (D) Make publicly available on the department’s internet website all of the following:
 
-(i) The minimum requirements for granting a request for disclosure of information authorized by this subdivision, as developed
- pursuant to subparagraph (A).
+(i) The minimum requirements for granting a request for disclosure of information authorized by this subdivision, as developed pursuant to subparagraph (A).
 
 (ii) The standard application developed pursuant to subparagraph (B).
 
@@ -4615,39 +4606,38 @@ The director shall permit the use of any information in the director’s possess
 
 (v) Any denials for requests of disclosure of information authorized by this subdivision, including the reason or category of reasons for the denial.
 
-(ak) (1) To provide any peace officer with the Enforcement Branch of the Department of Insurance with both of
- the following:
+(ak) (1) To provide any peace officer with the Enforcement Branch of the Department of Insurance with both of the following:
 
-(A) Information provided pursuant to subdivision (i) that relates to a specific insurance fraud investigation involving automobile insurance fraud, life insurance and annuity fraud, property and casualty insurance fraud, and organized automobile insurance fraud. That information shall be provided when the requesting peace officer has been designated by the Chief of the Fraud Division of the Department of Insurance and requests the information in the course of, and as part of, an investigation into the commission of a crime or other unlawful act when there is reasonable suspicion to believe that the crime or act may be connected to the information requested and would lead to relevant information regarding the crime or unlawful act.
+(A) Information provided pursuant to subdivision (i) that relates to a specific insurance fraud investigation involving automobile insurance fraud, life insurance and annuity fraud, property and casualty insurance fraud, and organized automobile insurance fraud. That information shall be provided when the requesting peace officer has been designated by the Chief of the Fraud Division of the
+ Department of Insurance and requests the information in the course of, and as part of, an investigation into the commission of a crime or other unlawful act when there is reasonable suspicion to believe that the crime or act may be connected to the information requested and would lead to relevant information regarding the crime or unlawful act.
 
-(B) Employee, wage, employer,
- and state disability insurance claim information that relates to a specific insurance fraud investigation involving health or disability insurance fraud when the requesting peace officer has been designated by the Chief of the Fraud Division of the Department of Insurance and requests the information in the course of, and as part of, an investigation into the commission of a crime or other unlawful act when there is reasonable suspicion to believe that the crime or act may be connected to the information requested and would lead to relevant information regarding the crime or unlawful act.
+(B) Employee, wage, employer, and state disability insurance claim information that relates to a specific insurance fraud investigation involving health or disability insurance fraud when the requesting peace officer has been designated by the Chief of the Fraud Division of the Department of Insurance and requests the information in the course of, and as part of, an investigation into the commission of a crime or other unlawful act when there is reasonable suspicion to believe that the crime or act may be connected to the information requested and would lead to relevant information regarding the crime or
+ unlawful act.
 
-(2) To enable the State Department of Developmental Services to obtain quarterly wage data and unemployment insurance claim data of consumers served by that department for the purposes of monitoring, program operation and evaluation, and evaluating employment
- outcomes, of the Employment First Policy, established pursuant to Section 4869 of the Welfare and Institutions Code.
+(2) To enable the State Department of Developmental Services to obtain quarterly wage data and unemployment insurance claim data of consumers served by that department for the purposes of monitoring, program operation and evaluation, and evaluating employment outcomes, of the Employment First Policy, established pursuant to Section 4869 of the Welfare and Institutions Code.
 
 (3) The information provided pursuant to this subdivision shall be provided to the extent permitted by federal statutes and regulations.
 
-(al) To provide the CalSavers Retirement Savings Board with employer tax information for use in the administration of, and to facilitate compliance with, the CalSavers Retirement Savings Trust Act (Title 21 (commencing with Section 100000) of the Government Code). The information should be limited to the tax information the director deems appropriate, and shall be provided to the extent permitted by federal laws and regulations.
+(al) To provide the CalSavers Retirement Savings Board with employer tax information for use in the administration of, and to facilitate compliance with, the CalSavers Retirement Savings Trust Act (Title 21 (commencing with Section 100000) of the Government Code). The information should be
+ limited to the tax information the director deems appropriate, and shall be provided to the extent permitted by federal laws and regulations.
 
-(am) (1) To
- enable the Joint Enforcement Strike Force as established by Section 329, and the Labor Enforcement Task Force, as established pursuant to Assembly Bill 1464 of the 2011–12 Regular Session (Chapter 21 of the Statutes of 2012), to carry out their duties.
+(am) (1) To enable the Joint Enforcement Strike Force as established by Section 329, and the Labor Enforcement Task Force, as established pursuant to Assembly Bill 1464 of the 2011–12 Regular Session (Chapter 21 of the Statutes of 2012), to carry out their duties.
 
 (2) To provide an agency listed in subdivision (a) of Section 329 intelligence, data, including confidential tax and fee information, documents, information, complaints, or lead referrals pursuant to Section 15925 of the Government Code.
 
-(an) To enable the Bureau for Private Postsecondary Education to access and use any relevant quarterly wage data necessary to perform the labor market outcome reporting data match pursuant to Section 94892.6 of the Education Code. The information provided pursuant to this subdivision shall be
- provided to the extent permitted by state and federal laws and regulations.
+(an) To enable the Bureau for Private Postsecondary Education to access and use any relevant quarterly wage data necessary to perform the labor market outcome
+ reporting data match pursuant to Section 94892.6 of the Education Code. The information provided pursuant to this subdivision shall be provided to the extent permitted by state and federal laws and regulations.
 
 (ao) To enable the Civil Rights Department to carry out its duties, including ensuring compliance with Section 12999 of the Government Code. Conduct related to information provided pursuant to this subdivision shall not be subject to the criminal sanctions set forth in subdivision (f) of Section 1094.
 
-(ap) To enable the Cradle-to-Career Data System, as established by Article 2 (commencing with Section 10860) of Chapter 8.5 of Part 7 of Division 1 of Title 1 of the Education Code, to receive employment and earnings data and, as required by the director pursuant to Section 10871 of the Education Code, to provide information to the data system, to the extent permissible by federal laws and regulations.
+(ap) To enable the Cradle-to-Career Data System, as established by Article 2 (commencing with Section 10860) of Chapter 8.5 of Part 7 of Division 1 of Title 1 of the Education Code, to receive employment and earnings data and, as required by the director pursuant to Section 10871 of the Education Code, to provide information to the data system, to the extent permissible by
+ federal laws and regulations.
 
 (aq) (1) To enable the State Air Resources Board to receive unpaid final tax assessment information issued to a port drayage motor carrier or short-haul trucking service for misclassification of a commercial driver, for use in the administration of, and to facilitate compliance with, Chapter 3.6 (commencing with Section 39680) of Part 2 of Division 26 of the Health and Safety Code. The information shall be limited to the tax information the director deems appropriate for disclosure and shall be provided only to the extent permitted by federal laws and regulations.
 
 (2) For purposes of this subdivision, the following definitions apply:
 
-(A) “Commercial driver” has the same meaning as defined in Section
- 2810.4 of the Labor Code.
+(A) “Commercial driver” has the same meaning as defined in Section 2810.4 of the Labor Code.
 
 (B) “Port drayage motor carrier” has the same meaning as defined in Section 2810.4 of the Labor Code.
 
@@ -4655,21 +4645,21 @@ The director shall permit the use of any information in the director’s possess
 
 (ar) To enable the California Health Benefit Exchange to do all of the following:
 
-(1) Notify an employer that an employee has been determined eligible for advance payments of the premium tax credit and cost-sharing reductions and has enrolled in a qualified health plan through the California Health Benefit Exchange, as required pursuant to Section 155.310(h) of Title 45 of the Code of Federal Regulations. The
- information shall include available employer contact information, including addresses, email addresses, and telephone numbers.
+(1) Notify an employer that an employee has been determined eligible for advance payments of the premium tax credit and cost-sharing reductions and has enrolled in a qualified health plan through the California Health Benefit Exchange, as required pursuant to Section 155.310(h) of Title 45 of the Code of Federal Regulations. The information shall include available employer contact information, including addresses, email addresses, and telephone numbers.
 
 (2) Assist the California Health Benefit Exchange or the State Department of Health Care Services in determining eligibility for the insurance affordability programs administered by those state agencies. The determination of eligibility or entitlement shall include efforts by either the California Health Benefit Exchange or the State Department of Health Care Services to assist those individuals in obtaining that coverage, including informing those individuals potentially eligible for health coverage of the availability of that coverage.
 
-(3) Verify if a consumer has been offered affordable comprehensive employer-sponsored health care coverage pursuant to
- Title 22 (commencing with Section 100500) of the Government
- Code and the federal Patient Protection and Affordable Care Act (Public Law 111-148). The information shall include available employer contact information, including addresses, email addresses, and telephone numbers.
+(3) Verify if a consumer has been offered affordable comprehensive employer-sponsored health care coverage pursuant to Title 22 (commencing with Section 100500) of the Government Code and the federal Patient Protection and Affordable Care Act (Public Law 111-148). The information shall include available employer contact information, including
+ addresses, email addresses, and telephone numbers.
 
-(4) Upon the request of either the California Health Benefit Exchange or the State Department of Health Care Services, the department shall also provide to the relevant state agency information on new applicants for unemployment insurance, state disability insurance, and paid family leave. The California Health Benefit Exchange and the State Department of Health Care Services shall at all times request from the department the minimum amount of information necessary from the information listed in paragraph (1) of subdivision (a) of Section 100503.9 of the Government Code, to accomplish the purposes of Section
- 100503.9 of the Government Code. The information shall be sent in a manner that is encrypted or otherwise complies with government data security best practices, as specified by the California Health Benefit Exchange. This information shall only be used for the purposes of outreach and marketing.
+(4) Upon the request of either the California Health Benefit Exchange or the State Department of Health Care Services, the department shall also provide to the relevant state agency information on new applicants for unemployment insurance, state disability insurance, and paid family leave. The California Health Benefit Exchange and the State Department of Health Care Services shall at all times request from the department the minimum amount of information necessary from the information listed in paragraph (1) of subdivision (a) of Section 100503.9 of the Government Code, to accomplish the purposes of Section 100503.9 of the Government Code. The information shall be sent in a manner that is encrypted or otherwise complies with government data security best practices, as specified by the California Health Benefit Exchange. This information shall only be used for the purposes of outreach and
+ marketing.
 
 (5) This subdivision shall become operative no later than September 1, 2023.
 
-(History: Amended by Stats. 2025, Ch. 241, Sec. 70.   (SB 857)   Effective January 1, 2026.)
+(as) To enable the office of the Chancellor of the California State University, the office of the Chancellor of the California Community Colleges, and the office of the President of the University of California to access any relevant quarterly wage data necessary for students who have attended their respective systems to assess the impact of education on the employment and earnings of those students and demonstrate compliance with the federal and state Workforce Pell Grant requirements pursuant to Public Law 119-21 to determine Workforce Pell Grant program eligibility. Disclosures and redisclosures under this subdivision shall be provided to the extent permitted by federal laws and regulations.
+
+(History: Amended by Stats. 2026, Ch. 79, Sec. 32.   (SB 135)   Effective July 13, 2026.)
 -------------------------------------------
 
 1095.5.
@@ -14878,9 +14868,21 @@ The board shall assist the Governor in the following:
 
 (s) Helping individuals with barriers to employment, including low-skill, low-wage workers, the long-term unemployed, and members of single-parent households, achieve economic security and upward mobility by implementing policies that encourage the attainment of marketable skills relevant to current labor market trends.
 
-(t) Evaluating program outcomes, including program participant outcomes for all grant programs administered by the California Workforce Development Board, regardless of funding source.
+(t) (1) Evaluating program outcomes, including program participant outcomes for all grant programs administered by the California Workforce Development
+ Board, regardless of funding source.
 
-(History: Amended (as amended by Stats. 2021, Ch. 78, Sec. 15) by Stats. 2021, Ch. 550, Sec. 2.   (SB 753)   Effective January 1, 2022.   See conditional termination clause in Section 14007.)
+(2) The California Workforce Development Board shall produce and submit a report to the Legislature, in compliance with Section 9795 of the Government Code, evaluating its grant programs by October 1 of every odd-numbered year. The evaluation report shall include both quantitative and qualitative analyses of any grant programs established on or after July 1, 2025, for which the board administers funding, as well as the following existing programs:
+
+(A) High road workforce programs, as described in Section 14014.
+
+(B) The Breaking Barriers to Employment Initiative, as specified in Article 3 (commencing with Section 14030).
+
+(C) The Prison
+ to Employment program, as specified in Article 4 (commencing with Section 14040).
+
+(D) Preapprenticeship training programs utilized by public agencies receiving funding from the Road Maintenance and Rehabilitation Account, as described in Section 2038 of the Streets and Highways Code.
+
+(History: Amended by Stats. 2026, Ch. 83, Sec. 22.   (SB 171)   Effective July 13, 2026.   See conditional termination clause in Section 14007.)
 -------------------------------------------
 
 14014.
@@ -14889,17 +14891,17 @@ The board shall assist the Governor in the following:
 
 (b) Pursuant to subdivision (a), all of the following shall apply:
 
-(1) The Employment Development Department shall make available to the board any and all wage and employment data necessary to evaluate all relevant programs and grants.
+(1) The Employment Development Department shall make available to the board any and all wage and employment data necessary to evaluate all relevant high road programs and grants.
 
-(2) All grant applicants and program beneficiaries participating in a high road training partnership program shall provide any and all necessary information to the state
- to facilitate public transparency, accountability, and grant and program performance evaluation, including any relevant data needed to determine the outcomes and benefits of programing and grants funded for program participants, high road training partnerships, industry, and the workforce system.
+(2) All grant applicants and program beneficiaries participating in a
+ high road training partnership program shall provide any and all necessary information to the state to facilitate public transparency, accountability, and grant and program performance evaluation, including any relevant data needed to determine the outcomes and benefits of programing and grants funded for program participants, high road training partnerships, industry, and the workforce system.
 
-(3) All grants and programming shall be evaluated using criteria, metrics, and data that include, but are not limited to, information pertaining to the ability of grantees and program administrators to conduct and complete relevant programming as demonstrated through appropriate quantitative and qualitative analysis, including the use of appropriate outcome metrics.
+(3) All high road grants and programming shall be evaluated using criteria, metrics, and data that include, but are not limited to, information pertaining to the ability of grantees and program administrators to conduct and complete relevant programming as demonstrated through appropriate quantitative and qualitative analysis, including the use of appropriate outcome metrics.
 
-(4) For funds and grants providing direct workforce, training, and education services to individuals, the board shall report all of the following:
+(4) For
+ funds and grants providing direct high road workforce, training, and education services to individuals, the board shall report all of the following:
 
-(A) Who is
- receiving the services, including data on the demographics of the individuals receiving services.
+(A) Who is receiving the services, including data on the demographics of the individuals receiving services.
 
 (B) The nature of the services received collected at the individual level.
 
@@ -14907,14 +14909,16 @@ The board shall assist the Governor in the following:
 
 (i) The employment rates of individuals served to measure initial job placement and retention over time.
 
-(ii) The wages and wage growth of individuals served during and after program participation.
+(ii) The wages and wage growth of
+ individuals served during and after program participation.
 
-(5) Recognizing that the outcome data specified in this section frequently lags program implementation activities, progress reports and interim evaluation reports consistent with the requirements of this section
- shall be provided to the Legislature by the board, after it receives and administers funding under the relevant budget allocations, by October 1 of even-numbered years utilizing whatever program participant and outcome data is available. The report shall also include, but not be limited to, the number of grants awarded, the average award amounts, geographic distribution of awards, and types of industries awarded.
+(5) Recognizing that the outcome data specified in this section frequently lags program implementation activities,
+ a quantitative report consistent with the requirements of this section shall be provided to the Legislature by the board, after it receives and administers funding under the relevant budget allocations, by October 1 of even-numbered years utilizing whatever program participant and outcome data is available. The report shall also include, but not be limited to, the number of grants awarded, the average award amounts, geographic distribution of awards, and types of industries awarded.
 
-(6) Final evaluation reports for all grants and programs shall be provided to the Legislature 18 months after all available labor market outcome data specified in this section becomes available.
+(6) Evaluation reports for all high road grants and programs
+ as required by subdivision (t) of Section 14013 shall be provided to the Legislature after all available labor market outcome data specified in this section becomes available on the timeline prescribed in subdivision (t) of Section 14013.
 
-(History: Added by Stats. 2021, Ch. 78, Sec. 16.   (AB 138)   Effective July 16, 2021.)
+(History: Amended by Stats. 2026, Ch. 83, Sec. 23.   (SB 171)   Effective July 13, 2026.)
 -------------------------------------------
 
 14015.
@@ -15168,8 +15172,8 @@ As used in this article, “Breaking Barriers to Employment Initiative” or “
 
 (a) The purpose of the initiative shall be to provide individuals with barriers to employment the services they need to enter, participate in, and complete broader workforce preparation, training and education programs, and, ultimately, to obtain and retain employment. Specifically, the program should strive to address racial and ethnic exclusion and inequity in the labor force and enhance racial and economic justice. Projects should create pipelines to quality jobs, upward mobility, and income security for workers historically excluded from quality jobs and economic prosperity. Special emphasis shall be given to applications that integrate individuals from target populations into career pathway programs aligned with regional labor market needs.
 
-(b) Grants shall be
- evaluated using the following criteria:
+(b) Grants shall
+ be evaluated using the following criteria:
 
 (1) Ability to provide the services proposed in the grant to the number of individuals specified in the grant as evidenced by, among other things, whether the grantee completed the work proposed.
 
@@ -15196,7 +15200,9 @@ As used in this article, “Breaking Barriers to Employment Initiative” or “
 (e) The California Workforce Development Board shall issue a final report to be posted on its internet website. The final report shall be posted no later than one year following the completion of the program. The reports shall include, but not be limited to, the programmatic impact on the target populations,
  the fiscal savings associated with the program, key conclusions, the benefits conferred or realized using quantitative and qualitative data, demographic data, and data on the languages spoken by the populations served by the grant.
 
-(History: Amended by Stats. 2024, Ch. 224, Sec. 2.   (AB 2873)   Effective January 1, 2025.   See conditional termination clause in Section 14007.)
+(f) If additional grant funds are appropriated to the California Workforce Development Board for the Breaking Barriers to Employment Initiative on or after July 1, 2025, the California Workforce Development Board shall produce a report evaluating grant program outcomes on the timeline prescribed in subdivision (t) of Section 14013.
+
+(History: Amended by Stats. 2026, Ch. 83, Sec. 24.   (SB 171)   Effective July 13, 2026.   See conditional termination clause in Section 14007.)
 -------------------------------------------
 
 14034.
@@ -15366,16 +15372,16 @@ The board shall administer a prison to employment program pursuant to this artic
 
 (a) Prior to awarding grants pursuant to Section 14041, the board shall develop and adopt guidelines and policies for the program, including, but not limited to, required regional plan content, required and optional regional plan partners, required activities of the regional partnerships, and guidelines for the allocation of grants, including planning guidance, timelines, and selection criteria for the distribution and evaluation of grant awards. The board shall consider factors including, but not limited to, the need for workforce services for the formerly incarcerated and justice-involved individuals in each region, the size of post-release populations, and the recidivism rate in each region.
 
-(b) The board shall ensure that the guidelines
- developed pursuant to subdivision (a) are consistent with paragraph (7) of subdivision (b) of Section 1234.2 of, and subdivision (b) and paragraph (1) of subdivision (e) of Section 1234.3 of, the Penal Code, and Section 14031 of, and paragraph (4) of subdivision (c) and paragraphs (3) and (4) of subdivision (d) of Section 14032 of, this code.
+(b) The board shall ensure that the guidelines developed pursuant to
+ subdivision (a) are consistent with paragraph (7) of subdivision (b) of Section 1234.2 of, and subdivision (b) and paragraph (1) of subdivision (e) of Section 1234.3 of, the Penal Code, and Section 14031 of, and paragraph (4) of subdivision (c) and paragraphs (3) and (4) of subdivision (d) of Section 14032 of, this code.
 
-(c) Grants made pursuant to this article shall be evaluated using criteria consistent with those set forth in subdivisions (b) to (d), inclusive, of Sections 14033. The board may utilize additional criteria to evaluate these grants.
+(c) Grants made pursuant to this article shall be evaluated using criteria consistent with those set forth in subdivisions (b) to (d), inclusive, of Sections 14033. The board may utilize additional criteria to evaluate these grants. If additional grant funds are appropriated to the California Workforce Development Board for the Prison to Employment program on or after July 1, 2025, the California Workforce Development Board shall produce a report evaluating grant program outcomes on the timeline prescribed in subdivision (t) of Section 14013.
 
 (d) (1) The criteria guidelines, and policies shall be exempt from the rulemaking provisions of the Administrative Procedures Act (Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code).
 
 (2) The board shall make the criteria, guidelines, and policies available to the public.
 
-(History: Added by Stats. 2018, Ch. 53, Sec. 42.   (SB 866)   Effective June 27, 2018.   See conditional termination clause in Section 14007.)
+(History: Amended by Stats. 2026, Ch. 83, Sec. 25.   (SB 171)   Effective July 13, 2026.   See conditional termination clause in Section 14007.)
 -------------------------------------------
 
 
