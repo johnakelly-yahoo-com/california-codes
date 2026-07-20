@@ -5,7 +5,7 @@
 
 Source: Official California Legislative Information
         https://downloads.leginfo.legislature.ca.gov/
-Last Updated by State of California: February 19, 2026
+Last Updated by State of California: July 17, 2026
 
 
 ======================================================================
@@ -18659,26 +18659,26 @@ This chapter shall remain in effect only until January 1, 2027, and as of that d
 
 (ii) The date that is 45 days after the date the administrator requests the electrical corporation to file the application.
 
-(C) If an electrical corporation issues recovery bonds authorized pursuant to a financing order
- issued pursuant to subparagraph (B) of paragraph (1) of subdivision (a) of Section 850.1, the electrical corporation shall file an application pursuant to subparagraph (A) for a determination of the just and reasonableness of the costs and expenses included in the recovery bonds no later than the earlier of the following:
+(C) If an electrical corporation issues recovery bonds authorized pursuant to a financing order issued pursuant to
+ clause (ii) of subparagraph (A) of paragraph (1) of subdivision (a) of Section 850.1, the electrical corporation shall file an application pursuant to subparagraph (A) for a determination of the just and reasonableness of the costs and expenses included in the recovery bonds no later than the earlier of the following:
 
 (i) The date when the electrical corporation has resolved all third-party damage claims and exhausted all rights to indemnification or other claims, contractual or otherwise, against any third parties, including collecting insurance proceeds, related to the covered wildfire.
 
 (ii) The date that is 45 days after the date the commission requests the electrical corporation to file the application.
 
-(2) The president of the commission, upon the initiation of a catastrophic
- wildfire proceeding by the filing of an application pursuant to paragraph (1), shall assign a commissioner to act as the presiding officer in the proceeding and an administrative law judge to assist in conducting the proceeding.
+(2) The president of the commission, upon the initiation of a
+ catastrophic wildfire proceeding by the filing of an application pursuant to paragraph (1), shall assign a commissioner to act as the presiding officer in the proceeding and an administrative law judge to assist in conducting the proceeding.
 
 (3) Within 15 days of the filing date of the application, the commission shall notice a prehearing conference, which shall be held within 25 days of the filing date.
 
 (4) (A) Within 30 days of the filing date of the application, the assigned commissioner shall prepare and issue, by order or ruling, a scoping memorandum that states that the scope of the proceeding shall be whether the electrical corporation’s costs and expenses for the covered wildfire are just and reasonable pursuant to Section 451 or 451.1, as applicable.
 
-(B) The scoping memorandum shall establish a
- schedule for the proceeding, including the date of issuance of a proposed decision that is no later than 12 months after the filing date of the application.
+(B) The scoping memorandum shall
+ establish a schedule for the proceeding, including the date of issuance of a proposed decision that is no later than 12 months after the filing date of the application.
 
 (C) The assigned commissioner may extend the time established in the scoping memorandum for the date of issuance of a proposed decision by up to six months upon a showing of good cause.
 
-(History: Amended by Stats. 2025, Ch. 119, Sec. 38.   (SB 254)   Effective September 19, 2025.)
+(History: Amended by Stats. 2026, Ch. 81, Sec. 4.   (SB 168)   Effective July 13, 2026.)
 -------------------------------------------
 
 1701.9.
@@ -24796,9 +24796,9 @@ There shall be a limited civil immunity, and no criminal liability in a private 
 
 3298.3.
 
-Upon the determination by the administrator that additional annual contributions are necessary pursuant to Section 3299.1, the council shall direct the administrator to prepare and present for approval a plan of operations related to the operations, management, and administration of the account on an annual basis. At least annually, the council shall direct the administrator to present the plan of operations to the appropriate policy committees of the Legislature. The plan of operations shall include, but not be limited to, reporting on the account assets, projections for the durability of the account, the success of the account, whether or not the account is serving its purpose, and a plan for winding up the account if projections demonstrate that the account will be exhausted within the next three years.
+Upon the determination by the administrator that annual contributions are necessary pursuant to Section 3299.1, the council shall direct the administrator to prepare and present for approval a plan of operations related to the operations, management, and administration of the account on an annual basis. At least annually, the council shall direct the administrator to present the plan of operations to the appropriate policy committees of the Legislature. The plan of operations shall include, but not be limited to, reporting on the account assets, projections for the durability of the account, the success of the account, whether or not the account is serving its purpose, and a plan for winding up the account if projections demonstrate that the account will be exhausted within the next three years.
 
-(History: Added by Stats. 2025, Ch. 119, Sec. 45.   (SB 254)   Effective September 19, 2025.   Conditionally inoperative pursuant to Section 3298.6.   Repealed as of January 1 following inoperative date.)
+(History: Amended by Stats. 2026, Ch. 81, Sec. 5.   (SB 168)   Effective July 13, 2026.   Conditionally inoperative pursuant to Section 3298.6.    Repealed as of January 1 following inoperative date.)
 -------------------------------------------
 
 3298.4.
@@ -24810,11 +24810,11 @@ The Director of Finance may, at any time, examine the books and records of the c
 
 3298.5.
 
-(a) On January 1 of the year following the date on which the administrator determines that additional annual contributions are necessary pursuant to Section 3299.1, and annually thereafter, the council, with the assistance of the administrator, shall prepare and file with the Legislature and the Department of Finance reports regarding the formation, administration, and disposition of the account.
+(a) On January 1 of the year following the date on which the administrator determines that annual contributions are necessary pursuant to Section 3299.1, and annually thereafter, the council, with the assistance of the administrator, shall prepare and file with the Legislature and the Department of Finance reports regarding the formation, administration, and disposition of the account.
 
 (b) A report submitted to the Legislature pursuant to this section shall be submitted in compliance with Section 9795 of the Government Code.
 
-(History: Added by Stats. 2025, Ch. 119, Sec. 45.   (SB 254)   Effective September 19, 2025.   Conditionally inoperative pursuant to Section 3298.6.   Repealed as of January 1 following inoperative date.)
+(History: Amended by Stats. 2026, Ch. 81, Sec. 6.   (SB 168)   Effective July 13, 2026.   Conditionally inoperative pursuant to Section 3298.6.    Repealed as of January 1 following inoperative date.)
 -------------------------------------------
 
 3298.6.
@@ -24854,15 +24854,15 @@ This chapter shall become inoperative if a large electrical corporation elects n
 
 3299.1.
 
-(a) On or after the date the commission provides the notification pursuant to subdivision (b) of Section 3299, but not later than December 31, 2028, the administrator may determine if additional annual contributions pursuant to subdivision (b) of Section 3299.3 are required for either of the following reasons:
+(a) On or after the date the commission provides the notification pursuant to subdivision (b) of Section 3299, but not later than December 31, 2028, the administrator may determine if annual contributions pursuant to subdivision (a) of Section 3299.3 are required for either of the following reasons:
 
-(1) Absent additional annual contributions, the administrator would provide a plan for winding up the fund pursuant to Section 3283.
+(1) Absent annual contributions, the administrator would provide a plan for winding up the fund pursuant to Section 3283.
 
 (2) The administrator receives a notification from a large electrical corporation that it has a reasonable belief that it likely will have eligible claims for a single coverage year resulting from one or more covered wildfires.
 
-(b) If the administrator determines that additional contributions are required, the administrator shall provide notification to the commission, the Department of Water Resources, and each large electrical corporation of its determination.
+(b) If the administrator determines that annual contributions are required, the administrator shall provide notification to the commission, the Department of Water Resources, and each large electrical corporation of its determination.
 
-(History: Added by Stats. 2025, Ch. 119, Sec. 46.   (SB 254)   Effective September 19, 2025.   Conditionally inoperative pursuant to Sections 3299 and 3299.20.   Repealed as of January 1 following inoperative date.)
+(History: Amended by Stats. 2026, Ch. 81, Sec. 7.   (SB 168)   Effective July 13, 2026.   Conditionally inoperative pursuant to Sections 3299 and 3299.20.    Repealed as of January 1 following inoperative date.)
 -------------------------------------------
 
 3299.2.
@@ -32799,12 +32799,12 @@ The commission, the office, and the Department of Forestry and Fire Protection s
 
 8386.10.
 
-(a) The commission shall not allow a large electrical corporation to include in its equity rate base its share, as determined pursuant to the Wildfire Fund allocation metric specified in Section 3280, of the six billion dollars ($6,000,000,000) that the large electrical corporations collectively first expend on fire risk mitigation capital expenditures approved by the commission on or after January 1, 2026. These amounts are in addition to the amounts the large electrical corporations shall not include in their equity rate base pursuant to subdivision (e) of Section 8386.3. An electrical corporation’s share of the fire risk mitigation capital expenditures and the debt financing costs of these fire risk mitigation capital expenditures may be financed through a financing order pursuant to Section 850.1,
- subject to the requirements of that financing order.
+(a) The commission shall not allow a large electrical corporation to include in its equity rate base its share, as determined pursuant to the allocation specified in paragraph (2) of subdivision (a) of Section 3299.3, of the six billion dollars ($6,000,000,000) that the large electrical corporations collectively first expend on fire risk mitigation capital expenditures approved by the commission on or after January 1, 2026. These amounts are in addition to the amounts the large electrical corporations shall not include in their equity rate base pursuant to subdivision (e) of Section 8386.3. An electrical corporation’s share of the fire risk mitigation capital expenditures and the debt financing costs of these fire risk mitigation capital expenditures may be financed through a financing order pursuant to Section 850.1, subject to the requirements of that financing order.
 
-(b) Subdivision (a) does not apply to an expenditure made after December 31, 2035.
+(b) Subdivision (a) does not apply to an expenditure made after December 31,
+ 2035.
 
-(History: Added by Stats. 2025, Ch. 119, Sec. 59.   (SB 254)   Effective September 19, 2025.)
+(History: Amended by Stats. 2026, Ch. 81, Sec. 8.   (SB 168)   Effective July 13, 2026.)
 -------------------------------------------
 
 8387.
@@ -65531,12 +65531,13 @@ Within 90 days after the end of the first year of implementation, the operator s
 
 (b) The first fiscal year for which an operator does not maintain the required ratio of fare revenues to operating cost is deemed a grace year, and shall not result in any penalty nor loss of eligibility for funds under this article.
 
-(c) (1) Notwithstanding subdivision (a), a transportation planning agency, county transportation commission, or the San Diego Metropolitan Transit Development Board shall not impose the penalty described in subdivision (a) on an operator that does not maintain the required ratio of fare revenues to operating cost during the 2019–20, 2020–21, 2021–22, 2022–23, 2023–24, 2024–25, or 2025–26
+(c) (1) Notwithstanding subdivision (a), a transportation planning agency, county transportation commission, or the San Diego Metropolitan Transit Development Board shall not impose the penalty described in subdivision (a) on an operator that does not maintain the required ratio of fare revenues to operating cost during the 2019–20, 2020–21, 2021–22, 2022–23, 2023–24, 2024–25,
+ 2025–26, or 2026–27
  fiscal year.
 
-(2) This subdivision shall become inoperative on January 1, 2027.
+(2) This subdivision shall become inoperative on January 1, 2028.
 
-(History: Amended by Stats. 2023, Ch. 54, Sec. 7.   (SB 125)   Effective July 10, 2023.)
+(History: Amended by Stats. 2026, Ch. 82, Sec. 3.   (SB 169)   Effective July 13, 2026.)
 -------------------------------------------
 
 99268.11.
@@ -66390,9 +66391,9 @@ The Legislature finds and declares that the exchange of state funds for federal 
 
 (3) The entity conducting the performance audit pursuant to Section 99246.
 
-(e) Notwithstanding subdivision (a), an operator is exempt from meeting either efficiency standard under paragraph (1) of subdivision (a) for the 2020–21 to 2025–26, inclusive, fiscal years, and may use the funds allocated pursuant to Sections 99313 and 99314 for operating or capital purposes during that period of time.
+(e) Notwithstanding subdivision (a), an operator is exempt from meeting either efficiency standard under paragraph (1) of subdivision (a) for the 2020–21 to 2026–27, inclusive, fiscal years, and may use the funds allocated pursuant to Sections 99313 and 99314 for operating or capital purposes during that period of time.
 
-(History: Amended by Stats. 2023, Ch. 54, Sec. 9.   (SB 125)   Effective July 10, 2023.)
+(History: Amended by Stats. 2026, Ch. 82, Sec. 4.   (SB 169)   Effective July 13, 2026.)
 -------------------------------------------
 
 99314.7.
@@ -89131,12 +89132,36 @@ CHAPTER 3. Responsibilities of the High-Speed Rail Authority Inspector General [
 
 187034.
 
-(a) Notwithstanding any other law, the Inspector General during regular business hours or at any other time determined necessary by the Inspector General shall have access to and authority to examine and reproduce any and all books, accounts, reports, vouchers, correspondence, files, documents, and other records, and to examine the bank accounts, money, or other property of the High-Speed Rail Authority in connection with duties authorized by this division. Any officer or employee of any agency or entity having these records or property in their possession or under their control shall permit access to, and examination and reproduction thereof consistent with the provisions of this division, upon the request of the
- Inspector General or the Inspector General’s authorized representative.
+(a) Notwithstanding any other law, the Inspector General during regular business hours or at any other time determined necessary by the Inspector General shall have access to and authority to examine and reproduce any and all books, accounts, reports, vouchers, correspondence, files, documents, and other records, and to examine the bank accounts, moneys, or other property of the High-Speed Rail Authority in connection with duties authorized by this division. Any officer or employee of any agency or entity having these records or property in their possession or under their control shall permit access to, and examination and
+ reproduction thereof consistent with the provisions of this division, upon the request of the Inspector General or the Inspector General’s authorized representative.
 
 (b) The High-Speed Rail Authority shall ensure that the right-of-access provisions described in subdivision (a) are included in all of its contracts or amendments executed on or after July 1, 2024, in which project funds will be expended.
 
-(History: Amended by Stats. 2024, Ch. 53, Sec. 11.   (AB 173)   Effective July 2, 2024.)
+(c) Providing confidential information to the Inspector General pursuant to this section, including, but not limited to, confidential information that is subject to a privilege, shall not constitute a waiver of that confidentiality.
+
+(History: Amended by Stats. 2026, Ch. 82, Sec. 5.   (SB 169)   Effective July 13, 2026.)
+-------------------------------------------
+
+187035.
+
+(a) The Inspector General shall not destroy any papers or memoranda used to support a completed audit or review sooner than three years after the corresponding report is published or delivered pursuant to Section 187037.
+
+(b) All books, papers, records, and correspondence of the office pertaining to its work are public records subject to Division 10 (commencing with Section 7920.000) of Title 1 of the Government Code and shall be filed at any of the regularly maintained offices of the Inspector General, except that none of the following items or papers of which these items are a part shall be released to the public by the Inspector General or the employees of the Inspector General:
+
+(1) Personal papers and correspondence of any person providing assistance to the Inspector General for purposes of paragraph (3) of subdivision (a) of Section 187032 when that person has requested in writing that their papers and correspondence be kept private and confidential. Consistent with subparagraph (A) of paragraph (3) of subdivision (a) of Section 187032, those papers and correspondence shall become public records if the written request is withdrawn, or upon the order of the Inspector General.
+
+(2) Papers, correspondence, memoranda, or any substantive information pertaining to any audit or review not completed.
+
+(3) Papers, correspondence, or memoranda pertaining to any audit or review that has been completed, which papers, correspondence, or memoranda are not used in support of any report resulting from the audit or review.
+
+(4) Any survey of public employees or contracted staff that the Inspector General determines should be kept confidential to deter retaliation if the employees or staff respond to the survey.
+
+(5) Any record of an investigation conducted under this division, including, but not limited to, all investigative files and work product, except that the Inspector General, whenever the Inspector General determines it necessary to serve the interests of the state, may issue a public report of the results of an investigation that has substantiated a violation of laws, rules, or regulations, or mismanagement, gross waste of funds, abuse of authority, or a substantial and specific danger to the public health and safety. Except as provided in subparagraph (A) of paragraph (3) of subdivision (a) of Section 187032, the Inspector General may also release any findings or evidence supporting any findings
+ resulting from an investigation conducted pursuant to this division whenever the Inspector General determines it necessary to serve the interests of the state.
+
+(c) The restrictions on public disclosure described in subdivision (b) shall only apply to records in the possession or control of the Inspector General, and shall not alter the responsibility of any other state or local agency to comply with all applicable laws regarding the disclosure of public records.
+
+(History: Added by Stats. 2026, Ch. 82, Sec. 6.   (SB 169)   Effective July 13, 2026.)
 -------------------------------------------
 
 187036.
@@ -89146,17 +89171,46 @@ It is a misdemeanor for the Inspector General or any employee or former employee
 (History: Added by Stats. 2022, Ch. 71, Sec. 10.   (SB 198)   Effective June 30, 2022.)
 -------------------------------------------
 
+187037.
+
+(a) Except as provided in subdivision (b), upon completion of an audit or review conducted pursuant to subdivision (a) of Section 187030, the Inspector General shall do all of the following:
+
+(1) Publish a complete report on its internet website.
+
+(2) Provide, in compliance with policies developed by the Inspector General, notification of the published report to the Governor and the High-Speed Rail Authority.
+
+(3) Submit a copy of the published report to the Legislature in compliance with Section 9795 of the Government Code.
+
+(b) (1) The Inspector General may hold a report, or a portion of a report, confidential for the period of time described in paragraph (3) if the Inspector General determines that the report, or a portion of the report, would describe or otherwise reveal weaknesses, including those involving information security, physical security, fraud detection controls, or pending litigation, that would pose a substantial and articulable risk to the project or to state operations if publicly disclosed.
+
+(2) If the Inspector General makes a determination pursuant to paragraph (1), the Inspector General shall do all of the following:
+
+(A) Make publicly available any reasonably segregable portion of the report that does not pose the substantial and articulable risk identified pursuant to paragraph (1).
+
+(B) Publicly disclose
+ that a report, or a portion of the report, has been held confidential and provide the rationale for the determination.
+
+(C) Deliver a confidential report, or a confidential portion of the report, that describes and makes recommendations to resolve the identified weaknesses to state officials with oversight of the project, which may include the executive director and board chair of the High-Speed Rail Authority, the chairs of the Assembly Committee on Transportation and the Senate Committee on Transportation, or the Governor. The report, or portion of the report, delivered pursuant to this subparagraph shall remain confidential only so long as the Inspector General determines that public disclosure would continue to pose the substantial and articulable risk identified pursuant to paragraph (1).
+
+(3) Within 120 days after making a determination pursuant to paragraph (1), and at least
+ every 120 days thereafter while a report, or a portion of a report, is held confidential, the Inspector General shall reassess whether continued confidentiality is warranted. Upon each reassessment, the Inspector General shall either publicly release the report, or the portion of the report, that is held confidential or issue a written determination explaining why continued confidentiality remains necessary.
+
+(History: Added by Stats. 2026, Ch. 82, Sec. 7.   (SB 169)   Effective July 13, 2026.)
+-------------------------------------------
+
 187038.
 
-(a) Notwithstanding Section 10231.5 of the Government Code, the Inspector General shall report at least annually to the Legislature and the Governor a summary of its findings, positive and negative, of any reviews, investigations, or audits conducted pursuant to this division, when the High-Speed Rail Authority provides statutorily required documents to the Legislature, and upon request of the Legislature or Governor. The summary shall be posted on the office’s internet website and otherwise made available to the public upon its release to the Legislature and the Governor. The summary shall include, but not be limited to, significant problems discovered by the office, and whether previous recommendations the office has made have been implemented.
+(a) The Inspector General shall report at least annually to the Legislature and the Governor a summary of its findings, positive and negative, of any reviews, investigations, or audits published pursuant to
+ Section 187037 at the beginning of each fiscal year and upon request of the Legislature or Governor. The summary shall be posted on the office’s internet website and otherwise made available to the public upon its release to the Legislature and the Governor. The summary shall include, but not be limited to, significant problems discovered by the office, and whether previous recommendations the office has made have been implemented.
 
-(b) Notwithstanding Section 10231.5 of the Government Code, the Inspector General shall report annually to the Legislature and the Governor on findings related to the High-Speed Rail Authority’s planning and delivery of the project. This report shall include updates on the High-Speed Rail Authority’s efforts to remedy any identified findings, and whether any identified findings have been addressed.
+(b) The Inspector General shall report annually to the Legislature and the Governor on findings related to the High-Speed Rail Authority’s planning and delivery of the project. This report shall include updates on the
+ High-Speed Rail Authority’s efforts to remedy any identified findings, and whether any identified findings have been addressed.
 
 (c) The Inspector General shall maintain a list of identified findings, and the status of the High-Speed Rail Authority’s efforts to address them, and shall post that list on the office’s internet website.
 
 (d) Reports to be submitted to the Legislature pursuant to subdivisions (a) and (b) shall be submitted in compliance with Section 9795 of the Government Code.
 
-(History: Added by Stats. 2022, Ch. 71, Sec. 10.   (SB 198)   Effective June 30, 2022.)
+(History: Amended by Stats. 2026, Ch. 82, Sec. 8.   (SB 169)   Effective July 13, 2026.)
 -------------------------------------------
 
 
