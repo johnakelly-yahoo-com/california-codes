@@ -5,7 +5,7 @@
 
 Source: Official California Legislative Information
         https://downloads.leginfo.legislature.ca.gov/
-Last Updated by State of California: July 10, 2026
+Last Updated by State of California: July 17, 2026
 
 
 ======================================================================
@@ -711,16 +711,18 @@ This article shall be liberally construed. If any provision of this article or t
 
 241.
 
-The director may charge any bureau, division, board, or other agency of the department which is supported otherwise than by the appropriations from the General Fund its proportionate share of the administrative expense of the department, or a share in an amount which is computed to reasonably compensate the department for the administative services which are rendered by it.
+The secretary may charge a bureau, division, board, or other agency of the department that is supported other than by the appropriations from the General Fund its proportionate share of the administrative expense of the department, or a share in an amount that is computed to reasonably compensate the department for the administrative services that are rendered by it.
 
-(History: Enacted by Stats. 1967, Ch. 15.)
+(History: Amended by Stats. 2026, Ch. 84, Sec. 3.   (SB 172)   Effective July 13, 2026.)
 -------------------------------------------
 
 242.
 
-Apportionment of the expenses shall be made and determined by the director, subject to the approval of the Director of Finance. The proportionate or computed share so charged shall not, however, exceed 5 percent of the collections which are made by the department for the bureau, division, board, or other agency and the share shall further be limited to only those costs for which direct benefits are derived by the programs against which the costs are being charged.
+(a) Apportionment of the expenses shall be made and determined by the secretary, subject to the approval of the Director of Finance. The proportionate or computed share charged to the Department of Food and Agriculture Fund shall not exceed 5 percent of the total departmentwide expenditures and the share shall further be limited to only those costs for which direct benefits are derived by the programs against which the costs are being charged.
 
-(History: Amended by Stats. 1986, Ch. 464, Sec. 1.)
+(b) Apportionment of the expenses associated with information technology, legal services, human resources, and the Office of Civil Rights, as specified in the annual Budget Act, shall be excluded from the 5-percent limitation described in subdivision (a).
+
+(History: Amended by Stats. 2026, Ch. 84, Sec. 4.   (SB 172)   Effective July 13, 2026.)
 -------------------------------------------
 
 243.
@@ -5521,9 +5523,9 @@ There is hereby created the State Race Track Leasing Commission which shall be c
 
 4352.
 
-The Department of Finance shall provide clerical services to the commission. The Department of Food and Agriculture, the Department of General Services, and the California Horse Racing Board shall cooperate with the commission, and, insofar as possible, shall, on request, allow the commission to utilize their staffs as needed by the commission. However, the sole counsel for the commission shall be the Attorney General, as provided in Section 4357.
+The Department of Food and Agriculture shall provide clerical services to the commission. The Department of Food and Agriculture, the Department of General Services, and the California Horse Racing Board shall cooperate with the commission, and, insofar as possible, shall, on request, allow the commission to use their staffs as needed by the commission. However, the sole counsel for the commission shall be the Attorney General, as provided in Section 4357.
 
-(History: Amended by Stats. 1984, Ch. 193, Sec. 22.)
+(History: Amended by Stats. 2026, Ch. 84, Sec. 5.   (SB 172)   Effective July 13, 2026.)
 -------------------------------------------
 
 4353.
@@ -47648,7 +47650,7 @@ Each member of the committee, any alternate member serving in the absence of a r
 
 ======================================================================
 
-DIVISION 17. FRUIT, NUT, AND VEGETABLE STANDARDS [42501. - 49021.]
+DIVISION 17. FRUIT, NUT, AND VEGETABLE STANDARDS [42501. - 49025.8.]
 
 
 
@@ -50805,6 +50807,69 @@ Nine months after the Department of Food and Agriculture has issued sufficient g
 (3) An estimate of the change in EBT use relative to the marketing and outreach efforts of grantees.
 
 (History: Added by Stats. 2022, Ch. 605, Sec. 1.   (SB 907)   Effective January 1, 2023.)
+-------------------------------------------
+
+
+
+CHAPTER 14.5. California Farm to School Act [49025. - 49025.8.]
+
+49025.
+
+This chapter shall be known, and may be cited, as the California Farm to School Act.
+
+(History: Added by Stats. 2026, Ch. 84, Sec. 6.   (SB 172)   Effective July 13, 2026.)
+-------------------------------------------
+
+49025.5.
+
+(a) The California Farm to School Program is hereby established, under the administration of the Office of Farm to Fork, for purposes of cultivating equity, nurturing students, building climate resilience, and creating scalable and sustainable change in the school food system.
+
+(b) The California Farm to School Program shall do all of the following:
+
+(1) Increase procurement of foods that are grown or produced in California and are whole or are minimally processed from food producers in California for school meal programs.
+
+(2) Increase hands-on food education opportunities that engage pupils and connect the
+ classroom with the cafeteria, such as activities in school gardens, on farms, in culinary classes, in settings that celebrate traditional foodways and cultivate food sovereignty, and through other experiential learning pathways.
+
+(3) Use regional staff to provide technical assistance and resources, facilitate relationships between local producers and school personnel, and encourage opportunities to incorporate best practices related to scratch cooking, hands-on education, Good Agricultural Practices (GAP), food safety, infrastructure, climate-smart agricultural practices, certification, and insurance.
+
+(4) Develop programming for the California Farm to School Program in consultation with the State Department of Education, the State Department of Social Services, the State Department of Public Health, and any other relevant departments as needed.
+
+(5) Administer the California Farm to School Incubator Grant Program.
+
+(6) Collect data to evaluate program goals and implementation progress.
+
+(c) The office may implement initiatives under the California Farm to School Program, including, but not limited to, initiatives that do any of the following:
+
+(1) Advance the California farm to school network.
+
+(2) Facilitate a California Farm to School Interagency Working Group, including, but not limited to, all of the following state agencies:
+
+(A) State Department of Education.
+
+(B) California Environmental Protection
+ Agency.
+
+(C) California Health and Human Services Agency.
+
+(D) Labor and Workforce Development Agency.
+
+(3) Further workforce development and kitchen infrastructure.
+
+(4) Expand youth leadership opportunities related to farm to school.
+
+(5) Strengthen supply chain infrastructure and transparency related to institutional procurement.
+
+(6) Support farm-to-institution projects that leverage the department’s expertise.
+
+(History: Added by Stats. 2026, Ch. 84, Sec. 6.   (SB 172)   Effective July 13, 2026.)
+-------------------------------------------
+
+49025.8.
+
+The department may adopt regulations necessary to implement and administer the California Farm to School Program.
+
+(History: Added by Stats. 2026, Ch. 84, Sec. 6.   (SB 172)   Effective July 13, 2026.)
 -------------------------------------------
 
 
