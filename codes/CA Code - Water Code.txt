@@ -5,7 +5,7 @@
 
 Source: Official California Legislative Information
         https://downloads.leginfo.legislature.ca.gov/
-Last Updated by State of California: December 05, 2025
+Last Updated by State of California: July 17, 2026
 
 
 ======================================================================
@@ -101446,8 +101446,8 @@ As used in this division, unless the context otherwise requires, all of the foll
 
 (b) “Administrator” has the same meaning as defined in Section 3280 of the Public Utilities Code.
 
-(c) “Bonds” means bonds, notes, or other evidences of indebtedness issued solely for purposes of supporting the Wildfire Fund or the account and other related expenses incurred by the department pursuant to this division, or for reimbursing expenditures from the fund or the Wildfire Fund
- or the account for those purposes; repaying to the Surplus Money Investment Fund any loans made to the Wildfire Fund; establishing or maintaining reserves in connection with the bonds; costs of issuance of bonds or incidental to their payment or security; capitalized interest; or renewing or refunding any bonds.
+(c) “Bonds” means bonds, notes, or other evidences of indebtedness issued solely for purposes of supporting the Wildfire Fund or the account and other related
+ expenses incurred by the department pursuant to this division, or for reimbursing expenditures from the fund or the Wildfire Fund or the account for those purposes; repaying to the Surplus Money Investment Fund any loans made to the Wildfire Fund; establishing or maintaining reserves in connection with the bonds; costs of issuance of bonds or incidental to their payment or security; capitalized interest; or renewing or refunding any bonds.
 
 (d) “Commission” means the Public Utilities Commission.
 
@@ -101455,9 +101455,9 @@ As used in this division, unless the context otherwise requires, all of the foll
 
 (f) “Fund” means the Department of Water Resources Charge Fund established by Section 80550.
 
-(g) “Wildfire Fund” has the same meaning as defined in Section 3280 of the Public Utilities Code.
+(g) “Wildfire Fund” means the Wildfire Fund created pursuant to Section 3284 of the Public Utilities Code.
 
-(History: Amended by Stats. 2025, Ch. 119, Sec. 68.   (SB 254)   Effective September 19, 2025.)
+(History: Amended by Stats. 2026, Ch. 81, Sec. 9.   (SB 168)   Effective July 13, 2026.)
 -------------------------------------------
 
 80508.
