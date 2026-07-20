@@ -5,7 +5,7 @@
 
 Source: Official California Legislative Information
         https://downloads.leginfo.legislature.ca.gov/
-Last Updated by State of California: November 27, 2025
+Last Updated by State of California: July 17, 2026
 
 
 ======================================================================
@@ -106,7 +106,7 @@ No local public entity, charter city, or charter county shall require a bidder t
 
 
 
-  CHAPTER 1.6. Electronic Transmissions [1600. - 1601.]
+  CHAPTER 1.6. Electronic Transmissions [1600. - 1607.]
 
 1600.
 
@@ -119,14 +119,74 @@ Notwithstanding any other provision of law, counties, a city and county, and sta
 
 (a) Any public entity may adopt methods and procedures to do any of the following:
 
-(1) Receive bids on public works or other contracts over the Internet, but only if no bid can be opened before the bid deadline and all bids can be verified as authentic.
+(1) Receive bids on public works or other contracts over the internet, but only if no bid can be opened before the bid deadline and all bids can be verified as authentic.
 
-(2) Receive supporting materials submitted pursuant to a public works contract over the Internet. For purposes of this section, “supporting materials” includes, but
- is not limited to, payment requests, shop drawings, schedules, notices of claims, and certified payrolls.
+(2) Receive supporting materials submitted pursuant to a public works or other contract over the internet. For purposes of this section, “supporting materials” includes, but is not limited to, resumes, references, licenses, specifications, certifications, applications, payment requests, shop drawings, schedules, notices of claims, and certified payrolls.
 
-(b) If a public entity allows or requires bids or supporting materials to be submitted over the Internet pursuant to this section, the public entity shall provide an electronic receipt to the contractor showing the date and time the submission was received. The public entity shall provide the electronic receipt to the contractor either by immediate transmission to the contractor or by providing the contractor access to an electronic file online that contains this information and that can be viewed and printed by the contractor.
+(b) If a public entity allows or requires bids or supporting materials to be submitted over the internet, pursuant to this section, the public entity shall provide an electronic receipt to the contractor showing the date and time the submission was received. The public entity shall provide the electronic receipt to the contractor either by immediate transmission to the contractor or by providing the contractor access to an electronic file online that contains this information and that can be viewed and printed by the contractor.
 
-(History: Amended by Stats. 2007, Ch. 427, Sec. 1.   Effective January 1, 2008.)
+(History: Amended by Stats. 2026, Ch. 84, Sec. 23.   (SB 172)   Effective July 13, 2026.)
+-------------------------------------------
+
+1602.
+
+The Department of General Services may develop, implement, and maintain secure electronic procurement platforms for use by public entities. These platforms may support the full life cycle of procurement, including, but not limited to, solicitation posting, bid submission, bid opening, evaluation, award, catalog-based ordering, and contract management.
+
+(History: Added by Stats. 2026, Ch. 84, Sec. 24.   (SB 172)   Effective July 13, 2026.)
+-------------------------------------------
+
+1603.
+
+As used in this chapter:
+
+(a) “Bid” may include, but is not limited to, an offer, quote, or proposal.
+
+(b) “Catalog-based ordering” means the purchase of goods or services from electronic catalogs.
+
+(c) “Digital bid opening” means the process of unsealing and accessing bid information through secure electronic methods at a designated time.
+
+(d) “Electronic procurement platform” means a secure, web-based system to facilitate procurement activities.
+
+(e) “Secure platform” means a system with encryption, role-based
+ access controls, automated audit logs, and data integrity protections.
+
+(History: Added by Stats. 2026, Ch. 84, Sec. 25.   (SB 172)   Effective July 13, 2026.)
+-------------------------------------------
+
+1604.
+
+Posting solicitations and receiving bids through an electronic procurement platform shall satisfy all statutory requirements for public advertising, bid submission, and document retention under this code, including the procurement platform requirements set forth in this chapter.
+
+(History: Added by Stats. 2026, Ch. 84, Sec. 26.   (SB 172)   Effective July 13, 2026.)
+-------------------------------------------
+
+1605.
+
+An electronic procurement platform authorized under this chapter shall satisfy all of the following requirements:
+
+(a) Include time-stamped bid submissions and acknowledgments.
+
+(b) Maintain automated audit trails.
+
+(c) Comply with applicable state information security standards.
+
+(d) Allow vendors to access their submission history and receipts.
+
+(History: Added by Stats. 2026, Ch. 84, Sec. 27.   (SB 172)   Effective July 13, 2026.)
+-------------------------------------------
+
+1606.
+
+Bid openings may be conducted electronically. The platform shall ensure that no bid is viewable before the deadline and that a verifiable digital record of the opening is maintained and made publicly accessible.
+
+(History: Added by Stats. 2026, Ch. 84, Sec. 28.   (SB 172)   Effective July 13, 2026.)
+-------------------------------------------
+
+1607.
+
+This chapter shall supersede any conflicting provisions in code with respect to electronic procurement activities by public entities.
+
+(History: Added by Stats. 2026, Ch. 84, Sec. 29.   (SB 172)   Effective July 13, 2026.)
 -------------------------------------------
 
 
@@ -649,16 +709,16 @@ For purposes of this chapter, a person engages in investment activities in Iran 
 
 2204.
 
-(a) A public entity shall require a person that submits a bid or proposal to, or otherwise proposes to enter into or renew a contract with, a public entity with respect to a contract for goods or services of one million dollars ($1,000,000) or more to certify, at the time the bid is submitted or the contract is renewed, that the person is not identified on a list created pursuant to subdivision (b) of Section 2203 as a person engaging in investment activities in Iran
- described in subdivision (a) of Section 2202.5, or as a person described in subdivision (b) of Section 2202.5, as applicable. A state agency shall submit the certification information to the Department of General Services.
+(a) A public entity shall require a person that submits a bid or proposal to, or otherwise proposes to enter into or renew a contract with, a public entity with respect to a contract for goods or services of one million dollars ($1,000,000) or more to certify, at the time the bid is submitted or the contract is renewed, that the person is not identified on a list created pursuant to subdivision (b) of Section 2203 as a person engaging in investment activities in Iran described in subdivision (a) of Section 2202.5, or as a person described in subdivision (b) of Section 2202.5, as applicable.
 
 (b) A public entity shall not require a person that submits a bid or proposal to, or otherwise proposes to enter into a contract with, the public entity with respect to a contract for goods or services of one million dollars ($1,000,000) or more to certify that the person is not identified on a list created pursuant to subdivision (b) of Section 2203 as a person engaging in investment activities in Iran described in subdivision (a) of Section 2202.5, or as a person described in subdivision (b) of Section 2202.5, as applicable, if the person has been permitted to submit a bid or proposal to the public entity pursuant to subdivision (c) or (d) of Section 2203.
 
-(c) (1) Subject to paragraph (2), the certification requirement described in subdivision (a) applies on and after June 1, 2011.
+(c) (1) Subject to paragraph (2), the certification
+ requirement described in subdivision (a) applies on and after June 1, 2011.
 
 (2) A person that is a financial institution shall not be required to certify as provided in subdivision (a) until July 1, 2011. For any subsequent list created pursuant to subdivision (b) of Section 2203, a person that is a financial institution shall not be required to certify with respect to that subsequent list until 30 days after that list becomes available, but shall certify with respect to the immediately prior list for those 30 days.
 
-(History: Added by Stats. 2010, Ch. 573, Sec. 1.   (AB 1650)   Effective January 1, 2011.   Conditionally inoperative as prescribed by Stats. 2010, Ch. 573, Sec. 2.)
+(History: Amended by Stats. 2026, Ch. 84, Sec. 30.   (SB 172)   Effective July 13, 2026.   Conditionally inoperative as prescribed by Stats. 2010, Ch. 573, Sec. 2.)
 -------------------------------------------
 
 2205.
@@ -6050,7 +6110,9 @@ As used in this chapter:
 (7) A contract entered into by the Department of Forestry and Fire Protection for the purpose of providing logistical support for large-scale prescribed fire operations, including, but not limited to, meals, lodging, hired equipment, onsite preparatory efforts, and land use agreements,
  or any related subcontract.
 
-(History: Amended by Stats. 2024, Ch. 778, Sec. 2.   (SB 1101)   Effective January 1, 2025.)
+(8) A letter, contract, or contract amendment issued or entered into by the State Department of Developmental Services for a funding allocation or adjustment to a regional center pursuant to Section 4621.6 of the Welfare and Institutions Code.
+
+(History: Amended by Stats. 2026, Ch. 80, Sec. 8.   (SB 163)   Effective July 13, 2026.)
 -------------------------------------------
 
 10295.1.
@@ -6483,9 +6545,9 @@ Any bidder temporarily removed under this section shall be returned to the list 
 
 10304.
 
-All bids shall be sealed and shall be publicly opened and read at the time set forth in the solicitation, provided any person present desires the bids to be so read. No bids shall be considered which have not been received in the office of the department prior to the closing time for bids set forth in the invitations to bids. The department shall maintain confidentiality regarding each bid until the public opening and reading takes place.
+All bids shall be sealed and shall be publicly opened and read at the time set forth in the solicitation, provided any person in attendance desires the bids to be read. No bids shall be considered that have not been received by the awarding department prior to the closing time for bids set forth in the invitations to bids. The department shall maintain confidentiality regarding each bid until the public opening and reading takes place.
 
-(History: Amended by Stats. 2000, Ch. 776, Sec. 13.   Effective September 27, 2000.)
+(History: Amended by Stats. 2026, Ch. 84, Sec. 31.   (SB 172)   Effective July 13, 2026.)
 -------------------------------------------
 
 10304.1.
@@ -6505,13 +6567,11 @@ After being opened the bids shall be available for public inspection and tabulat
 
 10306.
 
-(a) Whenever a contract under this article is not to be awarded to the lowest bidder, the bidder shall be notified 24 hours prior to awarding the contract to another bidder. Upon written request by any bidder who has submitted a bid, notice of the proposed award shall be posted in a public place
- specified in the solicitation document by the department, that may include an electronic location or Internet Web site, at least 24 hours prior to awarding the contract. If prior to making the award, any bidder who has submitted a bid files a protest with the department against the awarding of the contract on the ground that he or she is the lowest responsible bidder meeting specifications, the contract shall not be awarded until either the protest has been withdrawn or the department has made a final decision as to the action to be taken relative to the protest. In computing the
- 24-hour periods provided for in this section, Saturdays, Sundays, and legal holidays shall be excluded.
+(a) Whenever a contract under this article is not to be awarded to the lowest bidder, the bidder shall be notified 24 hours prior to awarding the contract to another bidder. Upon written request by any bidder who has submitted a bid, notice of the proposed award shall be posted in a public place specified in the solicitation document by the awarding department, that may include an electronic location or internet website, at least 24 hours prior to awarding the contract. If prior to making the award, any bidder who has submitted a bid that is subject to protest files a protest with the department against the awarding of the contract on the ground that they are the lowest responsible bidder meeting specifications, the contract shall not be awarded until either the protest has been withdrawn or the department has made a final decision as to the action to be taken relative to the protest. In computing the 24-hour periods provided for in this section, Saturdays, Sundays, and legal holidays shall be excluded.
 
 (b) Within 10 days after filing a protest, the protesting bidder shall file with the department a full and complete written statement specifying in detail the ground of the protest and the facts in support thereof.
 
-(History: Amended by Stats. 2018, Ch. 335, Sec. 3.   (SB 1505)   Effective January 1, 2019.)
+(History: Amended by Stats. 2026, Ch. 84, Sec. 32.   (SB 172)   Effective July 13, 2026.)
 -------------------------------------------
 
 10307.
@@ -6928,19 +6988,17 @@ After opening, all bids shall be available for public inspection.
 
 10344.
 
-(a) Contracts subject to the provisions of this article may be awarded under a procedure that makes use of a request for proposal. State agencies that use this procedure shall include in the request for proposal a clear, precise description of the work to be performed or services to be provided, a description of the format that proposals shall follow and the elements they shall contain, the standards the agency will use in evaluating proposals, the date on which proposals are due and the timetable the agency will follow in reviewing and evaluating them.
+(a) (1) Contracts subject to the provisions of this article may be awarded under a procedure that makes use of a request for proposal. State agencies that use this procedure shall include in the request for proposal a clear, precise description of the work to be performed or services to be provided, a description of the format that proposals shall follow and the elements they shall contain, the standards the agency will use in evaluating proposals, the date on which proposals are due, and the timetable the agency will follow in reviewing and evaluating them.
 
-State agencies that use a procedure that makes use of a request for proposal shall evaluate proposals and award contracts in accordance with the
- provisions of subdivision (b) or (c). No proposals shall be considered that have not been received at the place, and prior to the closing time, stated in the request for proposal.
+(2) State agencies that use a procedure that makes use of a request for proposal shall evaluate proposals and award contracts in accordance with the provisions of subdivision (b) or (c). No proposals shall be considered that have not been received by the awarding department, including electronically, prior to the closing time stated in the request for proposal.
 
-(b) State agencies that use the evaluation and selection procedure in this subdivision shall include in the request for proposal, in addition to the information required by subdivision (a), a requirement that bidders submit their proposals with the bid price and all cost information in a separate, sealed envelope.
+(b) State agencies that use the evaluation and selection procedure in this subdivision shall include in the request for proposal, in addition to the information required by subdivision (a), a requirement that bidders submit their proposals with the bid price and all cost information in a separate, sealed submission.
 
 Proposals shall be evaluated and the contract awarded in the following manner:
 
 (1) All proposals received shall be reviewed to determine those that meet the format requirements and the standards specified in the request for proposal.
 
-(2) The sealed envelopes containing the bid price and
- cost information for those proposals that meet the format requirements and standards shall then be publicly opened and read.
+(2) The sealed submissions containing the bid price and cost information for those proposals that meet the format requirements and standards shall then be publicly opened and read.
 
 (3) The contract shall be awarded to the lowest responsible bidder meeting the standards.
 
@@ -6948,27 +7006,27 @@ Proposals shall be evaluated and the contract awarded in the following manner:
 
 Proposals shall be evaluated and the contract awarded in the following manner:
 
-(1) All proposals shall be
- reviewed to determine which meet the format requirements specified in the request for proposal.
+(1) All proposals shall be reviewed to determine which meet the format requirements specified in the request for proposal.
 
 (2) All proposals meeting the formal requirements shall then be submitted to an agency evaluation committee which shall evaluate and score the proposals using the methods specified in the request for proposal. All proposals and all evaluation and scoring sheets shall be available for public inspection at the conclusion of the committee scoring process.
 
 (3) The contract shall be awarded to the bidder whose proposal is given the highest score by the evaluation committee.
 
-(d) Nothing in this section shall require the awarding of the contract if no proposals are received containing bids offering a contract price that in the opinion of the state agency is a reasonable price.
+(d) Nothing in this section shall require the
+ awarding of the contract if no proposals are received containing bids offering a contract price that in the opinion of the state agency is a reasonable price.
 
-(e) (1) In addition to the information required by subdivision (a), a request for proposal for a contract that involves the furnishing of equipment, materials, or supplies shall contain the following statement: 
+(e) (1) In addition to the information required by subdivision (a), a request for proposal for a contract that involves the furnishing of equipment, materials, or supplies shall contain the following statement:
 
 “It is unlawful for any person engaged in business within this state to sell or use any article or product as a “loss leader” as defined in Section 17030 of the Business and Professions Code.”
 
-(2) On and after March 31, 2010, and until December 31, 2011, if a request for proposal does not contain the statement required by paragraph (1), the awarding agency shall report this error to the department within 30 days of the date the awarding agency discovers this error.
+(2) On and after March 31, 2010, and until December 31, 2011, if a request for proposal does not contain the statement required by paragraph (1), the awarding agency shall report this error to the department within 30 days of the date the awarding agency discovers
+ this error.
 
-(3) The department shall post in the State Contracting Manual instructions for including the statement required by paragraph (1) in
- all affected contracts.
+(3) The department shall post in the State Contracting Manual instructions for including the statement required by paragraph (1) in all affected contracts.
 
 (4) The statement required by paragraph (1) shall be deemed to be part of a request for proposal even if the statement is inadvertently omitted from the request for proposal.
 
-(History: Amended by Stats. 2009, Ch. 490, Sec. 5.   (AB 926)   Effective January 1, 2010.)
+(History: Amended (as amended by Stats. 2010, Ch. 328, Sec. 192) by Stats. 2026, Ch. 84, Sec. 33.   (SB 172)   Effective July 13, 2026.)
 -------------------------------------------
 
 10344.1.
@@ -9720,6 +9778,37 @@ The Director of General Services and the Director of Technology may make the ser
  section, “information technology” means information technology goods or services, or both, as appropriate.
 
 (History: Amended by Stats. 2013, Ch. 28, Sec. 68.   (SB 71)   Effective June 27, 2013.   Operative July 1, 2013, by Sec. 93 of Ch. 28.)
+-------------------------------------------
+
+12112.1.
+
+(a) Software license contracts allowing the use of the software for a specified time period with recurring payments may be paid in advance subject to the procedures, terms, and conditions that the controlling department, as specified in Section 12100, deems necessary to protect the state’s interests.
+
+(b) If an agreement combines the purchase of software with contracted personnel, this section may be applied only to the software purchase and payment in advance for contracted personnel is prohibited. “Contracted personnel” includes, but is not limited to, consulting services, instructor-led training, and other personal services.
+
+(c) A single payment for a lifetime license is
+ permitted.
+
+(d) Advance payments authorized under this section shall not exceed three years.
+
+(e) Procedures, terms, and conditions shall address, at minimum, all of the following:
+
+(1) Annual advance payment provisions for multiyear agreements.
+
+(2) Encouraging suppliers to develop higher levels of service and support.
+
+(3) Financial risk, including supplier’s financial stability.
+
+(4) The supplier’s prior record of performance.
+
+(5) Reassignment of licenses within the contract term.
+
+(6) A cancellation
+ clause to protect the state’s interests.
+
+(f) Acquisitions shall be accomplished in accordance with this chapter.
+
+(History: Added by Stats. 2026, Ch. 84, Sec. 34.   (SB 172)   Effective July 13, 2026.)
 -------------------------------------------
 
 12113.
