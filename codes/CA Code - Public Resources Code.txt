@@ -5,7 +5,7 @@
 
 Source: Official California Legislative Information
         https://downloads.leginfo.legislature.ca.gov/
-Last Updated by State of California: July 10, 2026
+Last Updated by State of California: July 18, 2026
 
 
 ======================================================================
@@ -58124,21 +58124,26 @@ In the preparation of any environmental impact report pursuant to Section 21159.
 
 21159.9.
 
-The Office of Planning and Research shall implement a public assistance and information program to ensure efficient and effective implementation of this division and to do both of the following:
+The Office of Land Use and Climate Innovation shall implement a public assistance and information program to ensure efficient and effective implementation of this division and to do both of the following:
 
 (a) Establish a public education and training program for planners, developers, and other interested parties to assist them in implementing this division.
 
-(b) (1) Establish and maintain a database for the collection, storage, retrieval, and dissemination of environmental documents, notices of exemption, notices of preparation, notices of determination, and notices of completion provided to the Office of Planning and
- Research. The database shall be available online to the public through the Internet. The Office of Planning and Research may coordinate with another state agency to host and maintain the online database. 
+(b) (1) (A) Establish and maintain a database for the collection, storage, retrieval, and dissemination of environmental documents, notices of exemption, notices of preparation, notices of determination, and notices of completion
+ provided to the Office of Land Use and Climate Innovation. The database shall be available online to the public through the internet. The Office of Land Use and Climate Innovation may coordinate with another state agency to host and maintain the online database.
 
-(2) The Office of Planning and Research may phase in the submission of electronic documents and use of the database by state and local public agencies. 
+(B) The Office of Land Use and Climate Innovation may phase in the submission of electronic documents and use of the database by state and local public agencies.
 
-(3) (A) Pursuant to Section 9795 of the Government Code, the Office of Planning and Research shall, no later than July 1, 2017, submit to the Legislature a report describing how it plans to implement this subdivision, and shall provide
- an additional report to the Legislature no later than July 1, 2019, describing the status of the implementation of this subdivision. 
+(C) The Office of Land Use and Climate Innovation may include additional information in the database, including, but not limited to, information related to planning, permitting, grants, and procurement, for the purposes of facilitating efficient and informed decisionmaking by public agencies and members of the public.
 
-(B) Pursuant to Section 10231.5 of the Government Code, this paragraph is inoperative on July 1, 2023.
+(2) (A) The Office of Land Use and Climate Innovation may charge a fee upon the submission of electronic documents pursuant to this division to the database for the reasonable costs incurred in implementing this subdivision.
 
-(History: Amended by Stats. 2016, Ch. 476, Sec. 3.   (SB 122)   Effective January 1, 2017.)
+(B) (i) The State Clearinghouse Administrative Fund is hereby created in the State Treasury to be administered by the Office of Land Use and Climate Innovation.
+
+(ii) The fees received pursuant to subparagraph (A) shall be deposited into the fund and shall be available, upon appropriation by the Legislature, to the Office of Land Use and Climate Innovation for purposes of implementing this subdivision.
+
+(C) A fee charged pursuant to subparagraph (A) shall be subject to the Administrative Procedure Act (Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code), and shall be adopted in accordance with a formal rulemaking process.
+
+(History: Amended by Stats. 2026, Ch. 84, Sec. 35.   (SB 172)   Effective July 13, 2026.)
 -------------------------------------------
 
 
@@ -114643,36 +114648,47 @@ PART 1. Affordable Housing and Sustainable Communities [75200. - 75218.2.]
 
 75200.
 
-For the purposes of this part, the following terms have the following meanings:
+It is the intent of the Legislature that the AHSC Housing Allocation and AHSC Sustainable Communities Allocation be administered in a manner that supports coordinated and complementary investments that reduce greenhouse gas emissions, expand affordable housing opportunities, strengthen sustainable communities, and maximize the public benefit of state, regional, and local infrastructure investments.
 
-(a) “Council” means the Strategic Growth Council established pursuant to Section 75121.
-
-(b) “Disadvantaged communities” means communities identified as disadvantaged communities pursuant to Section 39711 of the Health and Safety Code.
-
-(c) “Program” means the Affordable Housing and Sustainable Communities Program established pursuant to Section 75210.
-
-(History: Added by Stats. 2014, Ch. 36, Sec. 21.   (SB 862)   Effective June 20, 2014.)
+(History: Added by Stats. 2026, Ch. 68, Sec. 27.   (AB 179)   Effective July 13, 2026.)
 -------------------------------------------
 
 75200.1.
 
-Consistent with Section 75125, the council, in consultation with the State Air Resources Board, shall review and coordinate the activities of member agencies of the council for the programs included in this part. The council shall review these programs, including grant guidelines of each program, consistent with Chapter 4.1 (commencing with Section 39710) of Part 2 of Division 26 of the Health and Safety Code, including the recommendations of the investment plan, Article 9.7 (commencing with Section 16428.8) of Chapter 2 of Part 2 of Division 4 of Title 2 of the Government Code, and Chapter 4.2 (commencing with Section 21155) of Division 13 of this code.
+For purposes of this part, the following definitions apply:
 
-(History: Added by Stats. 2014, Ch. 36, Sec. 21.   (SB 862)   Effective June 20, 2014.)
+(a) “AHSC Housing Allocation” means the funding allocation described in subparagraph (A) of paragraph (1) of subdivision (c) of Section 39719.4 of the Health and Safety Code for the purposes of affordable housing and administered by the Housing Development and Finance Committee.
+
+(b) “AHSC Sustainable Communities Allocation” means the funding allocation described in subparagraph (A) of paragraph (1) of subdivision (c) of Section 39719.4 of the Health and Safety Code for sustainable
+ communities’ investments and administered by the Strategic Growth Council.
+
+(c) “Committee” means the Housing Development and Finance Committee established pursuant to Section 54925 of the Health and Safety Code.
+
+(d) “Council” means the Strategic Growth Council established pursuant to Section 75121.
+
+(e) “Disadvantaged communities” means communities identified as disadvantaged communities pursuant to Section 39711 of the Health and Safety Code.
+
+(f) “Legacy agreement” means any award, agreement, contract, or other legally binding commitment made under funding notices of the program issued before July 1, 2026.
+
+(g) “Program” means the Affordable Housing and Sustainable Communities Program established pursuant to Section 75210.
+
+(h) “Program administrator” means either the committee or the council responsible for administering an allocation.
+
+(History: Added by renumbering Section 75200 by Stats. 2026, Ch. 68, Sec. 26.   (AB 179)   Effective July 13, 2026.)
 -------------------------------------------
 
 75200.2.
 
-The council may designate a state agency or department to administer the program for the disbursement of grants and loans to support the planning and development of sustainable communities consistent with this part and Section 39719 of the Health and Safety Code.
+A program administrator may designate a state agency or department to manage allocations under the program for the disbursement of grants and loans to support the planning and development of affordable housing and sustainable communities consistent with this part and Sections 39719 and 39719.4 of the Health and Safety Code.
 
-(History: Added by Stats. 2015, Ch. 323, Sec. 8.   (SB 102)   Effective September 22, 2015.)
+(History: Amended by Stats. 2026, Ch. 68, Sec. 29.   (AB 179)   Effective July 13, 2026.)
 -------------------------------------------
 
 75200.3.
 
-Moneys appropriated to the council pursuant to Section 39719 of the Health and Safety Code may be used by a state agency or department designated by the council pursuant to Section 75200.2 for that state agency’s or department’s support and local assistance costs.
+Moneys appropriated to the program pursuant to Section 39719 or 39719.4 of the Health and Safety Code may be used by a state agency or department designated by a program administrator pursuant to Section 75200.2 for that state agency’s or department’s support and local assistance costs.
 
-(History: Added by Stats. 2015, Ch. 323, Sec. 9.   (SB 102)   Effective September 22, 2015.)
+(History: Amended by Stats. 2026, Ch. 68, Sec. 30.   (AB 179)   Effective July 13, 2026.)
 -------------------------------------------
 
 
@@ -114681,13 +114697,13 @@ Moneys appropriated to the council pursuant to Section 39719 of the Health and S
 
 75210.
 
-The council shall develop and administer the Affordable Housing and Sustainable Communities Program to reduce greenhouse gas emissions through projects that implement land use, housing, transportation, and agricultural land preservation practices to support infill and compact development, and that support related and coordinated public policy objectives, including the following:
+The Affordable Housing and Sustainable Communities Program is hereby established to reduce greenhouse gas emissions through projects that implement land use, housing, transportation, and agricultural land preservation practices to support infill and compact development, and that support related and coordinated public policy objectives, including the following:
 
 (a) Reducing air pollution.
 
 (b) Improving conditions in disadvantaged communities.
 
-(c) Supporting or improving public health and other cobenefits as defined in Section 39712 of the Health and Safety Code.
+(c) Supporting or improving public health and other cobenefits as described in Section 39712 of the Health and Safety Code.
 
 (d) Improving connectivity and accessibility to jobs, housing, and services.
 
@@ -114697,9 +114713,82 @@ The council shall develop and administer the Affordable Housing and Sustainable 
 
 (g) Preserving and developing affordable rental and owner-occupied housing for lower income households, as defined in Section 50079.5 of the Health and Safety Code.
 
-(h) Protecting agricultural lands to support infill development.
+(h) Protecting
+ agricultural lands to support infill development.
 
-(History: Amended by Stats. 2021, Ch. 355, Sec. 2.   (AB 1095)   Effective January 1, 2022.)
+(History: Amended by Stats. 2026, Ch. 68, Sec. 31.   (AB 179)   Effective July 13, 2026.)
+-------------------------------------------
+
+75210.1.
+
+Beginning with new funding rounds initiated after July 1, 2026, the moneys appropriated to the program shall be allocated as described in subparagraph (A) of paragraph (1) of subdivision (c) of Section 39719.4 of the Health and Safety Code. The allocations shall be administered as follows:
+
+(a) (1) The AHSC Housing Allocation shall be administered by the committee, with a focus on infill housing projects.
+
+(2) The committee shall administer the allocation described in paragraph (1) in alignment with its responsibility in Section 54942 of the Health and Safety Code to coordinate a cohesive and integrated affordable housing finance system.
+
+(3) In the initial program guidelines adopted pursuant to Section 75215, the committee shall establish allocation targets intended to encourage a substantial portion of the AHSC Housing Allocation funding to support projects that are located within proximity to, served by, or demonstrate substantial benefit from, transportation, active transportation, climate resilience, utility, community infrastructure, or other related public investments, including related investments funded through the Greenhouse Gas Reduction Fund and other state, regional, or local programs.
+
+(4) In awarding funds under the AHSC Housing Allocation, the committee shall provide additional consideration to both of the following:
+
+(A) Projects located within proximity to, served by, or demonstrating substantial benefit from, existing or planned transit,
+ active transportation, utility, climate resilience, or other community-serving improvements funded through the Greenhouse Gas Reduction Fund or other state, regional, or local transportation, infrastructure, and sustainable community programs.
+
+(B) Projects that are located near, served by, or coordinated with existing, planned, or previously funded climate-related public investments, including transportation, active transportation, climate resilience, transit-oriented development, and other community-serving infrastructure improvements.
+
+(5) In awarding funds under the AHSC Housing Allocation, the committee may provide additional consideration to projects that maximize the utilization and public benefit of completed state, regional, and local investments related to transportation, active transportation, climate, and sustainable infrastructure programs, including investments funded
+ through the Greenhouse Gas Reduction Fund.
+
+(b) (1) The AHSC Sustainable Communities Allocation shall be administered by the council to support flexible infrastructure and community improvement investments that advance greenhouse gas reduction objectives, support sustainable land use patterns, strengthen communities, and facilitate affordable housing opportunities throughout the state. These investments may include catalytic investments that help establish the infrastructure foundation necessary to support future affordable housing growth and sustainable community development and investments that enhance, expand, or maximize the public benefit of existing transportation, climate, utility, affordable housing, and community-serving infrastructure assets. In administering the allocation, the council shall seek to reflect the differing needs, opportunities, and development patterns of communities throughout the state.
+
+(2) In the initial program guidelines adopted pursuant to Section 75215, the council shall establish allocation targets intended to support all of the following:
+
+(A) Catalytic infrastructure investments that facilitate future affordable housing growth and sustainable community development.
+
+(B) Investments that enhance, expand, or maximize the public benefit of existing affordable housing, transportation, climate, and community infrastructure investments.
+
+(C) Complementary infrastructure and community improvement investments associated with affordable housing developments funded through the program. Funding under the target established pursuant to this subparagraph may be provided for investments occurring subsequent to an affordable housing award and may
+ support completed, underway, or newly awarded affordable housing developments. Participation under the target established pursuant to this subparagraph shall be optional and is intended to provide an additional pathway for affordable housing developments to receive complementary infrastructure and community improvement investments that improve resident access, strengthen community infrastructure, support sustainable land use patterns, and further greenhouse gas reduction objectives.
+
+(3) Receipt of an AHSC Housing Allocation award shall not require a corresponding application for, or award of, AHSC Sustainable Communities Allocation funding.
+
+(4) In awarding funds under the AHSC Sustainable Communities Allocation, the council shall provide additional consideration to projects that serve, support, enhance, or are located near affordable housing developments that have received funding
+ through the AHSC Housing Allocation, are funded and underway, or are planned pursuant to an AHSC Housing Allocation award or other state, regional, or local affordable housing programs that advance housing affordability and sustainable land use.
+
+(History: Added by Stats. 2026, Ch. 68, Sec. 32.   (AB 179)   Effective July 13, 2026.)
+-------------------------------------------
+
+75210.2.
+
+(a) In establishing and administering the allocation targets pursuant to Section 75210.1, the committee and the council shall balance the importance of maximizing the use and public benefit of existing sustainable infrastructure assets with supporting catalytic investments in underserved and emerging growth areas that can help establish the foundation for future affordable housing and sustainable community development.
+
+(b) (1) The committee and the council shall periodically review and update the allocation targets described in subdivision (a) and related program priorities based on program outcomes, investment trends, greenhouse gas reduction benefits, housing production outcomes, infrastructure use, and other
+ relevant factors that further the purposes of the program.
+
+(2) The review and update conducted pursuant to paragraph (1) shall occur not less than once every four years and may be incorporated into program guideline updates.
+
+(History: Added by Stats. 2026, Ch. 68, Sec. 33.   (AB 179)   Effective July 13, 2026.)
+-------------------------------------------
+
+75210.3.
+
+(a) Subject to subdivision (b), on and after July 1, 2026, the committee shall administer the AHSC Housing Allocation for all solicitations and related applications, awards, and agreements initiated on or after that date.
+
+(b) (1) Notwithstanding subdivision (a), the council shall retain authority and responsibility, until completion and closeout, to administer, manage, monitor, enforce, amend, including no-cost extensions, audit, and take all other actions necessary or convenient to carry out the terms of a legacy agreement.
+
+(2) Notwithstanding paragraph (1), the committee shall have primary responsibility for ongoing housing-related monitoring and
+ compliance oversight for legacy agreements.
+
+(c) The transfer of administration under subdivision (a) shall not impair the validity of a legacy agreement, and the rights and obligations of the parties to a legacy agreement shall continue in effect according to their terms.
+
+(d) For purposes of administering a legacy agreement under subdivision (b), any reference in a legacy agreement to the committee or its predecessor shall be deemed to refer to the council, as appropriate to effectuate this section.
+
+(e) (1) Notwithstanding any other law, commencing July 1, 2026, all funding made available for the program pursuant to Section 39719 of the Health and Safety Code, including funds not otherwise obligated or that subsequently become available due to disencumbrance, shall be available for allocation
+ and shall be administered in accordance with this part and with subparagraph (A) of paragraph (1) of subdivision (c) of Section 39719.4 of the Health and Safety Code.
+
+(2) This subdivision shall not apply to funds made available pursuant to the Round 10 notice of funding availability, except that any such funds that were previously obligated and are subsequently disencumbered shall be subject to this subdivision.
+
+(History: Added by Stats. 2026, Ch. 68, Sec. 34.   (AB 179)   Effective July 13, 2026.)
 -------------------------------------------
 
 75211.
@@ -114717,27 +114806,74 @@ To be eligible for funding pursuant to the program, a project shall do all of th
 
 75212.
 
-Projects eligible for funding pursuant to the program include any of the following:
+(a) For notices of funding availability released before June 30, 2026, projects eligible for funding pursuant to the program include any of the following:
 
-(a) Intermodal, affordable rental or owner-occupied housing projects that support infill and compact development.
+(1) Intermodal, affordable rental or owner-occupied housing projects that support infill and compact development.
 
-(b) Transit capital projects and programs supporting transit ridership, including water-borne transit.
+(2) Transit capital projects and programs supporting transit ridership, including water-borne transit.
 
-(c) Active transportation capital projects that qualify under the Active Transportation Program, including pedestrian and bicycle facilities and supportive infrastructure, including connectivity to transit stations.
+(3) Active transportation capital projects that qualify under the Active Transportation Program, including pedestrian and bicycle facilities and supportive infrastructure, including connectivity to transit stations.
 
-(d) Noninfrastructure-related active transportation projects that qualify under the Active Transportation Program, including activities that encourage active transportation goals conducted in conjunction with infrastructure improvement projects.
+(4) Noninfrastructure-related active transportation projects that qualify under the Active Transportation Program, including activities that encourage active transportation goals conducted in conjunction with infrastructure improvement projects.
 
-(e) Transit-oriented development projects, including affordable rental or owner-occupied housing and infrastructure at or near transit stations or connecting those developments to transit stations.
+(5) Transit-oriented development projects, including affordable rental or owner-occupied housing and infrastructure at or near transit stations or connecting those developments to transit stations.
 
-(f) Capital projects that implement local complete streets programs.
+(6) Capital projects that implement local complete streets programs.
 
-(g) Other projects or programs designed to reduce greenhouse gas emissions and other criteria air pollutants by reducing automobile trips and vehicle miles traveled within a community.
+(7) Other projects or programs designed to reduce greenhouse gas emissions and other criteria air pollutants by reducing automobile trips and vehicle miles traveled within a community.
 
-(h) Acquisition of easements or other approaches or tools that protect agricultural lands that are under pressure of being converted to nonagricultural uses, particularly those adjacent to areas most at risk of urban or suburban sprawl or those of special environmental significance.
+(8) Acquisition of easements or other approaches or tools that protect agricultural lands that are under pressure of being converted to nonagricultural uses, particularly those adjacent to areas most at risk of urban or suburban sprawl or those of special environmental significance.
 
-(i) Planning to support implementation of a sustainable communities strategy, including implementation of local plans supporting greenhouse gas emissions reduction efforts and promoting infill and compact development.
+(9) Planning to support implementation of a sustainable communities strategy, including implementation of local plans supporting greenhouse gas emissions reduction efforts and promoting infill and compact development.
 
-(History: Amended by Stats. 2021, Ch. 355, Sec. 3.   (AB 1095)   Effective January 1, 2022.)
+(b) For notices of funding availability released on or after July 1, 2026, projects eligible for funding pursuant to the program include any of the following:
+
+(1) For the
+ AHSC Housing Allocation, either of the following:
+
+(A) Affordable rental and owner-occupied housing projects that support infill and compact development, including, but not limited to, transit-oriented development projects.
+
+(B) Activities that support the development or implementation of projects described in subparagraph (A).
+
+(2) For the AHSC Sustainable Communities Allocation, any of the following:
+
+(A) Projects or programs designed to reduce greenhouse gas emissions and other criteria air pollutants by reducing automobile trips and vehicle miles traveled within a community, including, but not limited to, any of the following:
+
+(i) Transit, including transit capital projects supporting transit ridership.
+
+(ii) Active transportation, including active transportation capital projects that qualify under the Active Transportation Program established pursuant to Section 2380 of the Streets and Highways Code, which includes pedestrian and bicycle facilities and supportive infrastructure.
+
+(iii) Complete streets infrastructure.
+
+(B) (i) Acquisition of easements or other approaches and tools that protect agricultural lands that are under pressure of being converted to nonagricultural uses, particularly those adjacent to areas most at risk of urban or suburban sprawl and those of special environmental significance.
+
+(ii) In alignment with priorities set by the council and informed by interested parties, community members, and tribes, program awards made pursuant to this subparagraph shall make up not less than one-fifth and not more than one-third of the amounts awarded under
+ this paragraph.
+
+(C) Capacity, planning, and project development to support the implementation of a sustainable communities strategy or initiatives. This includes implementing local plans that support greenhouse gas emissions reduction efforts, promoting infill and compact development, and enhancing regional capacity, and infrastructure investments aligned with climate resilience goals.
+
+(History: Amended by Stats. 2026, Ch. 68, Sec. 35.   (AB 179)   Effective July 13, 2026.)
+-------------------------------------------
+
+75212.1.
+
+(a) In evaluating applications for AHSC Sustainable Communities Allocation funding, the council shall consider the extent to which proposed sustainable communities investments do any of the following:
+
+(1) Facilitate the creation and preservation of affordable housing, improve resident access to transportation and other community amenities, support sustainable land use patterns, and advance greenhouse gas reduction objectives.
+
+(2) Support planned affordable housing development in locations identified for residential growth, including sites and areas designated in adopted housing elements, specific plans, transit-oriented development plans, and other local planning
+ documents.
+
+(b) (1) In evaluating applications for AHSC Housing Allocation funding, the committee shall consider the extent to which a proposed project leverages existing public investments and advances location efficiency by providing residents access to transportation options, employment centers, services, educational opportunities, and community amenities.
+
+(2) (A) The committee shall prioritize projects that incorporate sustainable communities features within the reasonable control of the project sponsor that improve mobility, connectivity, transportation choice, climate resilience, access to community resources, or other sustainable communities outcomes.
+
+(B) Priority provided pursuant to this paragraph shall emphasize improvements integrated into, immediately adjacent
+ to, or directly associated with, the project site.
+
+(3) The committee shall not require project sponsors to finance or construct offsite infrastructure improvements that are not within the project sponsor’s reasonable control.
+
+(History: Added by Stats. 2026, Ch. 68, Sec. 36.   (AB 179)   Effective July 13, 2026.)
 -------------------------------------------
 
 75213.
@@ -114749,84 +114885,85 @@ A project eligible for funding pursuant to the program shall be encouraged to pr
 
 75214.
 
-In implementing the program, the council shall support the goals established pursuant to Chapter 830 of the Statutes of 2012 by ensuring a programmatic goal of expending 50 percent of program expenditure for projects benefiting disadvantaged communities. To the extent feasible, the council shall coordinate outreach to promote access and program participation in disadvantaged communities.
+In implementing the program, a program administrator shall support the goals established pursuant to Chapter 830 of the Statutes of 2012 by pursuing a programmatic goal of awarding 50 percent of program expenditure to projects benefiting disadvantaged communities, to the extent eligible applications are received. A program administrator shall coordinate outreach to promote access and program participation in disadvantaged communities.
 
-(History: Added by Stats. 2014, Ch. 36, Sec. 21.   (SB 862)   Effective June 20, 2014.)
+(History: Amended by Stats. 2026, Ch. 68, Sec. 37.   (AB 179)   Effective July 13, 2026.)
 -------------------------------------------
 
 75215.
 
-(a) Prior to awarding funds under the program, the council, in coordination with the member agencies and departments of the council, the State Air Resources Board, and other state entities, as needed, shall develop guidelines and selection criteria for the implementation of the program.
+(a) Before awarding funds under the program, a program administrator shall develop guidelines and selection criteria for the implementation of the program, with coordination from relevant state entities as needed.
 
-(b) Prior to adoption of the guidelines and the selection criteria, the council shall conduct at least two public workshops to receive and consider public comments. One workshop shall be held at a location in northern California and one workshop shall be held at a location in southern California.
+(b) Before adoption of the guidelines and the selection criteria, a program administrator shall conduct public outreach statewide.
 
-(c) The council shall publish the draft guidelines
- and selection criteria on its internet website at least 30 days prior to the public meetings.
+(c) A program administrator shall publish its draft guidelines and selection criteria on its internet website at least 30 days before the public outreach.
 
-(d) In adopting the guidelines and selection criteria, the council shall consider the comments from local governments, regional agencies, and other stakeholders. The council shall conduct outreach to disadvantaged communities to encourage comments on the draft guidelines from those communities.
+(d) In adopting the guidelines and selection criteria, a program administrator shall consider the comments from local governments, regional agencies, and other stakeholders. A program administrator shall conduct outreach to disadvantaged communities to encourage comments on the draft guidelines from those communities.
 
-(e) The council shall adopt guidelines or selection criteria that include both affordable housing rental units and owner-occupied affordable housing units.
+(e) Specific to the AHSC Housing Allocation, the committee shall adopt guidelines or selection criteria that include affordable housing rental units and owner-occupied affordable housing units.
 
-(f) Program guidelines may be revised by the council to reflect changes in program focus or need. Outreach to stakeholders shall be conducted, pursuant to subdivisions (a), (b),
- and (c) before the council adopts changes to guidelines.
+(f) Program guidelines may be revised by a program administrator to reflect changes in program focus or need. Outreach to stakeholders shall be conducted, pursuant to subdivisions (a), (b), and (c) before changes to the guidelines are adopted.
 
-(g) Upon the adoption of the guidelines and selection criteria, the council shall, pursuant to Section 9795 of the Government Code, submit copies of the guidelines to the fiscal and appropriate policy committees of the Legislature.
+(g) Upon the adoption of the guidelines and selection criteria, a program administrator shall, pursuant to Section 9795 of the Government Code, submit copies of the guidelines to the fiscal and appropriate policy committees of the Legislature.
 
 (h) Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code does not apply to the development and adoption of the guidelines and selection criteria pursuant to this section.
 
-(History: Amended by Stats. 2021, Ch. 355, Sec. 4.   (AB 1095)   Effective January 1, 2022.)
+(History: Amended by Stats. 2026, Ch. 68, Sec. 38.   (AB 179)   Effective July 13, 2026.)
 -------------------------------------------
 
 75216.
 
-(a) The council shall leverage the programmatic and administrative expertise of relevant state departments and agencies in implementing the program.
+(a) A program administrator shall leverage the programmatic and administrative expertise of relevant state departments and agencies in implementing the program.
 
-(b) The council shall coordinate with the metropolitan planning organizations and other regional agencies to identify and recommend projects within their respective jurisdictions that best reflect the goals and objectives of this division.
+(b) A program administrator shall coordinate with the metropolitan planning organizations and other regional agencies to identify and recommend projects within their respective jurisdictions that best reflect the goals and objectives of this division.
 
-(History: Added by Stats. 2014, Ch. 36, Sec. 21.   (SB 862)   Effective June 20, 2014.)
+(c) The council and committee shall consult and collaborate with each other to promote alignment among state housing, land use, transportation, and climate initiatives.
+
+(History: Amended by Stats. 2026, Ch. 68, Sec. 39.   (AB 179)   Effective July 13, 2026.)
 -------------------------------------------
 
 75217.
 
-The executive director of the council shall report the progress on the implementation of the program in its annual report required pursuant to subdivision (e) of Section 75125.
+The program administrators shall jointly report the progress on the implementation of the program, including each allocation, in an annual report required pursuant to subdivision (e) of Section 75125. The report shall include an assessment of the system-level impacts of program investments, including how those investments enable or accelerate climate-friendly housing, transportation, and land use outcomes, and the direct, indirect, and cumulative effects of those investments in supporting greenhouse gas emissions reductions.
 
-(History: Added by Stats. 2014, Ch. 36, Sec. 21.   (SB 862)   Effective June 20, 2014.)
+(History: Amended by Stats. 2026, Ch. 68, Sec. 40.   (AB 179)   Effective July 13, 2026.)
 -------------------------------------------
 
 75218.
 
-(a) For any loans issued pursuant to this chapter, principal and accumulated interest is due and payable upon completion of the term of the loan. The loan shall bear simple interest at the rate of 3 percent per annum on the unpaid principal balance. The department shall require annual loan payments in the minimum amount necessary to cover the costs of project monitoring. For the first 30 years of the loan term, the amount of the required loan payments shall not exceed 0.42 percent per annum.
+For purposes of the AHSC Housing Allocation provided pursuant to paragraph (1) of subdivision (b) of Section 75212, all of the following apply:
 
-(b) All moneys received by the department in repayment of loans made pursuant to this chapter, including interest and payments in advance in lieu of future interest, shall be deposited in the Housing Rehabilitation Loan Fund established by Section 50661 of
- the Health and Safety Code, and notwithstanding Section 13340 of the Government Code, are continuously appropriated to the department for the purposes of the Multifamily Housing Program (Chapter 6.7 (commencing with Section 50675) of Part 2 of Division 31 of the Health and Safety Code), except as otherwise provided in this section.
+(a) For any loans issued pursuant to this chapter, principal and accumulated interest is due and payable upon completion of the term of the loan. The loan shall bear simple interest at the rate of 3 percent per annum on the unpaid principal balance. The committee shall require annual loan payments in the minimum amount necessary to cover the costs of project monitoring. For the first 30 years of the loan term, the amount of the required loan payments shall not exceed 0.42 percent per annum.
 
-(c) The department may designate an amount not to exceed 1.5 percent of funds appropriated for use pursuant to this section for the purposes of curing or averting a default on the terms of any loan or other obligation by the recipient of financial assistance, or bidding at any foreclosure sale where the default or foreclosure sale would jeopardize the department’s security in the rental housing development assisted pursuant to this chapter.  The funds so designated shall be known as the “default reserve.”
+(b) All moneys received by the committee in repayment of loans made pursuant to this chapter, including interest and payments in advance in lieu of future interest, shall be deposited in the Housing Rehabilitation Loan Fund established by Section 50661 of the Health and Safety Code, and notwithstanding Section 13340 of the Government Code, are continuously appropriated to the Department of Housing and Community Development for the purposes of the Multifamily Housing Program (Chapter 6.7 (commencing with Section 50675) of Part 2 of Division 31 of the Health and Safety Code), except as otherwise provided in this section.
 
-(d) The department may use default reserve funds
- made available pursuant to this section to repair or maintain any rental housing development assisted pursuant to this chapter that was acquired to protect the department’s security interest.
+(c) The committee may designate an amount not to exceed 1.5 percent of funds appropriated for use pursuant to this section for the purpose of curing or averting a default on the terms of any loan or other obligation by the recipient of financial assistance, or bidding at any foreclosure sale where the default or foreclosure sale would jeopardize the committee’s security in the rental housing development assisted pursuant to this chapter.  The funds so designated shall be known as the “default reserve.”
 
-(e) The payment or advance of funds by the department pursuant to this section shall be exclusively within the department’s discretion, and no person shall be deemed to have any entitlement to the payment or advance of those funds. The amount of any funds expended by the department for the purposes of curing or averting a default shall be added to the loan amount secured by the rental housing development and shall be payable to the department upon demand.
+(d) The committee may use default reserve funds made available pursuant to this section to repair or maintain any rental housing development assisted pursuant to this chapter that was acquired to protect the committee’s security interest.
 
-(f) All moneys set aside for the default reserve by the department pursuant to this section shall be deposited in the Housing Rehabilitation Loan Fund established by Section 50661 of the Health and Safety Code, and, notwithstanding Section
- 13340 of the Government Code, are continuously appropriated to the department for the purposes of the default reserve set forth above in this section.
+(e) The payment or advance of funds by the committee pursuant to this section shall be exclusively within the committee’s discretion, and no person shall be deemed to have any entitlement to the payment or advance of those funds. The amount of any funds expended by the committee for the purpose of curing or averting a default shall be added to the loan amount secured by the rental housing development and shall be payable to the committee upon demand.
 
-(g) For the purposes of this section, “department” means the Department of Housing and Community Development.
+(f) All moneys set aside for the default reserve by the committee pursuant to this section shall be deposited in the Housing Rehabilitation Loan Fund established by Section 50661 of the Health and Safety Code, and, notwithstanding Section 13340 of the Government Code, are continuously appropriated to the committee for the purpose of the default reserve set forth above in this section.
 
-(History: Added by Stats. 2018, Ch. 37, Sec. 52.   (AB 1817)   Effective June 27, 2018.)
+(History: Amended by Stats. 2026, Ch. 68, Sec. 41.   (AB 179)   Effective July 13, 2026.)
 -------------------------------------------
 
 75218.1.
 
-For notices of funding availability released after July 1, 2021, in awarding funds under the program, the council shall provide additional points or preference to jurisdictions that have adopted a housing element that has been found by the Department of Housing and Community Development to be in substantial compliance with the requirements of Article 10.6 (commencing with Section 65580) of Chapter 3 of Division 1 of Title 7 of the Government Code pursuant to Section 65585 of the Government Code and that are designated prohousing pursuant to subdivision (c) of Section 65589.9 of the Government Code, in the manner determined by the Department of Housing and Community Development pursuant to subdivision (d) of Section 65589.9 of the Government Code.
+(a) For notices of funding availability released from July 1, 2021, to June 30, 2026, inclusive, in awarding funds under the program, the council shall provide additional points or preference to jurisdictions that have adopted a housing element that has been found by the Department of Housing and Community Development to be in substantial compliance with the requirements of Article 10.6 (commencing with Section 65580) of Chapter 3 of Division 1 of Title 7 of the Government Code pursuant to Section 65585 of the Government Code and that are designated prohousing pursuant to subdivision (c) of Section 65589.9 of the Government Code, in the manner determined by the Department of Housing and Community Development pursuant to subdivision (d) of Section 65589.9 of the Government Code.
 
-(History: Added by Stats. 2019, Ch. 159, Sec. 21.   (AB 101)   Effective July 31, 2019.)
+(b) For notices of funding availability released on or after July 1, 2026, in awarding funds under the program, the program administrator shall provide additional points or preference to jurisdictions that have adopted a housing element that has been found by the Department of Housing and Community Development to be in substantial compliance with the requirements of Article 10.6 (commencing with Section 65580) of Chapter 3 of Division 1 of Title 7 of the Government Code pursuant to Section 65585 of the Government Code and that are designated prohousing pursuant to subdivision (c) of Section 65589.9 of the Government Code, in the manner determined by the Department of Housing and Community Development pursuant to subdivision (d) of Section 65589.9 of the Government Code.
+
+(History: Amended by Stats. 2026, Ch. 68, Sec. 42.   (AB 179)   Effective July 13, 2026.)
 -------------------------------------------
 
 75218.2.
 
-For notices of funding availability released after July 1, 2022, the council may include guidelines or criteria for the award of funds to projects that provide home ownership opportunities for low-income individuals.
+(a) For notices of funding availability released from July 1, 2022, to June 30, 2026, inclusive, the council may include guidelines or criteria for the award of funds to projects that provide home ownership opportunities for low-income individuals.
 
-(History: Added by Stats. 2021, Ch. 355, Sec. 5.   (AB 1095)   Effective January 1, 2022.)
+(b) For notices of funding availability within the AHSC Housing Allocation released on or after July 1, 2026, the committee may include guidelines or criteria for the award of funds to projects that provide home ownership opportunities for low-income individuals.
+
+(History: Amended by Stats. 2026, Ch. 68, Sec. 43.   (AB 179)   Effective July 13, 2026.)
 -------------------------------------------
 
 
@@ -116869,22 +117006,47 @@ For grants awarded for projects under this division, the administering agency ma
 
 (9) The applicable chapter of this division pursuant to which the recipient received moneys.
 
-(b) The Department of
- Finance shall provide for an independent audit of expenditures pursuant to this division. If an audit, required by law, of any entity that receives funding authorized by this
+(b) The Department of Finance shall provide for an independent audit of expenditures pursuant to this division. If an audit, required by law, of any entity that receives funding authorized by this
  division is conducted pursuant to state law and reveals any impropriety, the California State Auditor or the Controller may conduct or arrange for a full audit of any or all of the activities funded pursuant to this division. Any audit of a federal Department of Energy or National Aeronautics and Space Administration research and development center pursuant to this section shall be conducted in accordance with the Federal Laboratory Contracting Act (Chapter 7 (commencing with Section 12500) of Part 2 of Division 2 of the Public Contract Code).
 
 (c) A state agency issuing any grant with funding authorized by this division shall require adequate reporting of the expenditures of the funding from the grant.
 
-(d) The costs associated with the publications, audits, statewide bond
- tracking, cash management, and related oversight activities provided for in this section shall be funded from the proceeds of bonds authorized by this division. These costs shall be shared proportionally by each program funded by this division. Actual costs incurred to administer nongrant programs authorized by this division shall be paid from the proceeds of bonds authorized by this division.
+(d) The costs associated with the publications, audits, statewide bond tracking, cash management, and related oversight activities provided for in this section shall be funded from
+ the proceeds of bonds authorized by this division. These costs shall be shared proportionally by each program funded by this division. Actual costs incurred to administer nongrant programs authorized by this division shall be paid from the proceeds of bonds authorized by this division.
 
-(e) (1) A regulation for the purpose of developing and adopting program guidelines and selection criteria needed to effectuate or implement the programs included in Chapter 2 (commencing with Section 91000) to Chapter 9 (commencing with Section 94500), inclusive, of this division may be adopted as an emergency regulation in accordance with Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the
- Government Code, and for purposes of that chapter, including Section 11349.6 of the Government Code, the adoption of regulations is an
- emergency and shall be considered by the Office of Administrative Law as necessary for the immediate preservation of the public peace, health, safety, and general welfare, and a state agency is hereby exempted from the requirement that it describe facts showing the need for immediate action.
+(e) (1) A regulation for the purposes of developing and adopting program guidelines and selection criteria needed to effectuate or implement the programs included in Chapter 2 (commencing with Section 91000) to Chapter 9 (commencing with Section 94500), inclusive, of this division may be adopted as an emergency regulation in accordance with Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code, and for purposes of that chapter, including Section 11349.6 of the Government Code, the adoption of regulations is an emergency and shall be considered by the Office of Administrative Law as necessary
+ for the immediate preservation of the public peace, health, safety, and general welfare. A state agency shall be exempt from the requirement that it describe facts showing the need for immediate action.
 
 (2) Notwithstanding Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code, an emergency regulation adopted pursuant to this subdivision shall be filed with, but not be repealed by, the Office of Administrative Law, and shall remain in effect until repealed or amended by the adopting state agency.
 
-(History: Amended by Stats. 2025, Ch. 106, Sec. 14.   (AB 149)   Effective September 17, 2025.   Note: Added by Prop. 4 at the Nov. 5, 2024, election.)
+(f) (1) Notwithstanding subdivision (e), a regulation for the purpose of developing and adopting program guidelines and selection criteria needed to effectuate or implement the programs included in Chapter 2 (commencing with Section 91000) to Chapter 9 (commencing with Section 94500), inclusive, of this division, may be
+ adopted pursuant to this subdivision.
+
+(2) Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code does not apply to the development and adoption of program guidelines and selection criteria needed to effectuate or implement the programs included in Chapter 2 (commencing with Section 91000) to Chapter 9 (commencing with Section 94500), inclusive, of this division. 
+
+(3) Before disbursing grants pursuant to this division, a state entity that receives funding to administer a competitive grant program, established using the exemption pursuant to paragraph (2) of this subdivision, shall do all of the following:
+
+(A) Develop draft project solicitation and evaluation guidelines.
+
+(B) Transmit
+ copies of the draft solicitation and evaluation guidelines to the fiscal committees and to the appropriate policy committees of the Legislature, publish the draft solicitation and evaluation guidelines on its internet website for a public comment period of at least 30 days, and hold a noticed public meeting on the draft solicitation and evaluation guidelines. All written public comments received shall be posted on the state entity’s internet website, unless indicated otherwise by the person who provided the written public comment. The state entity shall respond in writing to each public comment.
+
+(C) Offer opportunity for tribal consultation to impacted tribes.
+
+(D) After completing the requirements contained in subparagraphs (A) to (C), inclusive, finalize project solicitation and evaluation guidelines.
+
+(E) (i) Submit the final guidelines to the Secretary of the Natural Resources Agency. The Secretary of the Natural Resources Agency shall verify that the guidelines are consistent with applicable statutes and for all the purposes enumerated in this division. The Secretary of the Natural Resources Agency shall post an electronic form of the guidelines submitted by a state entity and the subsequent verifications on the Natural Resources Agency’s internet website.
+
+(ii) The requirement to submit final guidelines to the Secretary of the Natural Resources shall not apply to the State Water Resources Control Board.
+
+(F) Upon adoption, transmit copies of the guidelines to the fiscal committees and the appropriate policy committees of the Legislature.
+
+(4) Notwithstanding paragraph (3), if a state entity, before the
+ effective date of the act adding this paragraph, developed and adopted project solicitation and evaluation guidelines that comply with the requirements of this division for a program described in Chapter 2 (commencing with Section 91000) to Chapter 9 (commencing with Section 94500), inclusive, of this division, the use of those guidelines shall constitute compliance with the requirements of this subdivision.
+
+(5) The requirements contained in this subdivision do not apply to the development and adoption of program guidelines and selection criteria needed to effectuate or implement any program that is funded by any appropriation made in the Budget Act of 2025, or in any bill identified in Section 39.00 of the Budget Act of 2025, from the Safe Drinking Water, Wildfire Prevention, Drought Preparedness, and Clean Air Fund established pursuant to Section 90500.
+
+(History: Amended by Stats. 2026, Ch. 89, Sec. 1.   (AB 35)   Effective July 16, 2026.   Note: Added by Prop. 4 at the Nov. 5, 2024, election.)
 -------------------------------------------
 
 90140.
