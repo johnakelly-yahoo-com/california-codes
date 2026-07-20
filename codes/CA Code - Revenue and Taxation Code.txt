@@ -5,7 +5,7 @@
 
 Source: Official California Legislative Information
         https://downloads.leginfo.legislature.ca.gov/
-Last Updated by State of California: July 10, 2026
+Last Updated by State of California: July 17, 2026
 
 
 ======================================================================
@@ -17984,21 +17984,6 @@ When the tax collector sends a tax bill to any person respecting property which 
 (History: Added by renumbering Section 2770 by Stats. 1988, Ch. 830, Sec. 8.   Applicable July 1, 1989, by Sec. 31 of Ch. 830.)
 -------------------------------------------
 
-2610.8.
-
-(a) A disclosure shall be printed on each tax bill for properties that have been purchased, newly constructed, or changed in ownership in the year preceding the tax bill that includes all of the following information:
-
-(1) A brief summary of the availability of the property tax relief under Section 69.6.
-
-(2) A brief summary of deferment procedures under Section 2636.1.
-
-(b) (1) This section shall apply to counties with a population of over 4,000,000, as determined by the 2020 federal census.
-
-(2) This section shall not apply to a county with a population of 4,000,000 or less, as determined by the 2020 federal census, unless the county’s board of supervisors, after consultation with the county assessor, county auditor, county treasurer, and county tax collector, pass a resolution implementing the requirements of this section.
-
-(History: Added by Stats. 2022, Ch. 712, Sec. 1.   (SB 989)   Effective September 28, 2022.)
--------------------------------------------
-
 2611.
 
 A notice shall be printed on all tax bills specifying that if taxes are unpaid, it will be necessary as provided by law to pay:
@@ -25625,12 +25610,13 @@ As used in this section:
 
 (1) The transfer occurs no more than six months after title to the property transferred to the pawnbroker from the person pursuant to Section 21201 of the Financial Code.
 
-(2) As consideration for the transfer of the property, the person is required to pay the pawnbroker only the remaining unpaid balance of the loan, including accrued
- charges and interest, as of the date the pawnbroker becomes vested with title to the property, together with one of the following:
+(2) As consideration for the transfer of the property, the person is required to pay the
+ pawnbroker only the remaining unpaid balance of the loan, including accrued charges and interest, as of the date the pawnbroker becomes vested with title to the property, together with one of the following:
 
 (A) For an original loan amount not exceeding two thousand four hundred ninety-nine dollars and ninety-nine cents ($2,499.99), charges and interest allowable under the loan pursuant to Chapter 2 (commencing with Section 21200) of Division 8 of the Financial Code, from the date the pawnbroker is vested with title to the property to the date of the transfer to the person who pledged the property.
 
-(B) For an original loan amount of two thousand five hundred dollars ($2,500) or more, charges and interest due in accordance with the last monthly contractual interest rate, from the date the pawnbroker is vested with title to the property until the date of the transfer to the person who pledged the property.
+(B) For an original loan amount of two thousand five hundred dollars ($2,500) or more, charges and interest due in accordance with the last monthly contractual interest rate, from the date
+ the pawnbroker is vested with title to the property until the date of the transfer to the person who pledged the property.
 
 (3) The person has proof, such as a receipt or similar document provided to the purchaser, that the person originally paid sales tax on the item.
 
@@ -25640,9 +25626,10 @@ As used in this section:
 
 (2) “Vested property” has the meaning described in subdivision (b) of Section 21002 of the Financial Code.
 
-(c) This section shall become inoperative on January 1, 2027.
+(c) This section shall become inoperative on
+ January 1, 2032.
 
-(History: Amended by Stats. 2021, Ch. 164, Sec. 1.   (AB 296)   Effective September 16, 2021.   Repealed as of January 1, 2027, by its own provisions.)
+(History: Amended by Stats. 2026, Ch. 76, Sec. 1.   (AB 2641)   Effective July 13, 2026.   Inoperative January 1, 2032, by its own provisions.)
 -------------------------------------------
 
 6010.30.
@@ -54652,9 +54639,9 @@ The term “secretary” shall be replaced by the term “Franchise Tax Board.�
 
 17059.2.
 
-(a) (1) For each taxable year beginning on and after January 1, 2014, and before January 1, 2030, there shall be allowed as a credit against the “net tax,” as defined in Section 17039, an amount as determined by the committee pursuant to paragraph (2) and approved pursuant to Section 18410.2.
+(a) (1) For each taxable year beginning on and after January 1, 2014, and before January 1, 2035, there shall be allowed as a credit against the “net tax,” as defined in Section 17039, an amount as determined by the committee pursuant to paragraph (2) and approved pursuant to Section 18410.2.
 
-(2) The credit under this section shall be allocated by GO-Biz with respect to the 2013–14 fiscal year through and including the 2027–28 fiscal year. The amount of credit allocated to a taxpayer with respect to a fiscal year pursuant to this section shall be as set forth in a written agreement between GO-Biz and the taxpayer and shall be based on the following factors:
+(2) The credit under this section shall be allocated by GO-Biz with respect to the 2013–14 fiscal year through and including the 2032–33 fiscal year. The amount of credit allocated to a taxpayer with respect to a fiscal year pursuant to this section shall be as set forth in a written agreement between GO-Biz and the taxpayer and shall be based on the following factors:
 
 (A) The number of jobs the taxpayer will create or retain in this state.
 
@@ -54735,8 +54722,8 @@ The term “secretary” shall be replaced by the term “Franchise Tax Board.�
 
 (C) Current and prior litigation involving the taxpayer.
 
-(D) The reasonableness of the
- fee arrangement between the taxpayer and any third party providing any services related to the credit allowed pursuant to this section.
+(D) The reasonableness of the fee arrangement between the taxpayer and
+ any third party providing any services related to the credit allowed pursuant to this section.
 
 (E) For allocation periods beginning with the 2023–24 fiscal year, the taxpayer’s willingness to relocate jobs into California from a state that has enacted a law that does any of the following:
 
@@ -54744,10 +54731,10 @@ The term “secretary” shall be replaced by the term “Franchise Tax Board.�
 
 (ii) Authorizes or requires discrimination against same-sex couples or their families, or discrimination on the basis of sexual orientation, gender identity, or gender expression.
 
-(iii) Creates an exemption to antidiscrimination laws in order to permit discrimination against same-sex couples or their families, or permits discrimination on the basis of sexual orientation, gender identity, or gender expression.
+(iii) Creates an exemption to antidiscrimination laws in order to permit discrimination against
+ same-sex couples or their families, or permits discrimination on the basis of sexual orientation, gender identity, or gender expression.
 
-(iv) Denies or interferes with, or has the effect of denying or interfering with, a woman’s right to choose to bear a child or to choose and obtain an abortion, as provided by Article 2.5 (commencing with Section 123460) of Chapter 2 of Part 2 of
- Division 106 of the Health and Safety Code.
+(iv) Denies or interferes with, or has the effect of denying or interfering with, a woman’s right to choose to bear a child or to choose and obtain an abortion, as provided by Article 2.5 (commencing with Section 123460) of Chapter 2 of Part 2 of Division 106 of the Health and Safety Code.
 
 (F) For allocation periods beginning with the 2023–24 fiscal year, the taxpayer’s commitment to treating their workforce fairly and creating quality, full-time, wage and salary jobs in the state, evidence of which may include, but not be limited to, the following:
 
@@ -54761,50 +54748,48 @@ The term “secretary” shall be replaced by the term “Franchise Tax Board.�
 
 (G) Any other factors GO-Biz deems necessary to ensure that the administration of the credit allowed pursuant to this section is a model of accountability and transparency and that the effective use of the limited amount of credit available is maximized.
 
-(8) (A) Implementation of subparagraphs (E) and (F) of paragraph (7) of this subdivision for the 2022–23 fiscal year is deemed an emergency and necessary for the immediate preservation of the public peace, health, and safety, or general welfare and, therefore, the Governor’s Office of
- Business and Economic Development is hereby authorized to adopt emergency regulations to implement subparagraphs (E) and (F) of paragraph (7) of this subdivision during the 2022–23 fiscal year in accordance with the rulemaking provisions of the Administrative Procedure Act (Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code).
+(8) (A) Implementation of
+ subparagraphs (E) and (F) of paragraph (7) of this subdivision for the 2022–23 fiscal year is deemed an emergency and necessary for the immediate preservation of the public peace, health, and safety, or general welfare and, therefore, the Governor’s Office of Business and Economic Development is hereby authorized to adopt emergency regulations to implement subparagraphs (E) and (F) of paragraph (7) of this subdivision during the 2022–23 fiscal year in accordance with the rulemaking provisions of the Administrative Procedure Act (Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code).
 
 (B) Nothing in this subdivision shall require the Governor’s Office of Business and Economic Development to approve emergency regulations.
 
 (d) For purposes of this section, the Franchise Tax Board shall do all of the following:
 
-(1) (A) Except as provided in subparagraph (B), review the books
- and records of all taxpayers allocated a credit pursuant to this section to ensure compliance with the terms and conditions of the written agreement between the taxpayer and GO-Biz.
+(1) (A) Except as provided in subparagraph (B), review the books and records of all taxpayers allocated a credit pursuant to this section to ensure compliance with the terms and conditions of the written agreement between the taxpayer and GO-Biz.
 
 (B) In the case of a taxpayer that is a “small business,” as defined in Section 17053.73, review the books and records of the taxpayer allocated a credit pursuant to this section to ensure compliance with the terms and conditions of the written agreement between the taxpayer and GO-Biz when, in the sole discretion of the Franchise Tax Board, a review of those books and records is appropriate or necessary in the best interests of the state.
 
-(2) Notwithstanding Section 19542, notify GO-Biz of a possible breach of the written agreement by a taxpayer and provide detailed information regarding the basis for that determination.
+(2) Notwithstanding Section 19542, notify GO-Biz of a possible breach of the written agreement by a taxpayer and
+ provide detailed information regarding the basis for that determination.
 
-(e) In the case
- where the credit allowed under this section exceeds the “net tax,” as defined in Section 17039, for a taxable year, the excess credit may be carried over to reduce the “net tax” in the following taxable year, and succeeding five taxable years, if necessary, until the credit has been exhausted.
+(e) In the case where the credit allowed under this section exceeds the “net tax,” as defined in Section 17039, for a taxable year, the excess credit may be carried over to reduce the “net tax” in the following taxable year, and succeeding five taxable years, if necessary, until the credit has been exhausted.
 
 (f) Any recapture, in whole or in part, of a credit approved by the committee pursuant to Section 18410.2 shall be treated as a mathematical error appearing on the return. Any amount of tax resulting from that recapture shall be assessed by the Franchise Tax Board in the same manner as provided by Section 19051. The amount of tax resulting from the recapture shall be added to the tax otherwise due by the taxpayer for the taxable year in which the committee’s recapture determination occurred.
 
-(g) (1) The aggregate amount of credit that may be allocated in any fiscal year
- pursuant to this section and Section 23689 shall be an amount equal to the sum of subparagraphs (A), (B), and (C), less the amount specified in subparagraphs (D) and (E):
+(g) (1) The aggregate amount of credit that may be allocated in any fiscal year pursuant to this section and Section 23689 shall be an amount equal to the sum of subparagraphs (A), (B), and (C), less the amount specified in subparagraphs (D) and (E):
 
-(A) Thirty million dollars ($30,000,000) for the 2013–14 fiscal year, one hundred fifty million dollars ($150,000,000) for the 2014–15 fiscal year, two hundred million dollars ($200,000,000) for each fiscal year from 2015–16 to 2017–18, inclusive, one hundred eighty million dollars ($180,000,000) for each fiscal year from 2018–19 to 2020–21, inclusive, two hundred ninety million dollars ($290,000,000) for the 2021–22 fiscal year, and one hundred eighty million dollars ($180,000,000) for each fiscal year from 2022–23 to 2027–28, inclusive.
+(A) Thirty million dollars ($30,000,000) for the 2013–14 fiscal year, one hundred fifty million dollars ($150,000,000) for the 2014–15 fiscal year, two hundred million dollars ($200,000,000) for each fiscal year from 2015–16 to 2017–18, inclusive, one hundred eighty million dollars ($180,000,000) for each fiscal year from 2018–19 to 2020–21, inclusive, two hundred ninety million dollars ($290,000,000) for the 2021–22 fiscal year, and one hundred eighty million dollars ($180,000,000) for each fiscal year from 2022–23 to 2032–33, inclusive.
 
 (B) The unallocated credit amount, if any, from the preceding fiscal year.
 
 (C) The amount of any previously allocated credits that have been recaptured.
 
-(D) The amount estimated by the Director of Finance, in consultation with the Franchise Tax Board and the California Department of Tax and Fee Administration, to be necessary to limit the aggregation of the estimated amount of exemptions claimed pursuant to Section 6377.1 and of the amounts estimated to be claimed pursuant to this section and Sections 17053.73, 23626, and 23689 to no more than seven hundred fifty million dollars ($750,000,000) for either the current
- fiscal year or the next fiscal year.
+(D) The amount estimated by the Director of Finance, in consultation with the Franchise Tax Board and the California Department of Tax and Fee Administration, to be necessary to limit the aggregation of the estimated amount of exemptions claimed pursuant to Section 6377.1 and of the amounts estimated to be claimed pursuant to this section and Sections 17053.73, 23626, and 23689 to no more than seven hundred fifty million dollars ($750,000,000) for either the current fiscal year
+ or the next fiscal year.
 
 (i) The Director of Finance shall notify the Chairperson of the Joint Legislative Budget Committee of the estimated annual allocation authorized by this paragraph. Any allocation pursuant to these provisions shall be made no sooner than 30 days after written notification has been provided to the Chairperson of the Joint Legislative Budget Committee and the chairpersons of the committees of each house of the Legislature that consider appropriations, or not sooner than whatever lesser time the Chairperson of the Joint Legislative Budget Committee, or the Chairperson’s designee, may determine.
 
 (ii) In no event shall the amount estimated in this subparagraph be less than zero dollars ($0).
 
-(E) (i) For the 2015–16 fiscal year and each fiscal year thereafter, the
- amount of credit estimated by the Director of Finance to be allowed to all qualified taxpayers for that fiscal year pursuant to subparagraph (A) or subparagraph (B) of paragraph (1) of subdivision (c) of Section 23636.
+(E) (i) For the 2015–16 fiscal year and each fiscal year thereafter, the amount of
+ credit estimated by the Director of Finance to be allowed to all qualified taxpayers for that fiscal year pursuant to subparagraph (A) or subparagraph (B) of paragraph (1) of subdivision (c) of Section 23636.
 
 (ii) If the amount available per fiscal year pursuant to this section and Section 23689 is less than the aggregate amount of credit estimated by the Director of Finance to be allowed to qualified taxpayers pursuant to subparagraph (A) or subparagraph (B) of paragraph (1) of subdivision (c) of Section 23636, the aggregate amount allowed pursuant to Section 23636 shall not be reduced and, in addition to the reduction required by clause (i), the aggregate amount of credit that may be allocated pursuant to this section and Section 23689 for the next fiscal year shall be reduced by the amount of that deficit.
 
-(iii) It is the intent of the Legislature that the reductions
- specified in this subparagraph of the aggregate amount of credit that may be allocated pursuant to this section and Section 23689 shall continue if the repeal dates of the credits allowed by this section and Section 23689 are removed or extended.
+(iii) It is the intent of the Legislature that the reductions specified
+ in this subparagraph of the aggregate amount of credit that may be allocated pursuant to this section and Section 23689 shall continue if the repeal dates of the credits allowed by this section and Section 23689 are removed or extended.
 
-(2) (A) In addition to the other amounts determined pursuant to paragraph (1), the Director of Finance may increase the aggregate amount of credit that may be allocated pursuant to this section and Section 23689 by up to twenty-five million dollars ($25,000,000) per fiscal year through the 2027–28 fiscal year. The amount of any increase made pursuant to this paragraph, when combined with any increase made pursuant to paragraph (2) of subdivision (g) of Section 23689, shall not exceed twenty-five million dollars ($25,000,000) per fiscal year through the 2027–28 fiscal year.
+(2) (A) In addition to the other amounts determined pursuant to paragraph (1), the Director of Finance may increase the aggregate amount of credit that may be allocated pursuant to this section and Section 23689 by up to twenty-five million dollars ($25,000,000) per fiscal year through the 2032–33 fiscal year. The amount of any increase made pursuant to this paragraph, when combined with any increase made pursuant to paragraph (2) of subdivision (g) of Section 23689, shall not exceed twenty-five million dollars ($25,000,000) per fiscal year through the 2032–33 fiscal year.
 
 (B) It is the intent of the Legislature that the Director of Finance increase the aggregate amount under subparagraph (A) in order to mitigate the reduction of the amount available due to the credit allowed to all qualified taxpayers pursuant to subparagraph (A) or (B) of paragraph (1) of subdivision (c) of Section 23636.
 
@@ -54817,19 +54802,18 @@ The term “secretary” shall be replaced by the term “Franchise Tax Board.�
 
 (i) A written agreement between GO-Biz and a taxpayer with respect to the credit authorized by this section shall comply with existing law on the date the agreement is executed.
 
-(j) (1) Upon the effective date of this section, the Department of Finance shall estimate the total dollar amount of credits that will be claimed under this section with respect to each
- fiscal year from the 2013–14 fiscal year to the 2029–30 fiscal year, inclusive.
+(j) (1) The
+ Department of Finance shall estimate the total dollar amount of credits that will be claimed under this section with respect to each fiscal year from the 2013–14 fiscal year to the 2034–35 fiscal year, inclusive.
 
 (2) The Franchise Tax Board shall annually provide to the Joint Legislative Budget Committee, by no later than March 1, a report of the total dollar amount of the credits claimed under this section with respect to the relevant fiscal year. The report shall compare the total dollar amount of credits claimed under this section with respect to that fiscal year with the department’s estimate with respect to that same fiscal year. If the total dollar amount of credits claimed for the fiscal year is less than the estimate for that fiscal year, the report shall identify options for increasing annual claims of the credit so as to meet estimated amounts.
 
-(k) (1) Section 19542 shall apply to all information
- obtained by the Franchise Tax Board and GO-Biz for the purpose of administering the California Competes Tax Credit established under this section.
+(k) (1) Section 19542 shall apply to all information obtained by the Franchise Tax Board and GO-Biz for the purpose of administering the California Competes Tax Credit established under this section.
 
 (2) Notwithstanding Section 19542 and paragraph (1), the Franchise Tax Board may disclose information to GO-Biz and GO-Biz may disclose information to the Franchise Tax Board for administration of the California Competes Tax Credit established under this section.
 
- (l) This section shall remain in effect only until December 1, 2030, and as of that date is repealed.
+(l) This section shall remain in effect only until December 1, 2035, and as of that date is repealed.
 
-(History: Amended by Stats. 2022, Ch. 55, Sec. 7.   (AB 194)   Effective June 30, 2022.   Repealed as of December 1, 2030, by its own provisions.)
+(History: Amended by Stats. 2026, Ch. 85, Sec. 2.   (SB 180)   Effective July 13, 2026.   Repealed as of December 1, 2035, by its own provisions.)
 -------------------------------------------
 
 17061.
@@ -56342,8 +56326,8 @@ For taxable years beginning on or after January 1, 2016, Section 529A of the Int
 
 (e) The amendments made by Section 11024(a) of the Tax Cuts and Jobs Act (Public Law 115-97) to Section 529A(b)(2)(B) of the Internal Revenue Code, relating to qualified ABLE programs, shall apply, except as otherwise provided.
 
-(f) (1) For taxable years beginning on or after January 1, 2026, the amendments made by Section 124 of the Consolidated Appropriations Act, 2023 (Public Law 117-328) to
- Section 529A(e) of the Internal Revenue Code, relating to qualified ABLE programs, shall apply, except as otherwise provided.
+(f) (1) For taxable years beginning on or after January 1, 2026, the amendments made by Section 124 of the Consolidated Appropriations Act, 2023 (Public Law 117-328) to Section 529A(e) of the Internal Revenue Code, relating to qualified ABLE programs,
+ shall apply, except as otherwise provided.
 
 (2) (A) For the purpose of complying with Section 41, as it relates to the tax expenditures established by this subdivision and subdivision (f) of Section 23711.4 (hereafter the “tax expenditures,”) the Legislature finds and declares as follows:
 
@@ -56353,7 +56337,9 @@ For taxable years beginning on or after January 1, 2016, Section 529A of the Int
 
 (B) No later than January 1, 2030, the Treasurer’s office shall submit a report to the Legislature, in compliance with Section 9795 of the Government Code, detailing the number of ABLE accounts that are created for individuals who are made newly eligible by the raised age limit.
 
-(History: Amended by Stats. 2023, Ch. 324, Sec. 1.   (AB 339)   Effective January 1, 2024.)
+(g) For taxable years beginning on or after January 1, 2026, the amendments made by Section 70204(a)(2) of Public Law 119-21 to Sections 529A(b)(2)(B), relating to cash contributions, and 529A(b)(6), relating to prohibition on excess contributions, of the Internal Revenue Code shall apply.
+
+(History: Amended by Stats. 2026, Ch. 85, Sec. 3.   (SB 180)   Effective July 13, 2026.)
 -------------------------------------------
 
 17140.5.
@@ -56714,6 +56700,20 @@ Section 132(g)(2) of the Internal Revenue Code, relating to qualified moving exp
 (f) This section shall apply with respect to expenses relating to courses beginning after June 30, 1996.
 
 (History: Amended by Stats. 2000, Ch. 107, Sec. 6.   Effective July 10, 2000.)
+-------------------------------------------
+
+17151.1.
+
+For taxable years beginning on or after January 1, 2026, Section 128 of the Internal Revenue Code, relating to employer contributions to 530A accounts, added by Section 70204(b)(1) of Public Law 119-21, shall apply.
+
+(History: Added by Stats. 2026, Ch. 85, Sec. 4.   (SB 180)   Effective July 13, 2026.)
+-------------------------------------------
+
+17151.2.
+
+For taxable years beginning on or after January 1, 2026, Section 139J of the Internal Revenue Code, relating to certain contributions to 530A accounts, added by Section 70204(c)(1) of Public Law 119-21, shall apply.
+
+(History: Added by Stats. 2026, Ch. 85, Sec. 5.   (SB 180)   Effective July 13, 2026.)
 -------------------------------------------
 
 17152.
@@ -58803,6 +58803,21 @@ Sections 413(b)(6) and 413(c)(5) of the Internal Revenue Code, relating to liabi
 (History: Amended by Stats. 2003, Ch. 185, Sec. 12.   Effective January 1, 2004.)
 -------------------------------------------
 
+17509.5.
+
+(a) For taxable years beginning on or after January 1, 2026, Section 530A of the Internal Revenue Code, relating to 530A accounts, added by Section 70204(a)(1) of Public Law 119-21, shall apply, except as otherwise provided.
+
+(b) The amount of the additional tax imposed under Section 530A(d)(2) of the Internal Revenue Code, relating to tax treatment of allowable distributions, as applicable for federal income tax purposes for the same taxable year, shall be computed using a rate of 2.5 percent in lieu of the rate provided in that section.
+
+(c) Section 530A(d)(5)(C) of the Internal Revenue Code, relating to distributions of excess contributions, shall not apply.
+
+(d) Section 530A(g) of the Internal Revenue Code, relating to trustee selection, shall not apply.
+
+(e) A copy of the report required to be filed with the Secretary of the Treasury under Section 530A(i) of the Internal Revenue Code, relating to reports, shall be filed with the Franchise Tax Board at the same time and in the same manner as specified in that section.
+
+(History: Added by Stats. 2026, Ch. 85, Sec. 6.   (SB 180)   Effective July 13, 2026.)
+-------------------------------------------
+
 17510.
 
 Section 7701(j) of the Internal Revenue Code, relating to Federal Thrift Savings Funds, applies, except as otherwise provided.
@@ -59709,9 +59724,9 @@ A limited partnership shall not be subject to the taxes imposed by this chapter 
 
 (B) This subdivision shall become operative only for a taxable year in which any budget measure appropriates one dollar ($1) or more to the Franchise Tax Board for the costs associated with administration of this subdivision.
 
-(2) For taxable years beginning on or after January 1, 2027, and before January 1, 2030, every limited liability company required to file a return under Section 18633 shall, instead of the amount specified in Section 23153, pay the annual tax to this state in the amount of four hundred dollars ($400) for its first taxable year.
+(2) For taxable years beginning on or after January 1, 2027, and before January 1, 2030, every limited liability company required to file a return under Section 18633.5 shall, instead of the amount specified in Section 23153, pay the annual tax to this state in the amount of four hundred dollars ($400) for its first taxable year.
 
-(History: Amended by Stats. 2026, Ch. 23, Sec. 26.   (SB 122)   Effective June 29, 2026.)
+(History: Amended by Stats. 2026, Ch. 85, Sec. 7.   (SB 180)   Effective July 13, 2026.)
 -------------------------------------------
 
 17942.
@@ -77441,9 +77456,9 @@ For purposes of this subdivision, if on or before the day on which the individua
 
 23689.
 
-(a) (1) For each taxable year beginning on and after January 1, 2014, and before January 1, 2030, there shall be allowed as a credit against the “tax,” as defined in Section 23036, an amount as determined by the committee pursuant to paragraph (2) and approved pursuant to Section 18410.2.
+(a) (1) For each taxable year beginning on and after January 1, 2014, and before January 1, 2035, there shall be allowed as a credit against the “tax,” as defined in Section 23036, an amount as determined by the committee pursuant to paragraph (2) and approved pursuant to Section 18410.2.
 
-(2) The credit under this section shall be allocated by GO-Biz with respect to the 2013–14 fiscal year through and including the 2027–28 fiscal year. The amount of credit allocated to a taxpayer with respect to a fiscal year pursuant to this section shall be as set forth in a written agreement between GO-Biz and the taxpayer and shall be based on the following factors:
+(2) The credit under this section shall be allocated by GO-Biz with respect to the 2013–14 fiscal year through and including the 2032–33 fiscal year. The amount of credit allocated to a taxpayer with respect to a fiscal year pursuant to this section shall be as set forth in a written agreement between GO-Biz and the taxpayer and shall be based on the following factors:
 
 (A) The number of jobs the taxpayer will create or retain in this state.
 
@@ -77524,8 +77539,8 @@ For purposes of this subdivision, if on or before the day on which the individua
 
 (C) Current and prior litigation involving the taxpayer.
 
-(D) The reasonableness of the
- fee arrangement between the taxpayer and any third party providing any services related to the credit allowed pursuant to this section.
+(D) The reasonableness of the fee arrangement between the taxpayer and
+ any third party providing any services related to the credit allowed pursuant to this section.
 
 (E) For allocation periods beginning with the 2023–24 fiscal year, the taxpayer’s willingness to relocate jobs into California from a state that has enacted a law that does any of the following:
 
@@ -77533,10 +77548,10 @@ For purposes of this subdivision, if on or before the day on which the individua
 
 (ii) Authorizes or requires discrimination against same-sex couples or their families, or discrimination on the basis of sexual orientation, gender identity, or gender expression.
 
-(iii) Creates an exemption to antidiscrimination laws in order to permit discrimination against same-sex couples or their families, or permits discrimination on the basis of sexual orientation, gender identity, or gender expression.
+(iii) Creates an exemption to antidiscrimination laws in order to permit discrimination against
+ same-sex couples or their families, or permits discrimination on the basis of sexual orientation, gender identity, or gender expression.
 
-(iv) Denies or interferes with, or has the effect of denying or interfering with, a woman’s right to choose to bear a child or to choose and obtain an abortion, as provided by Article 2.5 (commencing with Section 123460) of Chapter 2 of Part 2 of
- Division 106 of the Health and Safety Code.
+(iv) Denies or interferes with, or has the effect of denying or interfering with, a woman’s right to choose to bear a child or to choose and obtain an abortion, as provided by Article 2.5 (commencing with Section 123460) of Chapter 2 of Part 2 of Division 106 of the Health and Safety Code.
 
 (F) For allocation periods beginning with the 2023–24 fiscal year, the taxpayer’s commitment to treating their workforce fairly and creating quality, full-time, wage and salary jobs in the state, evidence of which may include, but not be limited to, the following:
 
@@ -77550,50 +77565,48 @@ For purposes of this subdivision, if on or before the day on which the individua
 
 (G) Any other factors GO-Biz deems necessary to ensure that the administration of the credit allowed pursuant to this section is a model of accountability and transparency and that the effective use of the limited amount of credit available is maximized.
 
-(8) (A) Implementation of subparagraphs (E) and (F) of paragraph (7) of this subdivision for the 2022–23 fiscal year is deemed an emergency and necessary for the immediate preservation of the public peace, health, and safety, or general welfare and, therefore, the Governor’s Office of
- Business and Economic Development is hereby authorized to adopt emergency regulations to implement subparagraphs (E) and (F) of paragraph (7) of this subdivision during the 2022–23 fiscal year in accordance with the rulemaking provisions of the Administrative Procedure Act (Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code).
+(8) (A) Implementation of
+ subparagraphs (E) and (F) of paragraph (7) of this subdivision for the 2022–23 fiscal year is deemed an emergency and necessary for the immediate preservation of the public peace, health, and safety, or general welfare and, therefore, the Governor’s Office of Business and Economic Development is hereby authorized to adopt emergency regulations to implement subparagraphs (E) and (F) of paragraph (7) of this subdivision during the 2022–23 fiscal year in accordance with the rulemaking provisions of the Administrative Procedure Act (Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code).
 
 (B) Nothing in this subdivision shall require the Governor’s Office of Business and Economic Development to approve emergency regulations.
 
 (d) For purposes of this section, the Franchise Tax Board shall do all of the following:
 
-(1) (A) Except as provided in subparagraph (B), review the books
- and records of all taxpayers allocated a credit pursuant to this section to ensure compliance with the terms and conditions of the written agreement between the taxpayer and GO-Biz.
+(1) (A) Except as provided in subparagraph (B), review the books and records of all taxpayers allocated a credit pursuant to this section to ensure compliance with the terms and conditions of the written agreement between the taxpayer and GO-Biz.
 
 (B) In the case of a taxpayer that is a “small business,” as defined in Section 23626, review the books and records of the taxpayer allocated a credit pursuant to this section to ensure compliance with the terms and conditions of the written agreement between the taxpayer and GO-Biz when, in the sole discretion of the Franchise Tax Board, a review of those books and records is appropriate or necessary in the best interests of the state.
 
-(2) Notwithstanding Section 19542, notify GO-Biz of a possible breach of the written agreement by a taxpayer and provide detailed information regarding the basis for that determination.
+(2) Notwithstanding Section 19542, notify GO-Biz of a possible breach of the written agreement by a taxpayer and provide
+ detailed information regarding the basis for that determination.
 
-(e) In the case
- where the credit allowed under this section exceeds the “tax,” as defined in Section 23036, for a taxable year, the excess credit may be carried over to reduce the “tax” in the following taxable year, and succeeding five taxable years, if necessary, until the credit has been exhausted.
+(e) In the case where the credit allowed under this section exceeds the “tax,” as defined in Section 23036, for a taxable year, the excess credit may be carried over to reduce the “tax” in the following taxable year, and succeeding five taxable years, if necessary, until the credit has been exhausted.
 
 (f) Any recapture, in whole or in part, of a credit approved by the committee pursuant to Section 18410.2 shall be treated as a mathematical error appearing on the return. Any amount of tax resulting from that recapture shall be assessed by the Franchise Tax Board in the same manner as provided by Section 19051. The amount of tax resulting from the recapture shall be added to the tax otherwise due by the taxpayer for the taxable year in which the committee’s recapture determination occurred.
 
-(g) (1) The aggregate amount of credit that may be allocated in any fiscal year
- pursuant to this section and Section 17059.2 shall be an amount equal to the sum of subparagraphs (A), (B), and (C), less the amount specified in subparagraphs (D) and (E):
+(g) (1) The aggregate amount of credit that may be allocated in any fiscal year pursuant to this section and Section 17059.2 shall be an amount equal to the sum of subparagraphs (A), (B), and (C), less the amount specified in subparagraphs (D) and (E):
 
-(A) Thirty million dollars ($30,000,000) for the 2013–14 fiscal year, one hundred fifty million dollars ($150,000,000) for the 2014–15 fiscal year, two hundred million dollars ($200,000,000) for each fiscal year from 2015–16 to 2017–18, inclusive, one hundred eighty million dollars ($180,000,000) for each fiscal year from 2018–19 to 2020–21, inclusive, two hundred ninety million dollars ($290,000,000) for the 2021–22 fiscal year, and one hundred eighty million dollars ($180,000,000) for each fiscal year from 2022–23 to 2027–28, inclusive.
+(A) Thirty million dollars ($30,000,000) for the 2013–14 fiscal year, one hundred fifty million dollars ($150,000,000) for the 2014–15 fiscal year, two hundred million dollars ($200,000,000) for each fiscal year from 2015–16 to 2017–18, inclusive, one hundred eighty million dollars ($180,000,000) for each fiscal year from 2018–19 to 2020–21, inclusive, two hundred ninety million dollars ($290,000,000) for the 2021–22 fiscal year, and one hundred eighty million dollars ($180,000,000) for each fiscal year from 2022–23 to 2032–33, inclusive.
 
 (B) The unallocated credit amount, if any, from the preceding fiscal year.
 
 (C) The amount of any previously allocated credits that have been recaptured.
 
-(D) The amount estimated by the Director of Finance, in consultation with the Franchise Tax Board and the California Department of Tax and Fee Administration, to be necessary to limit the aggregation of the estimated amount of exemptions claimed pursuant to Section 6377.1 and of the amounts estimated to be claimed pursuant to this section and Sections 17053.73, 17059.2, and 23626 to no more than seven hundred fifty million dollars ($750,000,000) for either the current
- fiscal year or the next fiscal year.
+(D) The amount estimated by the Director of Finance, in consultation with the Franchise Tax Board and the California Department of Tax and Fee Administration, to be necessary to limit the aggregation of the estimated amount of exemptions claimed pursuant to Section 6377.1 and of the amounts estimated to be claimed pursuant to this section and Sections 17053.73, 17059.2, and 23626 to no more than seven hundred fifty million dollars ($750,000,000) for either the current fiscal
+ year or the next fiscal year.
 
 (i) The Director of Finance shall notify the Chairperson of the Joint Legislative Budget Committee of the estimated annual allocation authorized by this paragraph. Any allocation pursuant to these provisions shall be made no sooner than 30 days after written notification has been provided to the Chairperson of the Joint Legislative Budget Committee and the chairpersons of the committees of each house of the Legislature that consider appropriations, or not sooner than whatever lesser time the Chairperson of the Joint Legislative Budget Committee, or the Chairperson’s designee, may determine.
 
 (ii) In no event shall the amount estimated in this subparagraph be less than zero dollars ($0).
 
-(E) (i) For the 2015–16 fiscal year and each fiscal year thereafter, the
- amount of credit estimated by the Director of Finance to be allowed to all qualified taxpayers for that fiscal year pursuant to subparagraph (A) or subparagraph (B) of paragraph (1) of subdivision (c) of Section 23636.
+(E) (i) For the 2015–16 fiscal year and each fiscal year thereafter, the amount
+ of credit estimated by the Director of Finance to be allowed to all qualified taxpayers for that fiscal year pursuant to subparagraph (A) or subparagraph (B) of paragraph (1) of subdivision (c) of Section 23636.
 
 (ii) If the amount available per fiscal year pursuant to this section and Section 17059.2 is less than the aggregate amount of credit estimated by the Director of Finance to be allowed to qualified taxpayers pursuant to subparagraph (A) or subparagraph (B) of paragraph (1) of subdivision (c) of Section 23636, the aggregate amount allowed pursuant to Section 23636 shall not be reduced and, in addition to the reduction required by clause (i), the aggregate amount of credit that may be allocated pursuant to this section and Section 17059.2 for the next fiscal year shall be reduced by the amount of that deficit.
 
-(iii) It is the intent of the Legislature that the
- reductions specified in this subparagraph of the aggregate amount of credit that may be allocated pursuant to this section and Section 17059.2 shall continue if the repeal dates of the credits allowed by this section and Section 17059.2 are removed or extended.
+(iii) It is the intent of the Legislature that the reductions
+ specified in this subparagraph of the aggregate amount of credit that may be allocated pursuant to this section and Section 17059.2 shall continue if the repeal dates of the credits allowed by this section and Section 17059.2 are removed or extended.
 
-(2) (A) In addition to the other amounts determined pursuant to paragraph (1), the Director of Finance may increase the aggregate amount of credit that may be allocated pursuant to this section and Section 17059.2 by up to twenty-five million dollars ($25,000,000) per fiscal year through the 2027–28 fiscal year. The amount of any increase made pursuant to this paragraph, when combined with any increase made pursuant to paragraph (2) of subdivision (g) of Section 17059.2, shall not exceed twenty-five million dollars ($25,000,000) per fiscal year through the 2027–28 fiscal year.
+(2) (A) In addition to the other amounts determined pursuant to paragraph (1), the Director of Finance may increase the aggregate amount of credit that may be allocated pursuant to this section and Section 17059.2 by up to twenty-five million dollars ($25,000,000) per fiscal year through the 2032–33 fiscal year. The amount of any increase made pursuant to this paragraph, when combined with any increase made pursuant to paragraph (2) of subdivision (g) of Section 17059.2, shall not exceed twenty-five million dollars ($25,000,000) per fiscal year through the 2032–33 fiscal year.
 
 (B) It is the intent of the Legislature that the Director of Finance increase the aggregate amount under subparagraph (A) in order to mitigate the reduction of the amount available due to the credit allowed to all qualified taxpayers pursuant to subparagraph (A) or (B) of paragraph (1) of subdivision (c) of Section 23636.
 
@@ -77609,18 +77622,17 @@ For purposes of this subdivision, if on or before the day on which the individua
 (2) A written agreement between GO-Biz and a taxpayer with respect to the credit authorized
  by this section must comply with existing law on the date the agreement is executed.
 
-(j) (1) Upon the effective date of this section, the Department of Finance shall estimate the total dollar amount of credits that will be claimed under this section with respect to each fiscal year from the 2013–14 fiscal year to the 2029–30 fiscal year, inclusive.
+(j) (1) The Department of Finance shall estimate the total dollar amount of credits that will be claimed under this section with respect to each fiscal year from the 2013–14 fiscal year to the 2034–35 fiscal year, inclusive.
 
-(2) The Franchise Tax Board shall annually provide to the Joint Legislative Budget Committee, by no later than March 1, a report of the total dollar amount of the credits claimed under this section with respect to the relevant fiscal year. The report shall compare the total dollar amount of credits claimed under this section with respect to that fiscal year with the department’s estimate with respect to that same fiscal year. If the total dollar amount of credits claimed for the fiscal year is less than the
- estimate for that fiscal year, the report shall identify options for increasing annual claims of the credit so as to meet estimated amounts.
+(2) The Franchise Tax Board shall annually provide to the Joint Legislative Budget Committee, by no later than March 1, a report of the total dollar amount of the credits claimed under this section with respect to the relevant fiscal year. The report shall compare the total dollar amount of credits claimed under this section with respect to that fiscal year with the department’s estimate with respect to that same fiscal year. If the total dollar amount of credits claimed for the fiscal year is less than the estimate for that fiscal year, the report shall identify options for increasing annual claims of the credit so as to meet estimated amounts.
 
 (k) (1) Section 19542 shall apply to all information obtained by the Franchise Tax Board and GO-Biz for the purpose of administering the California Competes Tax Credit established under this section.
 
 (2) Notwithstanding Section 19542 and paragraph (1), the Franchise Tax Board may disclose information to GO-Biz and GO-Biz may disclose information to the Franchise Tax Board for administration of the California Competes Tax Credit established under this section.
 
- (l) This section shall remain in effect only until December 1, 2030, and as of that date is repealed.
+(l) This section shall remain in effect only until December 1, 2035, and as of that date is repealed.
 
-(History: Amended by Stats. 2022, Ch. 55, Sec. 14.   (AB 194)   Effective June 30, 2022.   Repealed as of December 1, 2030, by its own provisions.)
+(History: Amended by Stats. 2026, Ch. 85, Sec. 8.   (SB 180)   Effective July 13, 2026.   Repealed as of December 1, 2035, by its own provisions.)
 -------------------------------------------
 
 23691.
@@ -80104,12 +80116,14 @@ For taxable years beginning on or after January 1, 2016, Section 529A of the Int
 
 (e) The amendments made by Section 11024(a) of the Tax Cuts and Jobs Act (Public Law 115-97) to Section 529A(b)(2)(B) of the Internal Revenue Code, relating to qualified ABLE programs, shall apply, except as otherwise provided.
 
-(f) (1) For taxable years beginning on or after January 1, 2026, the amendments made by Section 124 of the Consolidated Appropriations Act, 2023 (Public Law 117-328)
- to Section 529A(e) of the Internal Revenue Code, relating to qualified ABLE programs, shall apply, except as otherwise provided.
+(f) (1) For taxable years beginning on or after January 1, 2026, the amendments made by Section 124 of the Consolidated Appropriations Act, 2023 (Public Law 117-328) to Section 529A(e) of the Internal Revenue Code, relating to qualified ABLE
+ programs, shall apply, except as otherwise provided.
 
 (2) For purposes of complying with Section 41, the goal, purpose, objective, performance indicators, and data collection requirements for the tax expenditure allowed by this subdivision shall be as specified in subdivision (f) of Section 17140.4.
 
-(History: Amended by Stats. 2023, Ch. 324, Sec. 2.   (AB 339)   Effective January 1, 2024.)
+(g) For taxable years beginning on or after January 1, 2026, the amendments made by Section 70204(a)(2) of Public Law 119-21 to Sections 529A(b)(2)(B), relating to cash contributions, and 529A(b)(6), relating to prohibition on excess contributions, of the Internal Revenue Code shall apply.
+
+(History: Amended by Stats. 2026, Ch. 85, Sec. 9.   (SB 180)   Effective July 13, 2026.)
 -------------------------------------------
 
 23711.5.
