@@ -5,7 +5,7 @@
 
 Source: Official California Legislative Information
         https://downloads.leginfo.legislature.ca.gov/
-Last Updated by State of California: November 27, 2025
+Last Updated by State of California: July 17, 2026
 
 
 ======================================================================
@@ -16591,15 +16591,15 @@ A city or county may spend its apportionment of funds under the program on trans
 
 2038.
 
-(a) The California Workforce Development Board shall develop guidelines for public agencies receiving Road Maintenance and Rehabilitation Account funds to participate in, invest in, or partner with, new or existing preapprenticeship training programs established pursuant to subdivision (e) of Section 14230 of the Unemployment Insurance Code. The department and local agencies that receive Road Maintenance and Rehabilitation Account funds pursuant to this chapter shall, not later than July 1, 2023, follow the guidelines set forth by the board. The board shall also establish a preapprenticeship development and training grant program, beginning January 1, 2019, pursuant to subdivision (e) of Section 14230 of the Unemployment Insurance Code. Local public agencies that receive Road Maintenance and Rehabilitation Account funds pursuant
- to this chapter are eligible to compete for such grants and may apply in partnership with other agencies and entities, including those with existing preapprenticeship programs. Successful grant applicants shall, to the extent feasible:
+(a) The California Workforce Development Board shall develop guidelines for public agencies receiving Road Maintenance and Rehabilitation Account funds to participate in, invest in, or partner with, new or existing preapprenticeship training programs established pursuant to subdivision (e) of Section 14230 of the Unemployment Insurance Code. The department and local agencies that receive Road Maintenance and Rehabilitation Account funds pursuant to this chapter shall, not later than July 1, 2023, follow the guidelines set forth by the board. The board shall also establish a preapprenticeship development and training grant program, beginning January 1, 2019, pursuant to subdivision (e) of Section 14230 of the Unemployment Insurance Code. Local public agencies that receive Road Maintenance and Rehabilitation Account funds
+ pursuant to this chapter are eligible to compete for such grants and may apply in partnership with other agencies and entities, including those with existing preapprenticeship programs. Successful grant applicants shall, to the extent feasible:
 
 (1) Follow the multicraft core curriculum implemented by the State Department of Education for its pilot project with the California Partnership Academies and by the California Workforce Development Board and local boards.
 
 (2) Include a plan for outreach to and retention of women participants in the preapprenticeship program to help increase the representation of women in the building and construction trades.
 
-(3) Include a plan for outreach to and retention of minority participants and underrepresented subgroups in the preapprenticeship program to help increase their representation in
- the building and construction trades.
+(3) Include a plan for outreach to and retention of minority participants and underrepresented subgroups in the preapprenticeship program to help increase their
+ representation in the building and construction trades.
 
 (4) Include a plan for outreach to and retention of disadvantaged youth participants in the preapprenticeship program to help increase their employment opportunities in the building and construction trades.
 
@@ -16607,10 +16607,11 @@ A city or county may spend its apportionment of funds under the program on trans
 
 (6) Coordinate with local state-approved apprenticeship programs, local building trade councils, and to the extent possible the California Conservation Corps and certified community conservation corps, so individuals who have completed these programs have a pathway to continued employment.
 
-(b) As a condition of receiving a grant, grantees shall
- collect demographic data from participants and shall report this data to the California Workforce Development Board. The California Workforce Development Board shall provide technical assistance to grantees on the manner in which to collect this data. The California Workforce Development Board shall annually report this demographic data to the Legislature, detailing the racial, ethnic, and gender makeup of participants in the grant programs. This report shall include demographic data on participation, completion, and placement.
+(b) As a condition of receiving a grant,
+ grantees shall collect demographic data from participants and shall report this data to the California Workforce Development Board. The California Workforce Development Board shall provide technical assistance to grantees on the manner in which to collect this data. The California Workforce Development Board shall report this demographic data to the Legislature, detailing the racial, ethnic, and gender makeup of participants in the grant program, including demographic data on participation, completion, and placement on
+ the timeline prescribed in subdivision (t) of Section 14013 of the Unemployment Insurance Code.
 
-(History: Amended by Stats. 2017, Ch. 95, Sec. 16.   (SB 103)   Effective July 21, 2017.)
+(History: Amended by Stats. 2026, Ch. 83, Sec. 21.   (SB 171)   Effective July 13, 2026.)
 -------------------------------------------
 
 
