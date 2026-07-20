@@ -5,7 +5,7 @@
 
 Source: Official California Legislative Information
         https://downloads.leginfo.legislature.ca.gov/
-Last Updated by State of California: July 10, 2026
+Last Updated by State of California: July 17, 2026
 
 
 ======================================================================
@@ -688,6 +688,13 @@ A “carry-all” is that type of earth-moving equipment which is not self-prope
 A “certificate of compliance” for the purposes of this code is an electronic or printed document issued by a state agency, board, or commission, or authorized person, setting forth that the requirements of a particular law, rule or regulation, within its jurisdiction to regulate or administer has been satisfied.
 
 (History: Amended by Stats. 1999, Ch. 1007, Sec. 15.   Effective January 1, 2000.)
+-------------------------------------------
+
+247.
+
+“Certificate of title” or “certificate of ownership” means an official record in paper or electronic form, compliant with the regulations adopted pursuant to subdivision (b) of Section 4450, that establishes and provides proof of legal ownership of a vehicle.
+
+(History: Added by Stats. 2026, Ch. 82, Sec. 9.   (SB 169)   Effective July 13, 2026.)
 -------------------------------------------
 
 250.
@@ -2772,12 +2779,15 @@ The department shall examine and determine the genuineness and regularity of eve
 
 (3) Responding to information requests from the Franchise Tax Board for the purpose of tax administration.
 
-(4) Responding to information requests
- from the Employment Development Department for purposes relating to tax administration and ensuring compliance with family temporary disability insurance, unemployment compensation disability, and unemployment compensation benefit requirements.
+(4) Responding to information requests from the Employment Development Department for purposes relating to tax
+ administration and ensuring compliance with family temporary disability insurance, unemployment compensation disability, and unemployment compensation benefit requirements.
 
-(g) This section shall become inoperative on the effective date of a final judicial determination made by any court of appellate jurisdiction that any provision of the act that added this section, or its application, either in whole or in part, is enjoined, found unconstitutional, or held invalid for any reason. The department shall post this information on its internet website.
+(5) Participation in the State-to-State Verification Service, or any successor system, operated by the American Association of Motor Vehicle Administrators, for the sole purpose of verifying and exchanging driver’s license, identification card, and driver history records with participating jurisdictions.
 
-(History: Amended (as amended by Stats. 2014, Ch. 452, Sec. 2) by Stats. 2020, Ch. 14, Sec. 11.   (AB 82)   Effective June 29, 2020.   Conditionally inoperative as provided in subd. (h).    See later operative version, as amended by Sec. 168 of Stats. 2014, Ch. 71.)
+(g) This section shall become inoperative on the effective date of a final judicial determination made by any court of appellate jurisdiction that any provision of the act that added this section, or its application, either in whole or in part, is enjoined, found unconstitutional, or held invalid for any
+ reason. The department shall post this information on its internet website.
+
+(History: Amended (as amended by Stats. 2020, Ch. 14, Sec. 11) by Stats. 2026, Ch. 82, Sec. 10.   (SB 169)   Effective July 13, 2026.   Conditionally inoperative as provided in subdivision (g).    See later operative version, as amended by Sec. 11 of Stats. 2026, Ch. 82.)
 -------------------------------------------
 
 1653.5.
@@ -2786,15 +2796,15 @@ The department shall examine and determine the genuineness and regularity of eve
 
 (b) Each form prescribed by the department for use by an applicant for the issuance, renewal, or transfer of the registration or certificate of title to a vehicle shall contain a section for the applicant’s driver’s license or identification card number.
 
-(c) A person who submits to the department a form that, pursuant to subdivision (a), contains a section for the applicant’s
- social security account number, or pursuant to subdivision (b), the applicant’s driver’s license or identification card number, if any, shall furnish the appropriate number in the space provided.
+(c) A person who submits to the department a form that, pursuant to subdivision (a), contains a section for the applicant’s social security account number, or
+ pursuant to subdivision (b), the applicant’s driver’s license or identification card number, if any, shall furnish the appropriate number in the space provided.
 
 (d) The department shall not complete an application that does not include the applicant’s social security account number or driver’s license or identification card number as required under subdivision (c).
 
 (e) An applicant’s social security account number shall not be included by the department on a driver’s license, identification card, registration, certificate of title, or any other document issued by the department.
 
-(f) Notwithstanding any other law, information regarding an applicant’s social security account number, obtained by the department pursuant to this section, is not a public record and shall not be disclosed
- by the department except for any of the following purposes:
+(f) Notwithstanding any other law, information regarding an applicant’s social security account number, obtained by the department pursuant to this section, is not a public record and shall not be disclosed by the department except for any of
+ the following purposes:
 
 (1) Responding to a request for information from an agency operating pursuant to, and carrying out the provisions of, Part A (Block Grants to States for Temporary Assistance for Needy Families), or Part D (Child Support and Establishment of Paternity), of Subchapter IV of Chapter 7 of Title 42 of the United States Code.
 
@@ -2802,10 +2812,15 @@ The department shall examine and determine the genuineness and regularity of eve
 
 (3) Responding to information requests from the Franchise Tax Board for the purpose of tax administration.
 
-(g) This section shall become operative on the effective date of a final judicial determination made by any court of appellate jurisdiction that any provision of the act that added this section, or its
- application, either in whole or in part, is enjoined, found unconstitutional, or held invalid for any reason. The department shall post this information on its Internet Web site.
+(4) Responding to information requests from the Employment Development Department for purposes relating to tax administration and ensuring compliance with family
+ temporary disability insurance, unemployment compensation disability, and unemployment compensation benefit requirements.
 
-(History: Amended (as added by Stats. 2013, Ch. 524, Sec. 5) by Stats. 2014, Ch. 71, Sec. 168.   (SB 1304)   Effective January 1, 2015.   Section conditionally operative as prescribed by its own provisions.)
+(5) Participation in the State-to-State Verification Service, or any successor system, operated by the American Association of Motor Vehicle Administrators, for the sole purpose of verifying and exchanging driver’s license, identification card, and driver history records with participating jurisdictions.
+
+(g) This section shall become operative on the effective date of a final judicial determination made by any court of appellate jurisdiction that any provision of the act that added this section, or its application, either in whole or in part, is enjoined, found unconstitutional, or held invalid for any reason. The department shall post this information on its
+ internet website.
+
+(History: Amended (as amended by Stats. 2014, Ch. 71, Sec. 168) by Stats. 2026, Ch. 82, Sec. 11.   (SB 169)   Effective July 13, 2026.   Section conditionally operative as prescribed by its own provisions.)
 -------------------------------------------
 
 1654.
@@ -2826,10 +2841,9 @@ The director may purchase or lease such real estate and erect such buildings as 
 
 1656.
 
-The department shall publish a synopsis or summary of the laws regulating the operation of vehicles and the use of the highways and may deliver a copy of the synopsis or summary without charge with each original vehicle registration and each original driver’s license. The department shall publish
- as many copies of the synopsis or summary in Spanish as the director determines are needed to meet the demand for those copies. The department shall furnish both English and Spanish copies to its field offices and to law enforcement agencies for general distribution and, when it does so, shall furnish the copies without charge.
+The department shall publish on its internet website a synopsis or summary of the laws regulating the operation of vehicles and the use of the highways.
 
-(History: Amended by Stats. 2021, Ch. 254, Sec. 1.   (AB 174)   Effective September 23, 2021.)
+(History: Amended by Stats. 2026, Ch. 82, Sec. 12.   (SB 169)   Effective July 13, 2026.)
 -------------------------------------------
 
 1656.1.
@@ -3456,10 +3470,10 @@ On and after July 1, 2006, in any document mailed by the department that offers 
 
 (a) For a provision of this code or of Title 13 of the California Code of Regulations that requires the department to mail, notify, deliver via certified or first class mail, provide information in written form, or otherwise references the use of paper, a writing, or the mail to convey information to a person, including to notify a person of any departmental actions related to a permit, license, identification card, endorsement, certificate, or vehicle registration, that requirement may be satisfied by electronic notification, including, but not limited to, email, if the all of the following are established by the department:
 
-(1) The department identified the person prior to accepting their consent to receive the type of document or information
- that is electronically delivered.
+(1) The person has been identified by the department and has provided the department with an email address or other similar electronic address. For purposes of this section, a person who provides an electronic address to the department shall be deemed to have consented to the electronic delivery of documents or information from the department to that address.
 
-(2) The person consented to the electronic receipt of the type of document or information delivered.
+(2) The department has informed the person that the department will use the electronic address provided to deliver a type of document or information electronically
+ and that the person will not receive a separate paper copy by mail or other means.
 
 (3) The department permits a person to withdraw their consent to electronically receive the type of document or information.
 
@@ -3467,13 +3481,12 @@ On and after July 1, 2006, in any document mailed by the department that offers 
 
 (b) For a provision of this code that refers to an address for any kind of notice or mailing, and mailing is effected pursuant to this section, an email or electronic delivery address provided to the department by the recipient may be used.
 
-(c) A person who provides an electronic delivery address to the department shall notify the department of any change to that address.
+(c) A person who provides an electronic delivery address to the department shall
+ notify the department of any change to that address.
 
-(d) The consent to accept electronic notification may be made electronically.
+(d) The department may adopt regulations to implement this section.
 
-(e) The department may adopt regulations to implement this section.
-
-(History: Added by Stats. 2022, Ch. 838, Sec. 4.   (SB 1193)   Effective January 1, 2023.)
+(History: Amended by Stats. 2026, Ch. 82, Sec. 13.   (SB 169)   Effective July 13, 2026.)
 -------------------------------------------
 
 1802.
@@ -3920,6 +3933,132 @@ Information regarding any motor vehicle liability insurance policy or surety bon
 (e) For purposes of this article only, any confidential information obtained from the department for administration or enforcement of this article shall be held confidential, except to the extent necessary for the enforcement of parking restrictions, and may not be used for any purpose other than the administration or enforcement of parking restrictions.
 
 (History: Amended by Stats. 2003, Ch. 410, Sec. 1.   Effective January 1, 2004.)
+-------------------------------------------
+
+1808.3.
+
+(a) The department may participate in the State-to-State Verification Service, or any successor system, operated by the American Association of Motor Vehicle Administrators (AAMVA), for the sole purpose of verifying and exchanging driver’s license, identification card, and driver history records with participating jurisdictions.
+
+(b) (1) Information shared shall be limited to the minimum necessary for the purpose described in subdivision (a) and shall only include the following:
+
+(A) True full name.
+
+(B) Date of birth.
+
+(C) (i) Social security account number.
+
+(ii) For purposes of this subparagraph, the minimum pointer information provided to the State-to-State Verification Service shall be the last five digits of the social security account number.
+
+(iii) Consistent with the data limitation requirements set forth in subdivision (f) of Section 1653.5, a social security account number may only be shared for the sole purpose of verifying and exchanging driver’s license, identification card, and driver history records with participating jurisdictions.
+
+(D) State of record.
+
+(E) Driver’s license or identification card number.
+
+(F) Credential type.
+
+(G) REAL ID indicator.
+
+(H) Commercial Driver’s License Information System indicator.
+
+(I) Information necessary to verify and exchange driver history records, including, records of accidents, conviction, and withdrawals, information on driver’s license or permit class, endorsements, restrictions, and card issuance information.
+
+(2) Unless otherwise required by federal law, the department shall not disclose any of the following information through the State-to-State Verification Service:
+
+(A) Address.
+
+(B) Photograph.
+
+(C) Gender marker.
+
+(D) Biometric
+ data, including, but not limited to, fingerprints.
+
+(E) Whether the individual holds a driver’s license or identification card issued pursuant to Section 12801.9.
+
+(3) The department shall make publicly available on its internet website a list of the information shared with participating jurisdictions using the State-to-State Verification Service, including notice that the department will share an applicant’s prior true full names contained in its records.
+
+(c) (1) The department shall prepare an annual report on its participation in the State-to-State Verification Service, or any successor system, annually provide the report to the budget and relevant policy committees of the Legislature, and publish the report on the department’s internet website.
+
+(2) The report shall include all of the following:
+
+(A) Each participating jurisdiction’s number of requests made directly to the state, and, to the extent available, disaggregated by the reason for requests made.
+
+(B) Information on any unusual requests or patterns in the data that indicates a participating jurisdiction is utilizing the State-to-State Verification Service for unauthorized purposes.
+
+(C) Information regarding any known and confirmed breach of contract by other participating jurisdictions, privacy or security breaches, material changes to the AAMVA policies for the State-to-State Verification Service that occur, or any known and confirmed suspension or termination of any state’s State-to-State Verification Service Agreement.
+
+(3) The report shall be provided on or before February 1, 2028, and each February 1 thereafter. The report shall be provided without unreasonable delay, with consideration for operational, technical, or investigative needs, or other sensitive information.
+
+(d) (1) The department shall adopt and maintain a State-to-State Verification Service Monitoring Plan to detect, prevent, and respond to requests for, or uses of, information through the State-to-State Verification Service by a participating jurisdiction for a purpose other than the purpose described in subdivision (a). The plan shall contain information on how the department will perform the following:
+
+(A) Maintain and analyze audit logs of requests sent through or received from the State-to-State Verification Service.
+
+(B) Review and investigate anomalous or irregular requests.
+
+(C) Review of requests from participating jurisdictions based on risk factors or other information that reasonably indicates a potential use of the State-to-State Verification Service for a purpose other than the purpose described in subdivision (a).
+
+(D) Limit, delay, or decline disclosure of information to a participating jurisdiction for anomalous or irregular requests.
+
+(E) Limit, delay, or decline batch, bulk, list-based, pattern-based, automated, or exploratory requests from participating jurisdictions.
+
+(F) Meet reporting requirements as described in subdivision (c).
+
+(2) The department shall consult stakeholders to advise the department on the State-to-State Monitoring Plan. The advisory group shall meet on or before November 1, 2026, and twice annually thereafter, until July 1, 2030. The advisory group shall consist of the following appointees:
+
+(A) A representative of the Department of Justice with knowledge of federal compliance.
+
+(B) Three members appointed by the Senate Committee on Rules, who shall serve at the pleasure of the Senate Committee on Rules. These three members shall include an immigration rights advocate, a LGBTQ+ rights advocate, and a cybersecurity expert.
+
+(C) Three members appointed by the Speaker of the Assembly, who shall serve at the pleasure of the Speaker. These three members shall include a privacy rights advocate, a reproductive rights
+ advocate, and a civil rights expert.
+
+(3) The advisory group shall serve until July 1, 2030, and as of that date shall be disbanded.
+
+(4) The department shall provide the budget and relevant policy committees with a draft version of the plan by February 1, 2027, and a final plan by July 1, 2027.
+
+(e) (1) If the department reasonably determines that a participating jurisdiction has requested or used information for a purpose other than the purpose described in subdivision (a), the department shall refer the matter to the Department of Justice.
+
+(2) (A) If the department determines that a participating jurisdiction has requested or used information maintained in the department’s records and obtained through the
+ State-to-State Verification Service for a purpose other than the purpose described in subdivision (a), the department shall notify the AAMVA, the Department of Justice, and each person whose record was the subject of the request or use without unreasonable delay, with consideration for operational, technical, or investigative needs, or other sensitive information, using the notice requirements pursuant to Section 1798.29 of the Civil Code.
+
+(B) The notification shall include, but is not limited to, a description of the information that was disclosed, the time and date of the requests, and, if known, the department’s determination of the reason that a participating jurisdiction requested or used this information.
+
+(f) The Attorney General may commence an action against the AAMVA, a participating jurisdiction, another individual or entity, or on behalf of a California resident whose
+ information was the subject of a request unrelated to the sole purposes of the State-to-State Verification Service, to enforce the provisions of this section, including, but not limited to, an application or motion for an order enjoining ongoing or subsequent violations of this section. The Attorney General shall not commence an action pursuant to this subdivision unless the Attorney General has reason to believe the AAMVA or a participating jurisdiction intends to obtain or use information for any purpose other than verifying and exchanging driver’s license, identification card, and driver history records, as necessary, to comply with the REAL ID Act of 2005 (Public Law 109-13).
+
+(g) (1) The department shall not participate in the State-to-State Verification Service unless the agreement with the AAMVA is consistent with this section. The department shall not agree to any amendment to the agreement with the AAMVA that
+ reduces, conflicts with, delays, or waives, the privacy protections of California residents or the department’s ability to detect, prevent, and respond to requests for information by participating jurisdictions for a purpose other than the purpose described in subdivision (a). The department may only sign an agreement with the AAMVA, if the agreement contains all of the following terms:
+
+(A) Requires the AAMVA to promptly provide notice to the department, if legally permitted, and work in good faith with the department in formulating a response to any requests, in the form of a subpoena or otherwise, from an entity that is not a participating jurisdiction to release, disclose, discuss, or obtain access to State-to-State Verification Service information or records.
+
+(B) Requires participating jurisdictions to retain only the minimum necessary information that is needed for their
+ governmental business purposes, and agree to securely destroy the remaining information that participating jurisdiction receives.
+
+(C) Requires the AAMVA and participating jurisdictions to not share, sell, or otherwise make available information disclosed pursuant to this agreement, unless otherwise required by federal law.
+
+(D) (i) The AAMVA shall immediately temporarily suspend a participating jurisdiction’s agreement if it determines that the participating jurisdiction has done either of the following:
+
+(I) Incurred an unauthorized use of the State-to-State Verification Service.
+
+(II) Violated or failed to comply with the terms of its agreement with the AAMVA.
+
+(ii) The
+ AAMVA shall also immediately temporarily suspend a participating jurisdiction’s agreement if the suspension is required to protect the integrity of the State-to-State Verification Service.
+
+(E) Participating jurisdictions agree to restrict access to the State-to-State Verification Service to only their authorized state employees, agents, representatives, or contractors who need it to perform their official duties in connection with the intended use of the State-to-State Verification Service and to audit user access to the State-to-State Verification Service.
+
+(F) Participating jurisdictions agree to retain the information for the minimum amount of time necessary, or 14 days, whichever is shorter, and retain only the minimum information that is needed for the sole purposes of this section.
+
+(2) The department shall make
+ publicly available on its internet website all contractual agreements with the AAMVA and other documents as necessary with consideration for privacy and security related to the State-to-State Verification Service.
+
+(3) Any material new or modified contract or agreement governing the use, retention, or collection of data, including, but not limited to, the data elements shared with the AAMVA, shall be consistent with the authority provided in this section and any other applicable provision of state law. Prior to execution, the department shall provide at least 30 days advance written notice of any material new or modified contract or agreement subject to this subdivision to the appropriate policy and fiscal committees of the Legislature and the Joint Legislative Budget Committee.
+
+(h) By no later than January 1, 2030, the California State Auditor shall conduct an audit of the
+ department’s compliance with this section. In determining the timing of the audit before that date, the California State Auditor shall allow a reasonable period after the program becomes operational to support the initial program implementation and the accumulation of sufficient information for review. This section does not prohibit the auditor from initiating an audit requested by the Legislature through the Joint Legislative Audit Committee.
+
+(History: Added by Stats. 2026, Ch. 82, Sec. 14.   (SB 169)   Effective July 13, 2026.)
 -------------------------------------------
 
 1808.4.
@@ -8498,9 +8637,11 @@ The department shall forthwith mail a notice of the filing of any application fo
 
 4450.
 
-The department upon registering a vehicle shall issue a certificate of ownership to the legal owner and a registration card to the owner, or both to the owner if there is no legal owner of the vehicle.
+(a) The department upon registering a vehicle shall issue a certificate of ownership to the legal owner and a registration card to the owner, or both to the owner if there is no legal owner of the vehicle.
 
-(History: Enacted by Stats. 1959, Ch. 3.)
+(b) The department may adopt regulations for the issuance and acceptance of a “certificate of title” or “certificate of ownership” in an electronic form.
+
+(History: Amended by Stats. 2026, Ch. 82, Sec. 15.   (SB 169)   Effective July 13, 2026.)
 -------------------------------------------
 
 4450.5.
@@ -13641,21 +13782,6 @@ In addition to any other registration fee and notwithstanding Section 9559, an a
 A licensed automobile dismantler who acquires, for the purpose of dismantling, a vehicle of a type subject to registration under this code, and who complies with Section 11520, is not required to pay fees or penalties that would otherwise be required if that vehicle were to be currently registered.
 
 (History: Amended by Stats. 1990, Ch. 1352, Sec. 7.   Effective September 27, 1990.   Applicable from July 1, 1990, pursuant to Sec. 21 of Ch. 1352.)
--------------------------------------------
-
-9270.
-
-(a) The department may charge a service fee of not more than fifteen dollars ($15), in addition to other fees payable under this code, for the expedited completion of any of the following services within 72 hours after receipt of a complete and proper application for the service:
-
-(1) Initial registration of a vehicle.
-
-(2) Transfer of registration of a vehicle.
-
-(3) Issuance of a duplicate certificate of ownership.
-
-(b) The services in subdivision (a) shall be available only at the department’s headquarters office in Sacramento.
-
-(History: Amended by Stats. 2004, Ch. 430, Sec. 2.   Effective January 1, 2005.)
 -------------------------------------------
 
 9271.
@@ -23445,16 +23571,14 @@ If a driver with a class C or M license, who is not required to have a certifica
 
 12814.
 
-(a) Application for renewal of a license shall be made at an office of the department by the person to whom the license was issued. The department may in its discretion require an examination of the applicant as upon an original application, or an examination deemed by the department to be appropriate considering the licensee’s record of convictions and accidents, or an examination deemed by the department to be appropriate in relation to evidence of a condition that may affect the ability of the applicant to safely operate a motor vehicle. The age of a licensee, by itself, may not
- constitute evidence of a condition requiring an examination of the driving ability. If the department finds any evidence, the department shall disclose the evidence to the applicant or licensee. If the person is absent from the state at the time the license expires, the director may extend the license for a period of one year from the expiration date of the license.
+(a) Application for renewal of a license shall be made at an office of the department by the person to whom the license was issued. The department may, in its discretion, require an examination of the applicant as upon an original application, an examination deemed by the department to be appropriate considering the licensee’s record of convictions and accidents, or an examination deemed by the department to be appropriate in relation to evidence of a condition that may affect the ability of the applicant to safely operate a motor vehicle. The age of a licensee, by itself, may not constitute evidence of a condition requiring an examination of the driving ability. If the department finds any evidence, the department shall disclose the evidence to the applicant or licensee. If the person is absent from the state at the time the license expires, the director may extend the license for a period of one year from the expiration date of the license.
 
 (b) Renewal of a driver’s license shall be under terms and conditions prescribed by the department.
 
-(c) The department may adopt and administer those regulations as shall be deemed necessary for the public safety in the implementation of a program of selective testing of applicants, and, with reference to this section, the department may waive tests for purposes of evaluation of selective testing procedures.
+(c) The department may
+ adopt and administer those regulations as shall be deemed necessary for the public safety in the implementation of a program of selective testing of applicants, and, with reference to this section, the department may waive tests for purposes of evaluation of selective testing procedures.
 
-(d) A driver’s license renewal notice for a person who is required to pass a knowledge examination in order to renew his or her driver’s license shall provide written notice of that requirement.
-
-(History: Amended by Stats. 2018, Ch. 171, Sec. 1.   (AB 2357)   Effective January 1, 2019.)
+(History: Amended by Stats. 2026, Ch. 82, Sec. 17.   (SB 169)   Effective July 13, 2026.)
 -------------------------------------------
 
 12814.4.
@@ -24009,62 +24133,54 @@ When used in reference to an identification card, “cancellation” means that 
 
 (A) Persons who have voluntarily chosen to participate in the pilot program.
 
-(B) No more than
- 15
+(B) No more than 60
  percent of licensed drivers for the purpose of evaluation.
 
-(2) A participant in a pilot program established by the department pursuant to this subdivision may terminate their participation in the pilot program at any time and may, upon termination, request the deletion of any data associated with their participation in the program. Within 10 days of any such request, the department and all entities contracted with the department for the purpose of effectuating the pilot program shall delete all data collected or maintained pursuant to the
- participant’s participation in the program.
+(2) A participant in a pilot program established by the department pursuant to this subdivision may terminate their participation in the pilot program at any time and may, upon termination, request the deletion of any data associated with their participation in the program. Within 10 days of any such request, the department and all entities contracted with the department for the purpose of effectuating the pilot program shall delete all data collected or maintained pursuant to the participant’s participation in the program.
 
 (3) All participants shall receive both a physical and, if requested, an immutable and unique driver’s license or identification card.
 
-(b) In developing and implementing the use of digital driver’s licenses and identification cards, the department shall ensure the protection of personal information and include security features that protect against unauthorized access to information, including, but not limited to, all of the following:
+(b) In developing and implementing the use of digital driver’s licenses and
+ identification cards, the department shall ensure the protection of personal information and include security features that protect against unauthorized access to information, including, but not limited to, all of the following:
 
-(1) Ensuring that remote access to the digital driver’s license or identification card shall require the express, affirmative, real-time consent of the person whose digital driver’s license or identification card is being requested for each piece of
- information being
- requested and shall be limited to only the information that is provided on a physical driver’s license or identification card.
+(1) Ensuring that remote access to the digital driver’s license or identification card shall require the express, affirmative, real-time consent of the person whose digital driver’s license or identification card is being requested for each piece of information being requested and shall be limited to only the information that is provided on a physical driver’s license or identification card.
 
-(2) Ensuring that the digital driver’s license or identification card, as well as any mobile application required for the digital driver’s license or identification card, shall not contain or collect any information not strictly necessary for the functioning of the digital driver’s license, identification card, or mobile application, including, but not limited to,
- information relating to movement or location.
+(2) Ensuring that the digital driver’s license or identification card, as well as any mobile application required for the digital driver’s license or identification card, shall not contain or collect any information not strictly necessary for the functioning of the
+ digital driver’s license, identification card, or mobile application, including, but not limited to, information relating to movement or location.
 
 (3) Ensuring that the information transmitted to the digital driver’s license or identification card, as well as any mobile application required for the digital driver’s license or identification card, is encrypted and protected to the highest reasonable security standards broadly available, including ISO-18013-5, FIPS 140-3, and NIST 800-53 Moderate, and cannot be intercepted while being transmitted from the department.
 
-(c) (1) In the conduct of a pilot program established pursuant to this
- section, any data exchanged between the department and
- an electronic device, between the department and the provider of an electronic device, and between an electronic device and the provider of that electronic device shall be limited to those data necessary to display the information necessary for a driver’s license or identification card.
+(c) (1) In the conduct of a pilot program established pursuant to this section, any data exchanged between the department and an electronic device, between the department and the provider of an electronic device, and between an electronic device and the provider of that electronic device shall be
+ limited to those data necessary to display the information necessary for a driver’s license or identification card.
 
-(2) An entity contracted with the
- department for this purpose shall not use, share, sell, or disclose any information obtained as part of this contract, including, but not limited to, information about the holder of a digital driver’s license or identification card, except as is necessary to satisfy the terms of the contract. Upon termination or expiration of a contract entered into for this purpose, the contracting entity shall delete any data collected or generated in the course of activities pursuant to the contract within 30 days.
+(2) An entity contracted with the department for this purpose shall not use, share, sell, or disclose any information obtained as part of this contract, including, but not limited to, information about the holder of a digital driver’s license or identification card, except as is necessary to satisfy the terms of the contract. Upon termination or expiration of a contract entered into for this purpose, the contracting entity shall delete any data collected or generated in the course of activities pursuant to the contract within 30 days.
 
-(d) (1) The holder of a digital driver’s license or identification card shall not be required to turn over their electronic device to any person or entity in order to use the digital driver’s license or identification card for identity verification.
+(d) (1) The holder of a digital driver’s license or identification card shall not be required to turn over their electronic device to any person or entity in order to use the digital driver’s license or
+ identification card for identity verification.
 
-(2) The holder of a digital driver’s license or identification card showing or turning over their electronic device to any person or entity in order to use the digital driver’s license or identification card for identity verification shall not constitute consent to a
- search nor shall it constitute consent for access to any information other than that which is immediately available on the digital driver’s license or identification card. Information incidentally obtained in the process of viewing a digital driver’s license or identification card in order to verify the identity of the holder shall not be used to establish probable cause for a warrant to search the electronic device.
+(2) The holder of a digital driver’s license or identification card showing or turning over their electronic device to any person or entity in order to use the digital driver’s license or identification card for identity verification shall not constitute consent to a search nor shall it constitute consent for access to any information other than that which is immediately available on the digital driver’s license or identification card. Information incidentally obtained in the process of viewing a digital driver’s license or identification card in order to verify the identity of the holder shall not be used to establish probable cause for a warrant to search the electronic device.
 
-(3) A request for remote access to their digital driver’s license or identification card for identity verification shall require the express consent of the holder of the digital driver’s license or identification
- card shall be limited to the content of the digital driver’s license or identification card specified in the request for remote access and shall not exceed the information available on a physical driver’s license or identification card.
+(3) A request for remote access to their digital driver’s license or identification card for identity verification shall require the express consent of the
+ holder of the digital driver’s license or identification card shall be limited to the content of the digital driver’s license or identification card specified in the request for remote access and shall not exceed the information available on a physical driver’s license or identification card.
 
-(4) Consent to remote access to a digital driver’s license or identification card by the holder shall not constitute consent to a search nor shall it constitute consent for access to
- information other than that which is immediately available on the digital driver’s license or identification card. Information incidentally obtained in the process of remotely accessing a digital driver’s license or identification card shall not be used to establish probable cause for a warrant to search the electronic device.
+(4) Consent to remote access to a digital driver’s license or identification card by the holder shall not constitute consent to a search nor shall it constitute consent for access to information other than that which is immediately available on the digital driver’s license or identification card. Information incidentally obtained in the process of remotely accessing a digital driver’s license or identification card shall not be used to establish probable cause for a warrant to search the electronic device.
 
-(e) (1) A participant in a pilot program established by the department pursuant to this section shall not be required to use a digital driver’s license or identification card rather than a physical driver’s license or identification card for the purpose of identity
- verification nor shall their participation in the pilot program preclude their use of a physical driver’s license or identification card under any circumstances.
+(e) (1) A participant in a pilot program established by the
+ department pursuant to this section shall not be required to use a digital driver’s license or identification card rather than a physical driver’s license or identification card for the purpose of identity verification nor shall their participation in the pilot program preclude their use of a physical driver’s license or identification card under any circumstances.
 
 (2) A person or entity shall not provide preferential service based on a person’s use of a digital driver’s license or identification card rather than a physical driver’s license or identification card.
 
 (f) The pilot program may include the issuance of mobile or digital Real ID driver’s license or identification cards upon authorization of the United States Secretary of Homeland Security.
 
-(g) If the department establishes the
- pilot program authorized in subdivision (a), the department shall, no later than July 1, 2026, submit a report regarding the pilot program to the Legislature, in compliance with Section 9795 of the Government Code,
- that includes, but is not
- limited to, all of the following:
+(g) If the department establishes the pilot program authorized in
+ subdivision (a), the department shall, no later than July 1, 2026, submit a report regarding the pilot program to the Legislature, in compliance with Section 9795 of the Government Code, that includes, but is not limited to, all of the following:
 
 (1) A review of all products evaluated in the pilot program and of the features of those products. The report shall note any security features to protect against unauthorized access to information.
 
 (2) Lessons learned from the pilot program with regards to the utility of a mobile driver’s license program or risks and solutions related to the implementation of a mobile driver’s license program.
 
-(3) Recommendations for subsequent actions, if any, that should be taken with regard to alternative options for digital driver’s licenses or identification cards evaluated in the
- pilot program.
+(3) Recommendations for subsequent actions, if any, that should be taken with regard to alternative options for digital driver’s licenses or identification cards evaluated in the pilot
+ program.
 
 (4) An estimate of the fiscal impact of the deployment of a mobile driver’s license program, including the estimated impact to the Motor Vehicle Account established pursuant to Section 42271.
 
@@ -24076,7 +24192,7 @@ When used in reference to an identification card, “cancellation” means that 
 
 (3) The fiscal impact of the pilot program.
 
-(History: Amended by Stats. 2025, Ch. 109, Sec. 7.   (SB 153)   Effective September 17, 2025.)
+(History: Amended by Stats. 2026, Ch. 82, Sec. 18.   (SB 169)   Effective July 13, 2026.)
 -------------------------------------------
 
 
@@ -33280,21 +33396,199 @@ A local authority, with respect to any highway under its jurisdiction, may autho
 
 21655.10.
 
-(a) The Department of Transportation and local authorities, with respect to highways under their respective jurisdictions, may authorize or temporarily permit exclusive or preferential use of high-occupancy vehicle lanes, high-occupancy toll lanes, and other lanes, regardless of the number of passengers in the vehicle, for the games route network if the vehicle displays a distinctive decal, label, or other identifier issued by the Olympic and Paralympic Games organizers that clearly distinguishes the vehicle is being operated on the games route network during an Olympic and Paralympic Games period. A person shall not drive a vehicle upon those lanes except in conformity with the instructions imparted by the official traffic control devices. Exclusive or preferential use of those lanes shall not exclude
- emergency response and public safety vehicles.
+(a) The department and local authorities, with respect to highways under their respective jurisdictions, may authorize or temporarily permit exclusive or preferential use of high-occupancy vehicle lanes, high-occupancy toll lanes, and other lanes, regardless of the number of passengers in the vehicle, for the games route network if the vehicle displays a distinctive decal, label, or other identifier issued by the organizers of the 2028 Olympic and Paralympic Games
+ that clearly distinguishes the vehicle is being operated on the games route network during a 2028 Olympic and Paralympic Games period. A person shall not drive a vehicle upon those lanes except in conformity with the instructions imparted by the official traffic control devices. Exclusive or preferential use of those lanes shall not exclude authorized emergency vehicles as defined by Section 165, or public transit.
 
-(b) The design of the decal, label, or other identifier issued by the Olympic and Paralympic Games organizers shall be approved by the Department of Transportation, in collaboration with the Department of the California Highway Patrol, and shall display a serial number or identification number to verify that the decal, label, or other identifier is being used on the vehicle for which it is issued.
+(b) The design of the decal, label, or other identifier issued by the
+ 2028 Olympic and Paralympic Games organizers shall be approved by the department, in collaboration with the Department of the California Highway Patrol, and shall display a serial number or identification number to verify that the decal, label, or other identifier is being used on the vehicle for which it is issued.
 
 (c) For purposes of this section:
 
-(1) “Games route network” means dedicated traffic lanes for travel used during the Olympic and Paralympic Games Period, as identified by the Department of Transportation or a local authority, in consultation with the Olympic and Paralympic Games organizers.
+(1) “Automated enforcement system” means any combination of cameras, sensors, mobile applications, or other technology used to identify and cite violations of subdivision (a). An automated
+ enforcement system does not include video cameras that continuously capture video footage of the roadways. An automated enforcement system may include personnel.
 
-(2) “Olympic and
- Paralympic Games period” means the days identified by the Department of Transportation for which the games route network shall be operable.
+(2) “Department” means the Department of Transportation.
 
-(d) This section shall remain in effect only until January 1, 2029, and as of that date is repealed.
+(3) “Games route network” means dedicated traffic lanes for travel used during the 2028 Olympic and Paralympic Games
+ period, as identified by the
+ department or a local authority, in consultation with the 2028 Olympic and Paralympic Games organizers.
 
-(History: Added by Stats. 2025, Ch. 16, Sec. 8.   (SB 128)   Effective June 27, 2025.   Repealed as of January 1, 2029, by its own provisions.)
+(4) “2028 Olympic and Paralympic Games period” means the days identified by the department
+ for which the games route network shall be operable.
+
+(5) “Program operator” means a local authority or regional transportation agency administering the automated enforcement system pursuant to an agreement authorized by this section.
+
+(6) “Regional transportation agency” has the same meaning as subdivision (k) of Section 149.7 of the Streets and Highways Code.
+
+(d) The department, on highways in its jurisdiction, in consultation with state, local, and regional authorities and other relevant stakeholders, may establish a program for automated enforcement of drivers of vehicles that fail to obey the directions of a traffic control device establishing the games route network pursuant to subdivision (a) during the 2028
+ Olympic and Paralympic Games period.
+
+(e) (1) A program operator shall administer a public information campaign at least 120 calendar days before implementation of an automated enforcement system pursuant to this section.
+
+(2) (A) Following the public information campaign described in paragraph (1), the program operator shall use automated enforcement systems to issue a warning letter to users of the games route network lanes for at least 30 days, unless the department determines a longer period is appropriate. A warning letter shall include the following information:
+
+(i) The dates of the 2028 Olympic and Paralympic Games period.
+
+(ii) Restrictions on the use of the games route network during the 2028 Olympic and
+ Paralympic Games period.
+
+(iii) A statement that an automated enforcement system will be used to issue notices of violation for improper use of the games route network and the date that issuance of notices of violations will commence.
+
+(iv) The amount of the civil penalty to be assessed for improper use of the games route network.
+
+(B) Multiple warning letters may be issued to the registered owner of a vehicle during the warning period.
+
+(f) The program operator shall provide signage clearly identifying the presence of the automated enforcement on signs approved by the department. The signs shall be visible to traffic traveling on the highway from the direction of travel for which the automated enforcement system is used and shall be posted at locations as
+ may be determined necessary by the department after consultation with the California Traffic Control Devices Committee.
+
+(g) The automated enforcement system cameras, to the extent feasible, shall be angled and focused so as to only capture images of the rear license plate and a decal, label, or other identifier as described in subdivision (b). Images shall not capture identifying images of the driver, passengers, pedestrians, or other vehicles and their drivers. Any identifying images captured beyond the rear license plate, the rear of the car below the back windshield, and the decal, label, or other identifier described in subdivision (b) shall be blurred and rendered unrecognizable.
+
+(h) The development and adoption of an automated enforcement program pursuant to this section is exempt from the Administrative Procedure Act (Chapter 3.5 (commencing with Section 11340) of Part 1 of
+ Division 3 of Title 2 of the Government Code).
+
+(i) (1) The photographic evidence stored by an automated enforcement system operated pursuant to this section shall not constitute an out-of-court hearsay statement by a declarant under Division 10 (commencing with Section 1200) of the Evidence Code.
+
+(2) Notwithstanding any provision of the California Public Records Act (Division 10 (commencing with Section 7920.000) of Title 1 of the Government Code), or any other law, any photographic image or administrative record made by an automated enforcement system operated pursuant to this section is confidential. The program operator shall use and allow access to these records only for the purposes authorized by this section. Data about the number of violations issued is not considered an administrative record prohibited from disclosure by this section and is subject to
+ disclosure under applicable law.
+
+(3) Notwithstanding any provision of the California Public Records Act (Division 10 (commencing with Section 7920.000) of Title 1 of the Government Code), or any other law, information obtained from the Department of Motor Vehicles for the administration and enforcement of this section is confidential and shall not be used for any other purpose. A program operator and its contractors or agents shall establish procedures to protect the confidentiality of these records consistent with Section 1808.47. To the extent a high-occupancy toll lane is included in the games route network during the 2028 Olympic and Paralympic Games period, this section shall control the use, storage, and disclosure of all data or personally identifiable information collected for administration and enforcement. Section 31490 of the Streets and Highways Code shall not apply to any data or personally identifiable information collected for
+ administration or enforcement pursuant to this section.
+
+(4) Except for court records described in Section 68152 of the Government Code, or as provided in paragraph (5), photographic images, administrative records, and confidential information described in paragraphs (2) and (3) may be retained by the program operator for up to 30 days after final disposition of the notice of violation, after which time the information shall be destroyed. Notwithstanding any other law, the confidential records and evidence shall be destroyed in a manner that maintains the confidentiality of any person included in the record or evidence.
+
+(5) Photographic evidence that is obtained from an automated enforcement system that does not result in the issuance of a notice of violation shall be destroyed within five business days after the image was first taken. The use of facial recognition technology in
+ conjunction with an automated enforcement system shall be prohibited.
+
+(6) Information collected and maintained by the program operator shall only be used to administer the automated enforcement program and shall not be disclosed to any other persons, including, but not limited to, any other federal, state, or local governmental agency or official for any other purpose, except as required by a court order, or in response to a search warrant in an individual case or proceeding. These records shall not be used in conjunction with biometric identifying technology, including, but not limited to, facial recognition technology that identifies specific individuals.
+
+(j) The registered owner or an individual identified by the registered owner as the driver of the vehicle at the time of the alleged violation shall be permitted to review and obtain a copy of the photograph of the alleged
+ violation.
+
+(k) (1) The department may enter into an agreement with a local authority or a regional transportation agency to administer a program pursuant to this section and become the program operator. The agreement shall include a provision that all data collected from the automated enforcement system is confidential and shall prohibit the regional transportation agency from sharing, repurposing, or monetizing collected data, except as specifically authorized in this section. Nothing in this section shall be construed to alter or supersede the authority of a regional transportation agency over toll collection, toll enforcement, or ExpressLanes operations authorized pursuant to other laws or agreements. The agreement shall address which entity will maintain control and have the final decisionmaking authority over all enforcement activities, including the determination of when a notice of violation should be issued.
+
+(2) The development, implementation, and operation of all aspects of an automated enforcement system pursuant to this section, including, but not limited to, distribution of revenue, operating conditions, and enforcement, shall be subject to subdivision (r) and the agreement between the department or program operator and the regional transportation agency.
+
+(l) A program operator may enter into contracts with manufacturers or suppliers of automated enforcement systems to purchase or lease materials or equipment. However, any contract pursuant to this subdivision shall allow the program operator to purchase or lease equipment and materials based on services rendered at intervals agreed to by the program operator and contractor. The contract shall not allow for payment or compensation based on the number of notices of violation issued by the automated enforcement system or based on a
+ percentage of revenue generated from the use of the system. The contract shall include a provision that all data collected from the automated enforcement system is confidential and shall prohibit the contractor from sharing, repurposing, or monetizing collected data. The program operator shall oversee, maintain control, and have the final decision over all enforcement activities, including the determination of when a notice of violation should be issued.
+
+(m) The program operator may contract with a vendor for the processing of notices of violation. The vendor shall be a separate legal and corporate entity from, and not related to, or affiliated in any manner with, the manufacturer or supplier of automated enforcement systems used by the program operator. Any contract between the program operator and a vendor to provide processing services may include a provision for the payment of compensation based on the number of notices of violation
+ processed by the vendor.
+
+(n) Notwithstanding any other law, a violation of subdivision (a) that is recorded by an automated enforcement system shall be subject only to a civil penalty and shall not result in the Department of Motor Vehicles suspending or revoking driving privileges, preventing registration renewals, or assessing violation points against driving records.
+
+(o) (1) A civil penalty of two hundred ninety-three dollars ($293) shall be assessed for a violation of subdivision (a).
+
+(2) A civil penalty shall not be assessed against authorized emergency vehicles or public transit vehicles.
+
+(p) A notice of violation shall be in writing and issued to the registered owner of the vehicle within 15 calendar days of the date of the
+ violation. The notice of violation shall include all of the following information:
+
+(1) The violation, including reference to the law that was violated.
+
+(2) A clear image of the license plate and rear of the vehicle. Notices of violation shall exclude images of the rear window area of the vehicle.
+
+(3) The date, approximate time, and location of the violation.
+
+(4) The vehicle license plate number and the name and address of the registered owner of the vehicle.
+
+(5) A statement that payment is required to be made no later than 30 calendar days from the date of mailing of the notice of violation.
+
+(6) The amount of the civil
+ penalty and the procedures for payment.
+
+(7) A statement that the violation may be contested and the procedures for contesting the violation.
+
+(8) An affidavit of nonliability, an explanation of what constitutes nonliability and the effect of executing the affidavit, and instructions for returning the affidavit to the processor. If an affidavit of nonliability is returned to the processing agency within 30 calendar days of the mailing of the notice of violation, together with proof of a written lease or rental agreement between a bona fide rental company, as defined in Section 1939.01 of the Civil Code, or a personal vehicle sharing program, as defined in Section 11580.24 of the Insurance Code, and its customer that identifies the renter or lessee, the processing agency shall serve or mail a notice of violation to the renter or lessee identified in the affidavit of nonliability. If
+ the affidavit of nonliability is returned to the processing agency within 30 calendar days of the mailing of the notice of violation, together with proof of a copy of a police report indicating the vehicle had been stolen at the time of the violation, the processing agency shall not subject the registered owner to a violation or penalty pursuant to this section.
+
+(9) A proof of service consistent with Section 1013a of the Code of Civil Procedure.
+
+(q) (1) A civil penalty imposed under this section is separate and independent from any enforcement action taken by a peace officer under this code. The issuance of a notice of violation under this section does not preclude a peace officer from issuing a citation for a violation arising from the same conduct.
+
+(2) To avoid duplicative monetary sanctions,
+ a person shall not be required to pay more than one monetary penalty for the same underlying act. If a citation issued by a peace officer results in a final judgment, any civil penalty issued for the same act shall be dismissed and no civil penalty shall be collected.
+
+(r) (1) Moneys generated from automated enforcement violations pursuant to this section shall be deposited into the Games Route Network Account, which is hereby created in the State Transportation Fund. Moneys received in the account shall be continuously appropriated and made available for the following purposes:
+
+(A) To support the administration of the automated enforcement system for the games route network.
+
+(B) To be transferred to the State Highway Account or the Motor Vehicle Account to cover the department’s costs for the
+ construction, maintenance, and deconstruction of the games route network or to cover the Department of the California Highway Patrol’s costs for enforcement efforts related to the games route network.
+
+(2) Any transfers from the Games Route Network Account to the State Highway Account or the Motor Vehicle Account shall be approved by the Department of Finance and are exempt from the requirements described in Section 183.1 of the Streets and Highways Code.
+
+(s) (1) No later than 30 calendar days from the date of mailing of a notice of violation, the recipient may request an initial review of the notice by the program operator. The request may be made by telephone, in writing, electronically, or in person. There shall be no charge for this review. If, following the initial review, the program operator is satisfied that the violation did not occur, or that
+ extenuating circumstances make cancellation of the notice of violation appropriate in the interest of justice, the program operator shall cancel the notice of violation. The program operator shall mail the results of the initial review to the person contesting the notice within 60 days of receipt of the recipient’s request for an initial review, and, if cancellation of the notice does not occur following that review, include a reason for that denial, notification of the ability to request an administrative hearing, and notice of the procedures adopted by the program operator for the administrative hearing, including for waiving prepayment of the civil penalty based upon an inability to pay.
+
+(2) If the person contesting the notice of violation is dissatisfied with the results of the initial review conducted by the program operator, the person may, no later than 21 calendar days following the mailing of the results of the initial review, request
+ an administrative hearing of the violation. The request may be made by telephone, in writing, electronically, or in person.
+
+(3) The person requesting an administrative hearing shall pay the amount of the civil penalty to the program operator. There shall be no additional charge for this hearing. The program operator shall adopt a written procedure to allow a person to request an administrative hearing without payment of the civil penalty upon satisfactory proof of an inability to pay the amount due.
+
+(4) The administrative hearing shall be held within 90 calendar days following the receipt of a request for an administrative hearing. The person requesting the hearing may request one continuance, not to exceed 21 calendar days.
+
+(t) The administrative hearing process shall include all of the following:
+
+(1) The person requesting a hearing shall have the choice of a hearing upon written declaration, video conference, or in person. An in-person hearing shall be conducted within the department district where the citation was issued.
+
+(2) If the person requesting a hearing is an unemancipated minor, that person shall be permitted to appear at a hearing or admit responsibility for the automated enforcement violation without the appointment of a guardian. The program operator may proceed against the minor in the same manner as against an adult.
+
+(3) The administrative hearing shall be conducted in accordance with written procedures established by the program operator. The hearing shall provide an independent, objective, fair, and impartial review of contested automated enforcement violations.
+
+(4) (A) The program operator shall appoint or contract with qualified independent examiners or administrative hearing providers that employ qualified independent examiners to conduct the administrative hearings. Examiners shall demonstrate the qualifications, training, and objectivity necessary to conduct a fair and impartial review, and shall meet the minimum requirements specified in subparagraph (B). The examiner shall not be involved with the initial issuance of the notice of violation or the processing functions of that violation. An examiner’s continued employment, performance evaluation, compensation, and benefits shall not, directly or indirectly, be linked to the amount of civil penalties upheld by the examiner or the number or percentage of violations upheld by the examiner.
+
+(B) (i) Examiners shall have a minimum of 20 hours of
+ training. The examiner, unless an employee of the program operator, is responsible for the costs of the training. The program operator may reimburse the examiner for those costs. Training may be provided through any of the following:
+
+(I) An accredited college or university.
+
+(II) A program conducted by the Commission on Peace Officer Standards and Training.
+
+(III) A program conducted by the American Arbitration Association or a similar organization.
+
+(IV) Any program approved by the program operator, including a program developed and provided by, or for, the program operator.
+
+(ii) Training programs shall include topics relevant to the administrative hearing, including, but not limited to,
+ applicable laws and regulations, enforcement procedures, due process, evaluation of evidence, hearing procedures, and effective oral and written communication. Upon the approval of the program operator, up to 12 hours of relevant experience may be substituted for up to 12 hours of training. Up to eight hours of the training requirements described in this subparagraph may be credited to an individual, at the discretion of the program operator, based upon training programs or courses described in this subparagraph that the individual attended within the last five years.
+
+(5) The individual who issued a notice of violation shall not be required to participate in the administrative hearing. To establish a violation, the program operator shall not be required to produce any evidence other than, in proper form, the notice of violation or copy thereof, including the photograph of the vehicle’s license plate, and information received from the Department
+ of Motor Vehicles identifying the registered owner of the vehicle. The documentation in proper form shall be prima facie evidence of the violation. If the program operator meets its initial burden, the recipient of the notice of violation may present any evidence and argument in defense.
+
+(6) The examiner’s final decision following the administrative hearing may be personally delivered to the person by the examiner or sent by first-class mail within 60 days of the date of the conclusion of the administrative hearing.
+
+(7) Following a determination by the examiner that a person has committed the violation, the examiner or the program operator shall offer to offenders who otherwise provide evidence satisfactory to the examiner or the program operator of an inability to pay the civil penalty in full in one installment, the option to pay applicable fines and penalties over a period of
+ time under a payment plan with monthly installments not to exceed fifty dollars ($50). Any processing fee to participate in a payment plan shall not exceed five dollars ($5).
+
+(8) If a notice of violation is dismissed following an administrative hearing, any civil penalty, if paid, shall be refunded by the program operator within 30 days.
+
+(u) (1) Within 30 days after personal delivery or mailing of the final decision, the contestant may seek review by filing an appeal to the superior court, where the case shall be heard de novo, except that the contents of the program operator’s file in the case on appeal shall be lodged by the program operator at its expense and shall be received into evidence. A copy of the notice of violation shall be admitted into evidence as prima facie evidence of the facts stated in the notice. A copy of the notice of appeal shall be
+ served in person or by certified first-class mail with return receipt upon the program operator by the appellant. For purposes of computing the 30-day period, Section 1013 of the Code of Civil Procedure shall be applicable. A proceeding under this subdivision is a limited civil case.
+
+(2) The fee for filing the notice of appeal shall be as provided in Section 70615 of the Government Code. Upon receipt of the notice of appeal, the program operator shall lodge its administrative record for the case with the court within 15 calendar days. The court shall notify the appellant of the appearance date by mail or personal delivery. The court shall retain the fee under Section 70615 of the Government Code regardless of the outcome of the appeal. If the appellant prevails, this fee and any payment of the civil penalty shall be promptly refunded by the program operator in accordance with the judgment of the court.
+
+(3) The conduct of the hearing on appeal under this section is a subordinate judicial duty that may be performed by a commissioner or other subordinate judicial officer at the direction of the presiding judge of the court.
+
+(4) If a notice of appeal of the examiner’s decision is not filed within the period set forth in paragraph (1), the decision shall be deemed final.
+
+(5) If the civil penalty has not been paid and the final decision is adverse to the appellant, the program operator may, promptly after the decision becomes final, proceed to collect the civil penalty.
+
+(v) (1) The program operator shall allow offenders who qualify for a reduced penalty pursuant to paragraph (2) to pay fines and penalties under this section over a period of
+ time under a payment plan with monthly installments of no more than twenty-five dollars ($25) and shall limit any processing fee to participate in the payment plan to five dollars ($5) or less.
+
+(2) The program operator shall reduce fines and penalties under this section by 80 percent for indigent persons and by 50 percent for individuals with incomes that do not exceed 250 percent of the official federal poverty line.
+
+(3) A person may demonstrate that they are indigent or have an income that does not exceed 250 percent of the official federal poverty line by providing either of the following information, as applicable:
+
+(A) Proof of income from a pay stub or another document showing proof of earnings, including, but not limited to, a bank statement that shows the person meets the income criteria set forth in
+ subdivision (b) of Section 68632 of the Government Code, subject to review and approval by the program operator or its designee. The program operator or its designee shall not unreasonably withhold its approval.
+
+(B) Proof of receipt of benefits under the programs described in subdivision (a) of Section 68632 of the Government Code, including, but not limited to, an electronic benefits transfer card or another card, subject to review and approval by the program operator. The program operator or its designee shall not unreasonably withhold its approval.
+
+(w) Each program operator that is not the department shall report information to the department, as it requests, to conduct an evaluation of the program.
+
+(x) This section shall remain in effect only until January 1, 2029, and as of that date is repealed.
+
+(History: Amended by Stats. 2026, Ch. 82, Sec. 19.   (SB 169)   Effective July 13, 2026.   Repealed as of January 1, 2029, by its own provisions.)
 -------------------------------------------
 
 21656.
@@ -36503,42 +36797,42 @@ Local authorities within the reasonable exercise of their police powers may adop
 (a) (1) A disabled person or disabled veteran may apply to the department for the issuance of a distinguishing placard. The placard may be used in lieu of the special license plate or plates issued under Section 5007 for parking purposes described in Section 22511.5 when (A) suspended from the rearview mirror, (B) if there is no rearview mirror, when displayed on the dashboard of a vehicle, or (C) inserted in a clip designated for a distinguishing placard and installed by the manufacturer on the driver’s side of the front window. It is the intent of the Legislature to encourage the use of distinguishing placards because they provide law enforcement officers with a more readily recognizable symbol for distinguishing vehicles qualified for the parking privilege. The placard shall be the size, shape, and
  color determined by the department and shall bear the International Symbol of Access adopted pursuant to Section 3 of Public Law 100-641, commonly known as the “wheelchair symbol.” The department shall incorporate instructions for the lawful use of a placard, and a summary of the penalties for the unlawful use of a placard, into the identification card issued to the placard owner.
 
-(2) (A) The department may establish procedures for the issuance and renewal of the placards. The procedures shall include, but are not limited to, advising an applicant in writing on the application for a placard of the procedure to apply for a special license plate or plates, as described in Section 5007, and the fee exemptions established pursuant to Section 9105 and in subdivision (a) of Section 10783 of the Revenue and Taxation Code. The placards shall have a fixed expiration date of June 30 every two years. A portion of the placard shall be
- printed in a contrasting color that shall be changed every two years. The size and color of this contrasting portion of the placard shall be large and distinctive enough to be readily identifiable by a law enforcement officer in a passing vehicle.
+(2) (A) The department may establish procedures for the issuance and renewal of the placards. The procedures shall include, but are not limited to, advising an applicant for a placard of the procedure to apply for a special license plate or plates, as described in Section 5007, and the fee exemptions established pursuant to Section 9105 and in subdivision (a) of Section 10783 of the Revenue and Taxation Code. The placards shall have a fixed expiration date of June 30 every two years.
 
 (B) As used in this section, “year” means the period between the inclusive dates of July 1 through June 30.
 
-(C) Prior to the end of each year, the department shall, for the most current three years available, compare its record of disability placards issued against the records of the Office of Vital Records of the State Department of Public Health, or its successor, and a nationwide vital statistics clearinghouse, and withhold any renewal notices or placards that otherwise would have been sent for a placardholder identified as deceased.
+(C) Prior to the end of each year, the department shall, for the most current three years available, compare its record of disability placards issued against the records of the Office of Vital Records of the State Department of Public Health, or its successor, and a nationwide vital statistics clearinghouse, and withhold any renewal notices or placards that otherwise would have been issued for a placardholder identified as deceased.
 
 (D) The department shall, six years after the first issuance of a placard and every six years thereafter, send the placardholder a renewal form at least 90 days prior to the June 30 expiration date of the current placard. Certification of medical disability and proof of true full name is not required for the renewal. A placardholder who wishes to renew a placard shall fill out the form and submit it to the department prior to expiration of the current placard.
 
 (3) Except as provided in paragraph (4), a person shall not be eligible for more than one placard at a time.
 
-(4) Organizations and agencies involved in the transportation of disabled persons or disabled veterans may apply for a placard for each vehicle used for the purpose of transporting disabled persons or disabled veterans.
+(4) Organizations and agencies
+ involved in the transportation of disabled persons or disabled veterans may apply for a placard for each vehicle used for the purpose of transporting disabled persons or disabled veterans.
 
 (5) The department shall require a person who applies for a placard pursuant to this section to provide proof of the person’s true full name and date of birth that shall be established by submitting one of the following to the department:
 
-(A) A copy or facsimile of the applicant’s state issued driver’s
- license or identification card.
+(A) A copy or facsimile of the applicant’s state issued driver’s license or identification card.
 
 (B) A copy or facsimile of the document required for an applicant for a driver’s license or identification card to establish the applicant’s true full name.
 
-(C) An applicant unable to establish legal presence in the United States may fulfill the true full name and date of birth requirement by providing the department a copy or facsimile of the documents used to establish identity pursuant to Section 12801.9.
+(C) An applicant unable to establish legal presence in the United States may
+ fulfill the true full name and date of birth requirement by providing the department a copy or facsimile of the documents used to establish identity pursuant to Section 12801.9.
 
-(b) (1) Except as provided in paragraph (4), prior to issuing an original distinguishing placard to a disabled person or disabled veteran, the department shall require the submission of a certificate, in accordance with paragraph (2), signed by the physician and surgeon, or to the extent that it does not cause a reduction in the receipt of federal aid highway
- funds, by a nurse practitioner, certified nurse-midwife, or physician assistant, substantiating the disability, unless the applicant’s disability is readily observable and uncontested. The disability of a person who has lost, or has lost use of, one or more lower extremities or one hand, for a disabled veteran, or both hands, for a disabled person, or who has significant limitation in the use of lower extremities, may also be certified by a licensed chiropractor. The disability of a person related to the foot or ankle may be certified by a licensed podiatrist. The blindness of an applicant shall be certified by a licensed physician and surgeon who specializes in diseases of the eye or a licensed optometrist. The physician and surgeon, nurse practitioner, certified nurse-midwife, physician assistant, chiropractor, or optometrist certifying the qualifying disability shall provide a full description of the illness or disability on the form submitted to the department.
+(b) (1) Except as provided in paragraph (4), prior to issuing an original distinguishing placard to a disabled person or disabled veteran, the department shall require the submission of a certificate, in accordance with paragraph (2), signed by the physician and surgeon, or to the extent that it does not cause a reduction in the receipt of federal aid highway funds, by a nurse practitioner, certified nurse-midwife, or physician assistant, substantiating the disability, unless the applicant’s disability is readily observable and uncontested. The disability of a person who has lost, or has lost use of, one or more lower extremities or one hand, for a disabled veteran, or both hands, for a disabled person, or who has significant limitation in the use
+ of lower extremities, may also be certified by a licensed chiropractor. The disability of a person related to the foot or ankle may be certified by a licensed podiatrist. The blindness of an applicant shall be certified by a licensed physician and surgeon who specializes in diseases of the eye or a licensed optometrist. The physician and surgeon, nurse practitioner, certified nurse-midwife, physician assistant, chiropractor, or optometrist certifying the qualifying disability shall provide a full description of the illness or disability on the form submitted to the department.
 
-(2) The physician and surgeon, nurse practitioner, certified nurse midwife, physician assistant, chiropractor, podiatrist, or optometrist who signs a certificate submitted under this subdivision shall retain information sufficient to substantiate that certificate and, upon request of the department, shall make that information available for inspection by the Medical Board of California or the appropriate regulatory board.
+(2) The physician and surgeon, nurse practitioner, certified nurse midwife, physician assistant, chiropractor, podiatrist, or optometrist who signs a certificate submitted under this subdivision shall retain information sufficient to substantiate that certificate and, upon request of the department, shall make that information available for inspection by the Medical Board
+ of California or the appropriate regulatory board.
 
 (3) The department shall maintain in its records all information on an applicant’s certification of permanent disability and shall make that information available to eligible law enforcement or parking control agencies upon a request pursuant to Section 22511.58.
 
-(4) For a disabled veteran, the department shall accept, in lieu of the certificate described in paragraph (1), a certificate from a county
- veterans service officer, the Department of Veterans Affairs, or the United States Department of Veterans Affairs that certifies that the applicant is a disabled veteran as described in Section 295.7.
+(4) For a disabled veteran, the department shall accept, in lieu of the certificate described in paragraph (1), a certificate from a county veterans service officer, the Department of Veterans Affairs, or the United States Department of Veterans Affairs that certifies that the applicant is a disabled veteran as described in Section 295.7.
 
-(c) A person who is issued a distinguishing placard pursuant to subdivision (a) may apply to the department for a substitute placard without recertification of eligibility, if that placard is lost or stolen. The department shall not issue a substitute placard to a person more than four times in a two-year renewal period. A person who requires a substitute placard in excess of the four replacements authorized pursuant to this subdivision shall reapply to the department for a new placard and submit a new certificate of disability as described in subdivision (b).
+(c) A person who is issued a distinguishing placard pursuant to subdivision (a) may apply to the department for a substitute placard without recertification of eligibility,
+ if that placard is lost or stolen. The department shall not issue a substitute placard to a person more than four times in a two-year renewal period. A person who requires a substitute placard in excess of the four replacements authorized pursuant to this subdivision shall reapply to the department for a new placard and submit a new certificate of disability as described in subdivision (b).
 
-(d) The distinguishing placard shall be returned to the department not later than 60 days after the death of the disabled
- person or disabled veteran to whom the placard was issued.
+(d) The distinguishing placard shall be returned to the department not later than 60 days after the death of the disabled person or disabled veteran to whom the placard was issued.
 
 (e) The department shall print on any distinguishing placard issued on or after January 1, 2005, the maximum penalty that may be imposed for a violation of Section 4461. For purposes of this subdivision, the “maximum penalty” is the amount derived from adding all of the following:
 
@@ -36554,7 +36848,7 @@ Local authorities within the reasonable exercise of their police powers may adop
 
 (6) The penalty authorized to be imposed under Section 4461.3.
 
-(History: Amended by Stats. 2022, Ch. 71, Sec. 14.   (SB 198)   Effective June 30, 2022.)
+(History: Amended by Stats. 2026, Ch. 82, Sec. 20.   (SB 169)   Effective July 13, 2026.)
 -------------------------------------------
 
 22511.56.
