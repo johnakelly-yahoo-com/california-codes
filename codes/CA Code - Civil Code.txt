@@ -5,7 +5,7 @@
 
 Source: Official California Legislative Information
         https://downloads.leginfo.legislature.ca.gov/
-Last Updated by State of California: July 10, 2026
+Last Updated by State of California: July 21, 2026
 
 
 ======================================================================
@@ -21573,61 +21573,6 @@ Nothing in this title shall be construed to limit or reduce any legal obligation
 (b) Nothing in this title prohibits those fees or practices expressly permitted by Section 17538.9 of the Business and Professions Code with respect to a prepaid calling card, as defined in that section, that is issued solely to provide an access number and authorization code for prepaid calling services.
 
 (History: Amended by Stats. 2025, Ch. 207, Sec. 1.   (SB 22)   Effective January 1, 2026.)
--------------------------------------------
-
-1749.5.
-
-(a) It is unlawful for any person or entity to sell a gift certificate to a purchaser that contains any of the following:
-
-(1) An expiration date.
-
-(2) A service fee, including, but not limited to, a service fee for dormancy, except as provided in subdivision (e).
-
-(b) (1) Any gift certificate sold after January 1, 1997, is redeemable in cash for its cash value, or subject to replacement with a new gift certificate at no cost to the purchaser or holder.
-
-(2) Notwithstanding paragraph (1), any gift certificate with a cash value of less than ten dollars
- ($10) is redeemable in cash for its cash value.
-
-(c) A gift certificate sold without an expiration date is valid until redeemed or replaced.
-
-(d) This section does not apply to any of the following gift certificates issued on or after January 1, 1998, provided the expiration date appears in capital letters in at least 10-point font on the front of the gift certificate:
-
-(1) Gift certificates that are distributed by the issuer to a consumer pursuant to an awards, loyalty, or promotional program without any money or other thing of value being given in exchange for the gift certificate by the consumer.
-
-(2) Gift certificates that are donated or sold below face value at a volume discount to employers or to nonprofit and charitable organizations for fundraising
- purposes if the expiration date on those gift certificates is not more than 30 days after the date of sale.
-
-(3) Gift certificates that are issued for perishable food products.
-
-(e) Paragraph (2) of subdivision (a) does not apply to a dormancy fee on a gift card that meets all of the following criteria:
-
-(1) The remaining value of the gift card is five dollars ($5) or less each time the fee is assessed.
-
-(2) The fee does not exceed one dollar ($1) per month.
-
-(3) There has been no activity on the gift card for 24 consecutive months, including, but not limited to, purchases, the adding of value, or balance inquiries.
-
-(4) The holder
- may reload or add value to the gift card.
-
-(5) A statement is printed on the gift card in at least 10-point font stating the amount of the fee, how often the fee will occur, that the fee is triggered by inactivity of the gift card, and at what point the fee will be charged. The statement may appear on the front or back of the gift card, but shall appear in a location where it is visible to any purchaser prior to the purchase thereof.
-
-(f) An issuer of gift certificates may accept funds from one or more contributors toward the purchase of a gift certificate intended to be a gift for a recipient, provided that each contributor is provided with a full refund of the amount that he or she paid toward the purchase of the gift certificate upon the occurrence of all of the following:
-
-(1) The funds are contributed for the
- purpose of being redeemed by the recipient by purchasing a gift certificate.
-
-(2) The time in which the recipient may redeem the funds by purchasing a gift certificate is clearly disclosed in writing to the contributors and the recipient.
-
-(3) The recipient does not redeem the funds within the time described in paragraph (2).
-
-(g) The changes made to this section by the act adding this subdivision shall apply only to gift certificates issued on or after January 1, 2004.
-
-(h) For purposes of this section, “cash” includes, but is not limited to, currency or check. If accepted by both parties, an electronic funds transfer or an application of the balance to a subscriber’s wireless telecommunications account is permissible.
-
-(i) This section shall remain in effect only until April 1, 2026, and as of that date is repealed.
-
-(History: Amended by Stats. 2025, Ch. 207, Sec. 2.   (SB 22)   Effective January 1, 2026.   Repealed as of April 1, 2026, by its own provisions.   See later operative version added by Sec. 3 of Stats. 2025, Ch. 207.)
 -------------------------------------------
 
 1749.5.
