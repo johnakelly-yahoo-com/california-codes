@@ -5,7 +5,7 @@
 
 Source: Official California Legislative Information
         https://downloads.leginfo.legislature.ca.gov/
-Last Updated by State of California: July 10, 2026
+Last Updated by State of California: July 21, 2026
 
 
 ======================================================================
@@ -73396,7 +73396,7 @@ TITLE 3. CRIMINAL STATISTICS [13000. - 13400.]
 
 
 
-  ARTICLE 1. Duties of the Department [13000. - 13016.]
+  ARTICLE 1. Duties of the Department [13000. - 13015.]
 
 13000.
 
@@ -73663,67 +73663,6 @@ The department shall perform the duties specified in this subdivision within its
 (2) Youth development and wellness data including, but not limited to, education attainment, employment, mental health, housing, family connections, foster care, and other wellness outcomes as recommended by the Juvenile Justice Data Working Group in their January 2016 final report.
 
 (History: Added by Stats. 2020, Ch. 337, Sec. 15.   (SB 823)   Effective September 30, 2020.)
--------------------------------------------
-
-13016.
-
-(a) For the purposes of this section, the following terms are defined as follows:
-
-(1) “Council” means the Advisory Council on Improving Interactions between People with Intellectual and Development Disabilities and Law Enforcement. 
-
-(2) “Intellectual and Developmental Disability” has the same meaning as “developmental disability” in Section 4512 of the Welfare and Institutions Code.
-
-(b) Upon
- appropriation by the Legislature, the Advisory Council on Improving Interactions between People with Intellectual and Developmental Disabilities is hereby created under the jurisdiction on the Department of Justice. 
-
-(c) The council shall consist of nine members, appointed by the Governor, Senate Committee on Rules, and Speaker of the Assembly, as follows: 
-
-(1) One person with an intellectual or developmental disability appointed by the Senate Committee on Rules.
-
-(2) One parent or family member of a person with an intellectual or developmental disability appointed by the
- Governor.
-
-(3) One representative from an advocacy organization that represents the intellectual and developmental disability community appointed by the Senate Committee on Rules.
-
-(4) One representative from an advocacy organization that represents the mental health community appointed by the Speaker of the Assembly.
-
-(5) One representative from the State Department of Developmental Services appointed by the Governor.
-
-(6) One representative from the Association of Regional Center Agencies appointed by the Governor.
-
-(7) One representative from a law enforcement
- organization appointed by the Speaker of the Assembly. 
-
-(8) One representative from the Commission on Peace Officer Standards and Training appointed by the Governor.
-
-(9) One representative from a labor organization that represents county behavioral health, independent in-home personal care, or intellectual and developmental disability service providers appointed by the Governor.
-
-(d) The appointment of members to the council shall ensure, to the greatest extent possible, that the membership of the council is representative
- of the ethnic, cultural, age, gender, sexual orientation, and disability diversity of the state, and all of the geographic areas of the state, including rural areas. Once all members are appointed, or no later than July 1, 2023, the members shall collectively appoint a chair.
-
-(e) Members of the council shall serve without compensation but shall be reimbursed for actual and necessary expenses incurred specific to serving on the council.
-
-(f) The Attorney General’s Office shall provide a staff member to coordinate and support the council and assist with implementing the council’s recommendations.
-
-(g) The council shall meet quarterly beginning July 1, 2023, and submit a report, with recommendations for improving outcomes
- of interactions between people with intellectual and developmental disabilities and mental health conditions, and law enforcement, to the Legislature within 24 months of the first convening. The report submitted to the Legislature shall be submitted in compliance with Section 9795 of the Government Code.
-
-(h) Duties of the council shall include, but are not limited to, the following:
-
-(1) Evaluation of the existing training for peace officers specific to interaction with the intellectually and developmentally disabled community. The evaluation shall include all types of training, including, but not limited to, instruction received in basic academy, on-going and mandatory training, including in-person, classroom-based, web-based, and field training.
-
-(2) Evaluation of the existing training for peace officers specific to interaction with individuals with mental health disorders. The evaluation shall include all types of training including, but not limited to, instruction received in basic academy, on-going and mandatory training, including in-person, classroom-based, web-based, and field training.
-
-(3) Identification of gaps in peace officer training specific to interactions with individuals who have an intellectual or developmental disability. 
-
-(4) Identification of gaps in peace officer training specific to interactions with individuals who have a mental health disorder.
-
-(5) Make recommendations to the
- Legislature for improving outcomes of interactions with both individuals who have an intellectual or developmental disability and mental health conditions.
-
-(i) This section shall remain in effect only until July 1, 2026, and as of that date is repealed.
-
-(History: Added by Stats. 2022, Ch. 899, Sec. 2.   (SB 882)   Effective January 1, 2023.   Repealed as of July 1, 2026, by its own provisions.)
 -------------------------------------------
 
 
