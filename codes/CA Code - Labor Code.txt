@@ -5,7 +5,7 @@
 
 Source: Official California Legislative Information
         https://downloads.leginfo.legislature.ca.gov/
-Last Updated by State of California: July 17, 2026
+Last Updated by State of California: July 21, 2026
 
 
 ======================================================================
@@ -16964,61 +16964,6 @@ A contractor shall be registered pursuant to this section to be qualified to bid
 
 (a) To qualify for registration under this section, a contractor shall do all of the following:
 
-(1) (A) Register with the Department of Industrial Relations in the manner prescribed by the department and pay an initial nonrefundable application fee of four hundred dollars ($400) to qualify for registration
- under this section and an annual renewal fee on or before July 1 of each year thereafter. The director may establish and adjust annual registration and renewal fees by publishing the fees on the department’s internet website. The initial registration and renewal fees may be adjusted no more than annually by the director to support the costs specified in Section 1771.3.
-
-(B) Beginning June 1, 2019, a contractor may register or renew according to this subdivision in annual increments up to three years from the date of registration. Contractors who wish to do so will be required to prepay the applicable nonrefundable application or renewal fees to qualify for the number of years for which they wish to preregister.
-
-(2) Provide evidence, disclosures, or releases as are necessary to establish all of the following:
-
-(A) Workers’ compensation coverage that meets the requirements of Division 4 (commencing with Section 3200) and includes sufficient coverage for any worker whom the contractor employs to perform work that is subject to prevailing wage requirements other than a contractor who is separately registered under this section. Coverage may be evidenced by a current and valid certificate of workers’ compensation insurance or certification of self-insurance required under Section 7125 of the Business and Professions Code.
-
-(B) If applicable, the contractor is licensed in accordance with Chapter 9 (commencing with Section 7000) of the Business and Professions Code.
-
-(C) The contractor does not have any delinquent liability to an employee or the state for any assessment of back wages or related damages, interest, fines, or penalties pursuant to any final judgment, order, or
- determination by a court or any federal, state, or local administrative agency, including a confirmed arbitration award. However, for purposes of this paragraph, the contractor shall not be disqualified for any judgment, order, or determination that is under appeal, provided that the contractor has secured the payment of any amount eventually found due through a bond or other appropriate means.
-
-(D) The contractor is not currently debarred under Section 1777.1 or under any other federal or state law providing for the debarment of contractors from public works.
-
-(E) The contractor has not bid on a public works contract, been listed in a bid proposal, or engaged in the performance of a contract for public works without being lawfully registered in accordance with this section, within the preceding 12 months or since the effective date of the requirements set forth in subdivision (e),
- whichever is earlier, and has not been awarded a contract for, or has not engaged in the performance of, work on projects or developments without being lawfully registered in accordance with Section 1725.6 within the preceding 12 months. If a contractor is found to be in violation of the requirements of this paragraph, the period of disqualification shall be waived if both of the following are true:
-
-(i) The contractor has not previously been found to be in violation of the requirements of this paragraph within the preceding 12 months.
-
-(ii) The contractor pays an additional nonrefundable penalty registration fee of two thousand dollars ($2,000).
-
-(b) Fees received pursuant to this section shall be deposited in the State Public Works Enforcement Fund established by Section 1771.3 and shall be used only for the purposes specified in that section.
-
-(c) A contractor who fails to pay the renewal fee required under paragraph (1) of subdivision (a) on or before the expiration of any prior period of registration shall be prohibited from bidding on or engaging in the performance of any contract for public work until once again registered pursuant to this section. If the failure to pay the renewal fee was inadvertent, the contractor may renew its registration retroactively by paying an additional nonrefundable penalty renewal fee equal to the amount of the renewal fee within 90 days of the due date of the renewal fee.
-
-(d) If, after a body awarding a contract accepts the contractor’s bid or awards the contract, the work
- covered by the bid or contract is determined to be a public work to which Section 1771 applies, either as the result of a determination by the director pursuant to Section 1773.5 or a court decision, the requirements of this section shall not apply, subject to the following requirements:
-
-(1) The body that awarded the contract failed, in the bid specification or in the contract documents, to identify as a public work that portion of the work that the determination or decision subsequently classifies as a public work.
-
-(2) Within 20 days following service of notice on the awarding body of a determination by the Director of Industrial Relations pursuant to Section 1773.5 or a decision by a court that the contract was for public work as defined in this chapter, the contractor and any subcontractors are registered under this section or are replaced by a contractor or subcontractors who
- are registered under this section.
-
-(3) The requirements of this section shall apply prospectively only to any subsequent bid, bid proposal, contract, or work performed after the awarding body is served with notice of the determination or decision referred to in paragraph (2).
-
-(e) The requirements of this section shall apply to any bid proposal submitted on or after March 1, 2015, to any contract for public work, as defined in this chapter, executed on or after April 1, 2015, and to any work performed under a contract for public work on or after January 1, 2018, regardless of when the contract for public work was executed.
-
-(f) This section does not apply to work performed on a public works project of twenty-five thousand dollars ($25,000) or less when the project is for construction, alteration, demolition,
- installation, or repair work or to work performed on a public works project of fifteen thousand dollars ($15,000) or less when the project is for maintenance work.
-
-(g) A contractor that has paid the registration or renewal fee and is registered under Section 1725.6 shall not pay the registration or renewal fee required under paragraph (1) of subdivision (a) to register as a contractor under this section.
-
-(h) This section shall remain in effect only until July 1, 2026, and as of that date is repealed.
-
-(History: Amended (as amended by Stats. 2023, Ch. 39, Sec. 23) by Stats. 2024, Ch. 52, Sec. 21.   (AB 171)   Effective July 2, 2024.   Repealed as of July 1, 2026, by its own provisions.    See later operative version, as amended by Sec. 22 of Stats. 2024, Ch.52.)
--------------------------------------------
-
-1725.5.
-
-A contractor shall be registered pursuant to this section to be qualified to bid on, be listed in a bid proposal, subject to the requirements of Section 4104 of the Public Contract Code, or engage in the performance of any public work contract that is subject to the requirements of this chapter. For the purposes of this section, “contractor” includes a subcontractor as defined by Section 1722.1.
-
-(a) To qualify for registration under this section, a contractor shall do all of the following:
-
 (1) (A) Register with the Department of Industrial Relations in the manner prescribed by the department and pay an initial nonrefundable application fee to qualify for registration under this section and an annual
  renewal fee on or before July 1 of each year thereafter. The director may establish and adjust annual registration and renewal fees of up to $800 by publishing the fees on the department’s internet website, and those actions shall not be subject to the rulemaking provisions of the Administrative Procedure Act (Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code). Any action taken to establish or adjust annual registration and renewal fees in excess of $800 shall be subject to the rulemaking provisions of the Administrative Procedure Act (Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code) and the director shall thereafter publish those fees to the department’s internet website. The initial registration and
  renewal fees may be adjusted no more than annually by the director to support the costs specified in Section 1771.3.
@@ -17068,52 +17013,6 @@ A contractor shall be registered pursuant to this section to be qualified to bid
 (h) This section shall become operative on July 1, 2026.
 
 (History: Amended (as added by Stats. 2023, Ch. 39, Sec. 24) by Stats. 2024, Ch. 52, Sec. 22.   (AB 171)   Effective July 2, 2024.   Operative July 1, 2026, by its own provisions.)
--------------------------------------------
-
-1725.6.
-
-A contractor shall be registered pursuant to this section to be qualified to be awarded contracts for, or engage in the performance of, any work on projects or developments subject to the requirements of Section 65852.24, 65912.130, 65912.131, 65913.4, or 65913.16 of the Government Code or any work on projects or developments where a statute or regulation requires registration pursuant to this section. For the purposes of this section, “contractor” includes
- a subcontractor as defined by Section 1722.1.
-
-(a) To qualify for registration under this section, a contractor shall do all of the following:
-
-(1) (A) Register with the Department of Industrial Relations in the manner prescribed by the department and pay an initial nonrefundable application fee of four hundred dollars ($400) to qualify for registration under this section and an annual renewal fee on or before July 1 of each year thereafter.
- The director may establish and adjust annual registration and renewal fees by publishing the fees on the department’s internet website. The initial registration and renewal fees may be adjusted no more than annually by the director to support the costs specified in Section 1771.3.
-
-(B) A contractor may register or renew according to this subdivision in annual increments up to three years from the date of registration. Contractors who wish to do so will be required to prepay the applicable nonrefundable registration or renewal fees to qualify for the number of years for which they wish to preregister.
-
-(2) Provide evidence, disclosures, or releases as are necessary to establish all of the following:
-
-(A) Workers’ compensation coverage that meets the requirements of Division 4
- (commencing with Section 3200) and includes sufficient coverage for any worker whom the contractor employs to perform work that is subject to prevailing wage and skilled and trained workforce requirements other than a contractor who is separately registered under this section. Coverage may be evidenced by a current and valid certificate of workers’ compensation insurance or certification of self-insurance required under Section 7125 of the Business and Professions Code.
-
-(B) If applicable, the contractor is licensed in accordance with Chapter 9 (commencing with Section 7000) of the Business and Professions Code.
-
-(C) The contractor does not have any delinquent liability to an employee or the state for any assessment of back wages or related damages, interest, fines, or penalties pursuant to any final judgment, order, or determination by a court or any federal, state, or local
- administrative agency, including a confirmed arbitration award. However, for purposes of this paragraph, the contractor shall not be disqualified for any judgment, order, or determination that is under appeal, provided that the contractor has secured the payment of any amount eventually found due through a bond or other appropriate means.
-
-(D) The contractor is not currently debarred under Section 1777.1 or under any other federal or state law providing for the debarment of contractors from public works.
-
-(E) The contractor has not been awarded contracts for, or engaged in the performance of, work on projects or developments subject to the requirements of Section 65852.24, 65912.130, 65912.131, 65913.4, or
- 65913.16 of the Government Code or where a statute or regulation requires registration pursuant to this section without being lawfully registered in accordance with this section, within the preceding 12 months, and also has not bid on a public works contract, been listed in a bid proposal, or engaged in the performance of a contract for public works without being lawfully registered in accordance with Section 1725.5, within the preceding 12 months. If a contractor is found to be in violation of the requirements of this paragraph, the period of disqualification shall be waived if both of the following are true:
-
-(i) The contractor has not previously been found to be in violation of the requirements of this paragraph within the preceding 12 months.
-
-(ii) The contractor pays an additional nonrefundable penalty registration fee of two thousand dollars ($2,000).
-
-(b) Fees received pursuant to this section shall be deposited in the State Public Works Enforcement Fund established by Section 1771.3 and shall be used only for the purposes specified in that section.
-
-(c) A contractor who fails to pay the renewal fee required under paragraph (1) of subdivision (a) on or before the expiration of any prior period of registration shall be prohibited from engaging in the performance of any work on projects or developments subject to the requirements of Section 65852.24, 65912.130, 65912.131, 65913.4, or 6513.16 of the Government
- Code or any work on projects or developments where a statute or regulation requires registration pursuant to this section until once again registered pursuant to this section. If the failure to pay the renewal fee was inadvertent, the contractor may renew its registration retroactively by paying an additional nonrefundable penalty renewal fee equal to the amount of the renewal fee within 90 days of the due date of the renewal fee.
-
-(d) A contractor that has paid the registration or renewal fee and registered under Section 1725.5 shall not pay the registration or renewal fee required under paragraph (1) of subdivision (a) to register as a contractor under this section.
-
-(e) Pending the issuance of new rules and regulations to implement this section, Sections 16410 to 16418,
- inclusive, of Title 8 of the California Code of Regulations shall apply.
-
-(f) This section shall remain in effect only until July 1, 2026, and as of that date is repealed.
-
-(History: Amended (as added by Stats. 2023, Ch. 39, Sec. 25) by Stats. 2024, Ch. 52, Sec. 23.   (AB 171)   Effective July 2, 2024.   Repealed as of July 1, 2026, by its own provisions.    See later operative version, as amended by Sec. 24 of Stats. 2024, Ch. 52.)
 -------------------------------------------
 
 1725.6.
@@ -20111,7 +20010,7 @@ The Legislature finds and declares that the garment industry is rife with both e
 
 
 
-PART 12. SHEEPHERDERS AND GOAT HERDERS [2695.1. - 2695.4.]
+PART 12. SHEEPHERDERS AND GOAT HERDERS [2695.1. - 2695.2.]
 
 2695.1.
 
@@ -20200,110 +20099,6 @@ PART 12. SHEEPHERDERS AND GOAT HERDERS [2695.1. - 2695.4.]
  this part in an area frequented by sheepherders where it may be easily read during the workday. Where the location of work or other conditions make posting impractical, every employer shall make a copy of this part available to sheepherders upon request. Copies of this part shall be posted and made available in a language understood by the sheepherder. An employer is deemed to have complied with this subdivision if the employer posts where practical, or makes available upon request where posting is impractical, a copy of the Industrial Welfare Commission Order 14-2001, updated pursuant to subdivision (c) of Section 2695.1, relating to sheepherders, provided that the posted material includes a sufficient summary of each of the provisions of this part.
 
 (History: Amended by Stats. 2022, Ch. 569, Sec. 42.   (AB 156)   Effective September 27, 2022.)
--------------------------------------------
-
-2695.3.
-
-(a) It is the intent of the Legislature to codify certain labor protections that should be afforded to goat herders. The provisions of this section are in addition to, and are entirely independent from, any other statutory or legal protections, rights, or remedies that are or may be available under this code or any other state law or regulation to goat herders either as individuals, employees, or persons.
-
-(b) All terms used in this section and in Section 2695.4 have the meanings assigned to them by this code or any other state law or regulation.
-
-(c) On or before January 1, 2026, the Department of Industrial Relations, in consultation with the Employment Development Department, shall issue a report,
- pursuant to Section 9795 of the Government Code, to the Legislature on employment of sheepherders and goat herders in California. In preparing the report, the agency shall consult with stakeholders, including, but limited to, sheepherder and goat herder employers and employees. The report shall, at a minimum, cover the following information:
-
-(1) The results of the consultations with stakeholders, including sheepherder and goat herder employers and employees.
-
-(2) Wage violations, including minimum wage and overtime, and compliance with the labor standards in Sections 2695.2 and 2695.4.
-
-(3) Demographic information on the employment of sheepherders and goat herders, including the number of employers and number of employees.
-
-(4) The use of H-2A visas in
- sheepherding and goat herding.
-
-(d) For purposes of this section and Section 2695.4, “goat herder” means an individual who is employed to do any of the following, including with the use of trained dogs:
-
-(1) Tend herds of goats grazing or browsing on range or pasture.
-
-(2) Move goats to and about an area assigned for grazing or browsing.
-
-(3) Prevent goats from wandering or becoming lost.
-
-(4) Protect goats against predators and the eating of poisonous plants.
-
-(5) Assist in the kidding of goats.
-
-(6) Provide water or feed supplementary rations to goats.
-
-(e) This section shall remain in effect only until July 1, 2026, and as of that date is repealed.
-
-(History: Amended by Stats. 2023, Ch. 196, Sec. 19.   (SB 143)   Effective September 13, 2023.   Repealed as of July 1, 2026, by its own provisions.)
--------------------------------------------
-
-2695.4.
-
-(a) (1) For a goat herder employed on a regularly scheduled 24-hour shift on a seven-day-a-week “on-call” basis, an employer may, as an alternative to paying the minimum wage for all hours worked, instead pay no less than the monthly minimum wage specified in Section 4(E) of Wage Order No. 14-2001 of the Industrial Welfare Commission. Any goat herder who performs non-goat-herding work on any workday shall be fully covered for that workweek by the provisions of any applicable laws or regulations relating to that work.
-
-(2) The amount of the monthly minimum wage permitted under paragraph (1) shall be increased each time that the state minimum wage is increased and shall become effective on the same date as any increase in the state minimum wage.
- The amount of the increase shall be determined by calculating the percentage increase of the new rate over the previous rate, and then by applying the same percentage increase to the minimum monthly wage rate.
-
-(3) An employer shall not credit meals or lodging against the minimum wage owed to goat herders under this subdivision. Every employer shall provide to each goat herder not less than the minimum monthly meal and lodging benefits required to be provided by employers of goat herders under the provisions of the H-2A visa program of the federal Immigration and Nationality Act (8 U.S.C. Section 1101) or any successor provisions.
-
-(b) (1) When tools or equipment are required by the employer or are necessary to the performance of a job, the tools and equipment shall be provided and maintained by the employer, except that a goat herder whose wages are at least
- two times the minimum wage provided herein, or if paid on a monthly basis, at least two times the monthly minimum wage, may be required to provide and maintain handtools and equipment customarily required by the trade or craft.
-
-(2) A reasonable deposit may be required as security for the return of the items furnished by the employer under provisions of paragraph (1) upon issuance of a receipt to the goat herder for the deposit. The deposits shall be made pursuant to Article 2 (commencing with Section 400) of Chapter 3 of Part 1. Alternatively, with the prior written authorization of the goat herder, an employer may deduct from the goat herder’s last check the cost of any item furnished pursuant to paragraph (1) when the item is not returned. No deduction shall be made at any time for normal wear and tear. All items furnished by the employer shall be returned by the goat herder upon completion of the job.
-
-(c) No employer of goat herders shall employ a goat herder for a work period of more than five hours without a meal period of no less than 30 minutes, except that when a work period of not more than six hours will complete a day’s work, the meal period may be waived by the mutual consent of the employer and the goat herder. An employer may be relieved of this obligation if a meal period of 30 minutes cannot reasonably be provided because no one is available to relieve a goat herder tending flock alone on that day. Where a meal period of 30 minutes can be provided but not without interruption, a goat herder shall be allowed to complete the meal period during that day.
-
-(d) To the extent practicable, every employer shall authorize and permit all goat herders to take rest periods. The rest period, insofar as is practicable, shall be in the middle of each work period. The authorized rest
- times shall be based on the total hours worked daily at the rate of 10 minutes net rest time per four hours, or major fraction thereof, of work. However, a rest period need not be authorized for goat herders whose total daily worktime is less than three and one-half hours.
-
-(e) When the nature of the work reasonably permits the use of seats, suitable seats shall be provided for goat herders working on or at a machine.
-
-(f) During times when a goat herder is lodged in mobile housing units where it is feasible to provide lodging that meets the minimum standards established by this section because there is practicable access for mobile housing units, the lodging provided shall include at a minimum all of the following:
-
-(1) Toilets and bathing facilities, which may include portable toilets and portable shower
- facilities.
-
-(2) Heating.
-
-(3) Inside lighting.
-
-(4) Potable hot and cold water.
-
-(5) Adequate cooking facilities and utensils.
-
-(6) A working refrigerator, which may include a butane or propane gas refrigerator, or for no more than a one-week period during which a nonworking refrigerator is repaired or replaced, a means of refrigerating perishable food items, which may include ice chests, provided that ice is delivered to the sheepherder, as needed, to maintain a continuous temperature required to retard spoilage and ensure food safety.
-
-(g) All goat herders shall be provided with all of the following at each worksite:
-
-(1) Regular mail service.
-
-(2) (A) A means of communication through telephone or radio solely for use in a medical emergency affecting the goat herder or for an emergency relating to the herding operation. If the means of communication is provided by telephone, the goat herder may be charged for the actual cost of nonemergency telephone use, except where prohibited by Section 2802.
-
-(B) Nothing in this paragraph shall preclude an employer from providing additional means of communication to the goat herder which are appropriate because telephones or radios are out of range or otherwise inoperable
-
-(3) Visitor access to the housing.
-
-(4) Upon request and to the extent
- practicable, access to transportation to and from the nearest locale where shopping, medical, or cultural facilities and services are available on a weekly basis.
-
-(h) In addition to any other civil penalties provided by law, any employer or any other person acting on behalf of the employer who violates or causes to be violated the provisions of this section shall be subject to a civil penalty, as follows:
-
-(1) For the initial violation, one hundred dollars ($100) for each underpaid employee for each pay period during which the employee was underpaid, plus an amount sufficient to recover the unpaid wages.
-
-(2) For any subsequent violation, two hundred fifty dollars ($250) for each underpaid employee for each pay period during which the employee was underpaid, plus an amount sufficient to recover the unpaid wages.
-
-(3) The affected employee shall receive payment of all wages recovered.
-
-(i) If the application of any provision of any subdivision, sentence, clause, phrase, word, or portion of this legislation is held invalid, unconstitutional, unauthorized, or prohibited by statute, the remaining provisions thereof shall not be affected and shall continue to be given full force and effect as if the part held invalid or unconstitutional had not been included.
-
-(j) Every employer of goat herders shall post a copy of this part in an area frequented by goat herders where it may be easily read during the workday. Where the location of work or other conditions make posting impractical, every employer shall make a copy of this part available to goat herders upon request. Copies of this part shall be posted and made available in a language
- understood by the goat herder. An employer is deemed to have complied with this subdivision if the employer posts where practical, or makes available upon request where posting is impractical, a copy of the Industrial Welfare Commission Order 14-2001, updated pursuant to subdivision (c) of Section 2695.1, relating to goat herders, provided that the posted material includes a sufficient summary of each of the provisions of this part.
-
-(k) This section shall remain in effect only until July 1, 2026, and as of that date is repealed.
-
-(History: Amended by Stats. 2023, Ch. 196, Sec. 20.   (SB 143)   Effective September 13, 2023.   Repealed as of July 1, 2026, by its own provisions.)
 -------------------------------------------
 
 
