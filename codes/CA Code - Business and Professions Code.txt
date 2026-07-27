@@ -5,7 +5,7 @@
 
 Source: Official California Legislative Information
         https://downloads.leginfo.legislature.ca.gov/
-Last Updated by State of California: July 17, 2026
+Last Updated by State of California: July 21, 2026
 
 
 ======================================================================
@@ -2277,89 +2277,6 @@ The amount of the warrant shall be remitted to the State Treasurer by the depart
 A sum, not to exceed 1 percent of the total amount appropriated for all of the boards herein mentioned may be withdrawn from the Consumer Affairs Fund without at the time furnishing vouchers and itemized statements. This sum shall be used as a revolving fund where cash advances are necessary, and at the close of each biennium, or at any other time, upon demand of the Department of Finance, shall be accounted for and substantiated by vouchers and itemized statements submitted to and audited by the State Controller.
 
 (History: Amended by Stats. 1971, Ch. 716.)
--------------------------------------------
-
-205.
-
-(a) There is in the State Treasury the Professions and Vocations Fund. The fund shall consist of the following special funds:
-
-(1) Accountancy Fund.
-
-(2) California Architects Board Fund.
-
-(3) Athletic Commission Fund.
-
-(4) Barbering and Cosmetology Contingent Fund.
-
-(5) Cemetery and Funeral Fund.
-
-(6) Contractors License Fund.
-
-(7) State Dentistry Fund.
-
-(8) Home Furnishings and Thermal Insulation Fund.
-
-(9) California Architects Board-Landscape Architects Fund.
-
-(10) Contingent Fund of the Medical Board of California.
-
-(11) Optometry Fund.
-
-(12) Pharmacy Board Contingent Fund.
-
-(13) Physical Therapy Fund.
-
-(14) Private Security Services Fund.
-
-(15) Professional Engineer’s, Land Surveyor’s, and Geologist’s Fund.
-
-(16) Consumer Affairs Fund.
-
-(17) Behavioral Sciences Fund.
-
-(18) Licensed Midwifery Fund.
-
-(19) Court Reporters’ Fund.
-
-(20) California Veterinary Medical Board Contingent Fund.
-
-(21) Vocational Nursing and Psychiatric Technicians Fund.
-
-(22) Electronic and Appliance Repair Fund.
-
-(23) Acupuncture Fund.
-
-(24) Physician Assistant Fund.
-
-(25) Board of Podiatric Medicine Fund.
-
-(26) Psychology Fund.
-
-(27) Respiratory Care Fund.
-
-(28) Speech-Language Pathology and Audiology and Hearing Aid Dispensers Fund.
-
-(29) Board of Registered Nursing Fund.
-
-(30) State Dental Hygiene Fund.
-
-(31) Structural Pest Control Fund.
-
-(32) Structural Pest Control Education and Enforcement Fund.
-
-(33) Structural Pest Control Research Fund.
-
-(34) Household Movers Fund.
-
-(35) Household Goods and Services Fund.
-
-(36) Naturopathic Doctor’s Fund.
-
-(b) For accounting and recordkeeping purposes, the Professions and Vocations Fund shall be deemed to be a single special fund, and each of the several special funds therein shall constitute and be deemed to be a separate account in the Professions and Vocations Fund. Each account or fund shall be available for expenditure only for the purposes as are now or may hereafter be provided by law.
-
-(c) This section shall remain in effect only until July 1, 2026, and as of that date is repealed.
-
-(History: Amended (as amended by Stats. 2024, Ch. 497, Sec. 2) by Stats. 2025, Ch. 67, Sec. 1.   (AB 1170)   Effective January 1, 2026.   Repealed as of July 1, 2026, by its own provisions.    See later operative version, as amended by Sec. 2 of Stats. 2025, Ch. 67.)
 -------------------------------------------
 
 205.
@@ -40155,39 +40072,6 @@ Notwithstanding any other provision of this article, a county, city and county, 
 
 4112.
 
-(a) Any pharmacy located outside this state that ships, mails, or delivers, in any manner, controlled substances, dangerous drugs, or dangerous devices into this state shall be considered a nonresident pharmacy.
-
-(b) A person may not act as a nonresident pharmacy unless they have obtained a license from the board. The board may register a nonresident pharmacy that is organized as a limited liability company in the state in which it is licensed.
-
-(c) A nonresident pharmacy shall disclose to the board the location, names, and titles of (1) its agent for service of process in this state, (2) all principal corporate officers, if
- any, (3) all general partners, if any, and (4) all pharmacists who are dispensing controlled substances, dangerous drugs, or dangerous devices to residents of this state. A report containing this information shall be made on an annual basis and within 30 days after any change of office, corporate officer, partner, or pharmacist.
-
-(d) All nonresident pharmacies shall comply with all lawful directions and requests for information from the regulatory or licensing agency of the state in which it is licensed as well as with all requests for information made by the board pursuant to this section. The nonresident pharmacy shall maintain, at all times, a valid unexpired license, permit, or registration to conduct the pharmacy in compliance with the laws of the state in which it is a resident. As a prerequisite to registering with the board, the nonresident
- pharmacy shall submit a copy of the most recent inspection report resulting from an inspection conducted by the regulatory or licensing agency of the state in which it is located.
-
-(e) All nonresident pharmacies shall maintain records of controlled substances, dangerous drugs, or dangerous devices dispensed to patients in this state so that the records are readily retrievable from the records of other drugs dispensed.
-
-(f) Any pharmacy subject to this section shall, during its regular hours of operation, but not less than six days per week, and for a minimum of 40 hours per week, provide a toll-free telephone service to facilitate communication between patients in this state and a pharmacist at the pharmacy who has access to the patient’s records. This toll-free telephone number shall be
- disclosed on a label affixed to each container of drugs dispensed to patients in this state.
-
-(g) A nonresident pharmacy shall not permit a pharmacist whose license has been revoked by the board to manufacture, compound, furnish, sell, dispense, or initiate the prescription of a dangerous drug or dangerous device, or to provide any pharmacy-related service, to a person residing in California.
-
-(h) The board shall adopt regulations that apply the same requirements or standards for oral consultation to a nonresident pharmacy that operates pursuant to this section and ships, mails, or delivers any controlled substances, dangerous drugs, or dangerous devices to residents of this state, as are applied to an in-state pharmacy that operates pursuant to Section 4037 when the pharmacy
- ships, mails, or delivers any controlled substances, dangerous drugs, or dangerous devices to residents of this state. The board shall not adopt any regulations that require face-to-face consultation for a prescription that is shipped, mailed, or delivered to the patient. The regulations adopted pursuant to this subdivision shall not result in any unnecessary delay in patients receiving their medication.
-
-(i) The registration fee shall be the fee specified in subdivision (a) of Section 4400.
-
-(j) The registration requirements of this section shall apply only to a nonresident pharmacy that ships, mails, or delivers controlled substances, dangerous drugs, and dangerous devices into this state pursuant to a prescription.
-
-(k) Nothing in this section shall be construed to authorize the dispensing of contact lenses by nonresident pharmacists except as provided by Section 4124.
-
-(l) This section shall remain in effect only until July 1, 2026, and as of that date is repealed.
-
-(History: Amended by Stats. 2025, Ch. 196, Sec. 31.   (AB 1503)   Effective January 1, 2026.   Repealed as of July 1, 2026, by its own provisions.   See later operative version as added by Sec. 32 of Stats. 2025, Ch. 196.)
--------------------------------------------
-
-4112.
-
 (a) Any pharmacy located outside this state that is involved in the preparation, dispensing, shipping, mailing, or delivery, in any manner, of controlled substances, dangerous drugs, or dangerous devices into this state shall be considered a nonresident pharmacy.
 
 (b) A person shall not act as a nonresident pharmacy unless the person has obtained a license from the board. The board may register a nonresident pharmacy that is organized as a limited liability company in the state in which it is licensed.
@@ -72036,25 +71920,6 @@ The Registrar of Contractors is hereby empowered to issue citations containing o
 (b) Within 72 hours of receiving notice that a public entity is intending to award, or has awarded, a contract to an unlicensed contractor, the registrar shall give written notice to the public entity that a citation may be issued if a contract is awarded to an unlicensed
  contractor. If after receiving the written notice from the registrar that the public entity has awarded or awards the contract to an unlicensed contractor, the registrar may issue a citation to the responsible officer or employee of the public entity as specified in Section 7028.15.
 
-(c) Each citation shall be in writing and shall describe with particularity the basis of the citation. Notwithstanding Sections 125.9 and 148, each citation shall contain an order of abatement and an assessment of a civil penalty in an amount not less than two hundred dollars ($200) nor more than fifteen thousand dollars ($15,000).
-
-(d) With the approval of the Contractors State License Board, the registrar shall prescribe procedures for the issuance of a citation under this section. The board shall
- adopt regulations covering the assessment of a civil penalty that shall give due consideration to the gravity of the violation, and any history of previous violations.
-
-(e) The sanctions authorized under this section shall be separate from, and in addition to, all other remedies either civil or criminal.
-
-(f) This section shall remain in effect only until July 1, 2026, and as of that date is repealed.
-
-(History: Amended by Stats. 2025, Ch. 233, Sec. 1.   (SB 779)   Effective January 1, 2026.   Repealed as of July 1, 2026, by its own provisions.   See later operative version added by Sec. 2 of Stats. 2025, Ch. 233.)
--------------------------------------------
-
-7028.7.
-
-(a) If upon inspection or investigation, either upon complaint or otherwise, the registrar has probable cause to believe that a person is acting in the capacity of or engaging in the business of a contractor or salesperson within this state without having a license or registration in good standing to so act or engage, and the person is not otherwise exempted from this chapter, the registrar shall issue a citation to that person.
-
-(b) Within 72 hours of receiving notice that a public entity is intending to award, or has awarded, a contract to an unlicensed contractor, the registrar shall give written notice to the public entity that a citation may be issued if a contract is awarded to an unlicensed
- contractor. If after receiving the written notice from the registrar that the public entity has awarded or awards the contract to an unlicensed contractor, the registrar may issue a citation to the responsible officer or employee of the public entity as specified in Section 7028.15.
-
 (c) Each citation shall be in writing and shall describe with particularity the basis of the citation. Notwithstanding Sections 125.9 and 148, each citation shall contain an order of abatement and an assessment of a civil penalty in an amount not less than fifteen hundred dollars ($1,500) nor more than fifteen thousand dollars ($15,000).
 
 (d) With the approval of the Contractors State License Board, the registrar shall prescribe procedures for the issuance of a citation under this section. The board
@@ -74133,24 +73998,6 @@ If, upon investigation, the registrar has probable cause to believe that a licen
 The board shall promulgate regulations covering the formulation of an order of correction which gives due consideration to the time required to correct and the practical feasibility of correction.
 
 (History: Added by Stats. 1979, Ch. 1013, Sec. 18.)
--------------------------------------------
-
-7099.2.
-
-(a) The board shall promulgate regulations covering the assessment of civil penalties under this article that give due consideration to the appropriateness of the penalty with respect to the following factors:
-
-(1) The gravity of the violation.
-
-(2) The good faith of the licensee or applicant for licensure being charged.
-
-(3) The history of previous violations.
-
-(b) Notwithstanding Section 125.9, and except as otherwise provided by this chapter, a civil penalty shall not be assessed in an amount greater than eight thousand dollars ($8,000). Notwithstanding Section 125.9, a
- civil penalty not to exceed thirty thousand dollars ($30,000) may be assessed for a violation of Section 7110, 7114, or 7118.
-
-(c) This section shall remain in effect only until July 1, 2026, and as of that date is repealed.
-
-(History: Amended by Stats. 2025, Ch. 455, Sec. 2.1.   (SB 291)   Effective January 1, 2026.   Repealed as of July 1, 2026, by its own provisions.   See later operative version added by Sec. 2.2 of Stats. 2025, Ch. 455.)
 -------------------------------------------
 
 7099.2.
@@ -159911,15 +159758,6 @@ The department shall establish a scale of application, licensing, and renewal fe
 (d) The department shall deposit all fees collected in a fee account to be established in the Cannabis Control Fund. Moneys in the fee account shall be used, upon appropriation by the Legislature, by the department for the administration of this division.
 
 (History: Amended by Stats. 2021, Ch. 70, Sec. 81.   (AB 141)   Effective July 12, 2021.   Note: This section was added on Nov. 8, 2016, by initiative Prop. 64.)
--------------------------------------------
-
-26180.5.
-
-(a) No later than January 1, 2018, the Secretary of Business, Consumer Services, and Housing or their designee shall initiate work with the Legislature, the Department of Consumer Affairs, the Department of Food and Agriculture, the State Department of Public Health, and any other related departments to ensure that there is a safe and viable way to collect cash payments for taxes and fees related to the regulation of cannabis activity throughout the state.
-
-(b) This section shall remain operative only until July 1, 2026, and as of that date is repealed.
-
-(History: Amended by Stats. 2026, Ch. 28, Sec. 11.   (SB 170)   Effective June 29, 2026.   Repealed as of July 1, 2026, by its own provisions.)
 -------------------------------------------
 
 26181.
