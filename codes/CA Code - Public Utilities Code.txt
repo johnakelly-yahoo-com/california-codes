@@ -5,7 +5,7 @@
 
 Source: Official California Legislative Information
         https://downloads.leginfo.legislature.ca.gov/
-Last Updated by State of California: July 17, 2026
+Last Updated by State of California: August 08, 2026
 
 
 ======================================================================
@@ -63156,6 +63156,44 @@ All taxes levied under this article are a lien on the property on which they are
 (2) Notwithstanding Section 7251.1 of the Revenue and Taxation Code, a transactions and use tax rate imposed pursuant to this subdivision shall not be considered for purposes of the combined rate limit established by that section.
 
 (History: Amended by Stats. 2023, Ch. 296, Sec. 1.   (SB 862)   Effective January 1, 2024.)
+-------------------------------------------
+
+98290.1.
+
+Notwithstanding any other law, the special taxes authorized in this article may also be imposed by qualified voter initiative, including a qualified voter initiative for which a petition has been circulated on or after January 1, 2026.
+
+(History: Added by Stats. 2026, Ch. 107, Sec. 1.   (AB 1919)   Effective August 6, 2026.)
+-------------------------------------------
+
+98290.2.
+
+(a) If the board or a qualified voter initiative proposes a measure pursuant to this article, the special election shall be consolidated with a statewide election by the board of supervisors of the County of Santa Cruz and the measure shall be submitted to the voters of the County of Santa Cruz.
+
+(b) For the purpose of placement of a measure on the ballot, the district is a “district,” as defined in Section 317 of the Elections Code. Except as otherwise provided in this section, a measure proposed by the board or by a qualified voter initiative that requires voter approval shall be submitted to the voters of the County of Santa Cruz, as determined by the district, in accordance with the provisions of the Elections Code applicable to districts,
+ including the provisions of Chapter 4 (commencing with Section 9300) of Division 9 of the Elections Code.
+
+(c) (1) Notwithstanding Section 10520 of the Elections Code, for any election at which the board or a qualified voter initiative proposes a measure pursuant to this article, the district shall reimburse the County of Santa Cruz for the incremental costs incurred by the county elections official related to submitting the measure to the voters with any eligible funds transferred to the district.
+
+(2) For purposes of this subdivision, “incremental costs” includes all of the following:
+
+(A) The cost to prepare, review, and revise the impartial analysis of the measure.
+
+(B) The cost to prepare a translation of ballot materials into a
+ language other than English by the county.
+
+(C) The additional costs that exceed the costs incurred for other election races or ballot measures, if any, appearing on the same ballot in the County of Santa Cruz, including both of the following:
+
+(i) The printing and mailing of ballot materials.
+
+(ii) The canvass of the vote regarding the measure pursuant to Division 15 (commencing with Section 15000) of the Elections Code.
+
+(d) Notwithstanding Section 9313 of the Elections Code, the legal counsel for the board shall prepare an impartial analysis of the measure. The impartial analysis prepared by the legal counsel for the board shall be subject to review and revision by the county counsel.
+
+(e) The county elections official for the County of Santa Cruz shall serve as the elections official of the district for purposes of administering the ballot measure process and any election for the purposes set forth in this chapter.
+
+(f) This section applies to any measure proposed by the board on or after January 1, 2026, or by a qualified voter initiative for which a petition has been circulated on or after January 1, 2026.
+
+(History: Added by Stats. 2026, Ch. 107, Sec. 2.   (AB 1919)   Effective August 6, 2026.)
 -------------------------------------------
 
 98291.
