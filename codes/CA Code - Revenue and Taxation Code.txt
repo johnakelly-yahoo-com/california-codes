@@ -5,7 +5,7 @@
 
 Source: Official California Legislative Information
         https://downloads.leginfo.legislature.ca.gov/
-Last Updated by State of California: July 17, 2026
+Last Updated by State of California: August 19, 2026
 
 
 ======================================================================
@@ -36642,6 +36642,94 @@ If, as of January 1, 2029, an ordinance or citizens’ initiative proposing a tr
 
 
 
+  CHAPTER 3.13. City of Hercules Transactions and Use Tax [7287.17. - 7287.17.]
+
+7287.17.
+
+(a) Notwithstanding any other law, the City of Hercules, by ordinance, may impose a transactions and use tax for general or specific purposes at a rate of no more than 1 percent that would, in combination with all taxes imposed in accordance with Part 1.6 (commencing with Section 7251), exceed the limit established in Section 7251.1, if all of the following requirements are met:
+
+(1) The city council of the City of Hercules adopts an ordinance proposing the transactions and use tax by the applicable voting approval requirement.
+
+(2) The ordinance proposing the transactions and use tax is submitted to
+ the electorate and is approved by the voters voting on the ordinance by the applicable voting approval requirement in accordance with the California Constitution.
+
+(3) The transactions and use tax conforms to the Transactions and Use Tax Law (Part 1.6 (commencing with Section 7251)), other than Section 7251.1.
+
+(b) Notwithstanding Section 7251.1, a transactions and use tax imposed pursuant to subdivision (a) shall not be considered for purposes of the combined rate limitation established by Section 7251.1.
+
+(c) If, as of December 31, 2031, an ordinance proposing a transactions and use tax has not been approved in the City of Hercules as authorized by subdivision (a), this chapter shall be repealed.
+
+(History: Added by Stats. 2026, Ch. 109, Sec. 1.   (SB 762)   Effective August 17, 2026.   Conditionally repealed as of December 31, 2031, by its own provisions.   Note: Repeal affects Chapter 3.13, commencing with Section 7287.17.)
+-------------------------------------------
+
+
+
+  CHAPTER 3.14. County of Santa Barbara Transactions and Use Tax [7287.18. - 7287.18.]
+
+7287.18.
+
+(a) Notwithstanding any other law, the County of Santa Barbara may impose a transactions and use tax for general or specific purposes to support countywide programs at a rate of no more than 0.5 percent that would, in combination with all taxes imposed in accordance with the Transactions and Use Tax Law (Part 1.6 (commencing with Section 7251)), exceed the limit established in Section 7251.1, if all of the following requirements are met:
+
+(1) The Santa Barbara County Board of Supervisors adopts an ordinance proposing the transactions and use tax by any applicable voting approval requirement.
+
+(2) The ordinance proposing the transactions and use tax is submitted to the electorate and is approved by the voters voting on the ordinance by the applicable voting approval requirement in accordance with Article XIII C of the California Constitution.
+
+(3) The transactions and use tax conforms to the Transactions and Use Tax Law (Part 1.6 (commencing with Section 7251)), other than Section 7251.1.
+
+(b) Notwithstanding Section 7251.1, a transactions and use tax rate imposed pursuant to subdivision (a) shall not be considered for purposes of the combined rate limitation established by Section 7251.1.
+
+(c) If, as of December 31, 2031, an ordinance proposing a transactions and use tax has not been approved in
+ the County of Santa Barbara as authorized by subdivision (a), this chapter shall be repealed.
+
+(History: Added by Stats. 2026, Ch. 109, Sec. 2.   (SB 762)   Effective August 17, 2026.   Conditionally repealed as of December 31, 2031, by its own provisions.   Note: Repeal affects Chapter 3.14, commencing with Section 7287.18.)
+-------------------------------------------
+
+
+
+  CHAPTER 3.15. City of Carpinteria Transactions and Use Tax [7287.19. - 7287.19.]
+
+7287.19.
+
+(a) Notwithstanding any other law, the City of Carpinteria, by ordinance, may impose a transactions and use tax for general or specific purposes at a rate of no more than 0.25 percent that would, in combination with all taxes imposed in accordance with Part 1.6 (commencing with Section 7251), exceed the limit established in Section 7251.1, if all of the following requirements are met:
+
+(1) The city council of the City of Carpinteria adopts an ordinance proposing the transactions and use tax by the applicable voting approval requirement.
+
+(2) The ordinance proposing the transactions and use tax is submitted
+ to the electorate and is approved by the voters voting on the ordinance by the applicable voting approval requirement in accordance with the California Constitution.
+
+(3) The transactions and use tax conforms to the Transactions and Use Tax Law (Part 1.6 (commencing with Section 7251)), other than Section 7251.1.
+
+(b) Notwithstanding Section 7251.1, a transactions and use tax imposed pursuant to subdivision (a) shall not be considered for purposes of the combined rate limitation established by Section 7251.1.
+
+(c) If, as of December 31, 2031, an ordinance proposing a transactions and use tax has not been approved in the City of Carpinteria as authorized by subdivision (a), this chapter shall be repealed.
+
+(History: Added by Stats. 2026, Ch. 109, Sec. 3.   (SB 762)   Effective August 17, 2026.   Conditionally repealed as of December 31, 2031, by its own provisions.   Note: Repeal affects Chapter 3.15, commencing with Section 7287.19.)
+-------------------------------------------
+
+
+
+  CHAPTER 3.16. City of Santa Maria Transactions and Use Tax [7287.20. - 7287.20.]
+
+7287.20.
+
+(a) Notwithstanding any other law, the City of Santa Maria, by ordinance, may impose a transactions and use tax for general or specific purposes at a rate of no more than 0.5 percent that would, in combination with all taxes imposed in accordance with Part 1.6 (commencing with Section 7251), exceed the limit established in Section 7251.1, if all of the following requirements are met:
+
+(1) The city council of the City of Santa Maria adopts an ordinance proposing the transactions and use tax by the applicable voting approval requirement.
+
+(2) The ordinance proposing the transactions and use tax is submitted
+ to the electorate and is approved by the voters voting on the ordinance by the applicable voting approval requirement in accordance with the California Constitution.
+
+(3) The transactions and use tax conforms to the Transactions and Use Tax Law (Part 1.6 (commencing with Section 7251)), other than Section 7251.1.
+
+(b) Notwithstanding Section 7251.1, a transactions and use tax imposed pursuant to subdivision (a) shall not be considered for purposes of the combined rate limitation established by Section 7251.1.
+
+(c) If, as of December 31, 2031, an ordinance proposing a transactions and use tax has not been approved in the City of Santa Maria as authorized by subdivision (a), this chapter shall be repealed.
+
+(History: Added by Stats. 2026, Ch. 109, Sec. 4.   (SB 762)   Effective August 17, 2026.   Conditionally repealed as of December 31, 2031, by its own provisions.   Note: Repeal affects Chapter 3.16, commencing with Section 7287.20.)
+-------------------------------------------
+
+
+
   CHAPTER 3.18. County of Contra Costa Transactions and Use Tax [7287.22. - 7287.22.]
 
 7287.22.
@@ -36660,6 +36748,183 @@ If, as of January 1, 2029, an ordinance or citizens’ initiative proposing a tr
 (c) If, as of December 31, 2031, an ordinance proposing a transactions and use tax has not been approved in the County of Contra Costa as authorized by subdivision (a), this chapter shall be repealed.
 
 (History: Added by Stats. 2026, Ch. 11, Sec. 2.   (AB 1768)   Effective June 1, 2026.   Repealed conditionally on December 31, 2031, by its own provisions.   Note: Repeal affects Chapter 3.18, commencing with Section 7287.22.)
+-------------------------------------------
+
+
+
+  CHAPTER 3.2. City of Palo Alto Transactions and Use Tax [7287.24. - 7287.24.]
+
+7287.24.
+
+(a) Notwithstanding any other law, the City of Palo Alto, by ordinance, may impose a transactions and use tax for general or specific purposes at a rate of no more than 0.5 percent that would, in combination with all taxes imposed in accordance with Part 1.6 (commencing with Section 7251), exceed the limit established in Section 7251.1, if all of the following requirements are met:
+
+(1) The city council of the City of Palo Alto adopts an ordinance proposing the transactions and use tax by the applicable voting approval requirement.
+
+(2) The ordinance proposing the transactions and use tax is submitted
+ to the electorate and is approved by the voters voting on the ordinance by the applicable voting approval requirement in accordance with the California Constitution.
+
+(3) The transactions and use tax conforms to the Transactions and Use Tax Law (Part 1.6 (commencing with Section 7251)), other than Section 7251.1.
+
+(b) Notwithstanding Section 7251.1, a transactions and use tax imposed pursuant to subdivision (a) shall not be considered for purposes of the combined rate limitation established by Section 7251.1.
+
+(c) If, as of December 31, 2031, an ordinance proposing a transactions and use tax has not been approved in the City of Palo Alto as authorized by subdivision (a), this chapter shall be repealed.
+
+(History: Added by Stats. 2026, Ch. 109, Sec. 5.   (SB 762)   Effective August 17, 2026.   Conditionally repealed as of December 31, 2031, by its own provisions.   Note: Repeal affects Chapter 3.2, commencing with Section 7287.24.)
+-------------------------------------------
+
+
+
+  CHAPTER 3.21. City of Los Altos Transactions and Use Tax [7287.25. - 7287.25.]
+
+7287.25.
+
+(a) Notwithstanding any other law, the City of Los Altos, by ordinance, may impose a transactions and use tax for general or specific purposes at a rate of no more than 1 percent that would, in combination with all taxes imposed in accordance with Part 1.6 (commencing with Section 7251), exceed the limit established in Section 7251.1, if all of the following requirements are met:
+
+(1) The city council of the City of Los Altos adopts an ordinance proposing the transactions and use tax by the applicable voting approval requirement.
+
+(2) The ordinance proposing the transactions and use tax is submitted
+ to the electorate and is approved by the voters voting on the ordinance by the applicable voting approval requirement in accordance with the California Constitution.
+
+(3) The transactions and use tax conforms to the Transactions and Use Tax Law (Part 1.6 (commencing with Section 7251)), other than Section 7251.1.
+
+(b) Notwithstanding Section 7251.1, a transactions and use tax imposed pursuant to subdivision (a) shall not be considered for purposes of the combined rate limitation established by Section 7251.1.
+
+(c) If, as of December 31, 2031, an ordinance proposing a transactions and use tax has not been approved in the City of Los Altos as authorized by subdivision (a), this chapter shall be repealed.
+
+(History: Added by Stats. 2026, Ch. 109, Sec. 6.   (SB 762)   Effective August 17, 2026.   Conditionally repealed as of December 31, 2031, by its own provisions.   Note: Repeal affects Chapter 3.21, commencing with Section 7287.25.)
+-------------------------------------------
+
+
+
+  CHAPTER 3.22. City of Santa Rosa Transactions and Use Tax [7287.26. - 7287.26.]
+
+7287.26.
+
+(a) Notwithstanding any other law, the City of Santa Rosa, by ordinance, may impose a transactions and use tax for general or specific purposes at a rate of no more than 0.5 percent that would, in combination with all taxes imposed in accordance with Part 1.6 (commencing with Section 7251), exceed the limit established in Section 7251.1, if all of the following requirements are met:
+
+(1) The city council of the City of Santa Rosa adopts an ordinance proposing the transactions and use tax by the applicable voting approval requirement.
+
+(2) The ordinance proposing the transactions and use tax is submitted
+ to the electorate and is approved by the voters voting on the ordinance by the applicable voting approval requirement in accordance with the California Constitution.
+
+(3) The transactions and use tax conforms to the Transactions and Use Tax Law (Part 1.6 (commencing with Section 7251)), other than Section 7251.1.
+
+(b) Notwithstanding Section 7251.1, a transactions and use tax imposed pursuant to subdivision (a) shall not be considered for purposes of the combined rate limitation established by Section 7251.1.
+
+(c) If, as of December 31, 2031, an ordinance proposing a transactions and use tax has not been approved in the City of Santa Rosa as authorized by subdivision (a), this chapter shall be repealed.
+
+(History: Added by Stats. 2026, Ch. 109, Sec. 7.   (SB 762)   Effective August 17, 2026.   Conditionally repealed as of December 31, 2031, by its own provisions.   Note: Repeal affects Chapter 3.22, commencing with Section 7287.26.)
+-------------------------------------------
+
+
+
+  CHAPTER 3.23. City of Rohnert Park Transactions and Use Tax [7287.27. - 7287.27.]
+
+7287.27.
+
+(a) Notwithstanding any other law, the City of Rohnert Park, by ordinance, may impose a transactions and use tax for general or specific purposes at a rate of no more than 0.75 percent that would, in combination with all taxes imposed in accordance with Part 1.6 (commencing with Section 7251), exceed the limit established in Section 7251.1, if all of the following requirements are met:
+
+(1) The city council of the City of Rohnert Park adopts an ordinance proposing the transactions and use tax by the applicable voting approval requirement.
+
+(2) The ordinance proposing the transactions and use tax is submitted
+ to the electorate and is approved by the voters voting on the ordinance by the applicable voting approval requirement in accordance with the California Constitution.
+
+(3) The transactions and use tax conforms to the Transactions and Use Tax Law (Part 1.6 (commencing with Section 7251)), other than Section 7251.1.
+
+(b) Notwithstanding Section 7251.1, a transactions and use tax imposed pursuant to subdivision (a) shall not be considered for purposes of the combined rate limitation established by Section 7251.1.
+
+(c) If, as of December 31, 2031, an ordinance proposing a transactions and use tax has not been approved in the City of Rohnert Park as authorized by subdivision (a), this chapter shall be
+ repealed.
+
+(History: Added by Stats. 2026, Ch. 109, Sec. 8.   (SB 762)   Effective August 17, 2026.   Conditionally repealed as of December 31, 2031, by its own provisions.   Note: Repeal affects Chapter 3.23, commencing with Section 7287.27.)
+-------------------------------------------
+
+
+
+  CHAPTER 3.24. Town of Los Gatos Transactions and Use Tax [7287.28. - 7287.28.]
+
+7287.28.
+
+(a) Notwithstanding any other law, the Town of Los Gatos, by ordinance, may impose a transactions and use tax for general or specific purposes at a rate of no more than 0.5 percent that would, in combination with all taxes imposed in accordance with Part 1.6 (commencing with Section 7251), exceed the limit established in Section 7251.1, if all of the following requirements are met:
+
+(1) The town council of the Town of Los Gatos adopts an ordinance proposing the transactions and use tax by the applicable voting approval requirement.
+
+(2) The ordinance proposing the transactions and use tax is submitted
+ to the electorate and is approved by the voters voting on the ordinance by the applicable voting approval requirement in accordance with the California Constitution.
+
+(3) The transactions and use tax conforms to the Transactions and Use Tax Law (Part 1.6 (commencing with Section 7251)), other than Section 7251.1.
+
+(b) Notwithstanding Section 7251.1, a transactions and use tax imposed pursuant to subdivision (a) shall not be considered for purposes of the combined rate limitation established by Section 7251.1.
+
+(c) If, as of December 31, 2031, an ordinance proposing a transactions and use tax has not been approved in the Town of Los Gatos as authorized by subdivision (a), this chapter shall be repealed.
+
+(History: Added by Stats. 2026, Ch. 109, Sec. 9.   (SB 762)   Effective August 17, 2026.   Conditionally repealed as of December 31, 2031, by its own provisions.   Note: Repeal affects Chapter 3.24, commencing with Section 7287.28.)
+-------------------------------------------
+
+
+
+  CHAPTER 3.25. City of Pacifica Transactions and Use Tax [7287.29. - 7287.29.]
+
+7287.29.
+
+(a) Notwithstanding any other law, the City of Pacifica, by ordinance, may impose a transactions and use tax for general or specific purposes at a rate of no more than 1 percent that would, in combination with all taxes imposed in accordance with Part 1.6 (commencing with Section 7251), exceed the limit established in Section 7251.1, if all of the following requirements are met:
+
+(1) The city council of the City of Pacifica adopts an ordinance proposing the transactions and use tax by the applicable voting approval requirement.
+
+(2) The ordinance proposing the transactions and use tax is submitted to
+ the electorate and is approved by the voters voting on the ordinance by the applicable voting approval requirement in accordance with the California Constitution.
+
+(3) The transactions and use tax conforms to the Transactions and Use Tax Law (Part 1.6 (commencing with Section 7251)), other than Section 7251.1.
+
+(b) Notwithstanding Section 7251.1, a transactions and use tax imposed pursuant to subdivision (a) shall not be considered for purposes of the combined rate limitation established by Section 7251.1.
+
+(c) If, as of December 31, 2031, an ordinance proposing a transactions and use tax has not been approved in the City of Pacifica as authorized by subdivision (a), this chapter shall be repealed.
+
+(History: Added by Stats. 2026, Ch. 109, Sec. 10.   (SB 762)   Effective August 17, 2026.   Conditionally repealed as of December 31, 2031, by its own provisions.   Note: Repeal affects Chapter 3.25, commencing with Section 7287.29.)
+-------------------------------------------
+
+
+
+  CHAPTER 3.26. City of San Gabriel Transactions and Use Tax [7287.30. - 7287.30.]
+
+7287.30.
+
+(a) Notwithstanding any other law, the City of San Gabriel, by ordinance, may impose a transactions and use tax for general or specific purposes at a rate of no more than 1 percent that would, in combination with all taxes imposed in accordance with Part 1.6 (commencing with Section 7251), exceed the limit established in Section 7251.1, if all of the following requirements are met:
+
+(1) The city council of the City of San Gabriel adopts an ordinance proposing the transactions and use tax by the applicable voting approval requirement.
+
+(2) The ordinance proposing the transactions and use tax is submitted
+ to the electorate and is approved by the voters voting on the ordinance by the applicable voting approval requirement in accordance with the California Constitution.
+
+(3) The transactions and use tax conforms to the Transactions and Use Tax Law (Part 1.6 (commencing with Section 7251)), other than Section 7251.1.
+
+(b) Notwithstanding Section 7251.1, a transactions and use tax imposed pursuant to subdivision (a) shall not be considered for purposes of the combined rate limitation established by Section 7251.1.
+
+(c) If, as of December 31, 2031, an ordinance proposing a transactions and use tax has not been approved in the City of San Gabriel as authorized by subdivision (a), this chapter shall be repealed.
+
+(History: Added by Stats. 2026, Ch. 109, Sec. 11.   (SB 762)   Effective August 17, 2026.   Conditionally repealed as of December 31, 2031, by its own provisions.   Note: Repeal affects Chapter 3.26, commencing with Section 7287.30.)
+-------------------------------------------
+
+
+
+  CHAPTER 3.27. City of San Pablo Transactions and Use Tax [7287.31. - 7287.31.]
+
+7287.31.
+
+(a) Notwithstanding any other law, the City of San Pablo, by ordinance, may impose a transactions and use tax for general or specific purposes at a rate of no more than 0.5 percent that would, in combination with all taxes imposed in accordance with Part 1.6 (commencing with Section 7251), exceed the limit established in Section 7251.1, if all of the following requirements are met:
+
+(1) The city council of the City of San Pablo adopts an ordinance proposing the transactions and use tax by the applicable voting approval requirement.
+
+(2) The ordinance proposing the transactions and use tax is submitted
+ to the electorate and is approved by the voters voting on the ordinance by the applicable voting approval requirement in accordance with the California Constitution.
+
+(3) The transactions and use tax conforms to the Transactions and Use Tax Law (Part 1.6 (commencing with Section 7251)), other than Section 7251.1.
+
+(b) Notwithstanding Section 7251.1, a transactions and use tax imposed pursuant to subdivision (a) shall not be considered for purposes of the combined rate limitation established by Section 7251.1.
+
+(c) If, as of December 31, 2031, an ordinance proposing a transactions and use tax has not been approved in the City of San Pablo as authorized by subdivision (a), this chapter shall be repealed.
+
+(History: Added by Stats. 2026, Ch. 109, Sec. 12.   (SB 762)   Effective August 17, 2026.   Conditionally repealed as of December 31, 2031, by its own provisions.   Note: Repeal affects Chapter 3.27, commencing with Section 7287.31.)
 -------------------------------------------
 
 
@@ -37065,6 +37330,28 @@ If, as of January 1, 2029, an ordinance or citizens’ initiative proposing a tr
 (b) Notwithstanding Section 7251.1, a transactions and use tax rate imposed pursuant to subdivision (a) shall not be considered for purposes of the combined rate limitation established by Section 7251.1.
 
 (History: Added by Stats. 2025, Ch. 750, Sec. 1.   (SB 333)   Effective January 1, 2026.)
+-------------------------------------------
+
+
+
+  CHAPTER 3.85. County of Santa Cruz Transactions and Use Tax [7294.7. - 7294.7.]
+
+7294.7.
+
+(a) Notwithstanding any other law, the County of Santa Cruz may impose a transactions and use tax for general or specific purposes to support countywide programs at a rate of no more than 0.5 percent that would, in combination with all taxes imposed in accordance with the Transactions and Use Tax Law (Part 1.6 (commencing with Section 7251)), exceed the limit established in Section 7251.1, if all of the following requirements are met:
+
+(1) The Santa Cruz County Board of Supervisors adopts an ordinance proposing the transactions and use tax by any applicable voting approval requirement.
+
+(2) The ordinance proposing the transactions and use tax is submitted to the electorate and is approved by the voters voting on the ordinance by the applicable voting approval requirement in accordance with Article XIII C of the California Constitution.
+
+(3) The transactions and use tax conforms to the Transactions and Use Tax Law (Part 1.6 (commencing with Section 7251)), other than Section 7251.1.
+
+(b) Notwithstanding Section 7251.1, a transactions and use tax rate imposed pursuant to subdivision (a) shall not be considered for purposes of the combined rate limitation established by Section 7251.1.
+
+(c) If, as of December 31, 2030, an ordinance proposing a transactions and use tax has not been approved in the County of
+ Santa Cruz as authorized by subdivision (a), this chapter shall be repealed.
+
+(History: Added by Stats. 2026, Ch. 109, Sec. 13.   (SB 762)   Effective August 17, 2026.   Conditionally repealed as of December 31, 2030, by its own provisions.   Note: Repeal affects Chapter 3.85, commencing with Section 7294.7.)
 -------------------------------------------
 
 
