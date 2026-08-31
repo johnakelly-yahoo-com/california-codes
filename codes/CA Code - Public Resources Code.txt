@@ -5,7 +5,7 @@
 
 Source: Official California Legislative Information
         https://downloads.leginfo.legislature.ca.gov/
-Last Updated by State of California: July 18, 2026
+Last Updated by State of California: August 29, 2026
 
 
 ======================================================================
@@ -54121,6 +54121,20 @@ This division shall not apply to settlements of title and boundary problems by t
  and it approves or determines to carry out the project, the local agency shall file a notice with the Office of Planning and Research and with the county clerk in each county in which the project will be located in the manner specified in subdivisions (b) and (c) of Section 21152.
 
 (History: Amended by Stats. 2015, Ch. 143, Sec. 1.   (SB 348)   Effective January 1, 2016.)
+-------------------------------------------
+
+21080.14.
+
+(a) This division does not apply to the closure of a railroad grade crossing by order of the Public Utilities Commission pursuant to Chapter 6 (commencing with Section 1201) of Part 1 of Division 1 of the Public Utilities Code, if the Public Utilities Commission finds the crossing to present a threat to public safety.
+
+(b) This section does not apply to any crossing for high-speed rail, as defined in Section 185012 of the Public Utilities Code, or any crossing for a project carried out by the High-Speed Rail Authority, as described in Section 185020 of the Public Utilities Code, or a successor agency.
+
+(c) (1) Whenever a state agency determines that a project
+ is not subject to this division pursuant to this section, and it approves or determines to carry out the project, the state agency shall file a notice with the Office of Land Use and Climate Innovation in the manner specified in subdivisions (b), (c), and (d) of Section 21108.
+
+(2) Whenever a local agency determines that a project is not subject to this division pursuant to this section, and it approves or determines to carry out the project, the local agency shall file a notice with the State Clearinghouse in the Office of Land Use and Climate Innovation and with the county clerk in each county in which the project will be located in the manner specified in subdivisions (b), (c), and (d) of Section 21152.
+
+(History: Added by Stats. 2026, Ch. 151, Sec. 1.   (SB 1008)   Effective August 27, 2026.)
 -------------------------------------------
 
 21080.17.
