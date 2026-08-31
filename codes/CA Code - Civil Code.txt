@@ -5,7 +5,7 @@
 
 Source: Official California Legislative Information
         https://downloads.leginfo.legislature.ca.gov/
-Last Updated by State of California: July 21, 2026
+Last Updated by State of California: August 26, 2026
 
 
 ======================================================================
@@ -64095,7 +64095,7 @@ order to adopt a resolution pursuant to this section.
 
 
 
-  ARTICLE 2. Declaration [4250. - 4275.]
+  ARTICLE 2. Declaration [4250. - 4276.]
 
 4250.
 
@@ -64212,6 +64212,32 @@ portion of the common interest development is located. The amendment may be ackn
 (g) Within a reasonable time after the amendment is recorded the association shall deliver to each member, by individual delivery, pursuant to Section 4040, a copy of the amendment, together with a statement that the amendment has been recorded.
 
 (History: Added by Stats. 2012, Ch. 180, Sec. 2.   (AB 805)   Effective January 1, 2013.   Operative January 1, 2014, by Sec. 3 of Ch. 180.)
+-------------------------------------------
+
+4276.
+
+(a) Notwithstanding any other law, a declaration that has terminated by operation of the provisions that set forth the initial term of the declaration may be reinstated pursuant to this section if approved by the percentage of members required by the declaration for extending the term of the declaration. If the declaration does not specify the percentage of members who must approve the extension of the declaration, a declaration may be reinstated pursuant to this section if approved by a majority of all members.
+
+(b) Balloting on reinstatement shall be conducted in accordance with the governing documents, this act, and any other applicable law. A reasonably diligent
+ effort shall be made to permit all eligible members to vote.
+
+(c) The reinstatement of the declaration is effective after all of the following requirements have been met:
+
+(1) The reinstatement of the declaration has been approved by the percentage of members specified in subdivision (a).
+
+(2) Approval by the members has been certified in a writing executed and acknowledged by the officer designated in the declaration by the association for that purpose or, if no one is designated, by the president of the association.
+
+(3) The declaration has been recorded in the county recorder’s office.
+
+(d) The extension of the terms of the declaration made pursuant to this section shall be equal to the number of years of the initial term of the declaration or 20 years, whichever is less.
+
+(e) Within a reasonable time after the reinstated declaration is recorded, the association shall deliver to each member, by individual delivery, pursuant to Section 4040, a copy of the reinstated declaration, together with a statement that the reinstated declaration has been recorded.
+
+(f) This section shall be applicable only to the County of Los Angeles.
+
+(g) This section shall remain in effect only until January 1, 2028, and as of that date is repealed.
+
+(History: Added by Stats. 2026, Ch. 124, Sec. 1.   (AB 2692)   Effective August 24, 2026.   Repealed as of January 1, 2028, by its own provisions.)
 -------------------------------------------
 
 
