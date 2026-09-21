@@ -5,7 +5,7 @@
 
 Source: Official California Legislative Information
         https://downloads.leginfo.legislature.ca.gov/
-Last Updated by State of California: July 21, 2026
+Last Updated by State of California: September 17, 2026
 
 
 ======================================================================
@@ -13368,35 +13368,35 @@ The procedure on all matters relating to the denial, suspension, or revocation o
 
 (b) The supervising licensed dentist shall be directly responsible for determining the competency of the dental assistant to perform the basic supportive dental procedures, as authorized by Section 1750.1.
 
-(c) The employer of a dental assistant shall
- be responsible for ensuring that the dental assistant has successfully completed a board-approved eight-hour course in infection control prior to performing any basic supportive dental procedures involving potential exposure to blood, saliva, or other potentially infectious materials.
+(c) The employer of a dental assistant shall be responsible for ensuring that the dental assistant has successfully completed an infection control course or examination in accordance with subdivision (b) of Section 1755 prior to performing any basic supportive dental procedures involving potential exposure to blood, saliva, or other potentially infectious materials.
 
 (d) The employer shall maintain evidence for the length of the employment for the dental assistant at the supervising dentist’s treatment facility to verify the dental assistant has met and maintained all certification requirements as dictated by statute and regulation.
 
-(e) The employer shall inform the dental assistant of the educational requirements described in subdivision (f) to maintain employment as an unlicensed dental assistant. 
+(e) The employer shall inform the dental assistant of the educational requirements
+ described in subdivision (f) to maintain employment as an unlicensed dental assistant.
 
-(f) The employer of a dental assistant shall be responsible for ensuring that the dental assistant
- who has been employed continuously or on an intermittent basis by that employer for one year from the date of first employment provides evidence to the employer that the dental assistant has already successfully completed, or successfully completes, all of the following within one year of the first date of employment:
+(f) The employer of a dental assistant shall be responsible for ensuring that the dental assistant who has been employed continuously or on an intermittent basis by that employer for one year from the date of first employment provides evidence to the employer that the dental assistant has already successfully completed, or successfully completes, all of the following within one year of the first date of employment:
 
 (1) A board-approved two-hour course in the Dental Practice Act.
 
-(2) Current certification in basic life support issued by the American Red Cross, the American Heart Association, the American Safety and Health Institute, the American Dental Association’s Continuing Education Recognition Program, or the Academy of General Dentistry’s Program Approval for Continuing Education, in accordance with both of the following: 
+(2) Current certification in basic life support issued by the American Red Cross, the American Heart Association, the American Safety and Health Institute,
+ the American Dental Association’s Continuing Education Recognition Program, or the Academy of General Dentistry’s Program Approval for Continuing Education, in accordance with both of the following:
 
-(A) The dental assistant shall be responsible for maintaining current certification in
- basic life support to perform duties involving patients. 
+(A) The dental assistant shall be responsible for maintaining current certification in basic life support to perform duties involving patients.
 
 (B) The employer of a dental assistant shall be responsible for ensuring that the dental assistant maintains certification in basic life support.
 
-(3) To perform radiographic procedures, a dental assistant shall complete a board-approved course in radiation safety. The original or a copy of the current, valid certificate issued by a board-approved radiation safety course provider shall be publicly displayed at the treatment facility where the dental assistant performs dental services.
+(3) To perform radiographic procedures, a dental assistant shall complete a board-approved course in radiation safety. The original or a copy of the current, valid certificate issued by a board-approved radiation safety course provider
+ shall be publicly displayed at the treatment facility where the dental assistant performs dental services.
 
-(4) To perform coronal polishing prior to licensure as a registered dental assistant, an unlicensed dental assistant shall complete a board-approved coronal polishing course and obtain a certificate of completion. Prior to taking the coronal polishing course, the dental assistant
- shall provide evidence to the course provider of having completed a board-approved eight-hour course in infection control and a current, valid certification in basic life support.
+(4) To perform coronal polishing prior to licensure as a registered dental assistant, an unlicensed dental assistant shall complete a board-approved coronal polishing course and obtain a certificate of completion. Prior to taking the coronal polishing course, the dental assistant shall provide evidence to the course provider of having completed a board-approved eight-hour course in infection control and a current, valid certification in basic life support.
 
-(A) Coronal polishing performed pursuant to this paragraph shall be performed under the direct supervision and pursuant to the order, control, and full professional responsibility of a licensed dentist, who shall, at minimum, evaluate each patient after coronal polishing procedures are performed by the dental assistant.
+(A) Coronal polishing performed pursuant to this paragraph shall be performed under the direct supervision and pursuant to the order, control, and full professional responsibility of a licensed dentist, who
+ shall, at minimum, evaluate each patient after coronal polishing procedures are performed by the dental assistant.
 
 (B) The original or a copy of the current, valid certificate issued by a board-approved coronal polishing course provider shall be publicly displayed at the treatment facility where the dental assistant performs dental services.
 
-(History: Amended by Stats. 2024, Ch. 483, Sec. 48.   (SB 1453)   Effective January 1, 2025.)
+(History: Amended by Stats. 2026, Ch. 232, Sec. 1.   (SB 1311)   Effective September 14, 2026.)
 -------------------------------------------
 
 1750.1.
@@ -14095,30 +14095,35 @@ Each person who holds a license as a registered dental assistant in extended fun
 
 (a) A course in infection control is one that has as its main purpose providing theory and clinical application in infection control practices and principles where the protection of the public is its primary focus.
 
-(b) An unlicensed dental assistant not enrolled in a board-approved program for registered dental assisting or an alternative dental assisting program as defined in subdivision (a) of Section 1741, shall complete one of the following infection control certification courses:
+(b) An unlicensed dental assistant not enrolled in a board-approved program for registered dental assisting or an alternative dental assisting program as defined in subdivision (a) of Section 1741, shall successfully complete either the Dental Assisting National Board’s Infection Control examination or one of the following infection control certification courses:
 
-(1) A board-approved eight-hour course, with six hours being didactic instruction and two hours being laboratory instruction.
+(1) A board-approved eight-hour infection control
+ course provided by a board-approved registered dental assisting education program.
 
-(2) A
- board-approved eight-hour course, with six hours of didactic instruction and at least two hours of laboratory instruction using video or a series of video training tools, all of which may be delivered using asynchronous, synchronous, or online learning mechanisms or a combination thereof.
+(2) A board-approved eight-hour infection control course pursuant to Section 1070.6 of Title 16 of the California Code of Regulations.
+
+(3) (A) Notwithstanding Sections 1070, 1070.1, and 1070.6 of Title 16 of the California Code of Regulations, a course with at least four hours of didactic instruction, as described in subdivision (e), and at least two hours of laboratory instruction using video or a series of video training tools, all of which may be delivered using asynchronous, synchronous, or online learning mechanisms or a combination thereof, offered by the California Dental Association or a provider approved by the California Dental Association, the American
+ Dental Association’s Continuing Education Recognition Program, or the Academy of General Dentistry’s Program Approval for Continuing Education.
+
+(B) For purposes of this paragraph, “laboratory instruction” means instruction in which students perform procedures using study models, mannequins, or other simulation methods.
 
 (c) A course shall establish specific instructional objectives. Instruction shall provide the content necessary for students to make safe and ethical judgments regarding infection control and asepsis.
 
-(d) Objective evaluation criteria shall be used for measuring student progress. Students shall be provided with specific performance objectives and the evaluation criteria that will be used for didactic testing.
+(d) Objective evaluation criteria shall be used for measuring student progress. Students shall be provided with specific performance objectives and the evaluation criteria that will be used for didactic
+ testing.
 
-(e) Didactic instruction shall include, at a minimum, all of the following as they relate to Cal/OSHA regulations, as set
- forth in Sections 300 to 344.85, inclusive, of Title 8 of the California Code of Regulations, and the board’s Minimum Standards for Infection Control, as set forth in Section 1005 of Title 16 of the California Code of Regulations:
+(e) Didactic instruction shall include, at a minimum, all of the following as they relate to Cal/OSHA regulations, as set forth in Sections 300 to 344.85, inclusive, of Title 8 of the California Code of Regulations, and the board’s Minimum Standards for Infection Control, as set forth in Section 1005 of Title 16 of the California Code of Regulations:
 
 (1) Basic dental science and microbiology as they relate to infection control in dentistry.
 
 (2) Legal and ethical aspects of infection control procedures.
 
-(3) Terms and protocols specified in Section 1005 of Title 16 of the California Code of Regulations regarding the minimum standards for infection control.
+(3) Terms and protocols specified in Section 1005 of Title 16 of the California Code of Regulations regarding the minimum standards for infection
+ control.
 
 (4) Principles of modes of disease transmission and prevention.
 
-(5) Principles, techniques, and protocols of hand hygiene, personal protective equipment,
- surface barriers and disinfection, sterilization, sanitation, and hazardous chemicals associated with infection control.
+(5) Principles, techniques, and protocols of hand hygiene, personal protective equipment, surface barriers and disinfection, sterilization, sanitation, and hazardous chemicals associated with infection control.
 
 (6) Principles and protocols of sterilizer monitoring and the proper loading, unloading, storage, and transportation of instruments to work area.
 
@@ -14130,14 +14135,13 @@ Each person who holds a license as a registered dental assistant in extended fun
 
 (10) Principles and protocols of regulated and nonregulated waste management.
 
-(11) Principles and protocols related to injury and illness prevention, hazard communication,
- general office safety, exposure control, postexposure requirements, and monitoring systems for radiation safety and sterilization systems.
+(11) Principles and protocols related to injury and illness prevention, hazard communication, general office safety, exposure control, postexposure requirements, and monitoring systems for radiation safety and sterilization systems.
 
-(f) Upon successful completion of the course, students shall receive a certificate of completion as defined in subdivision (e) of Section 1741. 
+(f) Upon successful completion of the course, students shall receive a certificate of completion as defined in subdivision (e) of Section 1741.
 
 (g) The board may adopt regulations to implement this section.
 
-(History: Added by Stats. 2024, Ch. 483, Sec. 65.   (SB 1453)   Effective January 1, 2025.)
+(History: Amended by Stats. 2026, Ch. 232, Sec. 2.   (SB 1311)   Effective September 14, 2026.)
 -------------------------------------------
 
 1765.
@@ -17312,7 +17316,8 @@ A request for renewal shall be submitted on a form prescribed by the board and s
 
 (2) The board shall approve physician candidates from Mexico for program participation.
 
-(c) (1) This program extends the physician component of the Licensed Physicians and Dentists from Mexico Pilot Program, as
+(c) (1) This program extends the physician component of the Licensed
+ Physicians and Dentists from Mexico Pilot Program, as
  established in former Section 853, which authorized up to 30 licensed physicians specializing in family practice, internal medicine, pediatrics, and obstetrics and gynecology from Mexico to practice medicine in California for a period not to exceed three years.
 
 (2) The program shall also maintain an alternate list of program participants.
@@ -17321,88 +17326,96 @@ A request for renewal shall be submitted on a form prescribed by the board and s
 
 (e) Each physician from Mexico, to be eligible to participate in this program, shall comply with all of the following:
 
-(1) Be licensed, certified or recertified, and in good standing in their medical specialty in Mexico. This certification or
+(1) Be
+ licensed, certified or recertified, and in good standing in their medical specialty in Mexico. This certification or
  recertification shall be performed, as appropriate, by the Consejo Mexicano de Ginecología y Obstetricia, A.C., the Consejo Mexicano de Certificación en Medicina Familiar, A.C., the Consejo Mexicano de Medicina Interna, A.C., the Consejo Mexicano de Certificación en Pediatría, A.C., or the Consejo Mexicano de Psiquiatría, A.C.
 
-(2) The board shall submit to the Department of Justice fingerprint images and related information required by the Department of Justice of all applicants for a physician’s and surgeon’s license, as defined by this section, to determine whether the applicant has a criminal conviction record in this state or in any other jurisdiction, including foreign countries, pursuant to Section 2042. The Department of Justice shall provide a state- and federal-level response in accordance with subdivision (p) of Section 11105 of the Penal Code for the
- board to determine whether the applicant is subject to denial of licensure under the provisions of Division 1.5 (commencing with Section 475) and Section 2221.
+(2) The board shall submit to the Department of Justice fingerprint images and related information required by the Department of Justice of all applicants for a physician’s and surgeon’s license, as defined by this section, to determine whether the applicant has a criminal conviction record in this state or in any other jurisdiction, including foreign countries, pursuant to Section 2042. The Department of Justice shall provide a state- and federal-level response in accordance with subdivision (p) of
+ Section 11105 of the Penal Code for the board to determine whether the applicant is subject to denial of licensure under the provisions of Division 1.5 (commencing with Section 475) and Section 2221.
 
 (3) Before leaving Mexico, have completed all of the following requirements:
 
-(A) Passed an interview examination developed by the National Autonomous University of Mexico (UNAM) for each specialty area. Each family practitioner who includes obstetrics and gynecology in their practice and shall not perform deliveries in California unless they have performed 50 live birth deliveries, as required by United States standards, confirmed by written documentation by the supervising department chair, hospital administrator, or hospital chief medical officer. Each obstetrician and gynecologist from Mexico shall be a fellow in good standing of the American College of Obstetricians and Gynecologists.
+(A) Passed an interview examination developed by the National Autonomous University of Mexico (UNAM) for each specialty area. Each family practitioner who includes obstetrics and gynecology in their practice and shall not perform deliveries in California unless they have performed 50 live birth deliveries, as required by United States standards, confirmed by written documentation by the supervising department chair, hospital administrator, or hospital chief medical officer. Each obstetrician and
+ gynecologist from Mexico shall be a fellow in good standing of the American College of Obstetricians and Gynecologists.
 
-(B) (i) Satisfactorily completed an
- orientation program approved by the board in connection with the Licensed Physicians and Dentists from Mexico Pilot Program, as established in former Section 853, and that includes medical protocol, community clinic history and operations, medical administration, hospital operations and protocol, medical ethics, the California medical delivery system, health maintenance organizations and managed care practices, medication documentation and reconciliation, the electronic medical records system utilized by federally qualified health centers, and standards for medical record documentation to support medical decisionmaking and quality care. This orientation program may be changed by a committee of at least five chief medical officers at federally qualified health centers employing program licensees to ensure that the orientation program contains the requisite subject matter and meets appropriate California law and medical standards where applicable.
+(B) (i) Satisfactorily completed an orientation program approved by the board in connection with the Licensed Physicians and Dentists from Mexico Pilot Program, as established in former Section 853, and that includes medical protocol, community clinic history and operations, medical administration, hospital operations and protocol, medical ethics, the California medical delivery system, health maintenance organizations and managed care practices, medication documentation and reconciliation, the electronic medical records system utilized by federally qualified health centers, and standards for medical record documentation to support medical decisionmaking and quality care. This orientation program may be
+ changed by a committee of at least five chief medical officers at federally qualified health centers employing program licensees to ensure that the orientation program contains the requisite subject matter and meets appropriate California law and medical standards where applicable.
 
-(ii) Satisfactorily completed the Test of English as a Foreign Language by scoring a minimum of 85 percent or the Occupational English Test with a minimum score of 350, and provided written documentation of their completion to the board.
+(ii) Satisfactorily completed the Test of English as a Foreign Language by scoring a minimum of 85 or the Occupational English Test with a minimum score of 350, and provided written documentation of their completion to the board.
 
-(C) Representatives from California and the UNAM in Mexico that executed and implemented the provisions of the former Physicians and Dentists from Mexico Pilot Program shall be the points of contact involved in securing required documents, recruiting and vetting candidates, assisting candidates for this program in Mexico to meet all program requirements, selecting appropriate federally qualified health centers throughout California, ensuring compliance with program provisions, developing policy and clinical workshops, monitoring productivity and increased access to medical care, and assessing the necessity of policy and programmatic improvements.
+(C) Representatives from California and the UNAM in Mexico that executed and implemented the provisions of the former Licensed Physicians and Dentists from Mexico Pilot Program shall be the
+ points of contact involved in securing required documents, recruiting and vetting candidates, assisting candidates for this program in Mexico to meet all program requirements, selecting appropriate federally qualified health centers throughout California, ensuring compliance with program provisions, developing policy and clinical workshops, monitoring productivity and increased access to medical care, and assessing the necessity of policy and programmatic improvements.
 
-(4) Upon satisfactory completion of the requirements in paragraphs (1) to (3), inclusive, and after having received their nonrenewable three-year physician’s and surgeon’s license, each licensee shall be required to obtain continuing education pursuant to Section 2190. Each physician shall obtain 25 continuing education units per year for three years of program participation, which shall be subject to random audits by the board to ensure compliance. The board may issue a citation and administrative fine against a licensee who fails to comply with the requirements of this paragraph.
+(4) Upon satisfactory completion of the requirements in paragraphs (1) to (3), inclusive, and after having received their nonrenewable three-year physician’s and surgeon’s license, each licensee shall be required to obtain continuing education pursuant to Section 2190. Each physician shall obtain 25 continuing education units per year for three years of program participation, which
+ shall be subject to random audits by the board to ensure compliance. The board may issue a citation and administrative fine against a licensee who fails to comply with the requirements of this paragraph.
 
-(5) The federally qualified health centers employing physicians from Mexico shall continue the peer review protocols and procedures as required by the federal government. The federally qualified health centers shall work with a California medical school approved by the board pursuant to Section 2084 or a residency program approved by the Accreditation Council for Graduate Medical Education to conduct 10 secondary reviews of randomly selected patient encounters with each licensee per six-month period, and the reviews shall be transmitted to the approved medical school or medical institution with an approved residency program in PDF format. The secondary reviews shall be undertaken every six months of
- each year for the three years that the physicians from Mexico are employed by federally qualified health centers. The faculty reviewers in family medicine, pediatrics, internal medicine, psychiatry, and obstetrics and gynecology from the California medical school approved by the board pursuant to Section 2084 or the residency program approved by the Accreditation Council for Graduate Medical Education shall provide feedback to the federally qualified health centers of the findings of their secondary reviews. The faculty and federally qualified health center chief medical officers shall jointly develop no less than two quality assurance (QA) seminars for all physicians from Mexico to attend during the six months of secondary reviews conducted. The purpose of the approved medical school or medical institution with an approved residency program secondary peer reviews shall be to provide feedback on compliance with medical standards, protocols, and procedures required by the federal government and assessed by
- the monthly or quarterly peer reviews conducted by federally qualified health centers. The associated costs for the secondary reviews and QA seminars shall be the responsibility of the federally qualified health centers on a pro rata basis.
+(5) The federally qualified health centers employing physicians from Mexico shall continue the peer review protocols and procedures as required by the federal government. The federally qualified health centers shall work with a California medical school approved by the board pursuant to Section 2084 or a residency program approved by the Accreditation Council for Graduate Medical Education to conduct 10 secondary reviews of randomly selected patient encounters with each licensee per six-month period, and the reviews shall be transmitted to the approved medical school or medical institution with an approved residency program in PDF format.
+ The secondary reviews shall be undertaken every six months of each year for the three years that the physicians from Mexico are employed by federally qualified health centers. The faculty reviewers in family medicine, pediatrics, internal medicine, psychiatry, and obstetrics and gynecology from the California medical school approved by the board pursuant to Section 2084 or the residency program approved by the Accreditation Council for Graduate Medical Education shall provide feedback to the federally qualified health centers of the findings of their secondary reviews. The faculty and federally qualified health center chief medical officers shall jointly develop no less than two quality assurance (QA) seminars for all physicians from Mexico to attend during the six months of secondary reviews conducted. The purpose of the approved medical school or medical institution with an approved residency
+ program secondary peer reviews shall be to provide feedback on compliance with medical standards, protocols, and procedures required by the federal government and assessed by the monthly or quarterly peer reviews conducted by federally qualified health centers. The associated costs for the secondary reviews and QA seminars shall be the responsibility of the federally qualified health centers on a pro rata basis.
 
 (6) The federally qualified health centers employing physicians in the program shall be required to have medical quality assurance protocols and be accredited by The Joint Commission, National Committee for Quality Assurance, or Accreditation Association for Ambulatory Health Care.
 
-(7) Participating hospitals shall have the authority to establish criteria necessary to allow individuals participating in this program to be granted hospital privileges in their facilities, taking into consideration the need and concerns for access to patient populations served by federally qualified health centers and attending doctors from Mexico, especially in rural areas that do not have hospitals staffed to provide deliveries of newborns.
+(7) Participating hospitals shall have the authority to establish criteria necessary to allow
+ individuals participating in this program to be granted hospital privileges in their facilities, taking into consideration the need and concerns for access to patient populations served by federally qualified health centers and attending doctors from Mexico, especially in rural areas that do not have hospitals staffed to provide deliveries of newborns.
 
-(8) A licensee shall practice only in the nonprofit community health center that offered the licensee employment and the corresponding hospital. This three-year physician’s and surgeon’s license shall be deemed to be a license in good standing pursuant to the provisions of this chapter for the purpose of participation and reimbursement in all federal, state, and local health programs. These programs shall include the Medicare Program, the fee-for-service and managed care delivery systems of the Medi-Cal program, and private insurance. A physician from Mexico shall not be denied credentials by a health plan because the physician is a participant in this state program and did not receive their medical
- education and training in the United States. The nonrenewable three-year physician’s and surgeon’s license issued pursuant to this program shall be referred to as a Physician’s and Surgeon’s from Mexico License and shall not include any additional notations beyond the current numerical identifiers that the board applies.
+(8) A licensee shall practice only in the nonprofit community health center that offered the licensee employment and the corresponding hospital. This three-year physician’s and surgeon’s license shall be deemed to be a license in good standing pursuant to the provisions of this chapter for the purpose of participation and reimbursement in all federal, state, and local health programs. These programs shall include the Medicare Program, the fee-for-service and managed care delivery systems of the
+ Medi-Cal program, and private insurance. A physician from Mexico shall not be denied credentials by a health plan because the physician is a participant in this state program and did not receive their medical education and training in the United States. The nonrenewable three-year physician’s and surgeon’s license issued pursuant to this program shall be referred to as a Physician’s and Surgeon’s from Mexico License and shall not include any additional notations beyond the current numerical identifiers that the board applies.
 
-(f) (1) Notwithstanding subdivisions (a) to (d), inclusive, of Section 30, the board shall issue a nonrenewable three-year physician’s and surgeon’s license pursuant to this section to an applicant who has not provided an individual taxpayer identification number or social security number if the board staff determines the applicant is otherwise eligible for a license only under the program pursuant to this section, subject to the following conditions:
+(f) (1) Notwithstanding subdivisions (a) to (d), inclusive, of Section 30, the board shall issue a nonrenewable three-year physician’s and surgeon’s license pursuant to this section to an applicant who has not provided an individual taxpayer identification number or social security number
+ if the board staff determines the applicant is otherwise eligible for a license only under the program pursuant to this section, subject to the following conditions:
 
-(A) The applicant shall immediately seek both an appropriate three-year visa and the
- accompanying social security number from the United States government within 14 days of being issued a medical license under this section.
+(A) The applicant shall immediately seek both an appropriate three-year visa and the accompanying social security number from the United States government within 14 days of being issued a medical license under this section.
 
 (B) The applicant shall immediately provide to the board a social security number obtained in accordance with subparagraph (A) within 10 days of the federal government issuing the social security card related to the issued visa.
 
-(C) The applicant shall not engage in the practice of medicine pursuant to this section until the board determines that the conditions in subparagraphs (A) and (B) have been met.
+(C) The applicant shall not engage in the practice of medicine pursuant to this section until the board
+ determines that the conditions in subparagraphs (A) and (B) have been met.
 
 (2) The board, if it determines that an applicant has met the conditions in paragraph (1), shall notify the applicant that the applicant may engage in the practice of medicine under the license in accordance with this section.
 
 (g) (1) (A) Between January 1, 2025, and January 1, 2029, the board shall coordinate with the representatives described in subparagraph (C) of paragraph (2) of subdivision (e) to ensure that no more than 155 program participants have a current and active license at the same time.
 
-(B) During the time period described in subparagraph (A), no more than 30 of the 155 licenses may be issued to physicians whose primary area of practice is psychiatry.
+(B) During the time period described in subparagraph (A), no more than 30 of the 155 licenses may be
+ issued to physicians whose primary area of practice is psychiatry.
 
-(C) During the time period described in subparagraph (A), an applicant shall submit an application to the board between October 1, 2025, and December 31, 2025, except that the board may accept up to 15 applications after December 31, 2025, and before January 1, 2028.
+(C) During the time period described in subparagraph (A), an applicant shall submit an application to the board between October 1, 2025, and July 1, 2026, except that the board may accept up to 15 applications after July 1, 2026, and before January 1, 2028.
 
-(2) (A) Between January 1, 2029,
- and January 1, 2033, the board shall coordinate with the representatives described in subparagraph (C) of paragraph (2) of subdivision (e) to ensure that no more than 195 program participants have a current and active license at the same time.
+(2) (A) Between January 1, 2029, and January 1, 2033, the board shall coordinate with the representatives described in subparagraph (C) of paragraph (2) of subdivision (e) to ensure that no more than 195 program participants have a current and active license at the same time.
 
-(B) During the time period described in subparagraph (A), no more than 40 of the 195 licenses may be issued to physicians whose primary area of practice is psychiatry.
+(B) During the time period described in subparagraph (A), no more than 40 of the 195 licenses may
+ be issued to physicians whose primary area of practice is psychiatry.
 
 (C) During the time period described in subparagraph (A), an applicant shall submit an application to the board between October 1, 2029, and December 31, 2029, except that the board may accept up to 19 applications after December 31, 2029, and before January 1, 2032.
 
-(3) (A) Between January 1, 2033, and January 1, 2037, the board shall coordinate with the representatives described in
- subparagraph (C) of paragraph (2) of subdivision (e) to ensure that no more than 225 program participants have a current and active license at the same time.
+(3) (A) Between January 1, 2033, and January 1, 2037, the board shall coordinate with the representatives described in subparagraph (C) of paragraph (2) of subdivision (e) to ensure that no more than 225 program participants have a current and active license at the same time.
 
-(B) During the time period described in subparagraph (A), no more than 40 of the 225 licenses may be issued to physicians whose primary area of practice is psychiatry.
+(B) During the time period described in subparagraph (A), no more than 40 of the 225
+ licenses may be issued to physicians whose primary area of practice is psychiatry.
 
 (C) During the time period described in subparagraph (A), an applicant shall submit an application to the board between October 1, 2033, and December 31, 2033, except that the board may accept up to 22 applications after December 31, 2033, and before January 1, 2036.
 
-(4) (A) Between January 1, 2037, and January 1, 2041, the board shall coordinate with the representatives described in subparagraph (C) of paragraph (2) of subdivision (e) to ensure that no more than 255 program
- participants have a current and active license at the same time.
+(4) (A) Between January 1, 2037, and January 1, 2041, the board shall coordinate with the representatives described in subparagraph (C) of paragraph (2) of subdivision (e) to ensure that no more than 255 program participants have a current and active license at the same time.
 
-(B) During the time period described in subparagraph (A), no more than 40 of the 255 licenses may be issued to physicians whose primary area of practice is psychiatry.
+(B) During the time period described in subparagraph (A), no more than 40
+ of the 255 licenses may be issued to physicians whose primary area of practice is psychiatry.
 
 (C) During the time period described in subparagraph (A), an applicant shall submit an application to the board between October 1, 2037, and December 31, 2037, except that the board may accept up to 25 applications after December 31, 2037, and before January 1, 2040.
 
 (5) (A) Between January 1, 2041, and January 1, 2045, the board shall coordinate with the representatives described in subparagraph (C) of paragraph (2) of subdivision (e) to ensure that no more than 275 program participants have a current and active license at the same time.
 
-(B) During the time period described in subparagraph (A), no more than 40 of the 275 licenses may be issued to physicians whose primary area of practice is psychiatry.
+(B) During the time period described in subparagraph (A), no more
+ than 40 of the 275 licenses may be issued to physicians whose primary area of practice is psychiatry.
 
 (C) During the time period described in subparagraph (A), an applicant shall submit an application to the board between October 1, 2041, and December 31, 2041, except that the board may accept up to 27 applications after December 31, 2041, and before January 1, 2044.
 
 (6) A physician’s eligibility pursuant to this subdivision is subject to the physician complying with all of the requirements set forth in this section.
 
-(h) All applicable employment benefits, salary, and policies provided by nonprofit community health centers to their current employees shall be provided to medical practitioners
- from Mexico participating in this program. This shall include nonprofit community health centers providing malpractice insurance coverage.
+(h) All applicable employment benefits, salary, and policies provided by nonprofit community health centers to their current employees shall be provided to medical practitioners from Mexico participating in
+ this program. This shall include nonprofit community health centers providing malpractice insurance coverage.
 
 (i) Each program applicant shall be responsible for working with the governments of Mexico and the United States in order to obtain the necessary three-year visa required for program participation.
 
-(History: Amended by Stats. 2025, Ch. 113, Sec. 7.   (SB 160)   Effective September 17, 2025.)
+(History: Amended by Stats. 2026, Ch. 232, Sec. 3.   (SB 1311)   Effective September 14, 2026.)
 -------------------------------------------
 
 2126.
@@ -46118,27 +46131,29 @@ Protection of the public shall be the highest priority for the California Veteri
 
 4801.
 
-(a) Each veterinarian member of the board shall be a bona fide resident of this state for a period of at least five years immediately preceding his or her appointment and shall have been a licensed veterinarian under this chapter and actually engaged in the practice of veterinary medicine in this state during that period.
+(a) Each veterinarian member of the board shall be a bona fide resident of this state for a period of at least five years immediately preceding their appointment and shall have been a licensed veterinarian under this chapter and actually engaged in the practice of veterinary medicine in this state during that period.
 
-(b) The registered veterinary technician member of the board shall be a bona fide resident of this state for a period of at least five years immediately preceding his or her appointment and shall have been registered under this chapter and actually engaged in the practice of a registered veterinary technician in this state during that period.
+(b) Each registered veterinary technician member of the
+ board shall be a bona fide resident of this state for a period of at least five years immediately preceding their appointment and shall have been registered under this chapter and actually engaged in the practice of a registered veterinary technician in this state during that period.
 
-(c) Each public member of the board shall be a bona fide resident of this state for a period of at least five years immediately preceding his or her appointment and shall not be a licensee or registrant of the board, any other board under this division, or any board referred to in Section 1000 or 3600.
+(c) Each public member of the board shall be a bona fide resident of this state for a period of at least five years immediately preceding their appointment and shall not be a licensee or registrant of the board, any other board under this division, or any board
+ referred to in Section 1000 or 3600.
 
 (d) No person shall serve as a member of the board for more than two consecutive terms.
 
-(History: Repealed and added by Stats. 2010, Ch. 538, Sec. 3.   (AB 1980)   Effective January 1, 2011.)
+(History: Amended by Stats. 2026, Ch. 232, Sec. 4.   (SB 1311)   Effective September 14, 2026.)
 -------------------------------------------
 
 4802.
 
-The members of the board shall hold office for a term of four years. Each member shall serve until the appointment and qualification of his or her successor or until one year shall have elapsed since the expiration of the term for which he or she was appointed, whichever first occurs. A member may be reappointed subject to the limitation contained in Section 4801.
+The members of the board shall hold office for a term of four years. Each member shall serve until the appointment and qualification of their successor or until one year shall have elapsed since the expiration of the term for which they were appointed, whichever first occurs. A member may be reappointed subject to the limitation contained in Section 4801.
 
 Vacancies occurring shall be filled by appointment for the unexpired term, within 90 days after they occur.
 
-The Governor shall appoint the four veterinarian members, the one registered veterinary technician member, and one public member, qualified as provided in Section 4801. The Senate Committee on Rules and the Speaker of the Assembly shall each appoint a public
- member, qualified as provided in Section 4801.
+The Governor shall appoint the four veterinarian members, the two registered veterinary technician members, and one public member, qualified as provided in Section 4801. The Senate Committee on Rules and the Speaker of the
+ Assembly shall each appoint a public member, qualified as provided in Section 4801.
 
-(History: Amended by Stats. 2010, Ch. 538, Sec. 4.   (AB 1980)   Effective January 1, 2011.)
+(History: Amended by Stats. 2026, Ch. 232, Sec. 5.   (SB 1311)   Effective September 14, 2026.)
 -------------------------------------------
 
 4803.
@@ -46929,37 +46944,36 @@ This article shall not apply to students in a California veterinary technology p
 
 (2) Pay the applicable fees specified in Section 4905.
 
-(3) Pursuant to Section 144, submit a full set of fingerprints for the purpose of conducting a criminal history record check and undergo a state and federal criminal offender record information search conducted through the Department of Justice, pursuant to subdivision (u) of Section 11105 of the Penal Code. The Department of Justice shall provide a state or federal response to the board
- pursuant to paragraph (1) of subdivision (p) of Section 11105 of the Penal Code.
+(3) Pursuant to Section 144, submit a full set of fingerprints for the purpose of conducting a criminal history record check and undergo a state and federal criminal offender record information search conducted through the Department of Justice, pursuant to subdivision (u) of Section 11105 of the Penal Code. The Department
+ of Justice shall provide a state or federal response to the board pursuant to paragraph (1) of subdivision (p) of Section 11105 of the Penal Code.
 
 (4) Furnish satisfactory evidence of one of the following:
 
 (A) Graduation from, at minimum, a two-year curriculum in veterinary technology, in a college or other postsecondary institution accredited by the American Veterinary Medical Association (AVMA). In the case of a private postsecondary institution, the institution shall also be approved by the Bureau for Private Postsecondary Education (BPPE). Proof of graduation shall be confirmed through electronic means or direct submission from the college, other postsecondary institution, or American Association of Veterinary State Boards (AAVSB).
 
-(B) A combination of education and clinical practice experience, as determined by the board. All education shall be accredited by the AVMA or the
- Accrediting Commission for Community and Junior Colleges, or approved by the BPPE.
+(B) A combination of education and clinical practice experience, as determined by the board. All education shall be accredited by the AVMA or the Accrediting Commission for Community and Junior Colleges, approved by the BPPE, or provided by a California public school.
 
 (C) Graduation from a veterinary college recognized by the board. Proof of graduation shall be confirmed through electronic means or direct submission from the veterinary college or the AAVSB.
 
 (D) Education equivalency certified by the AAVSB’s Program for the Assessment of Veterinary Education Equivalence (PAVE) for Veterinary Technicians. The certificate of education equivalence shall be confirmed through electronic means or direct submission from the American Association of Veterinary State Boards.
 
-(E) Education equivalency certified by the Educational Commission for Foreign Veterinary Graduates (ECFVG) or PAVE. The certificate of education equivalence shall be confirmed through electronic means or direct submission from ECFVG or
- PAVE.
+(E) Education equivalency certified by the Educational Commission for Foreign Veterinary Graduates (ECFVG) or PAVE. The certificate of education equivalence shall be confirmed through electronic means or direct submission from ECFVG or PAVE.
 
 (5) Pass the national licensing examination for veterinary technicians. If the applicant passed the national licensing examination over five years from the date of submitting the veterinary technician registration application, the applicant shall perform one of the following:
 
 (A) Retake and pass the national licensing examination.
 
-(B) Submit proof of having practiced clinical veterinary medicine for a minimum of two years and completed a minimum of 2,500 hours of clinical practice in another state, Canadian province, or United States territory within the three years immediately preceding filing an application for licensure in this state.
+(B) Submit proof of having practiced clinical veterinary medicine for a minimum of two years
+ and completed a minimum of 2,500 hours of clinical practice in another state, Canadian province, or United States territory within the three years immediately preceding filing an application for licensure in this state.
 
-(C) Complete the minimum continuing education requirements of Section 4858.2 for the current and preceding
- year.
+(C) Complete the minimum continuing education requirements of Section 4858.2 for the current and preceding year.
 
-(b) The applicant shall disclose each state, Canadian province, or United States territory in which the applicant currently holds or has ever held a license, registration, certificate, or permit to practice veterinary medicine. License verification, including any disciplinary or enforcement history, shall be confirmed through electronic means or direct submission from each state, Canadian province, or United States territory in which the applicant has identified that the applicant holds or has ever held a license to practice veterinary medicine.
+(b) The applicant shall disclose each state, Canadian province, or United States territory in which the applicant currently holds or has ever held a license, registration, certificate, or permit to practice veterinary medicine. License verification, including any disciplinary or enforcement history, shall be confirmed through electronic means or direct submission from each state, Canadian province, or United States territory in which the applicant
+ has identified that the applicant holds or has ever held a license to practice veterinary medicine.
 
 (c) An application for veterinary technician registration shall be subject to denial pursuant to Sections 480 and 4883.
 
-(History: Amended by Stats. 2025, Ch. 195, Sec. 15.   (AB 1502)   Effective January 1, 2026.)
+(History: Amended by Stats. 2026, Ch. 232, Sec. 6.   (SB 1311)   Effective September 14, 2026.)
 -------------------------------------------
 
 4842.
@@ -81506,34 +81520,34 @@ This chapter does not apply to:
 (2) A disclosure that private investigators are licensed and regulated by the Bureau of Security and Investigative Services within the Department of Consumer Affairs.
 
 (3) Approximate start and
- completion dates of the work to be provided.
+ completion dates of the work to be provided. A master agreement for frequently contracted services over a specified period of time shall be exempt from meeting this requirement if the agreement includes the beginning and termination dates.
 
 (4) A description of the scope of the investigation or services to be provided. An agreement shall indicate whether or not a written report is to be provided to the client and the agreed upon method of delivery of that written report, as applicable.
 
 (5) All labor, services, and materials to be provided for the scope of work conducted by the private investigator.
 
-(6) An explanation of the fees agreed upon by the parties, including a breakdown of how the fees are assessed by the licensee.
+(6) An explanation of the fees agreed upon by the parties, including a breakdown of how the fees are assessed by the
+ licensee.
 
 (7) Any other matters agreed upon by the parties.
 
-(b) Any amendment,
- addendum, or other modification to an initial client service agreement shall be in writing and is subject to the requirements of this section. An amendment, addendum, or other modification shall include a description of the changes to the scope of work, start and completion dates, method of delivery, fees to be charged, and other matters agreed upon in the initial client service agreement, as applicable.
+(b) Any amendment, addendum, or other modification to an initial client service agreement shall be in writing and is subject to the requirements of this section. An amendment, addendum, or other modification shall include a description of the changes to the scope of work, start and completion dates, method of delivery, fees to be charged, and other matters agreed upon in the initial client service agreement, as applicable.
 
 (c) (1) The initial client service agreement and any amendment, addendum, or other modification to the agreement shall be legible and clearly indicate any other document incorporated into it.
 
-(2) Before any work commences, the client shall receive a signed copy of the written initial client service agreement and any amendment, addendum, or other modification to the
- agreement that was agreed to before commencement of the work.
+(2) Before any work commences, the client shall receive a signed copy of the written initial client service agreement and any amendment, addendum, or other modification to the agreement that was agreed to before commencement of the work.
 
 (3) Services detailed under the scope of work shall not be performed and charges shall not accrue before written authorization to proceed is obtained from the client.
 
 (d) Upon completion of the investigation, any written report, as agreed upon by all parties and indicated in the agreement, shall be provided to the client within 30 days from the completion date and in accordance with the agreed upon delivery method.
 
-(e) The licensee shall maintain a legible copy of the signed agreement and investigative findings, including any written report, for a minimum of two years. These records shall be made available for inspection by the bureau upon demand. Making these
- records available for inspection by the bureau shall not violate, waive, or extinguish the lawyer-client privilege under Article 3 (commencing with Section 950) of Chapter 4 of Division 8 of the Evidence Code, the attorney work product doctrine as restated in Chapter 4 (commencing with Section 2018.010) of Title 4 of Part 4 of the Code of Civil Procedure, the duty to maintain the confidence and preserve the secrets of an attorney’s client under subdivision (e) of Section 6068, or the protections of any other rule or law related to attorney work product or the attorney-client privilege.
+(e) The licensee
+ shall maintain a legible copy of the signed agreement and investigative findings, including any written report, for a minimum of two years. These records shall be made available for inspection by the bureau upon demand. Making these records available for inspection by the bureau shall not violate, waive, or extinguish the lawyer-client privilege under Article 3 (commencing with Section 950) of Chapter 4 of Division 8 of the Evidence Code, the attorney work product doctrine as restated in Chapter 4 (commencing with Section 2018.010) of Title 4 of Part 4 of the Code of Civil Procedure, the duty to maintain the confidence and preserve the secrets of an attorney’s client under subdivision (e) of Section 6068, or the protections of any other rule or law related to attorney work product or the attorney-client privilege.
 
-(f) This section shall become operative on July 1, 2025.
+(f) This section shall
+ become operative on July 1, 2025.
 
-(History: Amended by Stats. 2025, Ch. 592, Sec. 21.   (SB 861)   Effective January 1, 2026.)
+(History: Amended by Stats. 2026, Ch. 232, Sec. 7.   (SB 1311)   Effective September 14, 2026.)
 -------------------------------------------
 
 7525.
@@ -119299,32 +119313,62 @@ The fiscal year of the Travel Consumer Restitution Corporation shall commence on
 
 17550.44.
 
-(a) In addition to the assessments required by Section 17550.43, the Travel Consumer Restitution Corporation shall bill and collect from each participant an annual assessment that in the aggregate shall consist of assessments for the operations fund and the restitution fund. For each participant, the due date of that annual assessment shall be 30 days prior to the annual renewal date for registration pursuant to Section 17550.20 or 45 days after billing, whichever is later. For a participant registering for the first time, the assessments required by Section 17550.43 shall be due 10 days prior to the seller of travel doing business in this state. A late fee of five dollars ($5) per day, up to a maximum of five
- hundred dollars ($500), shall be paid for each day after the due date specified in this section until the assessment is paid.
+(a) In addition to the assessments required by Section 17550.43, the Travel Consumer Restitution Corporation shall bill and collect from each participant an annual assessment that in the aggregate shall consist of assessments for the operations fund and the restitution fund. For each participant, the due date of that annual assessment shall be 30 days prior to the annual renewal date for registration pursuant to Section 17550.20 or 45 days after billing, whichever is later. For a participant registering for the first time, the assessments required by Section 17550.43 shall be due 10 days prior to the seller of travel doing business in this state. A late fee of five dollars ($5) per day, up to a maximum of five hundred dollars ($500), shall be paid
+ for each day after the due date specified in this section until the assessment is paid.
 
-(b) The annual assessment for the operations fund shall be determined no later than January 15 of each year for the next fiscal year in an amount that does not exceed the amount necessary to fund the operations and administration of the corporation, based upon the annual operational budget required by subdivision (a) of Section 17550.43, and shall become effective immediately. The annual assessment for the operations fund shall not exceed thirty-five dollars ($35) per year for each location in the state from which a participant does business.
+(b) The annual assessment for the operations fund shall be determined no later than January 15 of each year for the next fiscal year in an amount that does not exceed the amount necessary to fund the operations and administration of the corporation, based upon the annual operational budget required by subdivision (a) of Section 17550.43, and shall become effective immediately. The annual assessment for the operations fund shall not exceed sixty dollars ($60) per year for each location in the state from which a participant does business. The
+ corporation may increase the maximum amount of this assessment no more than once per fiscal year in an amount not to exceed any one-year increase in the California Consumer Price Index for the immediately preceding year as compiled and reported by the Department of Industrial Relations.
 
-(c) If, as of January 15 of any year, the balance in the restitution fund is less than one million six hundred
- thousand dollars ($1,600,000), the Travel Consumer Restitution Corporation shall make an assessment of participants, up to a maximum amount of two hundred dollars ($200) for each location in the state from which a participant does business, to bring the restitution fund to an expected balance of one million six hundred thousand dollars ($1,600,000). Every participant’s assessment shall be determined pro rata based upon the ratio of the number of locations in the state from which the participant does business to the total number of locations for all participants as of the preceding December 15.
+(c) If, as of January 15 of any year, the balance in the restitution fund is less than one million six hundred thousand dollars ($1,600,000), the Travel Consumer Restitution Corporation shall make an assessment of participants, up to a maximum amount of two hundred dollars ($200) for each location in the state from which a participant does business, to bring the restitution fund to an expected balance of one million six hundred thousand dollars ($1,600,000). Every participant’s assessment shall be determined pro rata
+ based upon the ratio of the number of locations in the state from which the participant does business to the total number of locations for all participants as of the preceding December 15.
 
-(d) If, on May 1 or October 15 of any year, the balance in the restitution fund is less than nine hundred thousand dollars ($900,000), the corporation shall make an emergency assessment of participants, not more than twice per year, up to a maximum amount
- of one hundred fifty dollars ($150) per year for each location in the state from which the participant does business, for deposit in the trust account to return the level of the restitution fund to an expected balance of one million six hundred thousand dollars ($1,600,000). The corporation shall estimate the total cost of billing, collecting, and processing the emergency restitution fund assessment and shall assess and collect, together with the emergency restitution fund assessment, an emergency operations fund assessment that is in the aggregate sufficient to offset the estimated cost. Each participant’s assessments shall be determined pro rata based upon the ratio of the number of locations in the state from which the participant does business to the total number of locations for all participants as of the first day of the preceding month. The board of directors shall adopt rules for the notification of
- emergency assessments.
+(d) If, on May 1 or October 15 of any year, the balance in the restitution fund is less than nine hundred thousand dollars ($900,000), the corporation shall make an emergency assessment of participants, not more than twice per year, up to a maximum amount of one hundred fifty dollars ($150) per year for each location in the state from which the participant does business, for deposit in the trust account to return the level of the restitution fund to an expected balance of one million six hundred thousand dollars ($1,600,000). The corporation shall estimate the total cost of billing, collecting, and processing the emergency restitution fund assessment and
+ shall assess and collect, together with the emergency restitution fund assessment, an emergency operations fund assessment that is in the aggregate sufficient to offset the estimated cost. Each participant’s assessments shall be determined pro rata based upon the ratio of the number of locations in the state from which the participant does business to the total number of locations for all participants as of the first day of the preceding month. The board of directors shall adopt rules for the notification of emergency assessments.
 
-(e) In addition to the assessments required by Section 17550.43 and subdivision (d), if at any time during the fiscal year the board of directors of the Travel Consumer Restitution Corporation determines that the operations fund will be insufficient to pay the costs of operations and administration for the current or next fiscal year, the corporation, as determined by the board of directors, shall do either or both of the following: 
+(e) In addition to the assessments required by Section 17550.43 and subdivision (d), if at any time during the fiscal year the board of directors of the Travel Consumer Restitution Corporation determines that the operations fund will be insufficient to pay the costs of operations and administration for the
+ current or next fiscal year, the corporation, as determined by the board of directors, shall do either or both of the following:
 
-(1) Make an emergency assessment of participants, not more than once per fiscal year,
- up to a maximum amount of sixty-five dollars ($65) per year for each location in the state from which a participant does business. The emergency assessment may be billed and collected either on an emergency basis from all participants upon the making of the assessment, or in conjunction with each participant’s annual assessment pursuant to subdivision (a).
+(1) Make an emergency assessment of participants, not more than once per fiscal year, up to a maximum amount of sixty-five dollars ($65) per year for each location in the state from which a participant does business. The emergency assessment may be billed and collected either on an emergency basis from all participants upon the making of the assessment, or in conjunction with each participant’s annual assessment pursuant to subdivision (a).
 
-(2) Transfer any or all interest earned on the Restitution Fund to the Operations Fund, provided that no transfer
- results in a restitution fund balance of less than one million two hundred thousand dollars ($1,200,000).
+(2) Transfer any or all interest earned on the Restitution Fund to the Operations Fund, provided that no transfer results in a restitution fund balance of less than one million two hundred thousand dollars ($1,200,000).
 
-(f) The assessment required by subdivision (d) or (e) shall be due 45 days from the date the bill for that assessment is
- sent to the seller of travel by the Travel Consumer Restitution Corporation. A late fee of five dollars ($5) per day, up to a maximum of five hundred dollars ($500), shall be paid for each day after the due date specified in this section until the assessment is paid.
+(f) The assessment required by subdivision (d) or (e) shall be due 45 days from the date the bill for that assessment is sent to the seller of travel by the Travel Consumer Restitution Corporation. A late fee of five dollars ($5) per day, up to a maximum of five hundred dollars ($500), shall be paid for each day after the due date specified in this section until the assessment is paid.
 
 (g) The Travel Consumer Restitution Fund shall report to the office of the Attorney General each levy of assessment within 10 business days after the levy.
 
-(History: Amended by Stats. 2015, Ch. 253, Sec. 2.   (AB 1107)   Effective January 1, 2016.)
+(h) This section shall remain in effect only until January 1, 2031, and as of that date is repealed.
+
+(History: Amended by Stats. 2026, Ch. 201, Sec. 1.   (AB 1758)   Effective September 14, 2026.   Repealed as of January 1, 2031, by its own provisions.   See later operative version as added by Sec. 2 of Stats. 2026, Ch. 201.)
+-------------------------------------------
+
+17550.44.
+
+(a) In addition to the assessments required by Section 17550.43, the Travel Consumer Restitution Corporation shall bill and collect from each participant an annual assessment that in the aggregate shall consist of assessments for the operations fund and the restitution fund. For each participant, the due date of that annual assessment shall be 30 days prior to the annual renewal date for registration pursuant to Section 17550.20 or 45 days after billing, whichever is later. For a participant registering for the first time, the assessments required by Section 17550.43 shall be due 10 days prior to the seller of travel doing business in this state. A late fee of five dollars ($5) per day, up to a maximum of five hundred dollars ($500), shall be paid for each day after the due date specified in this section until the
+ assessment is paid.
+
+(b) The annual assessment for the operations fund shall be determined no later than January 15 of each year for the next fiscal year in an amount that does not exceed the amount necessary to fund the operations and administration of the corporation, based upon the annual operational budget required by subdivision (a) of Section 17550.43, and shall become effective immediately. The annual assessment for the operations fund shall not exceed seventy dollars ($70) per year for each location in the state from which a participant does business. The corporation may increase the maximum amount of this assessment no more than once per fiscal year in an amount not to exceed any one-year increase in the California Consumer Price Index for the immediately preceding year as compiled and reported by the Department of Industrial Relations.
+
+(c) If, as of January 15 of any
+ year, the balance in the restitution fund is less than one million six hundred thousand dollars ($1,600,000), the Travel Consumer Restitution Corporation shall make an assessment of participants, up to a maximum amount of two hundred dollars ($200) for each location in the state from which a participant does business, to bring the restitution fund to an expected balance of one million six hundred thousand dollars ($1,600,000). Every participant’s assessment shall be determined pro rata based upon the ratio of the number of locations in the state from which the participant does business to the total number of locations for all participants as of the preceding December 15.
+
+(d) If, on May 1 or October 15 of any year, the balance in the restitution fund is less than nine hundred thousand dollars ($900,000), the corporation shall make an emergency assessment of participants, not more than twice per year, up to a maximum amount of one hundred fifty
+ dollars ($150) per year for each location in the state from which the participant does business, for deposit in the trust account to return the level of the restitution fund to an expected balance of one million six hundred thousand dollars ($1,600,000). The corporation shall estimate the total cost of billing, collecting, and processing the emergency restitution fund assessment and shall assess and collect, together with the emergency restitution fund assessment, an emergency operations fund assessment that is in the aggregate sufficient to offset the estimated cost. Each participant’s assessments shall be determined pro rata based upon the ratio of the number of locations in the state from which the participant does business to the total number of locations for all participants as of the first day of the preceding month. The board of directors shall adopt rules for the notification of emergency assessments.
+
+(e) In addition to the assessments
+ required by Section 17550.43 and subdivision (d), if at any time during the fiscal year the board of directors of the Travel Consumer Restitution Corporation determines that the operations fund will be insufficient to pay the costs of operations and administration for the current or next fiscal year, the corporation, as determined by the board of directors, shall do either or both of the following:
+
+(1) Make an emergency assessment of participants, not more than once per fiscal year, up to a maximum amount of sixty-five dollars ($65) per year for each location in the state from which a participant does business. The emergency assessment may be billed and collected either on an emergency basis from all participants upon the making of the assessment, or in conjunction with each participant’s annual assessment pursuant to subdivision (a).
+
+(2) Transfer any or all interest earned on the
+ Restitution Fund to the Operations Fund, provided that no transfer results in a restitution fund balance of less than one million two hundred thousand dollars ($1,200,000).
+
+(f) The assessment required by subdivision (d) or (e) shall be due 45 days from the date the bill for that assessment is sent to the seller of travel by the Travel Consumer Restitution Corporation. A late fee of five dollars ($5) per day, up to a maximum of five hundred dollars ($500), shall be paid for each day after the due date specified in this section until the assessment is paid.
+
+(g) The Travel Consumer Restitution Fund shall report to the office of the Attorney General each levy of assessment within 10 business days after the levy.
+
+(h) This section shall become operative on January 1, 2031.
+
+(History: Repealed in (Sec.1) and added by Stats. 2026, Ch. 201, Sec. 2.   (AB 1758)   Effective September 14, 2026.   Operative January 1, 2031, by its own provisions.)
 -------------------------------------------
 
 17550.45.
