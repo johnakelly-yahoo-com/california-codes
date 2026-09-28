@@ -5,7 +5,7 @@
 
 Source: Official California Legislative Information
         https://downloads.leginfo.legislature.ca.gov/
-Last Updated by State of California: July 10, 2026
+Last Updated by State of California: September 26, 2026
 
 
 ======================================================================
@@ -5062,9 +5062,10 @@ In any military academy, having not less than 80 students, uniformed, drilled, a
 
 531.
 
-The Adjutant General may enter into a cooperative agreement with the City of Oakland and a school district for the purposes of establishing an Oakland Military Institute. The program would provide a structured, disciplined environment that would be conducive to learning in a college preparatory environment. In addition to academic skills, pupils would develop leadership, self-esteem, and a strong sense of community.
+The Adjutant General may enter into a cooperative agreement with the Oakland Military Institute College Preparatory Academy, a California charter school, to provide a structured, disciplined environment emphasizing academic
+ skills, leadership, camaraderie, and a strong sense of community.
 
-(History: Amended by Stats. 2011, Ch. 630, Sec. 32.   (SB 537)   Effective January 1, 2012.)
+(History: Amended by Stats. 2026, Ch. 250, Sec. 35.   (SB 133)   Effective September 18, 2026.)
 -------------------------------------------
 
 532.
@@ -12315,9 +12316,9 @@ The proceeds of bonds issued and sold pursuant to this chapter shall be deposite
 
 1106.
 
-Bonds in the total amount of fifty million dollars ($50,000,000), not including the amount of any refunding bonds issued in accordance with Section 1130, or as much thereof as is necessary, may be issued and sold to provide a fund to be used for carrying out the purposes expressed in this chapter and to be used and sold for carrying out the purposes of Section 1104 and to reimburse the General Obligation Bond Expense Revolving Fund pursuant to Section 16724.5 of the Government Code. The bonds, when sold, shall be and shall constitute a valid and binding obligation of the State of California, and the full faith and credit of the State of California is hereby pledged for the punctual payment of both the principal of, and interest on, the bonds as the principal and interest become due and payable.
+Bonds in the total amount of forty-nine million twenty-five thousand dollars ($49,025,000), not including the amount of any refunding bonds issued in accordance with Section 1130, or as much thereof as is necessary, may be issued and sold to provide a fund to be used for carrying out the purposes of this chapter, and to be used and sold for carrying out the purposes of Section 1104, and to reimburse the General Obligation Bond Expense Revolving Fund pursuant to Section 16724.5 of the Government Code. The bonds, when sold, shall constitute a valid and binding obligation of the state, and the full faith and credit of the state is hereby pledged for the punctual payment of both the principal of, and interest on, the bonds as the principal and interest become due and payable.
 
-(History: Added by Stats. 1999, Ch. 728, Sec. 2.   Approved in Proposition 16 at the March 7, 2000, election.)
+(History: Amended by Stats. 2026, Ch. 255, Sec. 15.   (AB 184)   Effective September 18, 2026.)
 -------------------------------------------
 
 1107.
