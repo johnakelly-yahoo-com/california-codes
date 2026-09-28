@@ -5,7 +5,7 @@
 
 Source: Official California Legislative Information
         https://downloads.leginfo.legislature.ca.gov/
-Last Updated by State of California: May 29, 2026
+Last Updated by State of California: September 26, 2026
 
 
 ======================================================================
@@ -14,11 +14,11 @@ Last Updated by State of California: May 29, 2026
 
 ======================================================================
 
-DIVISION 0.5. PRELIMINARY PROVISIONS [1. - 362.]
+DIVISION 0.5. PRELIMINARY PROVISIONS [1. - 409.]
 
 
 
-CHAPTER 1. General Provisions [1. - 21.]
+CHAPTER 1. General Provisions [1. - 23.]
 
 1.
 
@@ -298,6 +298,32 @@ The Secretary of State shall establish and maintain administrative complaint pro
 (e) The Legislature finds and declares that this section addresses a matter of statewide concern, and therefore this section applies to all cities and counties, including charter cities, charter counties, and charter cities and counties.
 
 (History: Added by Stats. 2025, Ch. 238, Sec. 1.   (SB 851)   Effective October 1, 2025.)
+-------------------------------------------
+
+23.
+
+(a) For purposes of this section, the following terms have the following meanings:
+
+(1) “Certified voting technology” has the same meaning as defined in Section 17600.
+
+(2) “Election records” include, but are not limited to, any records that must be kept, retained, preserved, or sealed by elections officials under this code.
+
+(3) “Law enforcement investigation” means an investigation undertaken by a federal, state, or local law enforcement agency.
+
+(b) A local agency, political subdivision, or
+ elections official shall provide notice to the Secretary of State and the Attorney General immediately, but no later than one calendar day, after becoming aware of a warrant, subpoena, or active law enforcement investigation pertaining to the search, seizure, or retention of any election records or certified voting technology, or any portion thereof, under their custody or control.
+
+(c) Notwithstanding any other law, the Secretary of State or the Attorney General may, as to any matter described in subdivision (b), intervene in any court proceedings connected therewith, or initiate proceedings in any court to challenge a warrant or subpoena described in this section
+ on any valid grounds or seek any other appropriate relief. An action pursuant to this subdivision shall be entitled to calendar preference.
+
+(d) This section does not require the Secretary of State or the Attorney General to take any action regarding any warrant, subpoena, or active law enforcement investigation of which they receive notice pursuant to this section.
+
+(e) The Legislature finds and declares that this section addresses a matter of statewide concern rather than a municipal affair as that term is used in Section 5 of Article XI of the California Constitution. Therefore, this section applies to all cities and counties, including charter cities and charter counties.
+
+(f) This section shall
+ remain in effect only until January 1, 2030, and as of that date is repealed.
+
+(History: Added by Stats. 2026, Ch. 336, Sec. 2.   (AB 1664)   Effective September 19, 2026.   Repealed as of January 1, 2030, by its own provisions.)
 -------------------------------------------
 
 
@@ -1265,6 +1291,95 @@ The “semifinal official canvass” is the public process of collecting, proces
 “Voting system” means a mechanical, electromechanical, or electronic system and its software, or any combination of these used for casting a ballot, tabulating votes, or both. “Voting system” does not include a remote accessible vote by mail system.
 
 (History: Amended by Stats. 2016, Ch. 75, Sec. 4.   (AB 2252)   Effective January 1, 2017.)
+-------------------------------------------
+
+
+
+CHAPTER 5. Elections in 2026 through 2029 [400. - 409.]
+
+400.
+
+This chapter applies to any regular or special election, beginning with the November 3, 2026, statewide general election, held in 2026 through 2029, inclusive, or proclaimed in 2029.
+
+(History: Added by Stats. 2026, Ch. 340, Sec. 2.   (SB 884)   Effective September 19, 2026.   Repealed as of January 1, 2031, pursuant to Section 409.)
+-------------------------------------------
+
+401.
+
+All vote by mail ballot drop-off locations shall be open at least during regular business hours beginning not less than 30 days before the day of the election and continuing through and including the day of the election.
+
+(History: Added by Stats. 2026, Ch. 340, Sec. 2.   (SB 884)   Effective September 19, 2026.   Repealed as of January 1, 2031, pursuant to Section 409.)
+-------------------------------------------
+
+402.
+
+County election officials are encouraged to use public buildings for polling places.
+
+(History: Added by Stats. 2026, Ch. 340, Sec. 2.   (SB 884)   Effective September 19, 2026.   Repealed as of January 1, 2031, pursuant to Section 409.)
+-------------------------------------------
+
+403.
+
+A law enforcement officer shall not arrest any person within 200 feet of a polling place on election day during the time in which the polling place is open, except for a crime related to disrupting the operation of the polling place, a crime against a person, or a crime against property. This section does not provide legal amnesty for any crime committed within the buffer zone on election day.
+
+(History: Added by Stats. 2026, Ch. 340, Sec. 2.   (SB 884)   Effective September 19, 2026.   Repealed as of January 1, 2031, pursuant to Section 409.)
+-------------------------------------------
+
+404.
+
+(a) Notwithstanding any other law, the prohibition on electioneering in subdivision (a) of Section 319.5 may be expanded by a county board of supervisors to up to 200 feet of either of the following:
+
+(1) The entrance to a building that contains a polling place, an elections official’s office, or a satellite location.
+
+(2) An outdoor site, including a curbside voting area, at which a voter may cast or drop off a ballot.
+
+(b) A violation of this section is punishable as a misdemeanor as provided in Section 18370 or 18371.
+
+(c) If a county board of supervisors expands the area in which electioneering is prohibited pursuant to subdivision (a), the approved distance shall be uniform at every location described in paragraphs (1) and (2) of subdivision (a) within the county.
+
+(d) A county board of supervisors shall notify the Secretary of State if the board expands the area in which electioneering is prohibited pursuant to subdivision (a).
+
+(History: Added by Stats. 2026, Ch. 340, Sec. 2.   (SB 884)   Effective September 19, 2026.   Repealed as of January 1, 2031, pursuant to Section 409.)
+-------------------------------------------
+
+405.
+
+(a) A law enforcement officer shall abide by Sections 403 and 404 and subdivision (a) of Section 18370.
+
+(b) A law enforcement officer shall notify the Secretary of State and Attorney General of a suspected, planned, or actual violation of Section 403 or 404 or subdivision (a) of Section 18370.
+
+(History: Added by Stats. 2026, Ch. 340, Sec. 2.   (SB 884)   Effective September 19, 2026.   Repealed as of January 1, 2031, pursuant to Section 409.)
+-------------------------------------------
+
+406.
+
+To implement the requirements of this chapter, the state may place reasonable restrictions on a polling place located on state property, and a local government may place reasonable restrictions on a polling place located on local government property.
+
+(History: Added by Stats. 2026, Ch. 340, Sec. 2.   (SB 884)   Effective September 19, 2026.   Repealed as of January 1, 2031, pursuant to Section 409.)
+-------------------------------------------
+
+407.
+
+(a) Notwithstanding Section 14212, Section 4005, or any other law, on election day a county elections official may extend the time for closing the polls at any polling place if the county elections official determines, in consultation with the county counsel, in the official’s discretion, that voting at the polling place was disrupted as a result of a violation of Section 403 or 404 or subdivision (a) of Section 18370.
+
+(b) If the time for closing the polls is extended pursuant to subdivision (a), all votes cast during the time that the closing of the polls is extended shall be by provisional ballot. Any provisional ballots cast pursuant to this subdivision shall be
+ separated and held apart from other provisional ballots cast by voters prior to the time the closing of the polls was extended.
+
+(History: Added by Stats. 2026, Ch. 340, Sec. 2.   (SB 884)   Effective September 19, 2026.   Repealed as of January 1, 2031, pursuant to Section 409.)
+-------------------------------------------
+
+408.
+
+The provisions of this chapter are severable. If any provision of this chapter or its application is held invalid, that invalidity shall not affect other provisions or applications that can be given effect without the invalid provision or application.
+
+(History: Added by Stats. 2026, Ch. 340, Sec. 2.   (SB 884)   Effective September 19, 2026.   Repealed as of January 1, 2031, pursuant to Section 409.)
+-------------------------------------------
+
+409.
+
+This chapter shall remain in effect only until January 1, 2031, and as of that date is repealed.
+
+(History: Added by Stats. 2026, Ch. 340, Sec. 2.   (SB 884)   Effective September 19, 2026.   Repealed as of January 1, 2031, by its own provisions.   Note: Repeal affects Chapter 5, commencing with Section 400.)
 -------------------------------------------
 
 
@@ -4681,6 +4796,29 @@ Vote by mail voters who return to the polling place designated for their home pr
 (c) The elections official shall provide notice of any satellite location not later than two weeks before voting may occur at the satellite location.
 
 (History: Amended by Stats. 2025, Ch. 296, Sec. 3.   (AB 1249)   Effective January 1, 2026.)
+-------------------------------------------
+
+3016.6.
+
+(a) The Secretary of State shall promulgate regulations setting forth procedures that a county elections official shall follow to allow a voter to vote their vote by mail ballot in person pursuant to subparagraph (B) of paragraph (1) of subdivision (c) of Section 3016.3 and Section 3016.5. Those procedures
+ shall include, but are not limited to, all of the following:
+
+(1) Procedures to check in a voter pursuant to the requirements of Section 14216.
+
+(2) Procedures to verify that the voter’s vote by mail ballot is the correct ballot.
+
+(3) Procedures to ensure the secrecy of the voter’s ballot.
+
+(4) Procedures to ensure that a voter does not submit more than one vote by mail ballot without the identification envelope.
+
+(b) In promulgating the regulations pursuant to subdivision (a), the Secretary of State shall take into consideration different voting technologies and
+ systems used in other counties, and shall consult with county registrars of voters and other election stakeholders.
+
+(c) In preparing voter education and outreach plans and the templates for those plans pursuant to Section 2105, counties and the Secretary of State shall include information about opportunities for early voting and for voting and casting a vote by mail ballot in person as described in Sections 3016.3 and 3016.5. 
+
+(d) The Secretary of State shall post regulations adopted or promulgated under this section on its internet website.
+
+(History: Added by Stats. 2026, Ch. 342, Sec. 1.   (SB 1420)   Effective September 19, 2026.)
 -------------------------------------------
 
 3016.7.
@@ -13505,33 +13643,43 @@ The state voter information guide shall contain all of the following:
 
 (b) (1) Except as provided in paragraph (2), before each state measure, a conspicuous notice that identifies the location on the Secretary of State’s internet website of the specific constitutional or statutory provision that the state measure would repeal or revise.
 
-(2) The text of a measure relating to debts and liabilities, including a bond measure, shall be printed in the state voter information guide as required by Section 1 of Article XVI of the California Constitution.
+(2) The text of a measure relating to debts and liabilities, including a bond measure, shall be printed in the state voter information guide as required by Section 1 of Article XVI of the California
+ Constitution.
 
 (c) A copy of the arguments and rebuttals for and against each state measure.
 
 (d) A copy of the analysis of each state measure.
 
-(e) Tables of contents, indexes, art work, graphics, and other materials that the Secretary of State determines will make the state voter information guide easier to understand or more useful for the average voter.
+(e) Tables of contents, indexes, artwork, graphics, and other materials that the Secretary of State determines will make the state voter information guide easier to understand or more useful for the average voter.
 
 (f) A notice, conspicuously printed on the cover of the state voter information guide, indicating that additional copies of the state voter information guide will be mailed by the county elections official upon request.
 
-(g) A written explanation of the judicial retention procedure as required by Section 9083.
+(g) A written explanation of
+ the judicial retention procedure as required by Section 9083.
 
-(h) The Voter Bill of Rights
- pursuant to Section 2300.
+(h) The Voter Bill of Rights pursuant to Section 2300.
 
 (i) If the ballot contains an election for the office of United States Senator, information on candidates for United States Senator. A candidate for United States Senator may purchase the space to place a statement in the state voter information guide that does not exceed 250 words. The statement shall not make any reference to any opponent of the candidate. The statement shall be submitted in accordance with timeframes and procedures set forth by the Secretary of State for the preparation of the state voter information guide.
 
-(j) If the ballot contains a question on the confirmation or retention of a justice of the Supreme Court, information on justices of the Supreme Court who are subject to confirmation or retention.
+(j) If the ballot contains a question on the confirmation or retention of
+ a justice of the Supreme Court, information on justices of the Supreme Court who are subject to confirmation or retention.
 
-(k) If the ballot contains an election for the offices of President and
- Vice President of the United States, a notice that refers voters to the Secretary of State’s internet website for information about candidates for the offices of President and Vice President of the United States.
+(k) If the ballot contains an election for the offices of President and Vice President of the United States, a notice that refers voters to the Secretary of State’s internet website for information about candidates for the offices of President and Vice President of the United States.
 
 (l) A written explanation of the appropriate election procedures for party-nominated, voter-nominated, and nonpartisan offices as required by Section 9083.5.
 
-(m) A written explanation of the top 10 contributor lists required by Section 84223 of the Government Code, including a description of the internet websites where those lists are available to the public.
+(m) A written explanation of the top 10 contributor lists required by Section 84223 of the Government Code, including a description of the internet websites
+ where those lists are available to the public.
 
-(History: Amended by Stats. 2019, Ch. 29, Sec. 76.   (SB 82)   Effective June 27, 2019.)
+(n) An explanation of a voter’s right to vote their vote by mail ballot in either of the following manners:
+
+(1) No later than 29 days before the day of the election, at the office of the elections official or a satellite location, pursuant to subdivision (a) of Section 3016.3.
+
+(2) Without the identification envelope, in person at the office of the elections official, a satellite location, the polling place designated for the voter’s home precinct, or a vote center established under Section 4005, pursuant to Section 3016.5.
+
+(o) A notice explaining that, for a statewide election, a county that does not conduct an all-mailed ballot election under Section 4005 must provide at least one early voting location on the Saturday before the day of the election that is open for a minimum of six hours, as required by subdivision (b) of Section 3016.3.
+
+(History: Amended by Stats. 2026, Ch. 342, Sec. 2.   (SB 1420)   Effective September 19, 2026.)
 -------------------------------------------
 
 9085.
@@ -23209,22 +23357,30 @@ CHAPTER 8. Disposition of Ballots and Supplies by the Elections Official [15550.
 
 15550.
 
-The records and supplies of any election when received by the elections official shall be disposed of in the manner set forth in this chapter.
+The records and supplies of any election when received by the elections official shall be maintained and disposed of in the manner set forth in this chapter and Chapter 4 (commencing with Section 17300) of Division 17.
 
-(History: Enacted by Stats. 1994, Ch. 920, Sec. 2.)
+(History: Amended by Stats. 2026, Ch. 341, Sec. 1.   (SB 1418)   Effective September 19, 2026.)
 -------------------------------------------
 
 15551.
 
-(a) If a contest or any such criminal prosecution has been commenced before the date fixed for its destruction, the package containing the voted ballots shall be subject to the order of the court in which the contest or criminal prosecution is pending and shall not be destroyed until after final determination of the contest or criminal prosecution.
+(a) If any contest or criminal prosecution has been commenced before its destruction any document or record that is or will be subject to the preservation requirements in Section 17300 to Section 17306, inclusive,
+ or
+ any certified voting technology or electronic data or portion thereof, including source code, shall be subject to the order of the court in which the contest or criminal prosecution is pending and shall not be destroyed until after final determination of the
+ contest or criminal prosecution.
 
 (b) In the case of a congressional election contest, the elections official shall hold the ballots of that congressional district in custody subject to the inspection of any committee of the House of Representatives having in charge the investigation of the contest, until the final determination of the contest by the House of Representatives.
 
-(c) In the case of a contest in the State Legislature, the elections official shall hold the ballots of the Senate or Assembly district in custody subject to the inspection of any committee of the Senate or Assembly having in charge the investigation of the contest until the final determination of the contest or the final adjournment of the session of the Legislature in which the contest is filed, whichever is the later.
+(c) In the case of a contest in the State Legislature, the
+ elections official shall hold the ballots of the Senate or Assembly district in custody subject to the inspection of any committee of the Senate or Assembly having in charge the investigation of the contest until the final determination of the contest or the final adjournment of the session of the Legislature in which the contest is filed, whichever is the later.
 
-(d) In no event shall the package or its contents be taken from the custody of the elections official.
+(d) In no event, except as provided in Sections 15553 or 19230, shall any document that is or will be subject to
+ the preservation requirements in Section 17300 to Section 17306, inclusive, or any certified voting technology or electronic data or portion thereof, including source code, or any other election-related material or equipment necessary for the conduct of an
+ election, be taken from the custody of the elections official.
 
-(History: Amended by Stats. 2026, Ch. 10, Sec. 4.   (SB 73)   Effective May 27, 2026.)
+(e) For purposes of this section, “certified voting technology” and “electronic data” have the same meaning as defined in Section 17600.
+
+(History: Amended by Stats. 2026, Ch. 341, Sec. 2.   (SB 1418)   Effective September 19, 2026.)
 -------------------------------------------
 
 15553.
@@ -24635,54 +24791,59 @@ For purposes of this chapter, the following terms have the following meanings:
 
 (a) The following provisions shall apply to those elections where candidates for one or more of the following offices are voted upon: President, Vice President, United States Senator, and United States Representative.
 
-(b) The following data shall be kept by the elections official, on electronic media, stored and unaltered, for 22 months from the date of the election:
+(b) (1) The following data shall be kept by the elections official, on electronic media, including, but not limited to, a hard drive, solid-state drive, flash drive, memory card, or other digital storage device, stored and unaltered, for 22 months from the date of the election:
 
-(1) All voting system electronic data.
+(A) All voting system electronic data.
 
-(2) All ballot on demand system electronic data, if applicable.
+(B) All ballot on demand system electronic data, if applicable.
 
-(3) All
- adjudication electronic data.
+(C) All adjudication electronic data.
 
-(4) All remote accessible vote by mail system electronic data, if applicable.
+(D) All remote accessible vote by mail system electronic data, if applicable.
 
-(5) All electronic poll book electronic data, if applicable.
+(E) All electronic poll book electronic data, if applicable.
 
-(6) HASH values taken from the voting technology devices, if applicable.
+(F) HASH values taken from
+ the voting technology devices, if applicable.
 
-(7) All ballot images.
+(G) All ballot images.
 
-(c) If a contest is not commenced within the 22-month period, or if a criminal prosecution involving fraudulent use, using the ballot tally system to mark or falsify ballots, or manipulation of the ballot tally system, is not commenced within the 22-month period, either of which may involve the vote count of the precinct from which
- voted ballots were received, the elections official shall have the backups destroyed.
+(2) The electronic media which holds the data described in subparagraphs (A) through (G) of paragraph (1) of subdivision (b) shall be stored in a sealed container.
 
-(History: Added by Stats. 2024, Ch. 605, Sec. 10.   (SB 1328)   Effective September 25, 2024.)
+(c) If a contest is not commenced within the 22-month period, or if a criminal prosecution involving fraudulent use, using the ballot tally system to mark or falsify ballots, or manipulation of the ballot
+ tally system, is not commenced within the 22-month period, either of which may involve the vote count of the precinct from which voted ballots were received, the elections official shall have the backups destroyed.
+
+(History: Amended by Stats. 2026, Ch. 341, Sec. 3.   (SB 1418)   Effective September 19, 2026.)
 -------------------------------------------
 
 17602.
 
 (a) The following provisions shall apply to all state or local elections not provided for in subdivision (a) of Section 17601. An election is not deemed a state or local election if votes for candidates for federal office may be cast on the same ballot as votes for candidates for state or local office.
 
-(b) The following data shall be kept by the elections official, on electronic media, stored and unaltered, for six months from the date of the election:
+(b) (1) The following data shall be kept by the elections official, on electronic media, including, but not limited to, a hard drive, solid-state drive, flash drive, memory card, or other digital storage device, stored and
+ unaltered, for six months from the date of the election:
 
-(1) All voting system electronic data.
+(A) All voting system electronic data.
 
-(2) All ballot on demand system electronic data, if
+(B) All ballot on demand system electronic data, if applicable.
+
+(C) All adjudication electronic data.
+
+(D) All remote accessible vote by mail system electronic data, if applicable.
+
+(E) All electronic poll book electronic data, if
  applicable.
 
-(3) All adjudication electronic data.
+(F) HASH values taken from the voting technology devices, if applicable.
 
-(4) All remote accessible vote by mail system electronic data, if applicable.
+(G) All ballot images, if applicable.
 
-(5) All electronic poll book electronic data, if applicable.
+(2) The electronic media which holds the data described in
+ subparagraphs (A) through (G) of paragraph (1) of subdivision (b) shall be stored in a sealed container.
 
-(6) HASH values taken from the voting technology devices, if applicable.
+(c) If a contest is not commenced within the six-month period, or if a criminal prosecution involving fraudulent use, using the ballot tally system to mark or falsify ballots, or manipulation of the ballot tally system is not commenced within the six-month period, either of which may involve the vote count of the precinct from which voted ballots were received, the elections official shall have the backups destroyed.
 
-(7) All ballot images, if applicable.
-
-(c) If a contest is not commenced within the six-month period, or if a criminal prosecution involving fraudulent use, using the ballot tally system to mark or falsify ballots, or manipulation of the ballot tally system is not commenced within
- the six-month period, either of which may involve the vote count of the precinct from which voted ballots were received, the elections official shall have the backups destroyed.
-
-(History: Added by Stats. 2024, Ch. 605, Sec. 10.   (SB 1328)   Effective September 25, 2024.)
+(History: Amended by Stats. 2026, Ch. 341, Sec. 4.   (SB 1418)   Effective September 19, 2026.)
 -------------------------------------------
 
 17603.
@@ -25526,7 +25687,7 @@ The Voter Intimidation Restitution Fund is hereby established in the State Treas
 
 
 
-  ARTICLE 4. Corruption of Voting [18560. - 18578.]
+  ARTICLE 4. Corruption of Voting [18560. - 18579.]
 
 18560.
 
@@ -25646,11 +25807,12 @@ Every member of a precinct board is guilty of a misdemeanor who, without the con
 (6) Fails to notify the Secretary of State
  prior to any change in hardware, software, or firmware to a voting machine, voting device, voting system, or vote tabulating device, certified or conditionally certified for use in this state.
 
-(7) Takes a package containing the voted ballots or its contents from the custody of the elections official in violation of subdivision (d) of Section 15551.
+(7) Takes
+ any document, record, certified voting technology, or electronic data, as those terms are defined in Section 17600, or portions thereof including source code, or any other election-related material or equipment necessary to the conduct of an election, from the custody of the elections official in violation of subdivision (d) of Section 15551.
 
 (b) A civil action may be brought pursuant to this section for a civil penalty not to exceed fifty thousand dollars ($50,000) for each act and for injunctive relief, if appropriate.
 
-(History: Amended by Stats. 2026, Ch. 10, Sec. 8.   (SB 73)   Effective May 27, 2026.)
+(History: Amended by Stats. 2026, Ch. 341, Sec. 5.   (SB 1418)   Effective September 19, 2026.)
 -------------------------------------------
 
 18565.
@@ -25699,10 +25861,10 @@ Every person is punishable by a fine not exceeding one thousand dollars ($1,000)
 
 (h) Directs or solicits a voter to place a ballot in a container or envelope prohibited by subdivision (g).
 
-(i) Knowingly takes a package containing voted ballots or its contents from the custody of the elections official in violation
- of subdivision (d) of Section 15551.
+(i) Knowingly takes any document, record,
+ certified voting technology, or electronic data, as those terms are defined in Section 17600, or portions thereof including source code, or any other election-related material or equipment necessary to the conduct of an election, from the custody of the elections official in violation of subdivision (d) of Section 15551.
 
-(History: Amended by Stats. 2026, Ch. 10, Sec. 9.   (SB 73)   Effective May 27, 2026.)
+(History: Amended by Stats. 2026, Ch. 341, Sec. 6.   (SB 1418)   Effective September 19, 2026.)
 -------------------------------------------
 
 18569.
@@ -25777,9 +25939,16 @@ Every person is guilty of a felony, and on conviction shall be punished by impri
 
 18577.
 
-Any person having charge of a completed vote by mail ballot who willfully interferes or causes interference with its return to the local elections official having jurisdiction over the election is guilty of a misdemeanor punishable by imprisonment in the county jail not exceeding six months, by a fine not exceeding ten thousand dollars ($10,000), or by both the fine and imprisonment.
+(a) Any person having charge of a completed vote by mail ballot who willfully interferes or causes interference with its return to the local elections official having jurisdiction over the election is guilty of a misdemeanor punishable by imprisonment in the county jail not exceeding six months, by a fine not exceeding ten thousand dollars ($10,000), or by both the fine and imprisonment.
 
-(History: Amended by Stats. 2007, Ch. 508, Sec. 117.   Effective January 1, 2008.)
+(b) Any person having charge of a vote by mail ballot who willfully interferes or causes interference with its delivery to a voter is guilty of a misdemeanor punishable by imprisonment in
+ the county jail not exceeding six months, by a fine not exceeding ten thousand dollars ($10,000), or by both the fine and imprisonment.
+
+(c) Any person with authority who directs one or more other persons subject to their supervision or authority to engage in the conduct prohibited by subdivision (a) or (b) is guilty of a felony, punishable by imprisonment pursuant to subdivision (h) of Section 1170 of the Penal Code for two, three, or four years.
+
+(d) For purposes of this section, “interference” includes, but is not limited to, providing unauthorized access to, breaking the chain of custody for, or tampering with a vote by mail ballot, or, having been designated to return a ballot under Section 3017, failing to return that ballot to the applicable elections official.
+
+(History: Amended by Stats. 2026, Ch. 331, Sec. 1.   (SB 259)   Effective September 19, 2026.)
 -------------------------------------------
 
 18578.
@@ -25787,6 +25956,23 @@ Any person having charge of a completed vote by mail ballot who willfully interf
 Any person who applies for, or who votes or attempts to vote, a vote by mail ballot by fraudulently signing the name of a fictitious person, or of a regularly qualified voter, or of a person who is not qualified to vote, is guilty of a felony punishable by imprisonment pursuant to subdivision (h) of Section 1170 of the Penal Code for 16 months or two or three years, by a fine not exceeding one thousand dollars ($1,000), or by both that fine and imprisonment.
 
 (History: Amended by Stats. 2011, Ch. 15, Sec. 88.   (AB 109)   Effective April 4, 2011.   Operative October 1, 2011, by Sec. 636 of Ch. 15, as amended by Stats. 2011, Ch. 39, Sec. 68.)
+-------------------------------------------
+
+18579.
+
+(a) Notwithstanding any other law, any person who seizes or causes or assists in the seizure of ballots, election records, or certified voting technology or any portion thereof, before election results are certified pursuant to Section 15372, is guilty of a felony, punishable by imprisonment pursuant to subdivision (h) of Section 1170 of the Penal Code for 16 months or 2 or 3 years.
+
+(b) Any person with authority who directs one or more other persons subject to their supervision or authority to engage in the conduct prohibited by subdivision (a) shall be guilty of a felony, punishable by imprisonment pursuant to subdivision (h) of Section 1170 of the Penal Code for two, three, or four years.
+
+(c) For purposes of this section, the following definitions apply:
+
+(1) “Seize” and “seizure” mean the removal from the custody and control of authorized elections officials, as specified in subdivision (d) of Section 15551, except as provided by Sections 15553 and 19230.
+
+(2) “Certified voting technology” has the same meaning as defined in Section 17600.
+
+(3) “Election record” means any document or record that is or will be subject to the preservation requirements in Section 17300 to Section 17306, inclusive.
+
+(History: Added by Stats. 2026, Ch. 330, Sec. 2.   (AB 282)   Effective September 19, 2026.)
 -------------------------------------------
 
 
@@ -26836,39 +27022,37 @@ As used in this article:
 
 19254.
 
-(a) The committee may create a debt or debts, liability or liabilities, of the State of California, in the aggregate amount of not more than two hundred million dollars ($200,000,000), exclusive of refunding bonds, in the manner provided herein for the purpose of creating a fund to assist counties in the purchase of updated voting systems.
+(a) The committee may create a debt or debts, liability or liabilities, of the state, in the aggregate amount of not more than one hundred eighty-nine million five hundred seventy thousand dollars ($189,570,000), excluding refunding bonds, in the manner provided herein for the purpose of creating a fund to assist counties in the purchase of updated voting systems.
 
 (b) The proceeds of bonds issued and sold pursuant to this article shall be deposited in the Voting Modernization Fund, which is hereby established.
 
-(c) A county is eligible to apply to the board for fund money if it meets all of the following
- requirements:
+(c) A county is eligible to apply to the board for fund money if it meets all of the following requirements:
 
 (1) The county has purchased a new voting system after January 1, 1999, and is continuing to make payments on that system on the date that this article becomes effective.
 
 (2) The county matches fund moneys at a ratio of one dollar ($1) of county moneys for every three dollars ($3) of fund moneys.
 
-(3) The county has not previously requested fund money for the purchase of a new voting system. Applications for expansion of an existing system or components related to a previously certified or conditionally approved application shall be accepted.
+(3) The county has not previously requested fund money for the purchase of a new voting system. An application for expanding an existing system or components related to a previously certified or conditionally approved application shall be accepted.
 
-(d) (1) Fund moneys shall only be used to purchase systems certified or conditionally
- approved by the Secretary of State.
+(d) (1) Fund moneys shall only be used to purchase systems certified or conditionally approved by the Secretary of State.
 
 (2) A county may use fund moneys to contract and pay for the following:
 
-(A) Research and development of a new voting system that has not been certified or conditionally approved by the Secretary of State and uses only nonproprietary software and firmware with disclosed source code, except for unmodified commercial off-the-shelf software and firmware, as defined in paragraph (1) of subdivision (a) of Section 19209.
+(A) Research and development of a new voting system that has not been certified or conditionally approved by the Secretary of State and uses only nonproprietary software and firmware with disclosed source code, except for unmodified commercial off-the-shelf software and firmware, as defined in
+ paragraph (1) of subdivision (a) of Section 19209.
 
 (B) Manufacture of the minimum number of voting system units reasonably necessary for either of the following purposes:
 
-(i) To test and seek certification or conditional approval for the voting system pursuant to
- Sections 19210 to 19214, inclusive.
+(i) To test and seek certification or conditional approval for the voting system pursuant to Sections 19210 to 19214, inclusive.
 
 (ii) To test and demonstrate the capabilities of the voting system in a pilot program pursuant to paragraph (2) of subdivision (b) of, and subdivision (c) of, Section 19209.
 
 (3) Fund moneys shall not be used to purchase a voting system that uses prescored punch card ballots.
 
-(e) Any voting system purchased using bond funds that does not require a voter to directly mark on the ballot must produce, at the time the voter votes his or her ballot or at the time the polls are closed, a paper version or representation of the voted ballot or of all the ballots cast on a unit of the voting system. The paper version shall not be provided to the voter but shall be retained by elections officials
- for use during the 1 percent manual recount or other recount, audit, or contest.
+(e) A
+ voting system purchased using bond funds that does not require a voter to directly mark on the ballot must produce, at the time the voter votes their ballot or at the time the polls are closed, a paper version or representation of the voted ballot or of all the ballots cast on a unit of the voting system. The paper version shall not be provided to the voter but shall be retained by elections officials for use during the 1-percent manual recount or other recount, audit, or contest.
 
-(History: Added by renumbering Section 19234 by Stats. 2013, Ch. 602, Sec. 52.   (SB 360)   Effective January 1, 2014.   Note: This section (as originally numbered) was added by Stats. 2001, Ch. 902, and approved in Prop. 41 on March 5, 2002.)
+(History: Amended by Stats. 2026, Ch. 255, Sec. 6.   (AB 184)   Effective September 18, 2026.)
 -------------------------------------------
 
 19255.
@@ -27680,34 +27864,43 @@ This section shall not be construed as requiring this notice in any editorial or
 
 (a) The Legislature finds and declares as follows:
 
-(1) California is entering its first-ever artificial intelligence (AI) election, in which disinformation powered by generative AI will pollute our information ecosystems like never before. Voters will not know what images, audio, or video they can trust.
+(1) California has now experienced its first-ever artificial intelligence (AI) election, in which disinformation powered by generative AI can pollute our information ecosystems like never before. Voters often do not know what images, audio, or video they can trust.
 
-(2) In a few clicks, using current technology, bad actors now have the power to create a false image of a candidate accepting a bribe, or a fake video of an elections official “caught on tape” saying that voting machines are not secure, or generate an artificial robocall in the Governor’s voice telling millions of Californians their voting site has changed.
+(2) In a few clicks, using current technology, bad actors now have the power to create a false image of a candidate accepting a bribe, or a fake
+ video of an elections official “caught on tape” saying that voting machines are not secure, or generate an artificial robocall in the Governor’s voice telling millions of Californians their voting site has changed.
 
-(3) In the lead-up to the 2024 presidential elections, candidates and parties are already creating and distributing deepfake images and audio and video content. These fake images or files can skew election results, even if they use older methods of distribution, such as mail, television, telephone, and text, and undermine trust in the ballot counting process.
+(3) In the 2024 presidential elections, candidates and parties created and distributed deepfake images and audio and video content. These fake images or files can skew election results, even if they use older methods of distribution, such as mail, television, telephone, and text, and undermine trust in the ballot counting process.
 
-(4) In order to ensure California elections are free and fair, California must, for a limited time before and after elections, prevent the use of deepfakes and disinformation meant to prevent voters from voting and deceive voters based on fraudulent content. The provisions of this bill are narrowly tailored to advance California’s compelling interest in protecting free and fair elections.
+(4) Federal and state law prohibits the impersonation of candidates for public office and state and federal officials.
 
-(5) The labeling information required by this bill is narrowly tailored to
- provide consumers with factual information about the inauthenticity of particular images, audio, video, or text content in order to prevent consumer deception.
+(5) California has a compelling interest in ensuring that its elections
+ are free and fair and that its electorate is informed.
+
+(6) Voters begin to concentrate on elections, and information about candidates, in the weeks immediately before elections are held. This is a short timeframe in which disinformation can influence voters’ decisions and may not be corrected before voters cast their votes.
+
+(7) In order to ensure California elections are free and fair, California must, for a limited time before and after elections, prevent the use of
+ deepfakes and disinformation meant to prevent voters from voting and deceive voters based on fraudulent content. The provisions of this section are narrowly tailored to advance California’s compelling interest in protecting free and fair elections.
+
+(8) The labeling information required by this bill is narrowly tailored to provide voters with factual information about the inauthenticity of particular images, audio, video, or text content in order to prevent voter deception.
+
+(9) A voter’s opinion of a candidate may be irreparably tainted by a fabricated representation of a candidate or elected official saying or doing something they did not say or do. These false, negative impressions may exist indefinitely once posted on the internet and permanently damage a candidate or elected official’s reputation and even put their safety at risk.
 
 (b) (1) A person, committee, or other entity shall not, during the time period set forth in subdivision (c), with malice, knowingly distribute an advertisement or other election communication containing materially deceptive content of any of the following:
 
-(A) A candidate for any federal, state, or local elected office in California portrayed as doing or saying something that the candidate did not do or say if the content is reasonably likely to harm the reputation or electoral prospects of a candidate.
+(A) (i) A candidate for any federal, state, or local elected office in California portrayed as doing or saying something that the candidate did not do or say if the content would be material to a voter’s electoral decisions or to public confidence in an election’s process or outcome.
 
-(i) For purposes of subparagraph (A), “candidate for any federal, state, or local elected office” includes any person running for the
- office of President of the United States or Vice President of the United States who seeks to or will appear on a ballot issued in California.
+(ii) For purposes of clause (i), “candidate for any federal, state, or local elected office” includes any person running for the office of President of the United States or Vice President of the United States who seeks to or will appear on a ballot issued in California.
 
-(B) An elections official portrayed as doing or saying something in connection with an election in California that the elections official did not do or say if the content is reasonably likely to falsely undermine confidence in the outcome of one or more election contests.
+(B) An elections official portrayed as doing or saying something in connection with an election in California that the elections official did not do or say if the content is material to public confidence in an election’s process or outcome.
 
-(C) An elected official portrayed as doing or saying something in connection with an election in California that the elected official did not do or say if the content is reasonably likely to harm the reputation or electoral prospects of a candidate or is reasonably likely to falsely undermine confidence in the outcome of one or more election contests.
+(C) An elected official portrayed as doing or saying something in connection with an election in California that the elected official did not do or say if the content would be material to a voter’s electoral decisions or to public confidence in an election’s process or outcome.
 
-(D) A voting machine, ballot, voting site, or other
- property or equipment related to an election in California portrayed in a materially false way if the content is reasonably likely to falsely undermine confidence in the outcome of one or more election contests.
+(D) A voting machine, ballot, voting site, or other property or equipment related to an election in California portrayed in a materially false way if the content is material to public confidence in an election’s process or outcome.
 
-(2) Notwithstanding subparagraph (A) of paragraph (1), this section does not apply to a candidate portraying themself as doing or saying something that the candidate did not do or say if the content includes a disclosure stating “This ____ has been manipulated.” and complies with the following requirements:
+(2) Notwithstanding subparagraph (A) of paragraph (1), this section does not apply to a candidate portraying themselves as doing or saying something that the candidate did not do or say if the content includes the disclosure required by Section 84514 of the Government Code or a disclosure stating, in every language used in the
+ media, “This ____ has been manipulated.” and complies with the following requirements:
 
-(A) The blank in the disclosure required by paragraph (2) shall be filled with whichever of the following terms most accurately describes the media:
+(A) The blank in the disclosure shall be filled with whichever of the following terms most accurately describes the media:
 
 (i) Image.
 
@@ -27715,53 +27908,76 @@ This section shall not be construed as requiring this notice in any editorial or
 
 (iii) Video.
 
-(B) (i) For visual media, the text of the disclosure shall appear in a size that is easily readable by the average viewer and no smaller than the largest font size of other text appearing in the visual media. If the visual media does not include any other text, the disclosure shall appear in a size that is easily readable by the average viewer. For visual media that is video, the disclosure shall appear for the duration of the video.
+(B) (i) For visual media, the text of the disclosure shall be in a color that contrasts with the background so as to be easily readable by the average viewer.
 
-(ii) If the media consists of audio only, the disclosure shall be read in a clearly spoken manner and in a pitch that can be easily heard by the average listener, at the beginning of the audio, at the end of the audio, and, if the audio is greater than two minutes in length, interspersed within the audio at intervals of not greater than two minutes each.
+(ii) For visual media that is video, the disclosure shall appear for the duration of the video and shall be in
+ standard Arial Regular type that is at least 4 percent of the height or width of the television or video display advertisement, whichever is less.
 
-(3) Notwithstanding paragraph (1), this section does not apply to an advertisement or other election communication containing materially deceptive content that constitutes satire or parody if the communication includes a disclosure stating “This ____ has been manipulated for purposes of satire or parody.” The disclosure shall comply with the requirements set forth in subparagraphs (A) and (B) of paragraph (2).
+(iii) For visual print media that is designed to be individually distributed, including, but not limited to, mailers, flyers, and door hangers, the disclosure shall be in standard Arial Regular type that is at least 14 point.
 
-(4) (A) A person, committee, or other entity shall not, during the time period set forth in subdivision (c), do either of the following:
+(iv) For visual print media that is larger than those designed to be individually distributed, including, but not limited to, yard signs or billboards, the disclosure shall be in standard Arial Regular type with a total height of at least 5 percent of the height of the advertisement.
 
-(i) Remove any disclosure required by paragraph (2) or (3).
+(v) For visual electronic media that is a graphic, image, animated graphic,
+ or animated image, the disclosure shall be in standard Arial Regular type with a type size of at least 11 point.
 
-(ii) Knowingly republish any content subject to paragraph (2) or (3) without the required disclosure.
+(vi) For any other type of visual media, the disclosure shall be in standard Arial Regular type with a size that is easily readable by the average viewer.
 
-(B) A violation
- of subparagraph (A) is evidence of intent to knowingly distribute an advertisement or other election communication containing materially deceptive content, as prohibited by paragraph (1).
+(vii) The disclosure shall not have its type condensed or have the spacing between characters reduced to be narrower than a normal noncondensed standard Arial Regular type. 
 
-(c) The prohibition in subdivision (b) applies only during the following time periods:
+(C) If the media consists of audio only, the disclosure shall be read in a clearly spoken manner and in a pitch that can be easily heard by the average listener, at the beginning of the audio, at the end of the audio, and, if the audio is greater than two minutes in length, interspersed within
+ the audio at intervals of not greater than two minutes each.
 
-(1) One hundred twenty days before any election in California.
+(3) (A) A person, committee, or other entity shall not, during the time period set forth in subdivision (c), do either of the following:
 
-(2) For people and items set forth in subparagraphs (B) and (D) of paragraph (1) of subdivision (b), 120 days before any election in California through 60 days after the election, inclusive.
+(i) Remove any disclosure required by paragraph (2).
 
-(d) (1) A recipient of materially deceptive content distributed in violation of this section, candidate or committee participating in the election, or elections official may seek injunctive or other equitable
- relief prohibiting the distribution of the materially deceptive content in violation of this section. The court shall also award a prevailing plaintiff reasonable attorney’s fees and costs. An action under this paragraph shall be entitled to precedence in accordance with Section 35 of the Code of Civil Procedure.
+(ii) Knowingly republish any content subject to paragraph (2) without the required disclosure.
 
-(2) (A) A recipient of materially deceptive content distributed in violation of this section, candidate or committee participating in the election, or elections official may bring an action for general or special damages against the person, committee, or other entity that distributed or republished the materially deceptive content in violation of this section. The court shall also award a prevailing party reasonable attorney’s fees and costs. This subdivision shall not be construed to limit or preclude a plaintiff from securing or recovering any other available remedy at law or equity.
+(B) A violation of subparagraph (A) is evidence of intent to knowingly distribute an advertisement or other election communication containing materially deceptive content, as prohibited by paragraph (1).
+
+(c) The prohibition in
+ subdivision (b) applies only during the following time periods:
+
+(1) For individuals set forth in subparagraph (A) of paragraph (1) of subdivision (b), 30 days before any election in California in which the candidate is running.
+
+(2) For individuals set forth in subparagraph (C) of paragraph (1) of subdivision (b), 30
+ days before any election in California.
+
+(3) For people and items set forth in subparagraphs (B) and (D) of paragraph (1) of subdivision (b), 30 days before any election in California through 38 days after the election, inclusive.
+
+(d) (1) A depicted individual, candidate or committee participating in the election, or elections official may seek injunctive or other equitable relief prohibiting the
+ distribution of the materially deceptive content in violation of this section. The court shall also award a prevailing plaintiff reasonable attorney’s fees and costs. An action under this paragraph shall be entitled to precedence in accordance with Section 35 of the Code of Civil Procedure.
+
+(2) (A) A depicted individual, candidate or committee participating in the election, or elections official may bring an action for general or special damages against the person, committee, or other entity that distributed or republished the materially deceptive content in violation of this section. The court shall also award a prevailing party reasonable attorney’s fees and costs. This subdivision shall not be construed to limit or preclude a plaintiff from securing or recovering any other available remedy at law or equity.
 
 (B) This paragraph does not apply to a broadcasting station or internet website that distributed the materially deceptive content if the broadcasting station or internet website did not create the content.
 
 (3) In any civil action alleging a violation of this section, the plaintiff shall bear the burden of establishing the violation through clear and convincing evidence.
 
-(e) (1) This section does not apply to a broadcasting station that broadcasts any materially deceptive content prohibited by this section as part of a bona fide newscast, news interview, news documentary, commentary of general interest, or on-the-spot coverage of bona fide news events, if the broadcast clearly acknowledges through content or a disclosure, in a manner that can be easily heard or read by the average listener or
- viewer, that the materially deceptive content does not accurately represent any actual event, occurrence, appearance, speech, or expressive conduct.
+(e) (1) This section does not apply to a broadcasting station that broadcasts any materially deceptive content prohibited by this section as part of a bona fide newscast, news interview, news documentary, commentary of general interest, or on-the-spot coverage of bona fide news events, if the broadcast clearly acknowledges through
+ content or a disclosure, in a manner that can be easily heard or read by the average listener or viewer, that the materially deceptive content does not accurately represent any actual event, occurrence, appearance, speech, or expressive conduct.
 
 (2) This section does not apply to a broadcasting station when it is paid to broadcast materially deceptive content and either of the following circumstances exist:
 
 (A) The broadcasting station can show that it has prohibition and disclaimer requirements that are consistent with the requirements in this section and that it has provided those prohibition and disclaimer requirements to each person or entity that purchased the advertisement.
 
-(B) Federal law requires the broadcasting station to air advertisements from legally qualified candidates or prohibits the broadcasting station from censoring or altering the message.
+(B) Federal law requires the
+ broadcasting station to air advertisements from legally qualified candidates or prohibits the broadcasting station from censoring or altering the message.
 
 (3) This section does not apply to a regularly published newspaper, magazine, or other periodical of general circulation, including an internet or electronic publication, that routinely carries news and commentary of general interest, and that publishes any materially deceptive content prohibited by this section, if the publication clearly states that the materially deceptive content does not accurately represent any actual event, occurrence, appearance, speech, or expressive conduct.
 
-(4) This section does not impose liability on an interactive computer service, as defined in Section 230(f)(2) of Title 47 of the United States Code.
+(4) This section does not apply to an advertisement or other election communication containing materially deceptive content if either of the following
+ criteria is satisfied:
+
+(A) A reasonable person would understand that the content was satire or parody.
+
+(B) The materially deceptive content includes a disclosure stating “This ____ has been manipulated for purposes of satire or parody,” or substantially similar language, and the disclosure complies with the requirements set forth in paragraph (2) of subdivision (b). 
+
+(5) This section does not impose liability on an interactive computer service, as defined in Section 230(f)(2) of Title 47 of the United States Code.
 
 (f) For purposes of this section, the following definitions apply:
 
-(1) “Advertisement” means any general or public communication that is authorized or paid for the purpose of
- supporting or opposing a candidate for elective office in California or a ballot measure that appears on a ballot issued in California and that is broadcast by or through television, radio, telephone, or text, distributed through the internet, or disseminated by print media, including billboards, video billboards or screens, and other similar types of advertising.
+(1) “Advertisement” means any general or public communication that is authorized or paid for the purpose of supporting or opposing a candidate for elective office in California or a ballot measure that appears on a ballot issued in California and that is broadcast by or through television, radio, telephone, or text, distributed through the internet, or disseminated by print media, including billboards, video billboards or screens, and other similar types of advertising.
 
 (2) “Broadcasting station” means a radio or television broadcasting station, including any of the following:
 
@@ -27771,12 +27987,14 @@ This section shall not be construed as requiring this notice in any editorial or
 
 (iii) Direct-to-home satellite television operator, programmer, or producer.
 
-(3) “Committee” means a committee as
- defined in Section 82013 of the Government Code. 
+(3) “Committee” means a committee as defined in Section 82013 of the Government Code.
 
 (4) “Deepfake” means audio or visual media that is digitally created or modified such that it would falsely appear to a reasonable person to be an authentic record of the actual speech or conduct of the individual depicted in the media.
 
-(5) “Election communication” means any general or public communication not covered under “advertisement” that is broadcast by or through television, radio, telephone, or text, distributed through the internet, or disseminated by print media, including billboards, video billboards or screens, and other similar types of communications, that concerns any of the following: 
+(5) “Depicted individual” means an individual who is falsely represented in materially deceptive content. 
+
+(6) “Election communication” means any general or public communication not covered under
+ “advertisement” that is broadcast by or through television, radio, telephone, or text, distributed through the internet, or disseminated by print media, including billboards, video billboards or screens, and other similar types of communications, that concerns any of the following:
 
 (A) A candidate for office or ballot measure.
 
@@ -27784,7 +28002,8 @@ This section shall not be construed as requiring this notice in any editorial or
 
 (C) The canvass of the vote.
 
-(6) “Elections official” means any of the following persons, but only in their capacity as a person charged with holding or conducting an election, conducting a canvass, assisting with the holding or conducting of an election or a canvass, or performing another duty related to administering the provisions of the Elections Code:
+(7) “Elections official” means any of the following persons, but only in their capacity as a person charged with holding or conducting an election, conducting a canvass, assisting with the holding or conducting of an election or a canvass, or performing another
+ duty related to administering the provisions of the Elections Code:
 
 (i) An elections official as defined in Section 320.
 
@@ -27792,24 +28011,23 @@ This section shall not be construed as requiring this notice in any editorial or
 
 (iii) A temporary worker, poll worker, or member of a precinct board.
 
-(iv) Any other person charged with holding or conducting an election, conducting a canvass, assisting with
- the holding or conducting of an election or a canvass, or performing another duty related to administering the provisions of the Elections Code.
+(iv) Any other person charged with holding or conducting an election, conducting a canvass, assisting with the holding or conducting of an election or a canvass, or performing another duty related to administering the provisions of the Elections Code.
 
-(7) “Malice” means the person, committee, or other entity distributed the audio or visual media knowing the materially deceptive content was false or with a reckless disregard for the truth.
+(8) “Malice” means the person, committee, or other entity distributed the audio or visual media knowing the materially deceptive
+ content was false or with a reckless disregard for the truth.
 
-(8) (A) “Materially deceptive content” means audio or visual media that is intentionally digitally created or modified, which includes, but is not limited to, deepfakes, such that the content would falsely appear to a reasonable person to be an authentic record of the content depicted in the media.
+(9) (A) “Materially deceptive content” means audio or visual media that is intentionally digitally created or modified, which includes, but is not limited to, deepfakes, such that the content would falsely appear to a reasonable person to be an authentic record of the content depicted in the media.
 
-(B) “Materially deceptive content” does not include any audio or visual media that contains only minor modifications that do not significantly change the perceived
- contents or meaning of the content. Minor changes include changes to brightness or contrast of images, removal of background noise in audio, and other minor changes that do not impact the content of the audio or visual media.
+(B) “Materially deceptive content” does not include any audio or visual media that contains only minor modifications that do not significantly change the perceived contents or meaning of the content. Minor changes include changes to brightness or contrast of images, removal of background noise in audio, and other minor changes that do not impact the content of the audio or visual media.
 
-(9) “Recipient” includes a person who views, hears, or otherwise perceives an image or audio or video file that was initially distributed in violation of this section.
+(10) “Recipient” includes a person who views, hears, or otherwise perceives an image or audio or video file that was initially distributed in violation of this section.
 
 (g) The provisions of this section apply regardless of the language used in the advertisement or solicitation. If the language used is not English, the disclosure required by paragraph (2) of subdivision (b) shall appear in the language used in the advertisement or solicitation.
 
-(h) The provisions of this section are severable. If any provision of this section or its application is held invalid, that invalidity shall not affect
- other provisions or applications that can be given effect without the invalid provision or application.
+(h) The provisions of this section are severable. If any provision of this section or its application is held invalid, that invalidity shall not affect other provisions or applications that can be given effect without the invalid provision or
+ application.
 
-(History: Added by Stats. 2024, Ch. 262, Sec. 3.   (AB 2839)   Effective September 17, 2024.)
+(History: Amended by Stats. 2026, Ch. 333, Sec. 1.   (AB 502)   Effective September 19, 2026.)
 -------------------------------------------
 
 
