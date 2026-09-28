@@ -5,7 +5,7 @@
 
 Source: Official California Legislative Information
         https://downloads.leginfo.legislature.ca.gov/
-Last Updated by State of California: November 27, 2025
+Last Updated by State of California: September 26, 2026
 
 
 ======================================================================
@@ -5203,19 +5203,22 @@ The license first issued to a salesman shall be for a period of one year. Such l
 
 725.
 
-Temporary licenses may be issued to salespersons under the following conditions:
+(a) A temporary license may be issued to a broker or salesperson under the following conditions:
 
-(a) The licenses shall be issued for a period not to exceed 60 days and only one license shall be issued to each applicant.
+(1) The license shall be issued for a period not to exceed 60 days and only one license shall be issued to each applicant.
 
-(b) An application shall be filed for a temporary license and for a permanent license and at the same time the applicant shall pay all the prescribed fees.
+(2) An application shall be filed for a temporary license and for a permanent license and at the same time the applicant shall pay all the prescribed fees.
 
-(c) The application shall be in the form and upon the conditions required by the department as provided in this article with respect to a permanent salesperson’s license.
+(3) The application shall be in the form and upon the conditions required by the department as provided in this article with respect to a permanent salesperson’s license.
 
-(d) On or before the expiration date of the temporary license, the licensee shall take a written examination for a permanent license. If, without a valid excuse, the licensee fails to appear for the examination at the time prescribed, the examination fee shall be forfeited. In the event of failure to pass the required examination, the department shall notify the applicant, may suggest further study, and upon payment of fees, shall schedule a reexamination.
+(4) On or before the expiration date of the temporary license, the licensee shall take a written examination for a permanent license. If, without a valid excuse, the licensee fails to appear for the examination at the time prescribed, the examination fee shall be forfeited. In the event of failure to pass the required examination, the department shall notify the applicant, may suggest further study, and upon payment of fees, shall schedule a reexamination.
 
-(e) The applicant shall be at least 18 years of age.
+(5) The applicant shall be at least 18 years of age.
 
-(History: Amended by Stats. 2000, Ch. 380, Sec. 3.   Effective January 1, 2001.)
+(b) Notwithstanding paragraph (1) of subdivision (a), the director may, in their discretion, extend the term of a temporary license or issue a new temporary license to provide an applicant time to comply with Section
+ 733.5.
+
+(History: Amended by Stats. 2026, Ch. 313, Sec. 13.   (AB 2796)   Effective September 18, 2026.)
 -------------------------------------------
 
 726.
