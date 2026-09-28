@@ -5,7 +5,7 @@
 
 Source: Official California Legislative Information
         https://downloads.leginfo.legislature.ca.gov/
-Last Updated by State of California: August 08, 2026
+Last Updated by State of California: September 26, 2026
 
 
 ======================================================================
@@ -17936,7 +17936,7 @@ The Legislature finds and declares all of the following:
 
 (f) The School Energy Efficiency Stimulus Program is an urgent energy efficiency measure. This program will reduce energy use in schools that otherwise would result from repairs and upgrades to school ventilation systems that are necessary to meet current classroom ventilation requirements and applicable COVID-19 school reopening guidance. This program will also replace old, out-of-date fixtures and hot-water appliances that waste significant amounts of water and energy compared to the standards required for current fixtures and appliances. All ratepayers will benefit from the reduction in system load resulting from this program.
 
-(History: Added by Stats. 2020, Ch. 372, Sec. 5.   (AB 841)   Effective January 1, 2021.   Repealed as of January 1, 2027, pursuant to Section 1640.)
+(History: Added by Stats. 2020, Ch. 372, Sec. 5.   (AB 841)   Effective January 1, 2021.   Repealed as of January 1, 2031, pursuant to Section 1640.)
 -------------------------------------------
 
 1601.
@@ -17972,7 +17972,7 @@ For purposes of this chapter, the following terms have the following meanings:
 (2) A gas corporation with 400,000 or more customer accounts within the
  state.
 
-(History: Amended by Stats. 2021, Ch. 77, Sec. 29.   (AB 137)   Effective July 16, 2021.   Repealed as of January 1, 2027, pursuant to Section 1640.)
+(History: Amended by Stats. 2021, Ch. 77, Sec. 29.   (AB 137)   Effective July 16, 2021.   Repealed as of January 1, 2031, pursuant to Section 1640.)
 -------------------------------------------
 
 
@@ -17987,14 +17987,14 @@ By no later than February 1, 2021, the utilities shall file a joint advice lette
 
 (b) The School Noncompliant Plumbing Fixture and Appliance Program as specified in Article 4 (commencing with Section 1630).
 
-(History: Added by Stats. 2020, Ch. 372, Sec. 5.   (AB 841)   Effective January 1, 2021.   Repealed as of January 1, 2027, pursuant to Section 1640.)
+(History: Added by Stats. 2020, Ch. 372, Sec. 5.   (AB 841)   Effective January 1, 2021.   Repealed as of January 1, 2031, pursuant to Section 1640.)
 -------------------------------------------
 
 1611.
 
 Each utility shall work with the Energy Commission to ensure the SRVEVR Program and SNPFA Program are operative and begin to solicit applications for grants on or before April 1, 2021, and begin to approve applications no later than May 1, 2021, subject to the availability of funds.
 
-(History: Added by Stats. 2020, Ch. 372, Sec. 5.   (AB 841)   Effective January 1, 2021.   Repealed as of January 1, 2027, pursuant to Section 1640.)
+(History: Added by Stats. 2020, Ch. 372, Sec. 5.   (AB 841)   Effective January 1, 2021.   Repealed as of January 1, 2031, pursuant to Section 1640.)
 -------------------------------------------
 
 1612.
@@ -18002,14 +18002,14 @@ Each utility shall work with the Energy Commission to ensure the SRVEVR Program 
 Not less than 25 percent of projects funded by the SRVEVR Program or SNPFA Program shall be in underserved communities. The SRVEVR Program and SNPFA Program shall prioritize underserved communities by ensuring that all schools that are in an underserved community are offered the opportunity to apply for and receive grants before those schools that are not in an underserved community. Additionally, the SRVEVR Program shall prioritize schools with a boundary that is within 500 feet of the edge of the closest traffic lane of a freeway or other busy traffic corridor or within 1,000 feet of a facility holding a permit pursuant to Title V of the Clean Air Act (42 U.S.C. Section 7661 et seq.). For the purposes of this section, “freeway or other busy
  traffic corridors” has the same meaning as defined in paragraph (9) of subdivision (d) of Section 17213 of the Education Code.
 
-(History: Added by Stats. 2020, Ch. 372, Sec. 5.   (AB 841)   Effective January 1, 2021.   Repealed as of January 1, 2027, pursuant to Section 1640.)
+(History: Added by Stats. 2020, Ch. 372, Sec. 5.   (AB 841)   Effective January 1, 2021.   Repealed as of January 1, 2031, pursuant to Section 1640.)
 -------------------------------------------
 
 1613.
 
 The SRVEVR Program and the SNPFA Program shall be considered a third-party program for compliance with the commission Decision 16-08-019 (August 18, 2016) Decision Providing Guidance for Initial Energy Efficiency Rolling Portfolio Business Plan Filings.
 
-(History: Added by Stats. 2020, Ch. 372, Sec. 5.   (AB 841)   Effective January 1, 2021.   Repealed as of January 1, 2027, pursuant to Section 1640.)
+(History: Added by Stats. 2020, Ch. 372, Sec. 5.   (AB 841)   Effective January 1, 2021.   Repealed as of January 1, 2031, pursuant to Section 1640.)
 -------------------------------------------
 
 1614.
@@ -18026,44 +18026,46 @@ The SRVEVR Program and the SNPFA Program shall be considered a third-party progr
 (e) The technical definitions in Section 1620 or 1630 may be amended by the Energy
  Commission, as necessary, to achieve the intent of the School Energy Efficiency Stimulus Program and to ensure consistency with related requirements and codes.
 
-(History: Added by Stats. 2020, Ch. 372, Sec. 5.   (AB 841)   Effective January 1, 2021.   Repealed as of January 1, 2027, pursuant to Section 1640.)
+(History: Added by Stats. 2020, Ch. 372, Sec. 5.   (AB 841)   Effective January 1, 2021.   Repealed as of January 1, 2031, pursuant to Section 1640.)
 -------------------------------------------
 
 1615.
 
 (a) (1) The commission shall require each utility to fund the School Energy Efficiency Stimulus Program by allocating their energy efficiency budgets for program years 2021, 2022, and 2023, in both of the following amounts:
 
-(A) An amount equal to the applicable percentage of the difference between the budget contained in each utility’s 2020 annual budget advice letter approved as of July 1, 2020, and the annual portfolio funding limitation for program year 2020 as set forth in the 2018–2025 business plan of each utility as approved and modified in ordering paragraph 45 of the commission’s Decision 18-05-041 (May 31, 2019) Decision Addressing Energy Efficiency Business Plans, as modified by Decision 20-02-029 (February 6, 2020) Order
- Modifying Decision (D.) 18-05-041 and Denying Rehearing of Decision, as Modified. The applicable percentage is 80 percent for program year 2021, 70 percent for program year 2022, and 60 percent for program year 2023.
+(A) An amount equal to the applicable percentage of the difference between the budget contained in each utility’s 2020 annual budget advice letter approved as of July 1, 2020, and the annual portfolio funding limitation for program year 2020 as set forth in the 2018–2025 business plan of each utility as approved and modified in ordering paragraph 45 of the commission’s Decision 18-05-041 (May 31, 2019) Decision Addressing Energy Efficiency Business Plans, as modified by Decision 20-02-029 (February 6, 2020) Order Modifying
+ Decision (D.) 18-05-041 and Denying Rehearing of Decision, as Modified. The applicable percentage is 80 percent for program year 2021, 70 percent for program year 2022, and 60 percent for program year 2023.
 
 (B) Any carryover amount from unspent and uncommitted energy efficiency funds for program year 2020, 2021, or 2022 to the School Energy Efficiency Stimulus Program for the following year’s budget.
 
 (2) Funding allocations required by this subdivision shall only apply to program years 2021, 2022, and 2023.
 
-(3) Any funds allocated towards the School Energy Efficiency Stimulus Program pursuant to this section that remain unspent by the end of each program year may be carried over and contribute to the next year’s budget for the School Energy Efficiency Stimulus Program until the end of the 2023 energy
- efficiency program year.
+(3) Any funds allocated towards the School Energy Efficiency Stimulus Program pursuant to this section that remain unspent by the end of each program year may be carried over and contribute to the next year’s budget for the School Energy Efficiency Stimulus Program until the end of the 2023 energy efficiency
+ program year.
 
 (b) (1) This section does not authorize the levy of a charge or any increase in the amount collected pursuant to an existing charge beyond the amounts authorized by the commission in Decision 18-05-041, or as modified by Decision 20-02-029, nor does it add to, or detract from, any existing authority of the commission to levy or increase charges.
 
 (2) This subdivision does not change the commission’s authority to determine revenue allocation and rate design, including its ability to prioritize customers participating in the California Alternative Rates for Energy or Family Electric Rate Assistance programs when considering appropriate revenue allocation for energy efficiency programs.
 
-(c) The Energy Commission shall ensure that moneys from each utility for the School
- Energy Efficiency Stimulus Program are used for projects located in the service territory of that utility from which the moneys are received.
+(c) The Energy Commission shall ensure that moneys from each utility for the School Energy
+ Efficiency Stimulus Program are used for projects located in the service territory of that utility from which the moneys are received.
 
 (d) The Energy Commission may use no more than 5 percent, not to exceed five million dollars ($5,000,000) per year, of the SRVEVR Program and the SNPFA Program funds for administrating the programs, including providing technical support to program participants. The commission shall ensure that funds allocated to the Energy Commission pursuant to this section are transferred to an account specified by the Energy Commission within 60 days after the completion of the prior energy efficiency program year.
 
-(e) (1) The School Energy Efficiency Stimulus Program Fund was administratively established for the Energy Commission to receive funds
- allocated pursuant to this chapter.
+(e) (1) The School Energy Efficiency Stimulus Program Fund was administratively established for the Energy Commission to receive funds allocated pursuant to this chapter.
 
 (2) Notwithstanding Section 13340 of the Government Code, the moneys in the School Energy Efficiency Stimulus Program Fund are hereby continuously appropriated to the Energy Commission without regard to fiscal years for the purposes of the School Energy Efficiency Stimulus Program established pursuant to this chapter, including, but not limited to, paying the costs of program administration.
 
-(f) All funds allocated in subdivision (a) shall be spent or returned to each utility by December 1, 2026.
+(f) (1) Notwithstanding all funds allocated in subdivision (d), all non-committed funds allocated in subdivision (a) shall be spent or returned to each utility by December 1, 2026.
 
-(g) The Energy Commission may set application and encumbrance deadlines to ensure that the reversion of funds as required by subdivision (f) occurs by December 1, 2026.
+(2) Any funds committed as of August 31, 2026, shall be encumbered by December 1, 2028, liquidated by December 1, 2029, and returned to each utility by January 30, 2030.
+
+(g) The Energy Commission may set application
+ and encumbrance deadlines to ensure that the reversion of funds is consistent with subdivision (f).
 
 (h) The Energy Commission shall take steps, consistent with Section 25230 of the Public Resources Code, to ensure that a diverse group of contractors are aware of funding opportunities available through the School Energy Efficiency Stimulus Program.
 
-(History: Amended by Stats. 2021, Ch. 77, Sec. 30.   (AB 137)   Effective July 16, 2021.   Repealed as of January 1, 2027, pursuant to Section 1640.)
+(History: Amended by Stats. 2026, Ch. 259, Sec. 11.   (SB 193)   Effective September 18, 2026.   Repealed as of January 1, 2031, pursuant to Section 1640.)
 -------------------------------------------
 
 1616.
@@ -18074,7 +18076,7 @@ Moneys for the School Energy Efficiency Stimulus Program for each program year s
 
 (b) Twenty-five percent to the SNPFA Program.
 
-(History: Added by Stats. 2020, Ch. 372, Sec. 5.   (AB 841)   Effective January 1, 2021.   Repealed as of January 1, 2027, pursuant to Section 1640.)
+(History: Added by Stats. 2020, Ch. 372, Sec. 5.   (AB 841)   Effective January 1, 2021.   Repealed as of January 1, 2031, pursuant to Section 1640.)
 -------------------------------------------
 
 1617.
@@ -18082,14 +18084,14 @@ Moneys for the School Energy Efficiency Stimulus Program for each program year s
 The School Energy Efficiency Stimulus Program advances the public interest in maximizing cost-effective energy savings and related public benefits, including ensuring that ratepayer investments unlock deeper energy savings and benefit underserved communities. Because the commission’s current cost-effectiveness methodology does not fully take into account indirect and nonmonetary public benefits, that methodology shall not be applied to these projects. Expenditures on the School Energy Efficiency Stimulus Program shall be found to be cost effective and shall not be considered by the commission when calculating the overall cost-effectiveness of energy efficiency portfolios of electrical corporations or gas
  corporations.
 
-(History: Added by Stats. 2020, Ch. 372, Sec. 5.   (AB 841)   Effective January 1, 2021.   Repealed as of January 1, 2027, pursuant to Section 1640.)
+(History: Added by Stats. 2020, Ch. 372, Sec. 5.   (AB 841)   Effective January 1, 2021.   Repealed as of January 1, 2031, pursuant to Section 1640.)
 -------------------------------------------
 
 1618.
 
 Reducing emissions of greenhouse gases and energy savings attributed to a project funded by the School Energy Efficiency Stimulus Program shall be attributed to the utility that provided those funds when determining compliance with applicable greenhouse gas or energy efficiency saving mandates. The baseline for determining reductions in emissions of greenhouse gases and energy savings from the SRVEVR Program shall be the energy demand and emissions of greenhouse gases that would have occurred if ventilation and filtration recommendations for reopening schools were met without the assessment, adjustment, maintenance, repairs, and efficiency upgrades funded pursuant to the program.
 
-(History: Added by Stats. 2020, Ch. 372, Sec. 5.   (AB 841)   Effective January 1, 2021.   Repealed as of January 1, 2027, pursuant to Section 1640.)
+(History: Added by Stats. 2020, Ch. 372, Sec. 5.   (AB 841)   Effective January 1, 2021.   Repealed as of January 1, 2031, pursuant to Section 1640.)
 -------------------------------------------
 
 
@@ -18128,7 +18130,7 @@ For purposes of this article, the following definitions apply:
 
 (i) “TAB” means testing, adjusting, and balancing.
 
-(History: Added by Stats. 2020, Ch. 372, Sec. 5.   (AB 841)   Effective January 1, 2021.   Repealed as of January 1, 2027, pursuant to Section 1640.)
+(History: Added by Stats. 2020, Ch. 372, Sec. 5.   (AB 841)   Effective January 1, 2021.   Repealed as of January 1, 2031, pursuant to Section 1640.)
 -------------------------------------------
 
 1621.
@@ -18150,14 +18152,14 @@ For purposes of this article, the following definitions apply:
 
 (5) The Energy Commission shall have the authority to establish the timing of grant funding, including the ability to provide some or all funding in advance of the performance of work where requirements to ensure performance are established.
 
-(History: Added by Stats. 2020, Ch. 372, Sec. 5.   (AB 841)   Effective January 1, 2021.   Repealed as of January 1, 2027, pursuant to Section 1640.)
+(History: Added by Stats. 2020, Ch. 372, Sec. 5.   (AB 841)   Effective January 1, 2021.   Repealed as of January 1, 2031, pursuant to Section 1640.)
 -------------------------------------------
 
 1622.
 
 As conditions for receiving a grant pursuant to this article, a local educational agency shall comply with the requirements of Sections 1623 to 1627, inclusive, for all air-handling units, rooftop units and unitary and single zone equipment in that facility’s HVAC system or systems.
 
-(History: Added by Stats. 2020, Ch. 372, Sec. 5.   (AB 841)   Effective January 1, 2021.   Repealed as of January 1, 2027, pursuant to Section 1640.)
+(History: Added by Stats. 2020, Ch. 372, Sec. 5.   (AB 841)   Effective January 1, 2021.   Repealed as of January 1, 2031, pursuant to Section 1640.)
 -------------------------------------------
 
 1623.
@@ -18209,14 +18211,14 @@ As conditions for receiving a grant pursuant to this article, a local educationa
 
 (f) Requirements for filtration levels, ventilation rates, and ventilation schedules may be amended by the Energy Commission based on the latest COVID-19 or other applicable guidance.
 
-(History: Added by Stats. 2020, Ch. 372, Sec. 5.   (AB 841)   Effective January 1, 2021.   Repealed as of January 1, 2027, pursuant to Section 1640.)
+(History: Added by Stats. 2020, Ch. 372, Sec. 5.   (AB 841)   Effective January 1, 2021.   Repealed as of January 1, 2031, pursuant to Section 1640.)
 -------------------------------------------
 
 1624.
 
 If installed HVAC systems or system components are broken, fail to meet minimum ventilation requirements, or are unable to operate to the original design and intent, this information will be set forth in the assessment report prepared pursuant to Section 1626 to be provided to a licensed professional for determination of appropriate corrective measures pursuant to Section 1626. Repairs, upgrades, or replacements shall be performed by a skilled and trained workforce.
 
-(History: Added by Stats. 2020, Ch. 372, Sec. 5.   (AB 841)   Effective January 1, 2021.   Repealed as of January 1, 2027, pursuant to Section 1640.)
+(History: Added by Stats. 2020, Ch. 372, Sec. 5.   (AB 841)   Effective January 1, 2021.   Repealed as of January 1, 2031, pursuant to Section 1640.)
 -------------------------------------------
 
 1625.
@@ -18240,7 +18242,7 @@ If installed HVAC systems or system components are broken, fail to meet minimum 
 
 (c) The requirements of paragraphs (1) to (6), inclusive, of subdivision (a) may be amended by the Energy Commission as necessary to reflect available technology and to achieve the intent of this section.
 
-(History: Added by Stats. 2020, Ch. 372, Sec. 5.   (AB 841)   Effective January 1, 2021.   Repealed as of January 1, 2027, pursuant to Section 1640.)
+(History: Added by Stats. 2020, Ch. 372, Sec. 5.   (AB 841)   Effective January 1, 2021.   Repealed as of January 1, 2031, pursuant to Section 1640.)
 -------------------------------------------
 
 1626.
@@ -18261,7 +18263,7 @@ A qualified testing personnel or qualified adjusting personnel shall prepare an 
 
 (f) Documentation of system deficiencies and recommendations for additional maintenance, replacement, or upgrades to improve energy efficiency, safety, or performance.
 
-(History: Added by Stats. 2020, Ch. 372, Sec. 5.   (AB 841)   Effective January 1, 2021.   Repealed as of January 1, 2027, pursuant to Section 1640.)
+(History: Added by Stats. 2020, Ch. 372, Sec. 5.   (AB 841)   Effective January 1, 2021.   Repealed as of January 1, 2031, pursuant to Section 1640.)
 -------------------------------------------
 
 1627.
@@ -18292,7 +18294,7 @@ A qualified testing personnel or qualified adjusting personnel shall prepare an 
 
 (b) The local educational agency shall maintain a copy of the HVAC verification report and make it available to any member of the public or the Energy Commission upon request.
 
-(History: Added by Stats. 2020, Ch. 372, Sec. 5.   (AB 841)   Effective January 1, 2021.   Repealed as of January 1, 2027, pursuant to Section 1640.)
+(History: Added by Stats. 2020, Ch. 372, Sec. 5.   (AB 841)   Effective January 1, 2021.   Repealed as of January 1, 2031, pursuant to Section 1640.)
 -------------------------------------------
 
 
@@ -18322,21 +18324,21 @@ For purposes of this article, the following terms have the following meanings:
 
 (3) Any commercial clothes washer that meets the criteria of the Energy Star Product Specification for Clothes Washers, Version 8.0, or any revision to those criteria published by the United States Environmental Protection Agency that is adopted by the Energy Commission for the program.
 
-(History: Added by Stats. 2020, Ch. 372, Sec. 5.   (AB 841)   Effective January 1, 2021.   Repealed as of January 1, 2027, pursuant to Section 1640.)
+(History: Added by Stats. 2020, Ch. 372, Sec. 5.   (AB 841)   Effective January 1, 2021.   Repealed as of January 1, 2031, pursuant to Section 1640.)
 -------------------------------------------
 
 1631.
 
 The Energy Commission, in collaboration with each utility, shall develop and administer the School Noncompliant Plumbing Fixture and Appliance Program to provide grants to state agencies and local educational agencies to replace noncompliant plumbing fixtures and appliances that fail to meet water efficiency standards and waste potable water and the energy used to convey that water, with water-conserving plumbing fixtures and appliances.
 
-(History: Added by Stats. 2020, Ch. 372, Sec. 5.   (AB 841)   Effective January 1, 2021.   Repealed as of January 1, 2027, pursuant to Section 1640.)
+(History: Added by Stats. 2020, Ch. 372, Sec. 5.   (AB 841)   Effective January 1, 2021.   Repealed as of January 1, 2031, pursuant to Section 1640.)
 -------------------------------------------
 
 1632.
 
 On or before April 1, 2021, the Energy Commission shall issue a notice to local educational agencies of the availability of grants under the School Noncompliant Plumbing Fixture and Appliance Program and to invite local educational agencies to submit applications.
 
-(History: Added by Stats. 2020, Ch. 372, Sec. 5.   (AB 841)   Effective January 1, 2021.   Repealed as of January 1, 2027, pursuant to Section 1640.)
+(History: Added by Stats. 2020, Ch. 372, Sec. 5.   (AB 841)   Effective January 1, 2021.   Repealed as of January 1, 2031, pursuant to Section 1640.)
 -------------------------------------------
 
 1633.
@@ -18348,7 +18350,7 @@ On or before April 1, 2021, the Energy Commission shall issue a notice to local 
 
 (c) The Energy Commission is authorized to provide technical assistance or award grants pursuant to the School Noncompliant Plumbing Fixture and Appliance Program to assist local educational agencies in identifying noncompliant plumbing fixtures and noncompliant appliances eligible for replacement pursuant to this article.
 
-(History: Added by Stats. 2020, Ch. 372, Sec. 5.   (AB 841)   Effective January 1, 2021.   Repealed as of January 1, 2027, pursuant to Section 1640.)
+(History: Added by Stats. 2020, Ch. 372, Sec. 5.   (AB 841)   Effective January 1, 2021.   Repealed as of January 1, 2031, pursuant to Section 1640.)
 -------------------------------------------
 
 
@@ -18357,9 +18359,9 @@ On or before April 1, 2021, the Energy Commission shall issue a notice to local 
 
 1640.
 
-This chapter shall remain in effect only until January 1, 2027, and as of that date is repealed.
+This chapter shall remain in effect only until January 1, 2031, and as of that date is repealed.
 
-(History: Added by Stats. 2020, Ch. 372, Sec. 5.   (AB 841)   Effective January 1, 2021.   Repealed as of January 1, 2027, by its own provisions.   Note: Repeal affects Chapter 8.7, commencing with Section 1600.)
+(History: Amended by Stats. 2026, Ch. 259, Sec. 12.   (SB 193)   Effective September 18, 2026.   Repealed as of January 1, 2031, by its own provisions.   Note: Repeal affects Chapter 8.7, commencing with Section 1600.)
 -------------------------------------------
 
 
