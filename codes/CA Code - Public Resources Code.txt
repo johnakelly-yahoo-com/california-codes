@@ -5,7 +5,7 @@
 
 Source: Official California Legislative Information
         https://downloads.leginfo.legislature.ca.gov/
-Last Updated by State of California: August 29, 2026
+Last Updated by State of California: September 26, 2026
 
 
 ======================================================================
@@ -28599,10 +28599,9 @@ To the extent funds authorized pursuant to this chapter are available for compet
 
 5096.360.
 
-Bonds in the total amount of two billion one hundred million dollars ($2,100,000,000), not including the amount of any refunding bonds issued in accordance with Section 5096.370, or so much thereof as is necessary, may be issued and sold to provide a fund to be used for carrying out the purposes set forth in Section 5096.310 and to be used to reimburse the General Obligation Bond Expense Revolving Fund pursuant to Section
- 16724.5 of the Government Code. The bonds, when sold, shall be and constitute a valid and binding obligation of the State of California, and the full faith and credit of the State of California is hereby pledged for the punctual payment of the principal of, and interest on, the bonds as the principal and interest become due and payable. Pursuant to this section, the Treasurer shall sell the bonds authorized by the Safe Neighborhood Parks, Clean Water, Clean Air, and Coastal Protection (the Villaraigosa-Keeley Act) Finance Committee created pursuant to subdivision (a) of Section 5096.362 at any different times that are necessary to service expenditures appropriated pursuant to this chapter.
+Bonds in the total amount of two billion ninety-one million three hundred seventy-five thousand dollars ($2,091,375,000), excluding the amount of any refunding bonds issued in accordance with Section 5096.370, or so much thereof as is necessary, may be issued and sold to provide a fund to be used for carrying out the purposes set forth in Section 5096.310 and to be used to reimburse the General Obligation Bond Expense Revolving Fund pursuant to Section 16724.5 of the Government Code. The bonds, when sold, shall constitute a valid and binding obligation of the state, and the full faith and credit of the state is hereby pledged for the punctual payment of the principal of, and interest on, the bonds as the principal and interest become due and payable. Pursuant to this section, the Treasurer shall sell the bonds authorized by the Safe Neighborhood Parks, Clean Water, Clean Air, and Coastal Protection (the Villaraigosa-Keeley Act) Finance Committee created pursuant to subdivision (a) of Section 5096.362 at any different times that are necessary to service expenditures appropriated pursuant to this chapter.
 
-(History: Added by Stats. 1999, Ch. 638, Sec. 14.   Approved in Proposition 12 at the March 7, 2000, election.   Note: Pursuant to Stats. 1999, Ch. 638, Sec. 17, this section was submitted in Prop. 12 in place of the section proposed by Stats. 1999, Ch. 461.)
+(History: Amended by Stats. 2026, Ch. 255, Sec. 19.   (AB 184)   Effective September 18, 2026.)
 -------------------------------------------
 
 5096.361.
@@ -30683,21 +30682,23 @@ Nothing in Sections 5163 to 5163.3, inclusive, shall prevent the city or county 
 
 (a) (1) A county, city, city and county, or special district shall not hire a person for employment, or hire a volunteer to perform services, at a county, city, city and county, or special district operated park, playground, recreational center, or beach used for recreational purposes, in a position having supervisory or disciplinary authority over a minor, if that person has been convicted of an offense specified in paragraph (2).
 
-(2) (A) A violation or attempted violation of Section 220, 261.5, former Section 262, 273a, 273d, or 273.5 of the Penal Code, or a sex offense listed in Section 290 of the Penal Code, except for the offense specified in subdivision (d) of Section 243.4 of the Penal Code.
+(2) (A) A violation or attempted violation of Section 220, 261.5, former Section 262, 273a, 273d, or 273.5 of the Penal Code, or a sex offense listed in Section 290 of the Penal Code, except for the offense specified in
+ subdivision (d) of Section 243.4 of the Penal Code.
 
 (B) A felony or misdemeanor conviction specified in subparagraph (C) within 10 years of the date of the employer’s request.
 
-(C) A felony conviction that is over 10 years old, if the subject of the request was incarcerated within 10 years of the employer’s request, for a violation or attempted violation of an offense specified in Chapter 3 (commencing with Section 207) of Title 8 of Part 1 of the Penal Code, Section 211 or 215 of the Penal Code, wherein it is charged and proved that the defendant personally used a deadly or dangerous weapon, as provided in subdivision (b) of Section 12022 of the Penal Code, in the commission of that offense, Section 217.1 of the Penal Code, Section 236 of the Penal Code, an offense specified in Chapter 9 (commencing with Section 240) of Title 8 of Part 1 of the Penal Code, or an offense specified in subdivision (c) of Section 667.5 of the Penal Code,
- provided that a record of a misdemeanor conviction shall not be transmitted to the requester unless the subject of the request has a total of three or more misdemeanor convictions, or a combined total of three or more misdemeanor and felony convictions, for violations listed in this section within the 10-year period immediately preceding the employer’s request or has been incarcerated for any of those convictions within the preceding 10 years.
+(C) A felony conviction that is over 10 years old, if the subject of the request was incarcerated within 10 years of the employer’s request, for a violation or attempted violation of an offense specified in Chapter 3 (commencing with Section 207) of Title 8 of Part 1 of the Penal Code, Section 211 or 215 of the Penal Code, wherein it is charged and proved that the defendant personally used a deadly or dangerous weapon, as provided in subdivision (b) of Section 12022 of the Penal Code, in the commission of that offense, Section 217.1 of the Penal Code, Section 236 of the Penal Code, an
+ offense specified in Chapter 9 (commencing with Section 240) of Title 8 of Part 1 of the Penal Code, or an offense specified in subdivision (c) of Section 667.5 of the Penal Code, provided that a record of a misdemeanor conviction shall not be transmitted to the requester unless the subject of the request has a total of three or more misdemeanor convictions, or a combined total of three or more misdemeanor and felony convictions, for violations listed in this section within the 10-year period immediately preceding the employer’s request or has been incarcerated for any of those convictions within the preceding 10 years.
 
-(b) (1) To give effect to this section, a county, city, city and county, or special district shall require each such prospective employee or volunteer to complete an application that inquires as to whether or not that individual has been convicted of an offense specified in subdivision (a). The county, city, city and county, or special district shall screen, pursuant to Section 11105.3 of the Penal Code, any such prospective employee or volunteer, having supervisory or disciplinary
- authority over a minor, for that person’s criminal background.
+(b) (1) To give effect to this section, a county, city, city and county, or special district shall require each prospective employee or volunteer described in subdivision (a) to undergo a fingerprint-based state
+ or national criminal history background check.
 
-(2) A local agency request for Department of Justice records pursuant to this subdivision shall include the prospective employee’s or volunteer’s fingerprints, which may be taken by the local agency, and any other data specified by the Department of Justice. The request shall be made on a form approved by the Department of Justice. A fee shall not be charged to the local agency for requesting the records of a prospective volunteer pursuant to this subdivision.
+(2) A county, city, city and county, or special district shall submit to the Department of Justice fingerprint images and related information for individuals specified in subdivision (a) who are subject to a state or national criminal history background check pursuant to subdivision (u) of Section 11105 of the Penal Code. The Department of Justice shall provide a state or federal response pursuant to subdivision (p) of Section 11105 of the Penal Code. A fee shall not be charged to the local agency for requesting the state records of a prospective volunteer pursuant to this subdivision.
 
-(3) A county, city, city and county, or special district may charge a prospective employee or volunteer described in subdivision (a) a fee to cover all of the county, city, city and county, or special district’s costs attributable to the requirements imposed by this section.
+(3) A county, city, city and county, or special district may charge a prospective employee or volunteer described in subdivision (a) a fee to cover
+ all of the county, city, city and county, or special district’s costs attributable to the requirements imposed by this section.
 
-(History: Amended by Stats. 2022, Ch. 197, Sec. 36.   (SB 1493)   Effective January 1, 2023.)
+(History: Amended by Stats. 2026, Ch. 313, Sec. 27.   (AB 2796)   Effective September 18, 2026.)
 -------------------------------------------
 
 
@@ -46506,6 +46507,150 @@ The Department of Fish and Game shall initiate studies to develop proposed strea
 
 ======================================================================
 
+DIVISION 10.1. FARMLAND ACCESS AND CONSERVATION FOR THRIVING COMMUNITIES ACT (FACT CA) [10100. - 10112.]
+
+10100.
+
+This division shall be known, and may be cited, as the Farmland Access and Conservation for Thriving Communities Act (FACT CA).
+
+(History: Added by Stats. 2026, Ch. 254, Sec. 1.   (SB 178)   Effective September 18, 2026.   Conditionally operative as prescribed by Section 10112.   Conditionally inoperative on or before July 1, 2041, as prescribed by Section 10112.   Repealed as of January 1, 2042, pursuant to Section 10112.)
+-------------------------------------------
+
+10102.
+
+For purposes of this division, all of the following definitions apply:
+
+(a) “Department” means the Department of Conservation.
+
+(b) “Farmer cooperative” means an entity that is either a worker cooperative, as defined in Section 12253.5 of the Corporations Code, whose articles of incorporation identify it as such, or a nonprofit cooperative association organized and existing under Chapter 1 (commencing with Section 54001) of Division 20 of the Food and Agricultural Code.
+
+(c) “Program” means the Farmland Access and Conservation for Thriving Communities Program established pursuant to this division.
+
+(d) “Qualified entity” means any of the following entities:
+
+(1) A nonprofit organization with tax-exempt status pursuant to Section 501(c)(3) of Title 26 of the United States Code.
+
+(2) A public agency.
+
+(3) A farmer cooperative.
+
+(4) A tribal government.
+
+(5) A tribal entity.
+
+(6) An agricultural land trust, the primary purpose of which is the preservation, protection, or enhancement of land in its natural, scenic, historical, agricultural, forested, or open-space condition or use.
+
+(e) “Qualified farmer
+ participant” means a farm enterprise, whose beneficial owners are beginning farmers or ranchers, socially disadvantaged farmers or ranchers, or tribal producers, that commits to using practices, methodologies, and techniques that improve soil health, biodiversity, conservation, and long-term sustainability in the production of agricultural crops to be sold in commerce or distributed.
+
+(History: Added by Stats. 2026, Ch. 254, Sec. 1.   (SB 178)   Effective September 18, 2026.   Conditionally operative as prescribed by Section 10112.   Conditionally inoperative on or before July 1, 2041, as prescribed by Section 10112.   Repealed as of January 1, 2042, pursuant to Section 10112.)
+-------------------------------------------
+
+10104.
+
+(a) The Farmland Access and Conservation for Thriving Communities Program is hereby established in the department. The department shall administer the program consistent with Section 93550 and may administer the program through the California Farmland Conservancy Program established pursuant to Division 10.2 (commencing with Section 10200).
+
+(b) Under the program, the department shall provide grants and related technical assistance to qualified entities for the purpose of acquiring agricultural lands to transfer or provide long-term leases to qualified farmer participants to support agricultural land acquisition and protection.
+
+(History: Added by Stats. 2026, Ch. 254, Sec. 1.   (SB 178)   Effective September 18, 2026.   Conditionally operative as prescribed by Section 10112.   Conditionally inoperative on or before July 1, 2041, as prescribed by Section 10112.   Repealed as of January 1, 2042, pursuant to Section 10112.)
+-------------------------------------------
+
+10106.
+
+Activities eligible for funding through the program may include, but are not limited to, all of the following:
+
+(a) Acquisition planning and development, including, but not limited to, all of the following:
+
+(1) Providing support to assist with land identification.
+
+(2) Determining zoning and land-use restrictions and verifying water rights and access to irrigation.
+
+(3) Inspecting soil quality, performing environmental reviews, and assessing impacts.
+
+(4) Retaining legal services with regard to acquiring
+ agricultural land by qualified entities and the subsequent sale or leasing of that land to qualified farmer participants in accordance with program requirements.
+
+(5) Ensuring compliance for permitting.
+
+(6) Surveying cultural resources.
+
+(7) Testing of water quality and assessing the condition of existing irrigation infrastructure, including well condition and output.
+
+(b) Purchase of fee title to agricultural land.
+
+(c) Purchase of easements, including, but not limited to, conservation easements, reserved interest conservation easements, or cultural access easements.
+
+(d) Technical assistance, including, but not limited to,
+ retaining the services of licensed attorneys, real estate brokers, business planning consultants, farmer cooperative management consultants, and property appraisers.
+
+(e) Land improvements that will directly benefit the land and the individuals managing the land and their commitment to conservation and sustainable land use.
+
+(History: Added by Stats. 2026, Ch. 254, Sec. 1.   (SB 178)   Effective September 18, 2026.   Conditionally operative as prescribed by Section 10112.   Conditionally inoperative on or before July 1, 2041, as prescribed by Section 10112.   Repealed as of January 1, 2042, pursuant to Section 10112.)
+-------------------------------------------
+
+10108.
+
+In providing funding pursuant to the program, the department shall do all of the following:
+
+(a) Prioritize funding for activities that benefit socially disadvantaged farmers or ranchers.
+
+(b) Prioritize funding to tribal governments and tribal entities to secure agricultural land, including reclaiming ancestral lands, for sustainable food production and stewardship of cultural resources.
+
+(c) Require, and to the extent feasible ensure, that the proceeds of future resale of land continue to be used for purposes of the program.
+
+(d) To the extent feasible, ensure that no more
+ than 15 percent of funding provided under the program is used for those expenses described in subdivision (e) of Section 10106.
+
+(e) To the extent feasible, allocate at least 33 percent of funding provided under the program during each grant cycle to tribal governments and tribal entities.
+
+(History: Added by Stats. 2026, Ch. 254, Sec. 1.   (SB 178)   Effective September 18, 2026.   Conditionally operative as prescribed by Section 10112.   Conditionally inoperative on or before July 1, 2041, as prescribed by Section 10112.   Repealed as of January 1, 2042, pursuant to Section 10112.)
+-------------------------------------------
+
+10110.
+
+(a) Except as provided in subdivision (b), a qualified entity that receives funding under the program shall do either of the following within five years of acquiring agricultural land with funds provided under the program:
+
+(1) Transfer the agricultural land to a qualified farmer participant in accordance with both of the following criteria:
+
+(A) The agricultural land is subject to an easement that meets the requirements of Chapter 4 (commencing with Section 815) of Title 2 of Part 2 of Division 2 of the Civil Code and that is recorded before or simultaneously with the transfer to the qualified farmer participant.
+
+(B) The agricultural land is subject to any additional appropriate resale restrictions required by the department, such as affordability provisions, preemptive purchase rights, or shared appreciation, consistent with the purposes of the program.
+
+(2) Enter into a long-term lease of the agricultural land with a qualified farmer participant in accordance with all of the following criteria:
+
+(A) (i) The term of the lease is at least 10 years and no more than the time period described in Section 717 of the Civil Code.
+
+(ii) Notwithstanding clause (i), the duration of the lease may be fewer than 10 years if the initial term combined with options to renew the lease on the same or similar terms as the initial term collectively amount to at least 20 years.
+
+(B) The lease authorizes, during the term of the lease, the qualified farmer participant to terminate the lease with advanced notice.
+
+(C) The lease provides the qualified farmer participant with the opportunity to purchase the land at or before the end of the lease term through a purchase option or a right of first refusal in the lease agreement.
+
+(D) The agricultural land is subject to an easement that meets the requirements of Chapter 4 (commencing with Section 815) of Title 2 of Part 2 of Division 2 of the Civil Code and that is recorded before or simultaneously with the lease to the qualified farmer participant.
+
+(E) The agricultural land is subject to any additional appropriate resale restrictions required by the department, such as affordability
+ provisions, preemptive purchase rights, or shared appreciation consistent with the purposes of the program.
+
+(b) If a farmer cooperative receives a grant pursuant to the program, the farmer cooperative may maintain ownership of the agricultural land if it records a conservation easement against the agricultural land that meets the requirements of Chapter 4 (commencing with Section 815) of Title 2 of Part 2 of Division 2 of the Civil Code and it records any additional appropriate resale restrictions required by the department, such as affordability provisions, preemptive purchase rights, or shared appreciation, consistent with the purposes of the program.
+
+(History: Added by Stats. 2026, Ch. 254, Sec. 1.   (SB 178)   Effective September 18, 2026.   Conditionally operative as prescribed by Section 10112.   Conditionally inoperative on or before July 1, 2041, as prescribed by Section 10112.   Repealed as of January 1, 2042, pursuant to Section 10112.)
+-------------------------------------------
+
+10112.
+
+(a) This division shall become operative upon the Legislature making an appropriation to the department from the funding authorized in Section 93550.
+
+(b) This division shall become inoperative on July 1, 2041, or when the funding authorized in Section 93550 has been fully spent and is no longer available to support or administer the program, whichever occurs sooner.
+
+(c) This division shall remain in effect only until January 1, 2042, and as of that date is repealed.
+
+(History: Added by Stats. 2026, Ch. 254, Sec. 1.   (SB 178)   Effective September 18, 2026.   Repealed as of January 1, 2042, by its own provisions.   Note: Repeal affects Division 10.1, commencing with Section 10100.)
+-------------------------------------------
+
+
+
+======================================================================
+
 DIVISION 10.2. CALIFORNIA FARMLAND CONSERVANCY PROGRAM ACT [10200. - 10264.]
 
 
@@ -46850,15 +46995,18 @@ The director shall disburse funds to an applicant for a grant for the acquisitio
 
 (a) Upon acquisition of the property, treat the property as encumbered by an agricultural conservation easement subject to this division and approved by the department.
 
-(b) Sell the fee title subject to an agricultural conservation easement approved by the department to a private landowner within three years of the acquisition of the fee title.
+(b) (1) Sell the fee title subject to an agricultural conservation easement approved by the department to a private landowner within three
+ years of the acquisition of the fee title.
+
+(2) This subdivision does not apply to land acquired and entered into a lease pursuant to Division 10.1 (commencing with Section 10100).
 
 (c) Reimburse the fund directly from escrow within 30 days after the sale of the restricted fee title by an amount equal to the department’s proportional share of the net proceeds of the sale.
 
-(1) The “net proceeds of the sale” is defined as the fair market value of the land less the value of the easement and associated transaction costs.
+(1) For purposes of this subdivision, “net proceeds of the sale” means the fair market value of the land less the value of the easement and associated transaction costs.
 
 (2) The department’s proportional share of the net proceeds of the sale shall be calculated using a factor reflecting the department’s proportional share of the purchase price paid by the applicant in the original acquisition of fee title, taking into account contributions from all sources toward that original purchase price.
 
-(History: Amended by Stats. 2007, Ch. 254, Sec. 6.   Effective September 26, 2007.)
+(History: Amended by Stats. 2026, Ch. 254, Sec. 2.   (SB 178)   Effective September 18, 2026.)
 -------------------------------------------
 
 10240.
@@ -49996,9 +50144,12 @@ Unless the context otherwise requires, the definitions in this chapter govern th
 
 14526.5.
 
-“Supermarket” means a full-line, self-service retail store with gross annual sales of two million dollars ($2,000,000), or more, and which sells a line of dry grocery, canned goods, or nonfood items and some perishable items. For purposes of determining which dealers are supermarkets, the department shall use the annual updates of the Progressive Grocer Marketing Guidebook and any computer printouts developed in conjunction with the guidebook.
+(a) “Supermarket” means a full-line, self-service retail store with gross annual sales of six million dollars ($6,000,000), or more, and which sells a line of dry groceries, canned goods, alcoholic or nonalcoholic beverages, nonfood items, or some perishable items, regardless of whether the retail store operates a bakery or a deli. For purposes of determining which dealers are “supermarkets,” the department shall consult the most recent annual
+ update to the Progressive Grocer Marketing Guidebook and any other relevant update developed in conjunction with that guidebook.
 
-(History: Amended by Stats. 1989, Ch. 1342, Sec. 6.)
+(b) Notwithstanding the changes to this section made by the act adding this subdivision, a recycling center that was eligible to receive handling fees immediately before the effective date of that act shall continue to be eligible to receive handling fees on and after that date.
+
+(History: Amended by Stats. 2026, Ch. 319, Sec. 1.   (SB 955)   Effective September 18, 2026.)
 -------------------------------------------
 
 14526.6.
@@ -51290,6 +51441,27 @@ The department may, in a rural region, as identified pursuant to subparagraph (A
 (History: Amended by Stats. 2022, Ch. 610, Sec. 23.   (SB 1013)   Effective January 1, 2023.)
 -------------------------------------------
 
+14571.6.
+
+(a) Notwithstanding any other law or regulation, all of the following apply if a reverse vending machine is certified to operate as a recycling center:
+
+(1) The reverse vending machine shall not make an unserved convenience zone served, as described in subdivision (a) of Section 14571, regardless of the number of hours it operates. The reverse vending machine shall still be required to operate the minimum hours specified in Section 14571.
+
+(2) A reverse vending machine located in a convenience zone shall not preclude either of the following from operating and receiving program payments in the same
+ convenience zone:
+
+(A) A dealer cooperative under Chapter 6.5 (commencing with Section 14578).
+
+(B) A mobile unit as defined in Chapter 5 (commencing with Section 2000) of Division 2 of Title 14 of the California Code of Regulations.
+
+(3) The reverse vending machine located in a convenience zone shall not make an existing recycling center certified in that convenience zone ineligible for handling fees pursuant to subdivision (c) of Section 14585.
+
+(b) Except as provided in subdivision (a), a reverse vending machine that is certified as a recycling center remains subject to all laws and regulations applicable to recycling
+ centers.
+
+(History: Added by Stats. 2026, Ch. 319, Sec. 2.   (SB 955)   Effective September 18, 2026.)
+-------------------------------------------
+
 14571.7.
 
 (a) Except as provided in subdivision (b), in any convenience zone where a recycling location or locations were initially established, but where the location or locations cease to operate in accordance with Section 14571, the department shall notify all dealers within that convenience zone that a recycling location is required to be established within 60 days. If, within 30 days of the notification, a recycling location that satisfies the requirements of Section 14571 has not been established, the department shall notify all dealers within that zone, and one or more dealers within that zone shall establish, or cause to be established, a recycling location.
@@ -51765,7 +51937,8 @@ CHAPTER 6.5. Dealer Cooperatives [14578. - 14578.5.]
 
 (a) By January 1, 2024, the department may provide one or more model dealer cooperative redemption plans for dealer cooperatives to adopt to comply with paragraph (2) of subdivision (a) of Section 14578 and this section.
 
-(b) (1) By January 1, 2024, the department shall adopt emergency regulations that provide access and convenience for consumers that are comparable to subdivision (a) of Section 14571. The regulations shall include the registration process for dealers, the application and registration process for the dealer cooperative, and the process for updating information after registration as needed, and other regulations necessary for the implementation and enforcement of this subdivision.
+(b) (1) By January 1, 2024, the department shall adopt emergency regulations that provide access and convenience for consumers that are comparable to subdivision (a) of Section 14571. The regulations shall include the registration process for dealers, the application and registration process for the dealer cooperative, and the process for updating information after registration as needed, and other regulations necessary for the implementation and
+ enforcement of this subdivision.
 
 (2) Upon the expiration of the emergency regulations no more than 180 days after adoption, the department shall adopt regulations pursuant to Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code to implement this section.
 
@@ -51773,8 +51946,7 @@ CHAPTER 6.5. Dealer Cooperatives [14578. - 14578.5.]
 
 (1) Submit a redemption plan to the department to provide redemption in one or more unserved convenience zones. Redemption programs shall include sufficient redemption opportunities for consumers that have comparable consumer convenience to the requirements of Section 14571 and include, but are not limited to, pilot projects described in Section 14571.9.
 
-(2) Assess fees on the dealers in the zone or zones covered by the redemption plan
- necessary to cover operational costs and implementation of the approved plan.
+(2) Assess fees on the dealers in the zone or zones covered by the redemption plan necessary to cover operational costs and implementation of the approved plan.
 
 (3) (A) Redeem all material types and offer one or more redemption locations within the dealer cooperative zone.
 
@@ -51784,23 +51956,24 @@ CHAPTER 6.5. Dealer Cooperatives [14578. - 14578.5.]
 
 (5) Register as a dealer cooperative with the department.
 
-(6) Provide reports as required by the department, which may include, but are not limited to, the amount of empty beverage containers, by material type and weight of container or material, redeemed in the past month and any other relevant information the
- department requests in the form and manner that the department may prescribe.
+(6) Provide reports as
+ required by the department, which may include, but are not limited to, the amount of empty beverage containers, by material type and weight of container or material, redeemed in the past month and any other relevant information the department requests in the form and manner that the department may prescribe.
 
-(d) (1) Dealer cooperatives may be eligible for reimbursement of California Redemption Value funds paid to consumers, processing payments, handling fees, and administrative fees unless a certified recycling center operates in a convenience zone in which a dealer participating in the dealer cooperative is located.
+(d) (1) Except as provided in subparagraph (A) of paragraph (2) of subdivision (a) of Section 14571.6, dealer cooperatives may be eligible for reimbursement of California Redemption Value funds paid to consumers, processing payments, handling fees, and administrative fees unless a certified recycling center operates in a convenience zone in which a dealer participating in the dealer cooperative is located.
 
-(2) In order to receive payment from a processor, dealer cooperative redemption identification shall be verified.
+(2) In order to receive payment from a
+ processor, dealer cooperative redemption identification shall be verified.
 
 (3) The department may delay payments to a dealer cooperative for up to seven days until the verification of the received weight versus the actual redemption weight of beverage containers occurs.
 
-(e) The department may revoke a dealer
- cooperative’s registration or the plan for failure to provide redemption for consumers.
+(e) The department may revoke a dealer cooperative’s registration or the plan for failure to provide redemption for consumers.
 
 (f) The department shall audit each cooperative at least once every 24 months to ensure that proper program payments are made to consumers and cooperative fees are being utilized for the operation of the approved redemption model.
 
-(g) The department may assess civil penalties under Section 14591.1 for violations of this section.
+(g) The department may assess civil
+ penalties under Section 14591.1 for violations of this section.
 
-(History: Added by Stats. 2022, Ch. 610, Sec. 31.   (SB 1013)   Effective January 1, 2023.)
+(History: Amended by Stats. 2026, Ch. 319, Sec. 3.   (SB 955)   Effective September 18, 2026.)
 -------------------------------------------
 
 
@@ -51914,19 +52087,20 @@ CHAPTER 7. Financial Provisions [14580. - 14587.]
 
 (a) The department shall expend in each fiscal year, from the moneys set aside in the fund pursuant to subdivision (c) of Section 14580, twenty million nine hundred seventy-four thousand dollars ($20,974,000), plus the cost-of-living adjustment, as provided in subdivision (c), less fifteen million dollars ($15,000,000), in the form of grants for beverage container litter reduction programs and recycling programs, including education and outreach, issued to either of the following:
 
-(1) Certified community conservation corps that were in existence on September 30, 1999, or that are formed subsequent to that date, that are designated by a city or a city and county to perform litter abatement, recycling,
- and related activities, if the city or the city and county has a population, as determined by the most recent census, of more than 250,000 persons.
+(1) Certified community conservation corps that were in existence on September 30, 1999, or that are formed subsequent to that date, that are designated by a city or a city and county to perform litter abatement, recycling, and related activities, if the city or the city and county
+ has a population, as determined by the most recent census, of more than 250,000 persons.
 
 (2) Community conservation corps that are designated by a county to perform litter abatement, recycling, and related activities, and are certified by the California Conservation Corps as having operated for a minimum of two years and as meeting all other criteria of Section 14507.5.
 
-(b) The grants provided pursuant to this section shall not comprise more than 75 percent of the annual budget of a community conservation corps.
+(b) The grants provided pursuant to this section shall not comprise more than 75 percent of the annual budget of a community conservation corps, except for the 2026–27 fiscal year.
 
-(c) The amount of twenty million nine hundred seventy-four thousand dollars ($20,974,000) that is referenced in subdivision (a) is a base amount for the 2014–15 fiscal year, and the department shall adjust that amount annually to reflect any increases
- or decreases in the cost of living as measured by the Department of Labor or a successor agency of the federal government.
+(c) The amount of twenty million nine hundred seventy-four thousand dollars ($20,974,000) that is referenced in subdivision (a) is a base amount for the 2014–15 fiscal year, and the department shall adjust that amount annually to reflect any increases or decreases in the cost of living as measured by the Department of Labor or a successor agency of the federal government.
 
 (d) For the 2014–15 fiscal year only, the amount to be expended from the fund for the purposes specified in subdivision (a) shall be increased by seven million five hundred thousand dollars ($7,500,000).
 
-(History: Added by Stats. 2014, Ch. 35, Sec. 144.   (SB 861)   Effective June 20, 2014.)
+(e) For the 2026-27 fiscal year only, the amount to be expended from the fund for purposes specified in subdivision (a) shall be increased by sixty million dollars ($60,000,000).
+
+(History: Amended by Stats. 2026, Ch. 254, Sec. 3.   (SB 178)   Effective September 18, 2026.)
 -------------------------------------------
 
 14582.
@@ -51959,38 +52133,38 @@ Notwithstanding Section 14581, on and after July 1, 2012, the department shall n
 
 (1) Handling fees shall be paid on a monthly basis, in the form and manner adopted by the department. The department shall require that claims for the handling fee be filed with the department not later than the first day of the second month following the month for which the handling fee is claimed as a condition of receiving any handling fee.
 
-(2) The department shall
- determine the number of eligible containers per site for which a handling fee will be paid in the following manner:
+(2) The department shall determine the number of eligible containers per site for which a handling fee will be paid in the following manner:
 
 (A) Each eligible site’s combined monthly volume of glass and plastic beverage containers shall be divided by the site’s total monthly volume of all empty beverage container types.
 
 (B) If the quotient determined pursuant to subparagraph (A) is equal to, or more than, 10 percent, the total monthly volume of the site shall be the maximum volume that is eligible for a handling fee for that month.
 
-(C) If the quotient determined pursuant to subparagraph (A) is less than 10 percent, the department shall divide the volume of glass and plastic beverage containers by 10 percent. That quotient shall be the maximum volume that is eligible for a handling fee for that month.
+(C) If the quotient determined pursuant to subparagraph (A) is less than 10 percent, the department shall divide the volume of glass
+ and plastic beverage containers by 10 percent. That quotient shall be the maximum volume that is eligible for a handling fee for that month.
 
-(3) (A) On and after the effective date of the act amending this section during the
- 2023–24 Regular Session, and until June 30, 2026, the department shall pay a handling fee per eligible container in the amount determined pursuant to subdivisions (f) and (g).
+(3) (A) On and after the effective date of the act amending this section during the 2023–24 Regular Session, and until June 30, 2026, the department shall pay a handling fee per eligible container in the amount determined pursuant to subdivisions (f) and (g).
 
-(B) On and after July 1,
- 2026,
- the department shall pay a handling fee per eligible container in the amount determined pursuant to subdivision (f).
+(B) On and after July 1, 2026, the department shall pay a handling fee per eligible container in the amount determined pursuant to subdivision (f).
 
-(4) If the eligible volume in any given month would result in handling fee payments that exceed the allocation of funds for that month, as provided in subdivision (b), sites with higher eligible monthly volumes shall receive handling fees for their entire eligible monthly volume before sites with lower eligible monthly volumes receive any handling fees.
+(4) If the eligible volume in any given month would result in handling fee payments that exceed the allocation of funds for that month, as provided in subdivision
+ (b), sites with higher eligible monthly volumes shall receive handling fees for their entire eligible monthly volume before sites with lower eligible monthly volumes receive any handling fees.
 
-(5) (A) If a dealer where a supermarket site, nonprofit convenience zone recycler, or rural region recycler is located ceases operation for remodeling or for a change of ownership, the operator of that supermarket site, nonprofit convenience zone recycler, or rural region recycler shall be eligible to apply for handling fees for that site for a period of three months following
- the date of the closure of the dealer.
+(5) (A) If a dealer where a supermarket site, nonprofit convenience zone recycler, or rural region recycler is located ceases operation for remodeling or for a change of ownership, the operator of that supermarket site, nonprofit convenience zone recycler, or rural region recycler shall be eligible to apply for handling fees for that site for a period of three months following the date of the closure of the dealer.
 
-(B) Every supermarket site operator, nonprofit convenience zone recycler, or rural region recycler shall promptly notify the department of the closure of the dealer where the supermarket site, nonprofit convenience zone recycler, or rural region recycler is located.
+(B) Every supermarket site operator, nonprofit convenience zone recycler, or rural region recycler shall promptly notify the department of the closure of
+ the dealer where the supermarket site, nonprofit convenience zone recycler, or rural region recycler is located.
 
 (C) Notwithstanding subparagraph (A), any operator who fails to provide notification to the department pursuant to subparagraph (B) shall not be eligible to apply for handling fees.
 
-(b) The department may allocate the amount authorized for expenditure for the payment of handling fees pursuant to paragraph (1) of subdivision (a) of Section 14581 on a monthly basis and may carry over any unexpended monthly allocation to a subsequent month or months. However, unexpended monthly allocations shall not be carried over to a
- subsequent fiscal year for the purpose of paying handling fees but may be carried over for any other purpose pursuant to Section 14581.
+(b) The department may allocate the amount authorized for expenditure for the payment of handling fees pursuant to paragraph (1) of subdivision (a) of Section 14581 on a monthly basis and may carry over any unexpended monthly allocation to a subsequent month or months. However, unexpended monthly allocations shall not be carried over to a subsequent fiscal year for the purpose of paying handling fees but may be carried over for any other purpose pursuant to Section 14581.
 
-(c) (1) The department shall not make handling fee payments to more than one certified recycling center in a convenience zone. If a dealer is located in more than one convenience zone, the department shall offer a single handling fee payment to a supermarket site located at that dealer. This handling fee payment shall not be split between the affected zones. The department shall stop making handling fee payments if another recycling center certifies to operate within the convenience zone without receiving payments pursuant to this section, if the department monitors the performance of the other recycling center for 60 days and determines that the recycling center is in compliance with this division. Any recycling center that locates in a convenience zone, thereby causing a preexisting
- recycling center to become ineligible to receive handling fee payments, is ineligible to receive any handling fee payments in that convenience zone.
+(c) Except as provided in Section 14571.6, all of the following apply to the payment of handling fees:
 
-(2) The department shall offer a single handling fee payment to a rural region recycler located anywhere inside a convenience zone, if that convenience zone is not served by another certified recycling center and the rural region recycler does either of the following:
+(1) The department shall not make handling fee payments to more than one certified recycling center in a convenience zone. If a dealer is located in more than one convenience zone, the department shall offer a single handling fee payment to a supermarket site located at that dealer. This handling fee payment shall not be split between the affected zones. The department shall stop making handling fee payments if another recycling center certifies to operate within the convenience zone without receiving payments pursuant to this section, if the department monitors the performance of the other recycling center for 60 days and determines that the recycling center is in compliance with
+ this division. Any recycling center that locates in a convenience zone, thereby causing a preexisting recycling center to become ineligible to receive handling fee payments, is ineligible to receive any handling fee payments in that convenience zone.
+
+(2) The department shall offer a single handling fee payment to a rural region recycler located anywhere inside a convenience zone, if that convenience zone is not served by another certified
+ recycling center and the rural region recycler does either of the following:
 
 (A) Operates a minimum of 30 hours per week in one convenience zone.
 
@@ -51998,46 +52172,46 @@ Notwithstanding Section 14581, on and after July 1, 2012, the department shall n
 
 (i) Is the only certified recycler within each convenience zone.
 
-(ii) Is open and operating at least eight hours per week in
- each convenience zone and is certified at each location.
+(ii) Is open and operating at least eight hours per week in each convenience zone and is certified at each location.
 
 (iii) Operates at least 30 hours per week in total for all convenience zones served.
 
-(d) The department may require an operator of a supermarket site, or an operator of a rural region recycler, receiving handling fees to maintain records for each location where beverage containers are redeemed, and may require the supermarket site or rural region recycler to take any other action necessary for the department to determine that the supermarket site or rural region recycler does not receive an excessive handling fee.
+(d) The department may require
+ an operator of a supermarket site, or an operator of a rural region recycler, receiving handling fees to maintain records for each location where beverage containers are redeemed, and may require the supermarket site or rural region recycler to take any other action necessary for the department to determine that the supermarket site or rural region recycler does not receive an excessive handling fee.
 
 (e) The department may determine and use a standard container per pound rate, for each material type, for purposes of calculating volumes and making handling fee payments.
 
-(f) (1) On or before January 1, 2008, and every two years thereafter, the department shall conduct a survey pursuant to this subdivision of a statistically significant sample of handling fee payment recipients
- to determine the actual cost incurred for the redemption of empty beverage containers by those handling fee payment recipients. The department shall conduct these cost surveys in conjunction with the cost surveys performed by the department pursuant to subdivision (b) of Section 14575 to determine processing payments and processing fees. The department shall include, in determining the actual costs, only those allowable costs contained in the regulations adopted pursuant to this division that are used by the department to conduct cost surveys pursuant to subdivision (b) of Section 14575.
+(f) (1) On or before January 1, 2008, and every two years thereafter, the department shall conduct a survey pursuant to this subdivision of a statistically significant sample of handling fee payment
+ recipients to determine the actual cost incurred for the redemption of empty beverage containers by those handling fee payment recipients. The department shall conduct these cost surveys in conjunction with the cost surveys performed by the department pursuant to subdivision (b) of Section 14575 to determine processing payments and processing fees. The department shall include, in determining the actual costs, only those allowable costs contained in the regulations adopted pursuant to this division that are used by the department to conduct cost surveys pursuant to subdivision (b) of Section 14575.
 
-(2) Using the information obtained pursuant to paragraph (1), the department shall then determine the statewide weighted
- average cost incurred for the redemption of empty beverage containers, per empty beverage container, by handling fee payment recipients.
+(2) Using the information obtained pursuant to paragraph (1), the department shall then determine the statewide weighted average cost incurred for the redemption of empty beverage containers, per empty beverage container, by handling fee payment
+ recipients.
 
 (3) Except as provided in subdivision (g), the department shall determine the amount of the handling fee to be paid for each empty beverage container as follows:
 
-(A) Until June 30, 2027, and except as provided in subparagraph (B), the amount shall be determined using a methodology established by the department reflecting the cost of providing and maintaining recycling in convenience zones by handling fee recipients, including transportation, labor, volume, consumer convenience, and increasing recycling rates. The methodology may include tiered handling fee rates reflecting differing costs within convenience zones or regions based on respective volume or location. This subparagraph shall become inoperative on July 1, 2027.
+(A) Until June 30, 2032, and except as provided in subparagraph (B), the amount shall be determined using a methodology established by the department reflecting the cost of providing and maintaining recycling in convenience zones by handling fee recipients, including transportation, labor, volume, consumer convenience, and increasing recycling rates. The methodology may include tiered handling fee rates reflecting differing costs within
+ convenience zones or regions based on respective volume or location. This subparagraph shall become inoperative on July 1, 2032.
 
- (B) On and after June 30, 2026, and if the department has not established a method pursuant to subparagraph (A), the amount shall be determined by
- subtracting the amount of the statewide weighted average cost per container to redeem empty beverage containers by handling fee payment recipients that do not receive handling fees from the amount of the statewide weighted average cost per container determined pursuant to paragraph (2).
+(B) On and after June 30, 2026, and if the department has not established a method pursuant to subparagraph (A), the amount shall be determined by subtracting the amount of the statewide weighted average cost per container to redeem empty beverage containers by handling fee payment recipients that do not receive handling fees from the amount of the statewide weighted average cost per container determined pursuant to paragraph (2).
 
-(4) The department shall adjust the statewide average cost determined pursuant to paragraph (2) for each beverage container annually to reflect changes in the cost of living, as measured by the Bureau of Labor Statistics of the United States Department of Labor or a successor agency of the United States government.
+(4) The department shall adjust the statewide
+ average cost determined pursuant to paragraph (2) for each beverage container annually to reflect changes in the cost of living, as measured by the Bureau of Labor Statistics of the United States Department of Labor or a successor agency of the United States government.
 
-(5) The cost information collected pursuant to this section
- for handling fee payment recipients shall not be used in the calculation of the processing payments determined pursuant to Section 14575.
+(5) The cost information collected pursuant to this section for handling fee payment recipients shall not be used in the calculation of the processing payments determined pursuant to Section 14575.
 
-(g) (1) On and after the effective date of the act amending this section during the 2023–24 Regular Session, and until June 30, 2026, the per-container handling fee shall not be less than the amount of the per-container handling fee that was in effect on July 1,
- 2023. If the effective date of the act amending this section during the
- 2023–24 Regular Session is after July 1, 2024, the department shall pay eligible handling fee payment recipients the difference between the handling fee in effect on July 1, 2024, and the handling fee that was in effect on July 1,
- 2023, so that the per-container handling fee for the 2025–26 fiscal year is no less than the handling fee that was in effect on July 1, 2023.
+(g) (1) On and after the effective date of the act amending this section during the 2023–24 Regular Session, and until June 30, 2026, the per-container handling fee shall not be less than the amount of the per-container handling fee that was in effect on July 1, 2023. If the effective date of the act amending
+ this section during the 2023–24 Regular Session is after July 1, 2024, the department shall pay eligible handling fee payment recipients the difference between the handling fee in effect on July 1, 2024, and the handling fee that was in effect on July 1, 2023, so that the per-container handling fee for the 2025–26 fiscal year is no less than the handling fee that was in effect on July 1, 2023.
 
 (2) The department shall adjust the handling fee established by this subdivision annually to reflect changes in the cost of living, as measured by the Bureau of Labor Statistics of the United States Department of Labor or a successor agency of the United States government.
 
-(h) (1) The department shall adopt emergency regulations that establish the methodology described in subparagraph (A) of paragraph (3) of subdivision (f) and to establish a handling fee calculated pursuant to the methodology. The regulations shall take effect no later than July 1, 2026.
+(h) (1) The department shall adopt emergency regulations that establish the methodology
+ described in subparagraph (A) of paragraph (3) of subdivision (f) and to establish a handling fee calculated pursuant to the methodology. The regulations shall take effect no later than July 1, 2026.
 
-(2) Until June 30, 2027, the adoption of regulations described in paragraph (1) shall be deemed to be an emergency and necessary for the immediate preservation of the public peace, health and safety, or general welfare for purposes of Sections 11346.1 and 11349.6 of the Government Code, and the department is hereby exempted from the requirement that it describe facts showing the need for immediate action. Notwithstanding Section 11346.1 of the Government Code, the
- emergency regulations adopted pursuant to this subdivision shall remain in effect through June 30, 2027.
+(2) Until June 30, 2032, the adoption of regulations described in paragraph (1) shall be deemed to be an emergency and necessary for the immediate preservation of the public peace, health and safety, or general welfare for purposes of Sections 11346.1 and 11349.6 of the Government Code, and the department is hereby exempted from the requirement that it describe facts showing the need for immediate action. Notwithstanding Section 11346.1 of the Government Code,
+ the emergency regulations adopted pursuant to this subdivision shall remain in effect through June 30,
+ 2032.
 
-(History: Amended by Stats. 2024, Ch. 72, Sec. 41.   (SB 156)   Effective July 2, 2024.)
+(History: Amended by Stats. 2026, Ch. 319, Sec. 4.   (SB 955)   Effective September 18, 2026.)
 -------------------------------------------
 
 14585.5.
@@ -114671,12 +114845,12 @@ It is the intent of the Legislature that the AHSC Housing Allocation and AHSC Su
 
 For purposes of this part, the following definitions apply:
 
-(a) “AHSC Housing Allocation” means the funding allocation described in subparagraph (A) of paragraph (1) of subdivision (c) of Section 39719.4 of the Health and Safety Code for the purposes of affordable housing and administered by the Housing Development and Finance Committee.
+(a) “AHSC Housing Allocation” means the funding allocation described in clause (i) of subparagraph (A) of paragraph (1) of subdivision (c) of Section 39719.4 of the Health and Safety Code for the purposes of affordable housing and administered by the Housing Development and Finance Committee.
 
-(b) “AHSC Sustainable Communities Allocation” means the funding allocation described in subparagraph (A) of paragraph (1) of subdivision (c) of Section 39719.4 of the Health and Safety Code for sustainable
- communities’ investments and administered by the Strategic Growth Council.
+(b) “AHSC Sustainable Communities Allocation” means the funding allocation described in clause (ii) of subparagraph (A) of paragraph (1) of subdivision (c) of Section 39719.4 of the Health and Safety Code for sustainable communities’ investments and administered by the Strategic Growth Council.
 
-(c) “Committee” means the Housing Development and Finance Committee established pursuant to Section 54925 of the Health and Safety Code.
+(c) “Committee”
+ means the Housing Development and Finance Committee established pursuant to Section 54925 of the Health and Safety Code.
 
 (d) “Council” means the Strategic Growth Council established pursuant to Section 75121.
 
@@ -114686,9 +114860,10 @@ For purposes of this part, the following definitions apply:
 
 (g) “Program” means the Affordable Housing and Sustainable Communities Program established pursuant to Section 75210.
 
-(h) “Program administrator” means either the committee or the council responsible for administering an allocation.
+(h) “Program administrator” means either the committee or
+ the council responsible for administering an allocation.
 
-(History: Added by renumbering Section 75200 by Stats. 2026, Ch. 68, Sec. 26.   (AB 179)   Effective July 13, 2026.)
+(History: Amended by Stats. 2026, Ch. 259, Sec. 7.   (SB 193)   Effective September 18, 2026.)
 -------------------------------------------
 
 75200.2.
@@ -114986,7 +115161,7 @@ PART 2. Transit and Intercity Rail Capital Program  [75220. - 75227.]
 
 75220.
 
-(a) The Transit and Intercity Rail Capital Program is hereby created to fund transformative capital improvements, as defined in subdivision (d), that will modernize California’s intercity, commuter, and urban rail systems and bus and ferry transit systems to achieve all of the following policy objectives:
+(a) The Transit and Intercity Rail Capital Program is hereby created to fund transformative capital improvements that will modernize California’s intercity, commuter, and urban rail systems and bus and ferry transit systems to achieve all of the following policy objectives:
 
 (1) Reduce emissions of greenhouse gases.
 
@@ -114996,15 +115171,16 @@ PART 2. Transit and Intercity Rail Capital Program  [75220. - 75227.]
 
 (4) Improve transit safety.
 
-(b) The Transportation Agency shall evaluate applications
- consistent with the criteria set forth in this part and approve a multiyear program of projects for funding pursuant to Section 75224, which may be revised as necessary.
+(b) The Transportation Agency shall evaluate applications consistent with the criteria set forth in this part and approve a multiyear program of projects for funding pursuant to Section 75224, which may be revised as necessary.
 
 (c) The California Transportation Commission shall allocate funding to applicants pursuant to the program of projects approved by the Transportation Agency.
 
-(d) “Transformative capital improvement” means a rail, bus, or ferry transit project that will significantly reduce vehicle miles traveled, congestion, and greenhouse gas emissions by creating a new transit system, increasing the capacity of an existing transit
+(d) The Department of Transportation may provide administrative support for the program.
+
+(e) For purposes of this section, “transformative capital improvement” means a rail, bus, or ferry transit project that will significantly reduce vehicle miles traveled, congestion, and greenhouse gas emissions by creating a new transit system, increasing the capacity of an existing transit
  system, or otherwise significantly increasing the ridership of a transit system.
 
-(History: Amended by Stats. 2015, Ch. 710, Sec. 1.   (SB 9)   Effective January 1, 2016.)
+(History: Amended by Stats. 2026, Ch. 259, Sec. 8.   (SB 193)   Effective September 18, 2026.)
 -------------------------------------------
 
 75221.
@@ -115219,17 +115395,17 @@ PART 3. Low Carbon Transit Operations Program  [75230. - 75231.]
 
 (a) The Low Carbon Transit Operations Program is hereby created to provide operating and capital assistance for transit agencies to reduce the emissions of greenhouse gases and improve mobility, with a priority on serving disadvantaged communities.
 
-(b) Funding for the program is continuously appropriated pursuant to Section 39719 of the Health and Safety Code from the Greenhouse Gas Reduction Fund established pursuant to Section 16428.8 of the Government Code.
+(b) Funding for the program is continuously appropriated pursuant to Section 39719.4 of the Health and Safety Code from the Greenhouse Gas Reduction Fund established pursuant to Section 16428.8 of the Government Code. The Department of Transportation may provide administrative support for the program.
 
-(c) (1) Except
- as provided in
- paragraph (2), funding shall be allocated by the Controller on a formula basis consistent with the requirements of this part and with Section 39719 of the Health and Safety Code, upon a determination by the Department of Transportation that the expenditures proposed by a recipient transit agency meet the requirements of this part and guidelines developed pursuant to this section, and that the amount of funding requested is currently available.
+(c) (1) Except as provided in paragraph (2), funding shall be allocated by the Controller on a formula basis consistent with the
+ requirements of this part, upon a determination by the Department of Transportation that the expenditures proposed by a recipient transit agency meet the requirements of this part and guidelines developed pursuant to this section, and that the amount of funding requested is currently available.
 
 (2) For the portion of funding allocated pursuant to paragraph (1) under the formula set forth in Section 99314 of the Public Utilities Code, the Controller shall allocate that funding for the 2019–20 to 2025–26, inclusive, fiscal years based on the individual operator ratios described in Section 99314.10 of the Public Utilities Code.
 
 (d) A recipient transit agency shall demonstrate that each expenditure of program moneys allocated to the agency reduces the emissions of greenhouse gases.
 
-(e) A recipient transit agency shall demonstrate that each expenditure of program moneys does not supplant another source of funds.
+(e) A recipient transit agency shall
+ demonstrate that each expenditure of program moneys does not supplant another source of funds.
 
 (f) Moneys for the program shall be expended to provide transit operating or capital assistance that meets any of the following:
 
@@ -115237,14 +115413,15 @@ PART 3. Low Carbon Transit Operations Program  [75230. - 75231.]
 
 (2) Operational expenditures that increase transit mode share.
 
-(3) Expenditures related to the purchase of zero-emission buses, including electric buses, and the installation of the necessary equipment and infrastructure to operate and support these zero-emission buses.
+(3) Expenditures related to the purchase of zero-emission buses, including electric buses, and the installation of the necessary equipment and infrastructure
+ to operate and support these zero-emission buses.
 
-(g) (1) For a recipient transit agency whose service area includes disadvantaged communities, as identified pursuant to Section 39711 of the Health and Safety Code, at least 50 percent of the total moneys received pursuant to this part shall be expended on projects or services that meet the requirements of subdivisions (d), (e), and (f)
- and benefit the disadvantaged communities, as identified consistent with the guidance developed by the State Air Resources Board pursuant to Section 39715 of the Health and Safety Code.
+(g) (1) For a recipient transit agency whose service area includes disadvantaged communities, as identified pursuant to Section 39711 of the Health and Safety Code, at least 50 percent of the total moneys received pursuant to this part shall be expended on projects or services that meet the requirements of subdivisions (d), (e), and (f) and benefit the disadvantaged communities, as identified consistent with the guidance developed by the State Air Resources Board pursuant to Section 39715 of the Health and Safety Code.
 
 (2) The requirement of paragraph (1) is waived if the recipient transit agency expends the funding provided pursuant to this section on any of the following:
 
-(A) New or expanded transit service that connects with transit service serving disadvantaged communities, as identified pursuant to Section 39711 of, or in low-income communities, as defined in paragraph (2) of subdivision (d) of Section 39713 of, the Health and Safety Code.
+(A) New or expanded transit service that connects with transit service
+ serving disadvantaged communities, as identified pursuant to Section 39711 of, or in low-income communities, as defined in paragraph (2) of subdivision (d) of Section 39713 of, the Health and Safety Code.
 
 (B) Transit fare subsidies and network and fare integration technology improvements, including, but not limited to, discounted or free student transit passes.
 
@@ -115252,10 +115429,10 @@ PART 3. Low Carbon Transit Operations Program  [75230. - 75231.]
 
 (3) Expenditures made pursuant to paragraph (2) shall be deemed to have met all applicable requirements established pursuant to Section 39713 of the Health and Safety Code.
 
-(4) This section does not require a recipient transit agency to provide individual rider data to the Department of Transportation or to the State Air Resources Board.
+(4) This section does not require a recipient transit agency to provide individual rider data to the Department of Transportation or to the State
+ Air Resources Board.
 
-(h) The Department of Transportation, in coordination with the State Air Resources Board, shall develop guidelines that describe the methodologies that a recipient transit agency shall use to demonstrate that proposed expenditures will meet the criteria in subdivisions (d), (e), (f), and (g) and establish the reporting requirements for documenting
- ongoing compliance with those criteria.
+(h) The Department of Transportation, in coordination with the State Air Resources Board, shall develop guidelines that describe the methodologies that a recipient transit agency shall use to demonstrate that proposed expenditures will meet the criteria in subdivisions (d), (e), (f), and (g) and establish the reporting requirements for documenting ongoing compliance with those criteria.
 
 (i) Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code does not apply to the development of guidelines for the program pursuant to this section.
 
@@ -115265,66 +115442,133 @@ PART 3. Low Carbon Transit Operations Program  [75230. - 75231.]
 
 (2) The documentation required by the guidelines developed pursuant to this section to demonstrate compliance with subdivisions (d), (e), (f), and (g).
 
-(k) For capital projects, a recipient transit agency shall also do all of
- the following:
+(k) For capital projects, a recipient transit agency shall also do all of the following:
 
 (1) Specify the phases of work for which the recipient transit agency is seeking an allocation of moneys from the program.
 
 (2) Identify the sources and timing of all moneys required to undertake and complete any phase of a project for which the recipient transit agency is seeking an allocation of moneys from the program.
 
-(3) Describe intended sources and timing of funding to complete any subsequent phases of the project, through construction or procurement.
+(3) Describe intended sources and timing of funding
+ to complete any subsequent phases of the project, through construction or procurement.
 
-(l) Except as specified in subdivision (m), a recipient transit agency that has used program moneys for any type of operational assistance allowed by subdivision (f) in a previous fiscal year may use program moneys to continue the same service or program in any subsequent fiscal
- year if the agency can demonstrate that reductions in the emissions of greenhouse gases can be realized.
+(l) Except as specified in subdivision (m), a recipient transit agency that has used program moneys for any type of operational assistance allowed by subdivision (f) in a previous fiscal year may use program moneys to continue the same service or program in any subsequent fiscal year if the agency can demonstrate that reductions in the emissions of greenhouse gases can be realized.
 
-(m) A recipient transit agency using program moneys for the continuation of a free or reduced fare transit program shall not be subject to subdivision (l) and may continue to use program moneys for that purpose without any restriction to length of time. The recipient transit agency shall submit an initial allocation request to the department and meet all requirements of this section, except subdivision (l). After the initial allocation for a recipient transit agency’s free or reduced fare transit program is funded pursuant to this subdivision, the recipient transit agency shall not be required to submit an additional allocation request for the next three fiscal years, but instead shall provide documentation necessary to meet the requirements of subdivision (s) and for the free or reduced fare transit program to maintain compliance with this
- section as detailed in the initial allocation request submitted to the department. A recipient transit agency using funds for a free or reduced fare transit program funded pursuant to this subdivision shall submit the reports required by subdivision (s).
+(m) A recipient transit agency using program moneys for the continuation of a free or reduced fare transit program shall not be subject to subdivision (l) and may continue to use program moneys for that purpose without any restriction to length of time. The recipient transit agency shall submit an initial allocation request to the department and meet all requirements of this section, except subdivision (l).
+ After the initial allocation for a recipient transit agency’s free or reduced fare transit program is funded pursuant to this subdivision, the recipient transit agency shall not be required to submit an additional allocation request for the next three fiscal years, but instead shall provide documentation necessary to meet the requirements of subdivision (s) and for the free or reduced fare transit program to maintain compliance with this section as detailed in the initial allocation request submitted to the department. A recipient transit agency using funds for a free or reduced fare transit program funded pursuant to this subdivision shall submit the reports required by subdivision (s).
 
-(n) Before authorizing the disbursement of funds, the Department of Transportation, in coordination with the State Air Resources Board, shall determine the eligibility, in whole or in part, of the proposed list of expense types, based on the documentation provided by a recipient transit agency to ensure ongoing compliance with the guidelines developed pursuant to this section.
+(n) Before authorizing the disbursement of funds, the Department of Transportation, in coordination with the State Air Resources Board, shall determine the eligibility, in whole or in part, of the proposed list of expense types, based on the documentation
+ provided by a recipient transit agency to ensure ongoing compliance with the guidelines developed pursuant to this section.
 
 (o) The Department of Transportation shall notify the Controller of approved expenditures for each recipient transit agency, and the amount of the allocation for each agency determined to be available at that time of approval.
 
-(p) A recipient transit agency that does not submit an expenditure for funding in a particular fiscal year may retain its funding share, and may accumulate and use that funding share in a subsequent fiscal year for a larger expenditure, including operating assistance. The recipient transit agency shall first specify the number of fiscal years that it intends to retain its funding share and the expenditure for which the agency intends to use these moneys. A recipient transit agency may only retain its funding share for a maximum of four fiscal years.
+(p) A recipient transit agency that does not submit an expenditure for funding in a particular fiscal year may retain its funding share, and may accumulate and use that funding share in a subsequent fiscal year for a larger expenditure, including operating assistance. The recipient transit agency shall first specify the number of fiscal years that it intends to retain its funding share and the expenditure for which the agency intends to use these moneys. A recipient transit agency may only retain its funding share for a maximum of four
+ fiscal years.
 
-(q) A recipient transit agency may, in any particular fiscal year, loan or transfer its funding share to another recipient transit agency
- within the same region for any identified eligible expenditure under the program, including operating assistance, in accordance with procedures incorporated by the Department of Transportation in the guidelines developed pursuant to this section, which procedures shall be consistent with the requirement in subdivision (g).
+(q) A recipient transit agency may, in any particular fiscal year, loan or transfer its funding share to another recipient transit agency within the same region for any identified eligible expenditure under the program, including operating assistance, in accordance with procedures incorporated by the Department of Transportation in the guidelines developed pursuant to this section, which procedures shall be consistent with the requirement in subdivision (g).
 
-(r) A recipient transit agency may apply to the Department of Transportation to reassign any savings of surplus moneys allocated under this section to the agency for an expenditure that has been completed to another eligible expenditure under the program, including operating assistance. A recipient transit agency may also apply to the Department of Transportation to reassign to another eligible expenditure any moneys from the program previously allocated to the agency for an expenditure that the agency has determined is no longer a priority for the use of those moneys.
+(r) A recipient transit agency may apply to the Department of Transportation to reassign any savings of surplus moneys allocated under this section to the agency for an expenditure that has been completed to another eligible expenditure under the program, including operating assistance. A recipient transit agency may also apply to the Department of Transportation to reassign to another eligible expenditure any
+ moneys from the program previously allocated to the agency for an expenditure that the agency has determined is no longer a priority for the use of those moneys.
 
 (s) A recipient transit agency shall provide annual reports to the Department of Transportation, in the format and manner prescribed by the department, consistent with the internal administrative procedures for the use of the fund proceeds developed by the State Air Resources Board.
 
 (t) The Department of Transportation and recipient transit agencies shall comply with the guidelines developed by the State Air Resources Board pursuant to Section 39715 of the Health and Safety Code to ensure that the requirements of Section 39713 of the Health and Safety Code are met to maximize the benefits to disadvantaged communities, as identified pursuant to Section 39711 of the Health and Safety Code.
 
-(u) A recipient transit agency shall comply with all applicable legal requirements, including the requirements of the California
- Environmental Quality Act (Division 13 (commencing with Section 21000)), and civil rights and environmental justice obligations under state and federal law. This section does not expand or extend the applicability of those laws to recipient transit agencies.
+(u) A recipient transit agency shall comply with all applicable legal requirements, including the requirements of the California Environmental Quality Act (Division 13 (commencing with Section 21000)), and civil rights and environmental justice obligations under state and federal law. This section does not expand or extend the applicability of those laws to recipient transit agencies.
 
-(v) The audit of public transportation operator finances already required under the Mills-Alquist-Deddeh Act (Chapter 4 (commencing with Section 99200) of Part 11 of Division 10 of the Public Utilities Code) pursuant to Section 99245 of the Public Utilities Code shall be expanded to include verification of receipt and appropriate expenditure of moneys from the program. Each recipient transit agency receiving moneys from the program in a fiscal year for which an audit is conducted shall transmit a copy of the audit to the Department of Transportation, and the department shall make the audits available to the Legislature and the Controller for review on request.
+(v) The audit of public transportation operator finances already required under the Mills-Alquist-Deddeh Act (Chapter 4 (commencing with Section 99200) of Part 11 of Division 10 of the Public Utilities Code) pursuant to Section 99245 of the Public Utilities Code shall be expanded to include verification of receipt and appropriate expenditure of moneys from the program. Each recipient transit agency receiving moneys from the program in a fiscal year for which an audit is conducted shall transmit a copy
+ of the audit to the Department of Transportation, and the department shall make the audits available to the Legislature and the Controller for review on request.
 
-(History: Amended by Stats. 2025, Ch. 109, Sec. 2.   (SB 153)   Effective September 17, 2025.)
+(History: Amended by Stats. 2026, Ch. 259, Sec. 9.   (SB 193)   Effective September 18, 2026.   Superseded January 1, 2027; see amendment by Stats. 2026, Ch. 259.)
+-------------------------------------------
+
+75230.
+
+(a) The Low Carbon Transit Operations Program is hereby created to provide operating and capital assistance for transit agencies to reduce the emissions of greenhouse gases and improve mobility, with a priority on serving disadvantaged communities.
+
+(b) Funding for the program is continuously appropriated pursuant to Section 39719.4 of the Health and Safety Code from the Greenhouse Gas Reduction Fund established pursuant to Section 16428.8 of the Government Code. The department may provide administrative support for the program.
+
+(c) (1) Except as provided in paragraph (2), funding shall be allocated by the Controller on a formula basis consistent with the requirements of this part,
+ upon a determination by the department that the expenditures proposed by a recipient transit agency meet the requirements of this part and guidelines developed pursuant to this section, and that the amount of funding requested is currently available.
+
+(2) For the portion of funding allocated pursuant to paragraph (1) under the formula set forth in Section 99314 of the Public Utilities Code, the Controller shall allocate that funding for the 2019–20 to 2025–26, inclusive, fiscal years based on the individual operator ratios described in Section 99314.10 of the Public Utilities Code.
+
+(d) (1) Program funds shall be expended only on the following services and programs:
+
+(A) Maintenance or expansion of bus, rail, or ferry services, including, but not limited to, equipment acquisition, vehicles,
+ fueling, maintenance, and other costs to operate bus, rail, and ferry services. The expenditure of program funds on buses shall be in accordance with the State Air Resources Board’s Innovative Clean Transit Regulations (Article 4.3 (commencing with Section 2023) of Chapter 1 of Division 3 of Title 13 of the California Code of Regulations).
+
+(B) Transit fare subsidies, including, but not limited to, discounted and free student transit passes.
+
+(C) Network and fare integration technology improvements.
+
+(2) An expenditure made pursuant to paragraph (1) shall be deemed to reduce greenhouse gas emissions.
+
+(e) (1) For a recipient transit agency whose service area includes disadvantaged communities, as identified pursuant to Section 39711 of
+ the Health and Safety Code, at least 50 percent of the total moneys received pursuant to this part shall be expended on projects or services that meet the requirements of subdivision (d) and benefit the disadvantaged communities, as identified consistent with the guidance developed by the State Air Resources Board pursuant to Section 39715 of the Health and Safety Code.
+
+(2) The requirement of paragraph (1) is waived if the recipient transit agency expends the funding provided pursuant to this section on any of the following:
+
+(A) New or expanded transit service that connects with transit service that serves disadvantaged communities, as identified pursuant to Section 39711 of the Health and Safety Code, or in low-income communities, as defined in paragraph (2) of subdivision (d) of Section 39713 of the Health and Safety Code.
+
+(B) Transit fare subsidies and network and fare integration technology improvements, including, but not limited to, discounted or free student transit passes.
+
+(C) The purchase of zero-emission transit buses and supporting infrastructure.
+
+(3) Expenditures made pursuant to paragraph (2) shall be deemed to have met all applicable requirements established pursuant to Section 39713 of the Health and Safety Code.
+
+(4) This section does not require a recipient transit agency to provide individual rider data to the Department of Transportation or to the State Air Resources Board.
+
+(f) (1) Before receiving an allocation of funds pursuant to subdivision (c) from the Controller in a fiscal year, a recipient transit agency shall
+ submit to the department a list of services or programs proposed to be funded with the funds. The list of services or programs proposed to be funded by the program may be for a single year or for multiple years. The list of services or programs proposed to be funded with the funds shall include a description and location of each proposed service or program. The list of services or programs submitted to the department shall not limit the flexibility of a recipient transit agency to fund services or programs in accordance with local needs and priorities if the services or programs are consistent with subdivision (d).
+
+(2) The department shall report to the Controller a recipient transit agency that has submitted a list of services or programs as described in this subdivision and that is therefore eligible to receive an allocation of funds for the applicable fiscal year. The Controller, upon receipt of the report, shall allocate funds consistent
+ with subdivision (c).
+
+(g) For each fiscal year, a recipient transit agency receiving an allocation of funds pursuant to subdivision (f) shall, upon expending those funds, submit documentation to the department that includes a description and location of each completed service or program, and the amount of funds expended on the service or program.
+
+(h) A recipient transit agency that has used program moneys for any type of service or program allowed by subdivision (d) in a previous fiscal year may use program moneys to continue the same service or program in a subsequent fiscal year.
+
+(i) A recipient transit agency that does not submit a list pursuant to paragraph (1) of subdivision (f) in a particular fiscal year may retain its funding share, and may accumulate and use that funding share in a subsequent fiscal year for
+ a larger expenditure. The recipient transit agency shall first specify the number of fiscal years that it intends to retain its funding share and the program or service for which the agency intends to use these moneys. A recipient transit agency may only retain its funding share for a maximum of four fiscal years.
+
+(j) A recipient transit agency may, in any particular fiscal year, loan or transfer its funding share to another recipient transit agency within the same region for any identified eligible program or service under the program, in accordance with procedures developed and adopted by the department.
+
+(k) A recipient transit agency may apply to the department to reassign any savings of surplus moneys allocated under this section to the agency for a program or service that has been completed to another eligible program or service under the program. A recipient transit agency
+ may also apply to the department to reassign to another eligible program or service any moneys from the program previously allocated to the agency for a program or service that the agency has determined is no longer a priority for the use of those moneys.
+
+(l) A recipient transit agency shall comply with all applicable legal requirements, including the requirements of the California Environmental Quality Act (Division 13 (commencing with Section 21000)), and civil rights and environmental justice obligations under state and federal law. This section does not expand or extend the applicability of those laws to recipient transit agencies.
+
+(m) The audit of public transportation operator finances already required under the Mills-Alquist-Deddeh Act (Chapter 4 (commencing with Section 99200) of Part 11 of Division 10 of the Public Utilities Code) pursuant to Section 99245 of the Public
+ Utilities Code shall be expanded to include verification of receipt and appropriate expenditure of moneys from the program. Each recipient transit agency receiving moneys from the program in a fiscal year for which an audit is conducted shall transmit a copy of the audit to the department, and the department shall make the audits available to the Legislature and the Controller for review on request.
+
+(n) Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code does not apply to the development of guidelines or procedures for the program pursuant to this section.
+
+(o) For purposes of this section, “department” means the Department of Transportation.
+
+(History: Amended by Stats. 2026, Ch. 259, Sec. 9.5.   (SB 193)   Effective September 18, 2026.   Operative January 1, 2027, pursuant to Sec. 13 of Stats. 2026, Ch. 259.)
 -------------------------------------------
 
 75231.
 
 (a) A recipient transit agency under the program created pursuant to Section 75230 may apply to the Department of Transportation for a letter of no prejudice for any eligible expenditures under the program, including operating assistance, for which the department has authorized a disbursement of funds. If approved by the department, the letter of no prejudice shall allow the recipient transit agency to expend its own moneys for the expenditures and to be eligible for future reimbursement from moneys available for the program.
 
-(b) The amount expended under subdivision (a) shall be reimbursed by the state from moneys available for the program if all of the
- following conditions are met:
+(b) The amount expended under subdivision (a) shall be reimbursed by the state from moneys available for the program if all of the following conditions are met:
 
-(1) The expenditures for which the letter of no prejudice was requested have commenced, and any regional or local expenditures, if applicable, have been incurred.
+(1) The
+ expenditures for which the letter of no prejudice was requested have commenced, and any regional or local expenditures, if applicable, have been incurred.
 
 (2) The expenditures made by the recipient transit agency are eligible under the program. If expenditures made by the recipient transit agency are determined to be ineligible, the state has no obligation to reimburse those expenditures.
 
-(3) The recipient transit agency complies with all applicable legal requirements for the expenditures, including the requirements of the California Environmental Quality Act (Division 13 (commencing with Section 21000)), and civil rights and environmental justice obligations under state and federal
- law. Nothing in this section shall be construed to expand or extend the applicability of those laws to recipient transit agencies.
+(3) The recipient transit agency complies with all applicable legal requirements for the expenditures, including the requirements of the California Environmental Quality Act (Division 13 (commencing with Section 21000)), and civil rights and environmental justice obligations under state and federal law. Nothing in this section shall be construed to expand or extend the applicability of those laws to recipient transit agencies.
 
-(4) There are moneys in the Greenhouse Gas Reduction Fund designated for the program and from the recipient transit agency’s formula allocation share as determined pursuant to subparagraph (B) of paragraph (1) of subdivision (b) of Section 39719 of the Health and Safety Code that are sufficient to make the reimbursement payment.
+(4) There are moneys in the Greenhouse Gas Reduction Fund designated for the program and from the recipient transit agency’s formula allocation share as determined pursuant to subparagraph (B) of paragraph (1) of subdivision (b) of Section 39719 of, or subparagraph (D) of paragraph (1) of subdivision (c) of Section 39719.4 of, the Health and Safety Code that are sufficient to make the reimbursement payment.
 
-(c) The recipient transit agency and the Department of Transportation shall enter into an agreement governing
- reimbursement as described in this section. The timing and final amount of reimbursement shall be dependent on the terms of the agreement and the availability of moneys in the Greenhouse Gas Reduction Fund for the program.
+(c) The recipient transit agency and the Department of Transportation shall enter into an agreement governing reimbursement as described in this section. The timing and final amount of reimbursement shall be dependent on the terms of the agreement and the availability of moneys in the Greenhouse Gas Reduction Fund for the program.
 
-(d) The Department of Transportation, in consultation with recipient public transit agencies, may develop guidelines to implement this section.
+(d) The Department of Transportation, in consultation with recipient public transit agencies, may develop guidelines to implement this
+ section.
 
-(History: Added by Stats. 2016, Ch. 479, Sec. 2.   (SB 824)   Effective January 1, 2017.)
+(History: Amended by Stats. 2026, Ch. 259, Sec. 10.   (SB 193)   Effective September 18, 2026.)
 -------------------------------------------
 
 
