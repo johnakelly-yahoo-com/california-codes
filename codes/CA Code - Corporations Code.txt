@@ -5,7 +5,7 @@
 
 Source: Official California Legislative Information
         https://downloads.leginfo.legislature.ca.gov/
-Last Updated by State of California: November 27, 2025
+Last Updated by State of California: September 26, 2026
 
 
 ======================================================================
@@ -6008,9 +6008,16 @@ The failure of an aggrieved person to comply with all of the provisions of this 
 
 2296.
 
-This chapter shall apply to applications submitted to the Secretary of State on or after January 1, 2013.
+(a) This chapter shall apply to applications submitted to the Secretary of State on or after January 1, 2013.
 
-(History: Added by Stats. 2012, Ch. 564, Sec. 4.   (SB 1058)   Effective January 1, 2013.)
+(b) On and after the effective date of the act adding this subdivision, the Secretary of State shall not accept any new applications from claimants for payment from the fund. Thereafter, the Secretary of State shall wind down the activities of the fund pursuant to this chapter. While any obligation of the Secretary of State incurred pursuant to this chapter remains outstanding and not fully performed or discharged, the rights, powers, and duties of the Secretary of
+ State shall not be diminished or impaired in any manner that will adversely affect the interests and rights of existing claimants or other parties to those obligations.
+
+(c) The Secretary of State, starting February 1, 2027, and annually thereafter until all outstanding claims have been paid, shall provide to the Joint Legislative Budget Committee and other appropriate committees of the Legislature an update on the fund balance, the number of outstanding claims and the amount owed, and the estimated time for paying off any outstanding claims. When all outstanding claims are paid off, the department shall submit a notice to the Joint Legislative Budget Committee and appropriate committees of the Legislature.
+
+(d) Funding for purposes other than those described in this chapter after all outstanding claims are paid is contingent upon an appropriation of funds by the Legislature in the annual Budget Act.
+
+(History: Amended by Stats. 2026, Ch. 255, Sec. 2.   (AB 184)   Effective September 18, 2026.)
 -------------------------------------------
 
 
@@ -22078,21 +22085,19 @@ Every society incorporated and organized for the prevention of cruelty to animal
 
 (b) A humane society or a society for the prevention of cruelty to animals seeking confirmation of a humane officer’s appointment shall comply with each of the following provisions:
 
-(1) Before filing a Petition for Order Confirming Appointment of a Humane Officer under paragraph (3), the humane society or society for the prevention of cruelty to animals shall submit to the Department of Justice fingerprint images and related information of all humane officer applicants for purposes of obtaining information as to the existence and content of a record of state and federal convictions and state and federal arrests and also information as to the existence and content of a record of state and federal arrests for which the Department of Justice establishes that the person is free on bail
- or on their own recognizance pending trial or appeal.
+(1) (A) Before filing a Petition for Order Confirming Appointment of a Humane Officer under paragraph (3), a humane officer applicant shall undergo a fingerprint-based criminal history background check.
 
-(A) When received, the Department of Justice shall forward to the Federal Bureau of Investigation requests for federal summary criminal history information received pursuant to this section. The Department of Justice shall review the information returned from the Federal Bureau of Investigation and compile and disseminate a fitness determination regarding the humane officer applicants to the humane society or society for the prevention of cruelty to animals.
+(B) A city, county, and city and county humane society or society for the prevention of cruelty to animals shall submit to the Department of Justice fingerprint images and related information for humane officer applicants pursuant to subdivision (u) of Section 11105 of the Penal Code. The Department of Justice shall provide a
+ state and federal response to a government entity pursuant to subdivision (p) of Section 11105 of the Penal Code. The Department of Justice shall provide a state response to a nongovernmental entity pursuant to subdivision (p) of Section 11105 of the Penal Code.
 
-(B) The Department of Justice shall provide a state response to the humane society or society for the prevention of cruelty to animals pursuant to paragraph (1) of subdivision (p) of Section 11105 of the Penal Code.
-
-(C) The humane society or society for the prevention of cruelty to animals shall request from the Department of Justice subsequent arrest notification service, as provided pursuant to Section 11105.2 of the Penal Code, for persons whose appointments are confirmed as described in subdivision (c).
+(C) The submitting entity shall request from the Department of Justice subsequent arrest notification service, as provided pursuant to Section 11105.2 of the Penal Code, for persons whose appointments are confirmed as described in subdivision (c).
 
 (D) The Department of Justice shall charge a fee sufficient to cover the cost of processing the request described in this paragraph.
 
-(2) When filing a Petition for Order Confirming Appointment of a Humane Officer under paragraph (3), the humane society or society for the prevention of cruelty to animals shall serve a copy of the petition on each of the following:
+(2) When filing a Petition for Order Confirming Appointment of a Humane Officer under
+ paragraph (3), the humane society or society for the prevention of cruelty to animals shall serve a copy of the petition on each of the following:
 
-(A) The police department having jurisdiction in the city in which
- the principal office of the appointing society is located.
+(A) The police department having jurisdiction in the city in which the principal office of the appointing society is located.
 
 (B) The sheriff’s department having jurisdiction in the county in which the principal office of the appointing society is located.
 
@@ -22100,14 +22105,15 @@ Every society incorporated and organized for the prevention of cruelty to animal
 
 (D) The California Animal Welfare Association.
 
-(E) The animal control agency having jurisdiction in the city in which the principal office of the appointing society is located. If the sheriff’s department or police department entitled to notice under subparagraph (A) or (B) provides animal control services for the city in which the principal office of the appointing society is located, no separate notice is required under this
- subparagraph.
+(E) The animal control agency having jurisdiction in the city in which the principal office of the appointing
+ society is located. If the sheriff’s department or police department entitled to notice under subparagraph (A) or (B) provides animal control services for the city in which the principal office of the appointing society is located, no separate notice is required under this subparagraph.
 
 (F) The Department of Justice.
 
 (3) The humane society or society for the prevention of cruelty to animals shall file with the superior court in and for the county or city and county in which the principal office of the humane society is located a Petition for Order Confirming Appointment of a Humane Officer, and shall attach to the petition all of the following:
 
-(A) A copy of the resolution appointing the person, duly certified to be correct by the president and secretary of the society and attested by its seal.
+(A) A copy of the resolution appointing the person, duly certified to be
+ correct by the president and secretary of the society and attested by its seal.
 
 (B) A copy of the criminal record offender information, if any, obtained regarding the person pursuant to paragraph (1).
 
@@ -22115,14 +22121,15 @@ Every society incorporated and organized for the prevention of cruelty to animal
 
 (D) A copy of the society’s liability insurance policy for bodily injury or property damage in the amount of at least one million dollars ($1,000,000).
 
-(E) Documentation establishing that the appointee has satisfactorily completed the training requirements set forth in this section.
+(E) Documentation establishing that the appointee has satisfactorily completed the training requirements
+ set forth in this section.
 
-(F) Documentation establishing that the society has a written agreement with another entity, such as a public or private animal shelter or licensed veterinary clinic, that (i)
- provides for the humane care and treatment of any animals seized by the society, (ii) is capable of preserving evidence that may be used to prosecute an animal cruelty case, and (iii) is compliant with all applicable federal, state, and local laws, including licensing laws. Alternatively, the society may provide documentation that it is operating its own animal shelter that meets the requirements of clauses (i), (ii), and (iii).
+(F) Documentation establishing that the society has a written agreement with another entity, such as a public or private animal shelter or licensed veterinary clinic, that (i) provides for the humane care and treatment of any animals seized by the society, (ii) is capable of preserving evidence that may be used to prosecute an animal cruelty case, and (iii) is compliant with all applicable federal, state, and local laws, including licensing laws. Alternatively, the society may provide documentation that it is operating its own animal shelter that meets the requirements of clauses (i), (ii), and (iii).
 
 (G) If the society has not previously appointed a humane officer:
 
-(i) An affidavit signed under penalty of perjury from the president of the society that demonstrates the society’s competence to appoint a humane officer by providing information, including, but not limited to, the following:
+(i) An affidavit
+ signed under penalty of perjury from the president of the society that demonstrates the society’s competence to appoint a humane officer by providing information, including, but not limited to, the following:
 
 (I) Partnerships or collaborations, if any, with other nonprofit or community agencies.
 
@@ -22132,10 +22139,10 @@ Every society incorporated and organized for the prevention of cruelty to animal
 
 (IV) Current or prior law enforcement, legal, or other relevant experience, if any, of persons who will supervise the appointee.
 
-(V) Current or prior experience of managers, if any, in operating a society or other nonprofit organization.
+(V) Current or prior experience of
+ managers, if any, in operating a society or other nonprofit organization.
 
-(VI) Statement that each board member is in good standing in the community and has not been convicted of a misdemeanor or felony
- involving animals.
+(VI) Statement that each board member is in good standing in the community and has not been convicted of a misdemeanor or felony involving animals.
 
 (VII) Ongoing training beyond the minimum required for appointment of the humane officer, if any.
 
@@ -22143,116 +22150,121 @@ Every society incorporated and organized for the prevention of cruelty to animal
 
 (IX) Any other documentation demonstrating compliance with applicable federal, state, or local laws.
 
-(ii) Affidavits, if any, from personnel of local animal control agencies, law enforcement agencies, or other societies pertaining to the appointee’s fitness to act as a humane officer.
+(ii) Affidavits, if any, from personnel of local animal control agencies, law enforcement agencies, or other societies
+ pertaining to the appointee’s fitness to act as a humane officer.
 
 (H) As the last page, proof of service of a copy of the petition upon those parties required to be served.
 
-(4) Any party described in paragraph (2) may file an opposition to the petition described in paragraph (3). All papers filed in opposition to the petition and in reply to the opposition shall conform to law and motion pleading requirements, pursuant to Rule 3.1113(d) of the California Rules of Court. An opposition shall not exceed 15 pages and a reply shall not exceed 10 pages, excluding exhibits and declarations. The opposition shall be limited to the competency of the society to appoint and supervise a humane officer and the qualifications, background, and fitness of the appointee that are specific to the work of a humane officer.
+(4) Any party described in paragraph (2) may file an opposition to the petition described in paragraph (3). All papers filed in opposition to the petition and in reply to the opposition shall conform to law and motion pleading requirements, pursuant to Rule 3.1113(d) of the California Rules of Court. An opposition shall not exceed 15 pages and a reply shall not exceed 10 pages, excluding exhibits and declarations. The opposition shall be limited to the competency of the society to appoint and supervise a humane officer and the qualifications, background, and fitness of the appointee that are specific to the
+ work of a humane officer.
 
-(A) Any opposition shall be filed no later than 15 court days after the petition is filed with the court. Any opposition shall be served on all parties indicated on the proof of service attached to the
- petition.
+(A) Any opposition shall be filed no later than 15 court days after the petition is filed with the court. Any opposition shall be served on all parties indicated on the proof of service attached to the petition.
 
 (B) The petitioner’s reply, if any, to the opposition shall be filed within 10 court days after service of the opposition. The reply shall be served on all parties listed in the proof of service attached to the petition and to any other person who has filed an opposition.
 
 (C) The court shall rule on the petition without a hearing unless the court notifies the parties of an intention to hold a hearing.
 
-(D) The petitioner shall serve a certified copy of the court’s order ruling on the petition on all parties listed in the proof of service attached to the petition and to any other person or entity who has filed an opposition.
+(D) The petitioner shall serve a
+ certified copy of the court’s order ruling on the petition on all parties listed in the proof of service attached to the petition and to any other person or entity who has filed an opposition.
 
-(c) (1) Upon
- receipt of the Petition for Order Confirming Appointment of a Humane Officer, the court shall first determine the society’s date of incorporation, and the length of time between the date the society filed its articles of incorporation with the Secretary of State and the date it filed the petition described in paragraph (3) of subdivision (b) with the court. If the society was incorporated on or after January 1, 2011, the following shall apply:
+(c) (1) Upon receipt of the Petition for Order Confirming Appointment of a Humane Officer, the court shall first determine the society’s date of incorporation, and the length of time between the date the society filed its articles of incorporation with the Secretary of State and the date it filed the petition described in paragraph (3) of subdivision (b) with the court. If the society was incorporated on or after January 1, 2011, the following shall apply:
 
-(A) For a petition to confirm appointment of a level 1 humane officer, the court shall issue an order denying confirmation of the appointment if a minimum of five years has not elapsed from the date the society filed its articles of incorporation with the Secretary of State to the date it filed the petition.
+(A) For a petition to confirm appointment of a level 1 humane officer, the court shall issue an order denying
+ confirmation of the appointment if a minimum of five years has not elapsed from the date the society filed its articles of incorporation with the Secretary of State to the date it filed the petition.
 
-(B) For a petition to confirm
- appointment of a level 2 humane officer, the court shall issue an order denying confirmation of the appointment if a minimum of one year has not elapsed from the date the society filed its articles of incorporation with the Secretary of State to the date it filed the petition.
+(B) For a petition to confirm appointment of a level 2 humane officer, the court shall issue an order denying confirmation of the appointment if a minimum of one year has not elapsed from the date the society filed its articles of incorporation with the Secretary of State to the date it filed the petition.
 
-(C) For a petition to confirm appointment of either a level 1 or level 2 humane officer, the court shall issue an order denying confirmation of the appointment if the society has not established, through submission of appropriate documentation, that the society is either operating its own animal shelter or has a written agreement with another entity, in compliance with subparagraph (F) of paragraph (3) of subdivision (b).
+(C) For a petition to confirm appointment of either a level 1 or level 2 humane officer, the court shall issue an order denying confirmation of the appointment if the society has not established, through submission of appropriate documentation, that the society is either operating
+ its own animal shelter or has a written agreement with another entity, in compliance with subparagraph (F) of paragraph (3) of subdivision (b).
 
-(2) If the court has not issued an order denying the petition pursuant to paragraph
- (1), the court shall review the matter of the appointee’s qualifications and fitness to act as a humane officer. The court shall also consider any documentation it has received in support of, or in opposition to, the confirmation of the person’s appointment. If the court finds that the appointee is qualified and fit to act as a humane officer, the court shall issue an order confirming the appointment. The society shall thereupon file a certified copy of the court order in the office of the county clerk of the county or city and county in which the court is located. The appointee shall, at the same time, take and subscribe an oath of office prescribed for peace officers. The society shall also provide a copy of the Order Confirming Appointment to the California Animal Welfare Association and the Department of Justice. The Department of Justice may charge a reasonable fee sufficient to cover the
- costs of maintaining records of Orders Confirming Appointment. If the court does not find the appointee qualified and fit to act as a humane officer, the court shall issue an order denying confirmation of the appointment.
+(2) If the court has not issued an order denying the petition pursuant to paragraph (1), the court shall review the matter of the appointee’s qualifications and fitness to act as a humane officer. The court shall also consider any documentation it has received in support of, or in opposition to, the confirmation of the person’s appointment. If the court finds that the appointee is qualified and fit to act as a humane officer, the court shall issue an order confirming the appointment. The society shall thereupon file a certified copy of the court order in the office of the county clerk of the county or city and county in which the court is located. The appointee shall, at the same time, take and
+ subscribe an oath of office prescribed for peace officers. The society shall also provide a copy of the Order Confirming Appointment to the California Animal Welfare Association and the Department of Justice. The Department of Justice may charge a reasonable fee sufficient to cover the costs of maintaining records of Orders Confirming Appointment. If the court does not find the appointee qualified and fit to act as a humane officer, the court shall issue an order denying confirmation of the appointment.
 
-(d) If the court grants the petition, the county clerk shall immediately enter in a book to be kept in the county clerk’s office and designated “Record of Humane Officers” the name of the officer, the name of the society appointing the officer, the number of the officer’s badge, the date of the filing, and the case number of the court order confirming the appointment. At the time of the filing, the county clerk shall collect from the society a fee of five dollars ($5), which shall be full payment for all services to be performed by the county clerk under this section.
+(d) If the court grants the petition, the county clerk shall immediately enter in a book to be kept in the county clerk’s office and designated “Record of Humane Officers” the name of the officer, the name of the society appointing the officer, the number of the officer’s badge, the date of the filing, and the case number of the court
+ order confirming the appointment. At the time of the filing, the county clerk shall collect from the society a fee of five dollars ($5), which shall be full payment for all services to be performed by the county clerk under this section.
 
 (e) All appointments of humane officers shall automatically expire if the society disbands or legally dissolves.
 
-(f) (1) The society appointing an officer may revoke an appointment at any time by filing in the office of the county clerk in which the appointment of the officer is recorded a copy of the revocation in writing under the letterhead of the society and duly certified by its executive officer. Upon the filing, the county clerk shall enter the fact of the revocation and the date of the filing of the revocation opposite the name of the officer in the record of humane officers.
+(f) (1) The society appointing an officer may revoke an appointment at any time by filing in the office of the county clerk in which the appointment of the officer is recorded a copy of the revocation in writing under the letterhead of the society and duly certified by its executive officer. Upon the filing, the county clerk shall enter the fact of the revocation and the date of the filing of the revocation opposite the
+ name of the officer in the record of humane officers.
 
-(2) Notwithstanding paragraph (1), any duly authorized sheriff or local police agency or the California Animal Welfare Association may initiate a revocation hearing by
- filing a petition to Revoke Appointment of a Humane Officer. The petition shall show cause why an appointment should be revoked and shall be made to the superior court in the jurisdiction of the appointment. Filing, service, and format of the petition and any oppositions and
- reply papers shall conform to the law and motion requirements under the Code of Civil Procedure, California Rules of Court, and this code. A proceeding pursuant to this paragraph shall be a special proceeding within the meaning of Section 23 of the Code of Civil Procedure.
+(2) Notwithstanding paragraph (1), any duly authorized sheriff or local police agency or the California Animal Welfare Association may initiate a revocation hearing by filing a petition to Revoke Appointment of a Humane Officer. The petition shall show cause why an appointment should be revoked and shall be made to the superior court in the jurisdiction of the appointment.
+ Filing, service, and format of the petition and any oppositions and reply papers shall conform to the law and motion requirements under the Code of Civil Procedure, California Rules of Court, and this code. A proceeding pursuant to this paragraph shall be a special proceeding within the meaning of Section 23 of the Code of Civil Procedure.
 
 (A) Notice of the hearing date and a copy of the petition shall be served in the same manner as a summons upon the humane officer subject to the petition, the society that appointed the officer, the agencies and association described in paragraph (2) of subdivision (b); except the party filing the petition shall not be required to serve copies of those documents upon itself.
 
-(B) Upon a finding of good cause, the court shall issue an order granting the petition to revoke the appointment. The county
- clerk shall immediately enter the revocation and the date of the court order opposite the name of the officer in the record of humane officers. The clerk of the superior court shall give notice of the order to the parties described in subparagraph (A) and to the county clerk-recorder.
+(B) Upon a finding of good cause, the court shall issue an order granting
+ the petition to revoke the appointment. The county clerk shall immediately enter the revocation and the date of the court order opposite the name of the officer in the record of humane officers. The clerk of the superior court shall give notice of the order to the parties described in subparagraph (A) and to the county clerk-recorder.
 
 (g) The society appointing the humane officer shall pay the training expenses of the humane officer attending the training required pursuant to this section.
 
-(h) (1) (A) A level 1 humane officer is not a peace officer, but may exercise the powers of a peace officer at all places within the state in order to prevent the perpetration of any act of cruelty upon any animal and to that end may summon to the officer’s aid any bystander. A level 1 humane officer
- may use reasonable force necessary to prevent the perpetration of any act of cruelty upon any animal.
+(h) (1) (A) A level 1 humane officer is not a peace officer, but may exercise the powers of a peace officer at all places within the state in order to prevent the perpetration of any act of cruelty upon any animal and to that end may summon to the officer’s
+ aid any bystander. A level 1 humane officer may use reasonable force necessary to prevent the perpetration of any act of cruelty upon any animal.
 
 (B) A level 1 humane officer may make arrests for the violation of any penal law of this state relating to or affecting animals in the same manner as any peace officer and may serve search warrants.
 
 (C) A level 1 humane officer is authorized to carry firearms while exercising the duties of a humane officer, upon satisfactory completion of the training specified in subparagraph (D), if the requirements in subparagraph (F) are met.
 
-(D) A level 1 humane officer shall, before appointment, provide evidence satisfactory to the appointing society that the officer has successfully completed the following requirements:
+(D) A level 1 humane officer shall, before appointment, provide evidence satisfactory to the appointing society that the officer has successfully
+ completed the following requirements:
 
 (i) At least 20 hours of a course of training in animal care sponsored or provided by an accredited postsecondary institution or any other provider approved by the California Veterinary Medical Association the focus of which shall be the identification of disease, injury, and neglect in domestic animals and livestock.
 
 (ii) At least 40 hours of a course of training in the state humane laws relating to the powers and duties of a humane officer, sponsored or provided by an accredited postsecondary institution, law enforcement agency, or the California Animal Welfare Association.
 
-(iii) The basic training for a level 1 reserve officer by the Commission on Peace Officer Standards and Training pursuant to paragraph (1) of
- subdivision (a) of Section 832.6 of the Penal Code.
+(iii) The basic training for a level 1 reserve officer by the Commission on Peace Officer Standards and Training
+ pursuant to paragraph (1) of subdivision (a) of Section 832.6 of the Penal Code.
 
-(E) A person shall not be appointed as a level 1 humane officer until the person meets the criteria in Sections 1029, 1030, and 1031 of the Government Code. A humane society or society for the prevention of cruelty to animals shall complete a background investigation, using standards defined by the Commission on Peace Officer Standards and Training as guidelines for all level 1 humane officer appointments.
+(E) A person shall not be appointed as a level 1 humane officer until the person meets the criteria in Sections 1029, 1030, and 1031 of the Government Code. A humane society or society for the
+ prevention of cruelty to animals shall complete a background investigation, using standards defined by the Commission on Peace Officer Standards and Training as guidelines for all level 1 humane officer appointments.
 
 (F) (i) Notwithstanding any other provision of this section, a level 1 humane officer may carry a firearm only if authorized by, and only under the terms and conditions specified by, the officer’s appointing society.
 
-(ii) Notwithstanding
- any other provision of this section, a level 1 humane officer shall not be authorized to carry a firearm unless and until the officer’s appointing society has adopted a policy on the use of deadly force by its officers and the officer has been instructed in that policy.
+(ii) Notwithstanding any other provision of this section, a level 1 humane officer shall not be authorized to carry a firearm unless and until the officer’s appointing society has adopted a policy on the use of deadly force by its officers and the officer has been instructed in that policy.
 
 (2) (A) A level 2 humane officer is not a peace officer, but may exercise the powers of a peace officer at all places within the state in order to prevent the perpetration of any act of cruelty upon any animal and to that end may summon to the officer’s aid any bystander. A level 2 humane officer may use reasonable force necessary to prevent the perpetration of any act of cruelty upon any animal.
 
-(B) A level 2 humane officer may make arrests for the violation of any penal law of this state
- relating to or affecting animals in the same manner as any peace officer and may serve search warrants during the course and within the scope of appointment, upon the successful completion of a course relating to the exercise of the police powers specified in Section 832 of the Penal Code, except the power to carry and use firearms.
+(B) A level 2 humane officer may make arrests for the violation of any penal law of this state relating to or affecting animals in the same manner as any peace officer and may serve search warrants during the course and within the scope of appointment, upon the successful completion of a course relating to the exercise of the police powers specified in Section 832
+ of the Penal Code, except the power to carry and use firearms.
 
 (C) A level 2 humane officer is not authorized to carry firearms.
 
 (D) A level 2 humane officer shall, before appointment, provide evidence satisfactory to the appointing society that the officer has successfully completed courses of training in the following subjects:
 
-(i) At least 20 hours of a course of training in animal care sponsored or provided by an accredited postsecondary institution or
- any other provider approved by the California Veterinary Medical Association, the focus of which is the identification of disease, injury, and neglect in domestic animals and livestock.
+(i) At least 20 hours of a course of training in animal care sponsored or provided by an accredited postsecondary institution or any other provider approved by the California Veterinary Medical Association, the focus of which is the identification of disease, injury, and neglect in domestic animals and livestock.
 
-(ii) At least 40 hours of a course of training in the state humane laws relating to the powers and duties of a humane officer, sponsored or provided by an accredited postsecondary institution, law enforcement agency, or the California Animal Welfare Association.
+(ii) At least 40 hours
+ of a course of training in the state humane laws relating to the powers and duties of a humane officer, sponsored or provided by an accredited postsecondary institution, law enforcement agency, or the California Animal Welfare Association.
 
-(E) A person shall not be appointed as a level 2 humane officer until the person meets the criteria in Sections 1029, 1030, and 1031 of the Government Code. A humane society or society for the prevention of cruelty to animals shall complete a background investigation, using standards defined by the Commission on Peace Officer Standards
- and Training as guidelines, for all level 2 humane officer appointments.
+(E) A person shall not be appointed as a level 2 humane officer until the person meets the criteria in Sections 1029, 1030, and 1031 of the Government Code. A humane society or society for the prevention of cruelty to animals shall complete a background investigation, using standards defined by the Commission on Peace Officer Standards and Training as guidelines, for all level 2 humane officer appointments.
 
-(3) During each three-year period following the date on which the certified copy of the court order confirming the appointment of a humane officer was filed with the county clerk, the humane officer shall complete 40 hours of continuing education and training relating to the powers and duties of a humane officer, which education and training shall be sponsored or provided by an accredited postsecondary institution, law enforcement agency, or the California Animal Welfare Association. A certificate of compliance shall be served no later than 21 days after the expiration of each three-year period on the Department of Justice with copies served on the superior court, agencies, and associations described in subparagraphs (A) to (E), inclusive, of paragraph (2) of subdivision
- (b). The Department of Justice may charge a reasonable fee sufficient to cover the costs of maintaining records of certificates of compliance. The certificate of compliance shall also include documentation that the humane society or society for the prevention of cruelty to animals is in compliance with subparagraph (F) of paragraph (3) of subdivision (b). Service on the Department of Justice shall be in compliance with procedures set forth by the Department of Justice. The Department of Justice shall post the filing procedures, as they may be updated from time to time, on its internet website. Failure to file the certificate of compliance with the Department of Justice no later than 21 days after the expiration of a three-year period shall result in immediate revocation of the appointment.
+(3) During each three-year period following the date on which the certified copy of the court order confirming the appointment of
+ a humane officer was filed with the county clerk, the humane officer shall complete 40 hours of continuing education and training relating to the powers and duties of a humane officer, which education and training shall be sponsored or provided by an accredited postsecondary institution, law enforcement agency, or the California Animal Welfare Association. A certificate of compliance shall be served no later than 21 days after the expiration of each three-year period on the Department of Justice with copies served on the superior court, agencies, and associations described in subparagraphs (A) to (E), inclusive, of paragraph (2) of subdivision (b). The Department of Justice may charge a reasonable fee sufficient to cover the costs of maintaining records of certificates of compliance. The certificate of compliance shall also include documentation that the humane society or society for the prevention
+ of cruelty to animals is in compliance with subparagraph (F) of paragraph (3) of subdivision (b). Service on the Department of Justice shall be in compliance with procedures set forth by the Department of Justice. The Department of Justice shall post the filing procedures, as they may be updated from time to time, on its internet website. Failure to file the certificate of compliance with the Department of Justice no later than 21 days after the expiration of a three-year period shall result in immediate revocation of the appointment.
 
-(4) If the humane officer is authorized to carry a
- firearm, the officer shall complete ongoing weapons training and range qualifications at least every six months pursuant to subdivision (t) of Section 830.3 of the Penal Code. A certificate of compliance pursuant to this section shall be served no later than 21 days after the expiration of a six-month period on the Department of Justice with copies served on the superior court, and on the agencies and associations described in subparagraphs (A) to (E), inclusive, of paragraph (2) of subdivision (b). The Department of Justice may charge a reasonable fee sufficient to cover the costs of maintaining records of certificates of compliance. The certificate of compliance shall also include documentation that the humane society or society for the prevention of cruelty to animals is in compliance with subparagraph (F) of paragraph (3) of subdivision (b). Service on the Department of Justice shall be in
- compliance with procedures set forth by the Department of Justice. The Department of Justice shall post the filing procedures, as they may be updated from time to time, on its internet website. Failure to file the certificate of compliance with the Department of Justice no later than 21 days after the expiration of a six-month period shall result in immediate revocation of the appointment.
+(4) If the humane officer is authorized to carry a firearm, the officer shall complete ongoing weapons training and range qualifications at least every six months pursuant to subdivision (t) of Section 830.3 of the Penal Code. A certificate of compliance pursuant to this section shall be served no later than 21
+ days after the expiration of a six-month period on the Department of Justice with copies served on the superior court, and on the agencies and associations described in subparagraphs (A) to (E), inclusive, of paragraph (2) of subdivision (b). The Department of Justice may charge a reasonable fee sufficient to cover the costs of maintaining records of certificates of compliance. The certificate of compliance shall also include documentation that the humane society or society for the prevention of cruelty to animals is in compliance with subparagraph (F) of paragraph (3) of subdivision (b). Service on the Department of Justice shall be in compliance with procedures set forth by the Department of Justice. The Department of Justice shall post the filing procedures, as they may be updated from time to time, on its internet website. Failure to file the certificate of compliance with the Department of
+ Justice no later than 21 days after the expiration of a six-month period shall result in immediate revocation of the appointment.
 
 (5) (A) A humane officer may carry a wooden club or baton if the officer has satisfactorily completed the course of instruction certified by the Commission on Peace Officer Standards and Training in the carrying and use of the club or baton pursuant to subdivision (g) of Section 22295 of the Penal Code.
 
-(B) Notwithstanding subparagraph (A), a humane officer may carry a
- wooden club or baton only if authorized by, and only under the terms and conditions specified by, the officer’s appointing society.
+(B) Notwithstanding subparagraph (A), a humane officer may carry a wooden club or baton only if authorized by, and only under the terms and conditions specified by, the officer’s appointing society.
 
-(i) Every humane officer shall, when making an arrest, exhibit and expose a suitable badge to be adopted by the society under this part of which the officer is an appointee which shall bear its name and a number. Uniforms worn by humane officers shall prominently display the name of the appointing society. Humane officer uniforms shall not display the words “state” or “California,” except to the extent that one or both of those words are part of the appointing society’s incorporated name.
+(i) Every humane officer shall, when making an arrest, exhibit and
+ expose a suitable badge to be adopted by the society under this part of which the officer is an appointee which shall bear its name and a number. Uniforms worn by humane officers shall prominently display the name of the appointing society. Humane officer uniforms shall not display the words “state” or “California,” except to the extent that one or both of those words are part of the appointing society’s incorporated name.
 
-(j) Any person resisting a humane officer in the performance of the officer’s duty as provided in this section is guilty of a misdemeanor. Any person who has not
- been appointed and qualified as a humane officer as provided in this section, or whose appointment has been revoked as provided in this section, or whose appointment, having expired, has not been renewed as provided in this section, who shall represent themself to be or shall attempt to act as an officer shall be guilty of a misdemeanor.
+(j) Any person resisting a humane officer in the performance of the officer’s duty as provided in this section is guilty of a misdemeanor. Any person who has not been appointed and qualified as a humane officer as provided in this section, or whose appointment has been revoked as provided in this section, or whose appointment, having expired, has not been renewed as provided in this section, who shall represent themself to be
+ or shall attempt to act as an officer shall be guilty of a misdemeanor.
 
 (k) No humane officer shall serve a search warrant without providing prior notice to local law enforcement agencies operating within that jurisdiction.
 
 (l) Any humane society, society for the prevention of cruelty to animals, or person, who knowingly provides a court with false or forged documentation for the appointment of a humane officer, is guilty of a misdemeanor and shall be punished by a fine of up to ten thousand dollars ($10,000).
 
-(m) Except as otherwise provided by this section, a humane officer shall serve only in the county in which the court that appointed the officer sits. A humane officer may serve in another county if the humane officer gives notice requesting consent to the sheriff of the county in which the officer intends to serve, and acquires consent from that sheriff of the county in which the officer intends to serve, or from a person authorized by the sheriff to give that consent. A sheriff shall promptly respond to any request by a humane officer to serve in the sheriff’s jurisdiction and any request shall not be unreasonably denied.
+(m) Except as otherwise provided by this section, a humane officer shall serve only in the county in which the court that appointed the officer sits. A humane officer may serve in another county if the humane
+ officer gives notice requesting consent to
+ the sheriff of the county in which the officer intends to serve, and acquires consent from that sheriff of the county in which the officer intends to serve, or from a person authorized by the sheriff to give that consent. A sheriff shall promptly respond to any request by a humane officer to serve in the sheriff’s jurisdiction and any request shall not be unreasonably denied.
 
-(History: Amended by Stats. 2020, Ch. 210, Sec. 2.   (AB 1984)   Effective January 1, 2021.)
+(History: Amended by Stats. 2026, Ch. 313, Sec. 5.   (AB 2796)   Effective September 18, 2026.)
 -------------------------------------------
 
 14503.
