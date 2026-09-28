@@ -5,7 +5,7 @@
 
 Source: Official California Legislative Information
         https://downloads.leginfo.legislature.ca.gov/
-Last Updated by State of California: July 21, 2026
+Last Updated by State of California: September 26, 2026
 
 
 ======================================================================
@@ -20010,7 +20010,7 @@ The Legislature finds and declares that the garment industry is rife with both e
 
 
 
-PART 12. SHEEPHERDERS AND GOAT HERDERS [2695.1. - 2695.2.]
+PART 12. SHEEPHERDERS AND GOAT HERDERS [2695.1. - 2695.4.]
 
 2695.1.
 
@@ -20099,6 +20099,92 @@ PART 12. SHEEPHERDERS AND GOAT HERDERS [2695.1. - 2695.2.]
  this part in an area frequented by sheepherders where it may be easily read during the workday. Where the location of work or other conditions make posting impractical, every employer shall make a copy of this part available to sheepherders upon request. Copies of this part shall be posted and made available in a language understood by the sheepherder. An employer is deemed to have complied with this subdivision if the employer posts where practical, or makes available upon request where posting is impractical, a copy of the Industrial Welfare Commission Order 14-2001, updated pursuant to subdivision (c) of Section 2695.1, relating to sheepherders, provided that the posted material includes a sufficient summary of each of the provisions of this part.
 
 (History: Amended by Stats. 2022, Ch. 569, Sec. 42.   (AB 156)   Effective September 27, 2022.)
+-------------------------------------------
+
+2695.4.
+
+(a) It is the intent of the Legislature to codify certain labor protections that should be afforded to goat herders. The provisions of this section are in addition to, and are entirely independent from, any other statutory or legal protections, rights, or remedies that are or may be available under this code or any other state law or regulation to goat herders either as individuals, employees, or persons.
+
+(b) (1) For a goat herder employed on a regularly scheduled 24-hour shift on a seven-days-per-week “on-call” basis, an employer may, as an alternative to paying the minimum wage for all hours worked, instead pay no less than the monthly minimum wage specified in Section 4(E) of Wage Order No. 14-2001 of the Industrial
+ Welfare Commission. Any goat herder who performs non-goat-herding work on any workday shall be fully covered for that workweek by the provisions of any applicable laws or regulations relating to that work.
+
+(2) The amount of the monthly minimum wage permitted under paragraph (1) shall be increased each time that the state minimum wage is increased and shall become effective on the same date as any increase in the state minimum wage. The amount of the increase shall be determined by calculating the percentage increase of the new rate over the previous rate, and then by applying the same percentage increase to the minimum monthly wage rate.
+
+(3) An employer shall not credit meals or lodging against the minimum wage owed to goat herders under this subdivision. Every employer shall provide to each goat herder not less than the minimum monthly meal and lodging benefits required to be
+ provided by employers of goat herders under the provisions of the H-2A visa program of the federal Immigration and Nationality Act (8 U.S.C. Sec. 1101) or any successor provisions.
+
+(c) (1) When tools or equipment are required by the employer or are necessary to the performance of a job, the tools and equipment shall be provided and maintained by the employer, except that a goat herder whose wages are at least two times the minimum wage provided herein, or if paid on a monthly basis, at least two times the monthly minimum wage, may be required to provide and maintain hand tools and equipment customarily required by the trade or craft.
+
+(2) A reasonable deposit may be required as security for the return of the items furnished by the employer under provisions of paragraph (1) upon issuance of a receipt to the goat herder for the deposit. The deposits shall be
+ made pursuant to Article 2 (commencing with Section 400) of Chapter 3 of Part 1. Alternatively, with the prior written authorization of the goat herder, an employer may deduct from the goat herder’s last check the cost of any item furnished pursuant to paragraph (1) when the item is not returned. No deduction shall be made at any time for normal wear and tear. All items furnished by the employer shall be returned by the goat herder upon completion of the job.
+
+(d) No employer of goat herders shall employ a goat herder for a work period of more than five hours without a meal period of no less than 30 minutes, except that when a work period of not more than six hours will complete a day’s work, the meal period may be waived by the mutual consent of the employer and the goat herder. An employer may be relieved of this obligation if a meal period of 30 minutes cannot reasonably be provided because no one is available to relieve a goat herder tending
+ flock alone on that day. Where a meal period of 30 minutes can be provided but not without interruption, a goat herder shall be allowed to complete the meal period during that day.
+
+(e) To the extent practicable, every employer shall authorize and permit all goat herders to take rest periods. The rest period, insofar as is practicable, shall be in the middle of each work period. The authorized rest times shall be based on the total hours worked daily at the rate of 10 minutes net rest time per four hours, or major fraction thereof, of work. However, a rest period need not be authorized for goat herders whose total daily worktime is less than three and one-half hours.
+
+(f) When the nature of the work reasonably permits the use of seats, suitable seats shall be provided for goat herders working on or at a machine.
+
+(g) During times when a goat herder is lodged in mobile housing units where it is feasible to provide lodging that meets the minimum standards established by this section because there is practicable access for mobile housing units, the lodging provided shall include, at a minimum, all of the following:
+
+(1) Toilets and bathing facilities, which may include portable toilets and portable shower facilities.
+
+(2) Heating.
+
+(3) Inside lighting.
+
+(4) Potable hot and cold water.
+
+(5) Adequate cooking facilities and utensils.
+
+(6) A working refrigerator, which may include a butane or propane gas refrigerator, or for no more
+ than a one-week period during which a nonworking refrigerator is repaired or replaced, a means of refrigerating perishable food items, which may include ice chests, provided that ice is delivered to the goat herder, as needed, to maintain a continuous temperature required to retard spoilage and ensure food safety.
+
+(h) All goat herders shall be provided with all of the following at each worksite:
+
+(1) Regular mail service.
+
+(2) (A) A means of communication through telephone or radio solely for use in a medical emergency affecting the goat herder or for an emergency relating to the herding operation. If the means of communication is provided by telephone, the goat herder may be charged for the actual cost of nonemergency telephone use, except where prohibited by Section 2802.
+
+(B) This paragraph does not preclude an employer from providing additional means of communication to the goat herder which are appropriate because telephones or radios are out of range or otherwise inoperable.
+
+(3) Visitor access to the housing.
+
+(4) Upon request, and to the extent practicable, access to transportation to and from the nearest locale where shopping, medical, or cultural facilities and services are available on a weekly basis.
+
+(i) In addition to any other civil penalties provided by law, any employer or any other person acting on behalf of the employer who violates or causes to be violated the provisions of this section shall be subject to a civil penalty, as follows:
+
+(1) For the
+ initial violation, one hundred dollars ($100) for each underpaid employee for each pay period during which the employee was underpaid, plus an amount sufficient to recover the unpaid wages.
+
+(2) For any subsequent violation, two hundred fifty dollars ($250) for each underpaid employee for each pay period during which the employee was underpaid, plus an amount sufficient to recover the unpaid wages.
+
+(3) The affected employee shall receive payment of all wages recovered.
+
+(j) If the application of any provision of any subdivision, sentence, clause, phrase, word, or portion of this section is held invalid, unconstitutional, unauthorized, or prohibited by statute, the remaining provisions thereof shall not be affected and shall continue to be given full force and effect as if the part held invalid or unconstitutional had
+ not been included.
+
+(k) Every employer of goat herders shall post a copy of this part in an area frequented by goat herders where it may be easily read during the workday. Where the location of work or other conditions make posting impractical, every employer shall make a copy of this part available to goat herders upon request. Copies of this part shall be posted and made available in a language understood by the goat herder. An employer is deemed to have complied with this subdivision if the employer posts where practical, or makes available upon request where posting is impractical, a copy of the Wage Order No. 14-2001 of the Industrial Welfare Commission, updated pursuant to subdivision (c) of Section 2695.1, relating to goat herders, provided that the posted material includes a sufficient summary of each of the provisions of this part.
+
+(l) For purposes of this section, “goat
+ herder” means an individual who is employed to do any of the following, including with the use of trained dogs:
+
+(1) Tend herds of goats grazing or browsing on range or pasture.
+
+(2) Move goats to and about an area assigned for grazing or browsing.
+
+(3) Prevent goats from wandering or becoming lost.
+
+(4) Protect goats against predators and the eating of poisonous plants.
+
+(5) Assist in the kidding of goats.
+
+(6) Provide water or feed supplementary rations to goats.
+
+(m) This section shall remain in effect only until January 1, 2029, and as of that date is
+ repealed.
+
+(History: Added by Stats. 2026, Ch. 256, Sec. 7.   (AB 187)   Effective September 18, 2026.   Repealed as of January 1, 2029, by its own provisions.)
 -------------------------------------------
 
 
