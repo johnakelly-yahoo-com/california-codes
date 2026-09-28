@@ -5,7 +5,7 @@
 
 Source: Official California Legislative Information
         https://downloads.leginfo.legislature.ca.gov/
-Last Updated by State of California: July 17, 2026
+Last Updated by State of California: September 26, 2026
 
 
 ======================================================================
@@ -4780,33 +4780,48 @@ The Department of the California Highway Patrol shall not assess against any mem
 
 2400.
 
-(a) The commissioner shall administer Chapter 4 (commencing with Section 10850) of Division 4, Article 3 (commencing with Section 17300) of Chapter 1 of Division 9, Division 10 (commencing with Section 20000), Division 11 (commencing with Section 21000) except Chapter 11 (commencing with Section 22950), Division 12 (commencing with Section 24000), Division 13 (commencing with Section 29000), Division 14 (commencing with Section 31600), Division 14.1 (commencing with Section 32000), Division 14.5 (commencing with Section 33000), Division 14.7 (commencing with Section 34000), Division 14.8 (commencing with Section 34500), Division 15 (commencing with Section 35000), Division 16 (commencing with Section 36000)
- except Chapter 2 (commencing with Section 36100) and Chapter 3 (commencing with Section 36300), and Division 16.5 (commencing with Section 38000) except Chapter 2 (commencing with Section 38010).
+(a) The commissioner shall administer Chapter 4 (commencing with Section 10850) of Division 4, Article 3 (commencing with Section 17300) of Chapter 1 of Division 9, Division 10 (commencing with Section 20000), Division 11 (commencing with Section 21000) except Chapter 11 (commencing with Section 22950), Division 12 (commencing with Section 24000), Division 13 (commencing with Section 29000), Division 14 (commencing with Section 31600), Division 14.1 (commencing with Section 32000), Division 14.5 (commencing with Section 33000), Division 14.7 (commencing with Section 34000), Division 14.8 (commencing with Section 34500), Division 15 (commencing with Section 35000), Division 16 (commencing with Section 36000) except Chapter 2 (commencing with Section 36100) and Chapter 3 (commencing with Section 36300), and Division 16.5
+ (commencing with Section 38000) except Chapter 2 (commencing with Section 38010).
 
 (b) The commissioner shall enforce all laws regulating the operation of vehicles and the use of the highways except that, on ways or places to which Section 592 makes reference, the commissioner shall not be required to provide patrol or enforce any provisions of this code other than those provisions applicable to private property.
 
 (c) The commissioner shall not be required to provide patrol for or enforce Division 16.5 (commencing with Section 38000).
 
-(d) The commissioner shall have full responsibility and primary jurisdiction
- for the administration and enforcement of the laws, and for the investigation of traffic accidents, on all toll highways and state highways constructed as freeways, including
- transit-related facilities located on or along the rights-of-way of those toll highways or freeways, except facilities of the San Francisco Bay Area Rapid Transit District. However, city police officers while engaged primarily in general law enforcement duties may incidentally enforce state and local traffic laws and ordinances on toll highways and state freeways within incorporated areas of the state. In any city having either a population in excess of 2,000,000 or an area of more than 300 square miles, city police officers shall have full responsibility and primary jurisdiction for the administration and enforcement of those laws and ordinances, unless the city council of the city by resolution requests administration and enforcement of those laws by the commissioner.
+(d) The commissioner shall have full responsibility and primary jurisdiction for the administration and enforcement of the laws, and for the investigation of traffic accidents, on all toll highways and state highways constructed as freeways, including transit-related facilities located on
+ or along the rights-of-way of those toll highways or freeways, except facilities of the San Francisco Bay Area Rapid Transit District. However, city police officers while engaged primarily in general law enforcement duties may incidentally enforce state and local traffic laws and ordinances on toll highways and state freeways within incorporated areas of the state. In any city having either a population in excess of 2,000,000 or an area of more than 300 square miles, city police officers shall have full responsibility and primary jurisdiction for the administration and enforcement of those laws and ordinances, unless the city council of the city by resolution requests administration and enforcement of those laws by the commissioner.
 
-(e) The commissioner shall have full responsibility and primary
- jurisdiction for the administration and enforcement of the laws, and for the investigation of traffic accidents, on all highways within a city and county with a population of less than 25,000, if, at the time the city and county government is established, the county contains no municipal corporations.
+(e) The commissioner shall have full responsibility and primary jurisdiction for the administration and enforcement of the laws, and for the investigation of traffic accidents, on all highways within a city and
+ county with a population of less than 25,000, if, at the time the city and county government is established, the county contains no municipal corporations.
 
 (f) The commissioner may enter into any interagency agreement with the State Board of Equalization for the purpose of enforcement of statutes requiring commercial vehicles from foreign jurisdictions to have a diesel fuel tax permit and to make payments to the board as required.
 
-(g) The commissioner shall assume those duties and responsibilities of providing protection to state property and employees actually being performed by the California State Police Division on and
- before July 11, 1995.
+(g) The commissioner shall assume those duties and responsibilities of providing protection to state property and employees actually being performed by the California State Police Division on and before July 11, 1995.
 
-(h) The commissioner may provide for the physical security of any current or former constitutional officer of the state and current or former legislator of the state.
+(h) Subject
+ to the provisions of this subdivision, the commissioner may provide for the physical security of any current or former constitutional officer of the state and their immediate family and current or former legislator of the state and their immediate family.
+
+(1) Upon the request for security services pursuant to this subdivision, the commissioner shall direct a threat analysis to determine the threat level and duration of physical security provided.
+
+(2) The commissioner shall
+ reassess the need, level, and duration of security six months from the date the security is first provided pursuant to the determination made in paragraph (1). After the first six-month reassessment, the security may be reassessed as necessary, but no less frequently than annually, to adjust for changing threat levels.
+
+(3) The commissioner shall not alter the level or duration of the security provided under this subdivision until the reassessment required by paragraph (2) is completed.
+
+(4) As used in this subdivision, “immediate family” means any of the following individuals that reside in the primary place of residence of the current or former constitutional officer or legislator requesting security and have any of the following relationships with the current or former constitutional officer:
+
+(A) Spouse or domestic
+ partner.
+
+(B) Child, including adopted, step, or recognized natural child.
+
+(C) Parents, including step, in-laws, or adoptive.
 
 (i) Upon request of the Chief Justice of the California Supreme Court, the commissioner may provide appropriate protective services to any current or former member of the State Court of Appeal or the California Supreme Court.
 
-(j) The commissioner shall have full responsibility as the certifying official of the Annual State of California Size and Weight Certification for the enforcement of all state size and weight laws on the federal-aid interstate, primary urban, and secondary systems in accordance with Sections 657.13 and 657.15 of Title
- 23 of the Code of Federal Regulations.
+(j) The commissioner shall have full responsibility as the certifying official of the Annual State of California Size and Weight Certification for the enforcement of all state size and weight laws on the federal-aid interstate, primary urban, and secondary systems in accordance with Sections 657.13 and 657.15 of Title 23 of the Code of Federal
+ Regulations.
 
-(History: Amended by Stats. 2022, Ch. 295, Sec. 2.   (AB 2956)   Effective January 1, 2023.)
+(History: Amended by Stats. 2026, Ch. 260, Sec. 3.   (SB 194)   Effective September 18, 2026.)
 -------------------------------------------
 
 2400.6.
