@@ -5,7 +5,7 @@
 
 Source: Official California Legislative Information
         https://downloads.leginfo.legislature.ca.gov/
-Last Updated by State of California: July 17, 2026
+Last Updated by State of California: September 26, 2026
 
 
 ======================================================================
@@ -15403,6 +15403,27 @@ The portion of the acquired property used to connect or widen a city street shal
 Survey monuments shall be preserved, referenced, or replaced pursuant to Section 8771 of the Business and Professions Code.
 
 (History: Added by Stats. 1994, Ch. 458, Sec. 12.   Effective January 1, 1995.)
+-------------------------------------------
+
+1811.
+
+(a) A city with a population of 2,000,000 or more shall not reduce the number of vehicle travel lanes on a street that provides the only access to two or more adjacent cemeteries without prior approval of the governing body and the concurrence of the mayor of the city.
+
+(b) Prior to approval of a reduction in the number of vehicle travel lanes pursuant to subdivision (a), the governing body of the city shall do both of the following:
+
+(1) Conduct a duly noticed public hearing regarding the proposed vehicle travel lane reduction.
+
+(2) Consider and make written findings regarding all of the following:
+
+(A) Whether there are alternatives that would allow for proposed street modification without a vehicle travel lane reduction.
+
+(B) The impact of the vehicle travel lane reduction on emergency access to the cemeteries and the surrounding community.
+
+(C) The impact of the vehicle travel lane reduction on emergency response to very high and high fire hazard severity zones.
+
+(D) Consistency of the proposed street modification with the city’s adopted mobility plan.
+
+(History: Added by Stats. 2026, Ch. 260, Sec. 2.   (SB 194)   Effective September 18, 2026.)
 -------------------------------------------
 
 1812.
