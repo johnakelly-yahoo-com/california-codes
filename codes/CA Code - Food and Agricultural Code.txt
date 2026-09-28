@@ -5,7 +5,7 @@
 
 Source: Official California Legislative Information
         https://downloads.leginfo.legislature.ca.gov/
-Last Updated by State of California: July 17, 2026
+Last Updated by State of California: September 26, 2026
 
 
 ======================================================================
@@ -95448,19 +95448,19 @@ For purposes of this division, the following definitions apply:
 
 (a) On and after July 1, 2026, a food manufacturer, processor, or retailer responsible for the labeling of food items for human consumption that chooses, or is otherwise required by law, to display a date label to communicate a quality or safety date on a food item manufactured on or after July 1, 2026, shall use one of the following uniform terms on the date label:
 
-(1) “BEST if Used by” or “BEST if Used or Frozen by” to indicate the quality date of the food item.
+(1) “BEST if Used by,” “BEST if Used or Frozen
+ by,” “Best if Used by,” or “Best if Used or Frozen by” to indicate the quality date of the food item.
 
-(2) “USE by” or “USE by or Freeze by” to indicate the safety date of the food item.
+(2) “USE by,” “USE by or Freeze by,” “Use by,” or “Use by or Freeze by” to
+ indicate the safety date of the food item.
 
-(3) “BB” to indicate the quality date of the food item if the food item is too small to
- include the uniform term described in paragraph (1) or if the food item is a beverage as defined in Section 14504 of the Public Resources Code.
+(3) “BB” to indicate the quality date of the food item if the food item is too small to include the uniform term described in paragraph (1) or if the food item is a beverage as defined in Section 14504 of the Public Resources Code.
 
 (4) “UB” to indicate the safety date of the food item if the food item is too small to include the uniform term described in paragraph (2).
 
 (b) (1) A person shall not sell or offer for sale in the state a food item for human consumption manufactured on or after July 1, 2026, that displays a quality or safety date label that is not labeled in accordance with subdivision (a).
 
-(2) A person shall not sell or offer for sale in the state a food item for human consumption manufactured on or after July 1, 2026, that is labeled with the phrase “sell by.” This paragraph does not prohibit the use of “sell by” dates that are presented in a coded format that are not
- easily readable by consumers and that do not use the phrase “sell by.”
+(2) A person shall not sell or offer for sale in the state a food item for human consumption manufactured on or after July 1, 2026, that is labeled with the phrase “sell by.” This paragraph does not prohibit the use of “sell by” dates that are presented in a coded format that are not easily readable by consumers and that do not use the phrase “sell by.”
 
 (c) (1) The department may accept nonstate funds from public and private sources to, on its internet website, educate consumers about the meaning of the quality dates and safety dates specified in this section.
 
@@ -95470,17 +95470,17 @@ For purposes of this division, the following definitions apply:
 
 (d) (1) This section does not prohibit, and shall not be construed to discourage, the sale, donation, or use of food after the food’s quality date pursuant to paragraph (1) of subdivision (a) has passed. A retail food facility may donate a food item for human consumption that is not labeled in accordance with this section.
 
-(2) Unless otherwise required by law, this section shall not be construed to require the use or display of a date label on a food item for human consumption unless the food item displays a date label.
+(2) Unless otherwise required by law, this section shall not be construed to require the use or display of a date label on a food item for human
+ consumption unless the food item displays a date label.
 
 (3) This section does not prohibit the use or display of a label that allows consumers to view online information about a food item for human consumption.
 
-(4) Notwithstanding subdivisions (a) and (b), on and after July 1, 2026, a grocery store may display a label with the phrase “packed on”
- on a prepared food item and may sell or offer for sale in the state the prepared food item with that label if the prepared food item also displays a quality or safety date label in accordance with subdivision (a).
+(4) Notwithstanding subdivisions (a) and (b), on and after July 1, 2026, a grocery store may display a label with the phrase “packed on” on a prepared food item and may sell or offer for sale in the state the prepared food item with that label if the prepared food item also displays a quality or safety date label in accordance with subdivision (a).
 
-(5) This section does not prohibit a person from displaying on wine, a distilled spirit, or a wine- or distilled spirit-based product bottled or packaged on or after July 1, 2026, a label with a statement that communicates the date on which the wine, distilled spirit, or wine- or distilled spirit-based product was produced, manufactured, bottled, or packaged, or from selling or offering for sale in the state the wine, distilled spirit, or wine- or distilled spirit-based product with that label. The statement may use date formats, including, but not limited to, dates in a time, day, month, and year format and Julian dates.
+(5) This section does not prohibit a person from displaying on wine, a distilled spirit, or a wine- or distilled spirit-based product bottled or packaged on or
+ after July 1, 2026, a label with a statement that communicates the date on which the wine, distilled spirit, or wine- or distilled spirit-based product was produced, manufactured, bottled, or packaged, or from selling or offering for sale in the state the wine, distilled spirit, or wine- or distilled spirit-based product with that label. The statement may use date formats, including, but not limited to, dates in a time, day, month, and year format and Julian dates.
 
-(6) To the extent that any other law or a
- National Shellfish Sanitation Program provision governing the labeling of shellfish authorizes or requires the use of terms that conflict, or are inconsistent, with this section, this section does not apply.
+(6) To the extent that any other law or a National Shellfish Sanitation Program provision governing the labeling of shellfish authorizes or requires the use of terms that conflict, or are inconsistent, with this section, this section does not apply.
 
 (e) This section does not apply to any of the following:
 
@@ -95492,13 +95492,15 @@ For purposes of this division, the following definitions apply:
 
 (f) For purposes of this section, the following definitions apply:
 
-(1) “Grocery store” means a store engaged in the retail sale of canned food, dry goods, fresh fruits and vegetables, and fresh meats, fish, and poultry and any area that is not separately owned within the
- store where food is prepared and served, including a bakery, deli, and meat and seafood counter.
+(1) “Food item for human consumption” does not include a dietary supplement as defined in Section 321(ff) of Title 21 of the
+ United States Code.
 
-(2) “Prepared food item” means a food item for human consumption prepared or repackaged on a grocery store’s premises, using any cooking or food preparation technique.
+(2) “Grocery store” means a store engaged in the retail sale of canned food, dry goods, fresh fruits and vegetables, and fresh meats, fish, and poultry and any area that is not separately owned within the store where food is prepared and served, including a bakery, deli, and meat and seafood counter.
+
+(3) “Prepared food item” means a food item for human consumption prepared or repackaged on a grocery store’s premises, using any cooking or food preparation technique.
 
 (g) If and to the extent that any provision of this section is preempted by federal law, the provision does not apply and shall not be enforced.
 
-(History: Amended by Stats. 2025, Ch. 67, Sec. 82.   (AB 1170)   Effective January 1, 2026.)
+(History: Amended by Stats. 2026, Ch. 311, Sec. 1.   (AB 2779)   Effective September 18, 2026.)
 -------------------------------------------
 
