@@ -5,7 +5,7 @@
 
 Source: Official California Legislative Information
         https://downloads.leginfo.legislature.ca.gov/
-Last Updated by State of California: September 17, 2026
+Last Updated by State of California: September 26, 2026
 
 
 ======================================================================
@@ -27689,9 +27689,13 @@ Upon application in writing to the board and payment of the biennial renewal fee
 
 (3) Not be subject to denial of licensure under Section 480.
 
+(4) (A) The board shall require an applicant for licensure as a registered nurse to undergo a fingerprint-based state and national criminal history background check.
+
+(B) The board shall submit to the Department of Justice fingerprint images and related information for individuals specified in subparagraph (A) who are subject to a state and national criminal history background check, pursuant to subdivision (u) of Section 11105 of the Penal Code. The Department of Justice shall provide a state- and federal-level response pursuant to subdivision (p) of Section 11105.
+
 (b) An applicant who has received their training from a school of nursing in a country outside the United States and who has complied with subdivision (a), or has completed training equivalent to that required by subdivision (a), shall qualify for licensure by successfully passing the examination prescribed by the board.
 
-(History: Amended by Stats. 2024, Ch. 497, Sec. 14.   (SB 1526)   Effective January 1, 2025.)
+(History: Amended by Stats. 2026, Ch. 313, Sec. 1.   (AB 2796)   Effective September 18, 2026.)
 -------------------------------------------
 
 2736.1.
@@ -45673,20 +45677,19 @@ Except as otherwise provided, a certification issued pursuant to this chapter sh
 
 4606.
 
-(a) Prior to issuing a certificate to an applicant, or designating a custodian of records, the council shall require the applicant or the custodian of records candidate to submit fingerprint images as directed by the council and in a form consistent with the requirements of this section.
+(a) Prior to issuing a certificate to an applicant, the council shall require the applicant to undergo a fingerprint-based criminal history background check.
 
-(b) The council shall submit the fingerprint images and related information to the Department of Justice for the purpose of obtaining information as to the existence and nature of a record of state and federal level convictions and of state and federal level arrests for which the Department of Justice establishes that the applicant or candidate was released on bail or on his or her
- own recognizance pending trial.
+(b) The council shall submit the fingerprint images and related information to the Department of Justice pursuant to subdivision (u) of Section 11105 of the Penal Code.
 
-(c) Requests for federal level criminal offender record information received by the Department of Justice pursuant to this section shall be forwarded to the Federal Bureau of Investigation by the Department of Justice. The Department of Justice shall review the information returned from the Federal Bureau of Investigation, and shall compile and disseminate a fitness determination regarding the applicant or candidate to the council. The Department of Justice shall provide information to the council pursuant to subdivision (p) of Section 11105 of the Penal Code.
+(c) The Department of Justice shall provide a state response pursuant to subdivision (p) of Section 11105 of the Penal Code.
 
-(d) The Department of Justice and the council shall charge a fee sufficient to cover the cost of processing the request for state and federal level criminal offender record information.
+(d) The council shall request subsequent arrest notification service from the Department of Justice, as provided under
+ Section 11105.2 of the Penal Code, for all applicants for certification for
+ whom fingerprint images and related information are submitted to conduct a search for state-level criminal offender record information.
 
-(e) The council shall request subsequent arrest notification service from the Department of Justice, as provided under Section 11105.2 of the Penal Code, for all applicants for certification or custodian of records candidates for whom fingerprint images and related information are submitted to conduct a search for state and federal level criminal offender record information.
+(e) The council is authorized to receive arrest notifications and other background materials about applicants and certificate holders from a city, county, or city and county.
 
-(f) The council is authorized to receive arrest notifications and other background materials about applicants and certificate holders from a city, county, or city and county.
-
-(History: Added by Stats. 2014, Ch. 406, Sec. 2.   (AB 1147)   Effective January 1, 2015.   Repealed as of January 1, 2030, pursuant to Section 4621.)
+(History: Amended by Stats. 2026, Ch. 313, Sec. 2.   (AB 2796)   Effective September 18, 2026.   Repealed as of January 1, 2030, pursuant to Section 4621.)
 -------------------------------------------
 
 4607.
@@ -68533,19 +68536,16 @@ In order to meet the qualifications for licensure as a professional fiduciary a 
 
 6533.5.
 
-Criminal offender record information shall be obtained on each applicant as provided in this section.
+(a) The bureau shall require an applicant for licensure as a professional fiduciary to undergo a fingerprint-based state and national criminal history background check.
 
-(a) Each applicant shall submit fingerprint images to the Department of Justice for the purpose of obtaining criminal offender record information regarding state and federal level convictions and arrests, including arrests where the Department of Justice establishes that the person is free on bail or on his or her own recognizance pending trial or appeal.
-
-(b) When received, the Department of Justice shall forward to the Federal Bureau of Investigation requests for federal summary criminal history information received pursuant to this section. The Department of Justice shall review the information returned from the Federal Bureau of Investigation and compile and disseminate a fitness determination to the bureau.
+(b) The bureau shall submit to the Department of Justice fingerprint images and related information for an individual specified in subdivision (a) who is subject to a state and national criminal history background check pursuant to subdivision (u) of Section 11105 of the Penal Code.
 
 (c) The Department of Justice shall provide a response to the bureau pursuant to subdivision (p) of Section 11105 of the Penal Code.
 
-(d) The bureau shall request from the Department of Justice subsequent arrest notification service, as provided pursuant to Section 11105.2 of the Penal Code.
+(d) The bureau shall request from the Department of Justice
+ subsequent arrest notification service, as provided pursuant to Section 11105.2 of the Penal Code.
 
-(e) The Department of Justice shall charge a fee sufficient to cover the cost of processing the request described in this section.
-
-(History: Added by Stats. 2006, Ch. 491, Sec. 3.   Effective January 1, 2007.)
+(History: Amended by Stats. 2026, Ch. 313, Sec. 3.   (AB 2796)   Effective September 18, 2026.)
 -------------------------------------------
 
 6534.
@@ -91893,19 +91893,19 @@ Any person over the age of 18 years, who has not committed any acts or crimes co
 
 (2) (A) The passing grades for the Dictation/Transcription part of the examination is 95 percent.
 
-(B) (i) The passing grades for English and Professional Practice, the two written knowledge parts of the examination, shall be determined by the Angoff
- criterion-referenced method.
+(B) (i) The passing grades for English and Professional Practice, the two written knowledge parts of the
+ examination, shall be determined by the Angoff criterion-referenced method.
 
 (ii) The passing scores may vary moderately with changes in test composition.
 
-(iii) Any examinee who obtains a grade which equals or exceeds the passing score determined by the Angoff criterion-referenced method will be deemed to have passed the applicable portion of the examination, assuming the other requirements of this section are met.
+(iii) Any examinee who obtains a grade that equals or exceeds the passing score determined by the Angoff criterion-referenced method shall be deemed to have passed the applicable portion of the examination if the other requirements of this section are met.
 
 (b) The board shall notify each examinee electronically or in writing of their pass or fail examination results.
 
-(c) (1) An applicant shall take and pass all three parts of the examination within three consecutive years to have passed the examination.
+(c) (1) An applicant shall take and pass all three parts of the examination within three consecutive years to have passed
+ the examination.
 
-(2) The three-year period shall begin from the date
- of the examination or any part of the examination for which the applicant is first scheduled.
+(2) The three-year period shall begin from the date of the examination or any part of the examination for which the applicant is first scheduled.
 
 (d) (1) After a period of four months has elapsed, an applicant may repeat any part of the examination.
 
@@ -91913,13 +91913,15 @@ Any person over the age of 18 years, who has not committed any acts or crimes co
 
 (e) Notwithstanding subdivision (c), an applicant who passes a part of the examination shall receive conditional credit for passing that part and may retake the remaining parts.
 
-(f) The period of time designated in subdivision (c) may be extended by the board for a period of time not to exceed one year upon the showing of extraordinary extenuating circumstances.
+(f) The period of time designated in subdivision (c) may be
+ extended by the board for a period of time not to exceed one year upon the showing of extraordinary extenuating circumstances.
 
-(g) (1) Successful completion of the Certified Verbatim Reporter (CVR) or Certified Verbatim Reporter-Stenotype (CVR-S) certification administered through the National Verbatim Reporters Association satisfies the requirement to pass the Dictation/Transcription examination under subparagraph (C) of paragraph (1) of subdivision (a).
+(g) (1) Successful completion of the Certified Verbatim Reporter (CVR), Certified Verbatim Reporter-Stenotype (CVR-S) certification administered through the National Verbatim Reporters Association, or successful completion of the Registered Professional Reporter (RPR) certification administered through the National Court Reporters Association satisfies the requirement to pass the Dictation/Transcription examination under subparagraph (C) of paragraph (1) of subdivision (a).
 
-(2) Applicants who passed the Certified Verbatim Reporter (CVR) or Certified Verbatim Reporter-Stenotype (CVR-S) are subject to the requirements identified under subdivision (a) for the English examination and the Professional Practice examination, all of which must be passed within three consecutive years, pursuant to subdivision (c), to have passed the California state licensing examination.
+(2) Applicants who passed the Certified Verbatim Reporter (CVR), Certified Verbatim Reporter-Stenotype (CVR-S), or Registered Professional Reporter
+ (RPR) certification are subject to the requirements identified under subdivision (a) for the English examination and the Professional Practice examination, all of which must be passed within three consecutive years, pursuant to subdivision (c), to have passed the California state licensing examination.
 
-(History: Amended by Stats. 2025, Ch. 67, Sec. 14.   (AB 1170)   Effective January 1, 2026.)
+(History: Amended by Stats. 2026, Ch. 312, Sec. 1.   (AB 2783)   Effective September 18, 2026.)
 -------------------------------------------
 
 8021.
@@ -121801,7 +121803,7 @@ A professional or amateur boxer or martial arts fighter is one who engages in a 
 
 
 
-  ARTICLE 3. Jurisdiction, Licenses, and Exemptions [18640. - 18656.]
+  ARTICLE 3. Jurisdiction, Licenses, and Exemptions [18640. - 18657.]
 
 18640.
 
@@ -121958,6 +121960,15 @@ This chapter does not apply to any contest conducted under the supervision or co
 This chapter does not apply to any contest conducted by, or participated in exclusively by, any school, college, or university, or by any association or organization composed exclusively of schools, colleges, or universities when each contestant in such contest is a bona fide student regularly enrolled for not less than one-half time in a school, college, or university.
 
 (History: Added by Stats. 1985, Ch. 1092, Sec. 2.)
+-------------------------------------------
+
+18657.
+
+(a) This chapter shall not apply to any contests conducted under the supervision or control of an entity authorized by the International Olympic Committee or the International Paralympic Committee.
+
+(b) This section shall become inoperative upon the later of December 31, 2028, or the conclusion of the 2028 Olympic and Paralympic Games, and, as of January 1, 2029, is repealed.
+
+(History: Added by Stats. 2026, Ch. 354, Sec. 1.   (AB 191)   Effective September 20, 2026.   Conditionally inoperative on or after December 31, 2028, as prescribed by its own provisions.   Repealed as of January 1, 2029, by its own provisions.)
 -------------------------------------------
 
 
@@ -137744,19 +137755,15 @@ The Legislature finds and declares that it is important to inform taxpayers that
 
 (a) Beginning July 1, 2020, as a condition of registration, the council shall require the applicant to submit fingerprint images as directed by the council and in a form consistent with the requirements of this section.
 
-(b) The council shall submit the fingerprint images and related information to the Department of Justice for the purpose of obtaining information as to the existence and nature of a record of state- and federal-level convictions and of state- and federal-level arrests for which the Department of Justice establishes that the applicant was released on bail or on his or her own recognizance pending trial.
+(b) The council shall submit the fingerprint images and related information to the Department of Justice for the purpose of obtaining information as to the existence and nature of a record of state-level convictions and of state-level arrests for which the Department of Justice establishes that the applicant was released on bail or on their own recognizance pending trial pursuant to subdivision (u) of Section 11105 of the Penal Code.
 
-(c) Requests for federal-level criminal offender record
- information received by the Department of Justice pursuant to this section shall be forwarded to the Federal Bureau of Investigation by the Department of Justice. The Department of Justice shall review the information returned from the Federal Bureau of Investigation, and shall compile and disseminate a fitness determination regarding the applicant. The Department of Justice shall provide information to the council pursuant to subdivision (p) of Section 11105 of the Penal Code.
+(c) The Department of Justice shall provide information to the council pursuant to subdivision (p) of Section 11105 of the Penal Code.
 
-(d) The Department of Justice and the council shall charge a fee sufficient to cover the cost of processing the request for state- and federal-level criminal offender record information.
+(d) The council shall request subsequent arrest notification service from the Department of Justice, as provided under Section 11105.2 of the Penal Code, for all applicants for registration for whom fingerprint images and related information are submitted to conduct a search for state-level criminal offender record information.
 
-(e) The council shall request subsequent arrest notification service from the Department of Justice, as
- provided under Section 11105.2 of the Penal Code, for all applicants for registration for whom fingerprint images and related information are submitted to conduct a search for state- and federal-level criminal offender record information.
+(e) The council may receive arrest notifications and other background materials about applicants and registrants from a city, county, or city and county.
 
-(f) The council may receive arrest notifications and other background materials about applicants and registrants from a city, county, or city and county.
-
-(History: Added by Stats. 2018, Ch. 597, Sec. 10.   (AB 3143)   Effective January 1, 2019.   Repealed as of January 1, 2028, pursuant to Section 22259.)
+(History: Amended by Stats. 2026, Ch. 313, Sec. 4.   (AB 2796)   Effective September 18, 2026.   Repealed as of January 1, 2028, pursuant to Section 22259.)
 -------------------------------------------
 
 22254.
