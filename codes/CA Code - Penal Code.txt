@@ -5,7 +5,7 @@
 
 Source: Official California Legislative Information
         https://downloads.leginfo.legislature.ca.gov/
-Last Updated by State of California: July 21, 2026
+Last Updated by State of California: September 26, 2026
 
 
 ======================================================================
@@ -65610,9 +65610,9 @@ The Department of Corrections is the “board” for the purpose of the State Ge
 
 7404.
 
-The committee is hereby authorized and empowered to create a debt or debts, liability or liabilities, of the State of California, in the aggregate principal amount of eight hundred seventeen million dollars ($817,000,000), exclusive of refunding bonds, in the manner provided in this chapter. That debt or debts, liability or liabilities, shall be created for the purpose of providing the fund to be used for the object and work specified in Section 7406.
+The committee is hereby authorized and empowered to create a debt or debts, liability or liabilities, of the state, in the aggregate principal amount of eight hundred fifteen million seven hundred fifty-five thousand dollars ($815,755,000), excluding refunding bonds, in the manner provided in this chapter. That debt or debts, liability or liabilities, shall be created for the purpose of providing the fund to be used for the object and work specified in Section 7406.
 
-(History: Added by Stats. 1988, Ch. 43, Sec. 2.   Approved in Proposition 80 at the November 8, 1988, election.)
+(History: Amended by Stats. 2026, Ch. 255, Sec. 16.   (AB 184)   Effective September 18, 2026.)
 -------------------------------------------
 
 7405.
@@ -65753,9 +65753,9 @@ When funds are appropriated to the Department of Corrections, the Department of 
 
 7424.
 
-The committee is hereby authorized and empowered to create a debt or debts, liability or liabilities, of the State of California, in the aggregate principal amount of four hundred fifty million dollars ($450,000,000), exclusive of refunding bonds, in the manner provided in this chapter. That debt or debts, liability or liabilities, shall be created for the purpose of providing the fund to be used for the object and work specified in Section 7426.
+The committee is hereby authorized and empowered to create a debt or debts, liability or liabilities, of the state, in the aggregate principal amount of four hundred forty-nine million three hundred ninety-five thousand dollars ($449,395,000), excluding refunding bonds, in the manner provided in this chapter. That debt or debts, liability or liabilities, shall be created for the purpose of providing the fund to be used for the object and work specified in Section 7426.
 
-(History: Added by Stats. 1990, Ch. 5, Sec. 1.   Approved in Proposition 120 at the June 5, 1990, election.)
+(History: Amended by Stats. 2026, Ch. 255, Sec. 17.   (AB 184)   Effective September 18, 2026.)
 -------------------------------------------
 
 7425.
@@ -67959,21 +67959,21 @@ The Attorney General shall file all measurements, information and descriptions r
 
 (A) “State summary criminal history information” means the master record of information compiled by the Attorney General pertaining to the identification and criminal history of a person, such as name, date of birth, physical description, fingerprints, photographs, dates of arrests, arresting agencies and booking numbers, charges, dispositions, sentencing information, and similar data about the person.
 
-(B) “State summary criminal history information” does not refer to records and data compiled
- by criminal justice agencies other than the Attorney General, nor does it refer to records of complaints to or investigations conducted by, or records of intelligence information or security procedures of, the office of the Attorney General and the Department of Justice.
+(B) “State summary
+ criminal history information” does not refer to records and data compiled by criminal justice agencies other than the Attorney General, nor does it refer to records of complaints to or investigations conducted by, or records of intelligence information or security procedures of, the office of the Attorney General and the Department of Justice.
 
 (b) The Attorney General shall furnish state summary criminal history information to the following, if needed in the course of their duties, provided that when information is furnished to assist an agency, officer, or official of state or local government, a public utility, or any other entity, in fulfilling employment, certification, or licensing duties, Chapter 1321 of the Statutes of 1974 and Section 432.7 of the Labor Code shall apply:
 
 (1) The courts of the state.
 
-(2) Peace officers of the state, as defined in Section 830.1, subdivisions (a) and
- (e) of Section 830.2, subdivision (a) of Section 830.3, subdivision (a) of Section 830.31, and subdivisions (a) and (b) of Section 830.5.
+(2) Peace officers of the state, as defined in Section 830.1, subdivisions (a) and (e) of Section 830.2, subdivision (a) of Section 830.3, subdivision (a) of Section 830.31, and subdivisions (a) and (b) of Section 830.5.
 
 (3) District attorneys of the state.
 
 (4) Prosecuting city attorneys or city prosecutors of a city within the state.
 
-(5) City attorneys pursuing civil gang injunctions pursuant to Section 186.22a, drug abatement actions pursuant to Section 3479 or 3480 of the Civil Code or Section 11571 of the Health and Safety Code, or a city attorney or county counsel pursuing gun violence restraining orders pursuant to Division 3.2 (commencing with Section 18100) of Title 2 of Part 6.
+(5) City attorneys pursuing civil gang injunctions pursuant to Section 186.22a, drug abatement actions pursuant to Section 3479 or 3480 of the Civil Code or Section 11571 of the Health and Safety Code, or a city attorney or county counsel pursuing gun violence restraining orders pursuant
+ to Division 3.2 (commencing with Section 18100) of Title 2 of Part 6.
 
 (6) Probation officers of the state.
 
@@ -67981,17 +67981,17 @@ The Attorney General shall file all measurements, information and descriptions r
 
 (8) A public defender or attorney of record when representing a person in proceedings upon a petition for a certificate of rehabilitation and pardon pursuant to Section 4852.08.
 
-(9) A public defender or attorney of record when representing a person in a criminal case or a juvenile delinquency proceeding, including all appeals and postconviction motions, or a parole, mandatory supervision pursuant to paragraph (5) of subdivision (h) of Section 1170, or postrelease community supervision revocation or revocation extension proceeding, if the information is requested in the course of representation.
+(9) A public defender or attorney of record when representing a person in a criminal case or a juvenile delinquency proceeding, including all appeals and postconviction motions, or a parole, mandatory supervision pursuant to paragraph (5) of subdivision (h) of Section 1170, or postrelease community supervision revocation or revocation extension
+ proceeding, if the information is requested in the course of representation.
 
-(10) An agency, officer, or official of the state if the state summary criminal history information is required to implement a statute or regulation that expressly refers to specific criminal conduct applicable to the subject
- person of the state summary criminal history information, and contains requirements or exclusions, or both, expressly based upon that specified criminal conduct. The agency, officer, or official of the state authorized by this paragraph to receive state summary criminal history information may perform state and federal criminal history information checks as provided for in subdivision (u). The Department of Justice shall provide a state or federal response to the agency, officer, or official pursuant to subdivision (p).
+(10) An agency, officer, or official of the state if the state summary criminal history information is required to implement a statute or regulation that expressly refers to specific criminal conduct applicable to the subject person of the state summary criminal history information, and contains requirements or exclusions, or both, expressly based upon that specified criminal conduct. The agency, officer, or official of the state authorized by this paragraph to receive state summary criminal history information may perform state and federal criminal history information checks as provided for in subdivision (u). The Department of Justice shall provide a state or federal response to the agency, officer, or official pursuant to subdivision (p).
 
-(11) A city, county, city and county, or district, if access is needed in order to assist that agency in fulfilling employment, certification, or licensing duties, and if the access is specifically authorized by the city council, board of supervisors, or governing board of the city, county, or district if the state summary criminal history information is required to implement a statute, ordinance, or regulation that expressly refers to specific criminal conduct applicable to the subject person of the state summary criminal history information, and contains requirements or exclusions, or both, expressly based upon that specified criminal conduct. The city, county, city and county, or district authorized by this paragraph may also transmit fingerprint images and related information to the Department of Justice to be transmitted to the Federal Bureau of Investigation.
+(11) A city, county, city and county, or governmental district, if access is needed in order to assist that agency in fulfilling employment, certification, or licensing duties, and if the access is specifically authorized by the city council, board of supervisors, or governing board of the city, county, or governmental district if the state summary criminal history information is required to implement a statute, ordinance, or regulation that expressly refers to specific criminal conduct applicable to the subject person of the state summary criminal history information, and contains requirements or exclusions, or both, expressly based upon that specified
+ criminal conduct. The city, county, city and county, or governmental district authorized by this paragraph may also transmit fingerprint images and related information to the Department of Justice to be transmitted to the Federal Bureau of Investigation. The city, county, city and county, or governmental district shall submit to the Department of Justice fingerprint images and related information for an individual who is subject to a state and national criminal history background check pursuant to subdivision (u).
 
 (12) The subject of the state summary criminal history information under procedures established under Article 5 (commencing with Section 11120).
 
-(13) A person or entity when access is expressly authorized by statute if the criminal history information is required to implement a statute or regulation that expressly refers to specific criminal conduct applicable to the subject person of the state summary criminal history information, and contains requirements or exclusions, or both, expressly based upon that
- specified criminal conduct.
+(13) A person or entity when access is expressly authorized by statute if the criminal history information is required to implement a statute or regulation that expressly refers to specific criminal conduct applicable to the subject person of the state summary criminal history information, and contains requirements or exclusions, or both, expressly based upon that specified criminal conduct.
 
 (14) Health officers of a city, county, city and county, or district when in the performance of their official duties enforcing Section 120175 of the Health and Safety Code.
 
@@ -67999,21 +67999,20 @@ The Attorney General shall file all measurements, information and descriptions r
 
 (16) A humane society, or society for the prevention of cruelty to animals, for the specific purpose of complying with Section 14502 of the Corporations Code for the appointment of humane officers.
 
-(17) Local child support agencies established by Section 17304 of the Family Code. When a local child support agency closes a support enforcement case containing state summary criminal history information, the agency shall delete or purge from the file
- and destroy documents or information concerning or arising from offenses for or of which the parent has been arrested, charged, or convicted, other than for offenses related to the parent’s having failed to provide support for minor children, consistent with the requirements of Section 17531 of the Family Code.
+(17) Local child support agencies established by Section 17304 of the Family Code. When a local child support agency closes a support enforcement case containing state summary criminal history information, the agency shall delete or purge from the file and destroy documents or information concerning or arising from offenses for or of which the parent has been arrested, charged, or convicted, other than for offenses related to the parent’s having failed to provide support for minor children, consistent with the requirements of Section 17531 of the Family Code.
 
-(18) County child welfare agency personnel who have been delegated the authority of county probation officers to access state summary criminal history information pursuant to Section 272 of the Welfare and Institutions Code for the purposes specified in Section 16504.5 of the Welfare and Institutions Code. Information from criminal history records provided pursuant to this subdivision shall not be used for a purpose other than those specified in this section and Section 16504.5 of the Welfare and Institutions Code. When an agency obtains records both on the basis of name checks and fingerprint checks, final placement decisions shall be
- based only on the records obtained pursuant to the fingerprint check.
+(18) County
+ child welfare agency personnel who have been delegated the authority of county probation officers to access state summary criminal history information pursuant to Section 272 of the Welfare and Institutions Code for the purposes specified in Section 16504.5 of the Welfare and Institutions Code. Information from criminal history records provided pursuant to this subdivision shall not be used for a purpose other than those specified in this section and Section 16504.5 of the Welfare and Institutions Code. When an agency obtains records both on the basis of name checks and fingerprint checks, final placement decisions shall be based only on the records obtained pursuant to the fingerprint check.
 
-(19) The court of a tribe, or court of a consortium of tribes, that has entered into an agreement with the state pursuant to Section 10553.1 of the Welfare and Institutions Code. This information may be used only for the purposes specified in Section 16504.5 of the Welfare and Institutions Code and for tribal approval or tribal licensing of foster care or adoptive homes. Article 6 (commencing with Section 11140) shall apply to officers, members, and employees of a tribal court receiving state summary criminal history information pursuant to this section.
+(19) The court of a tribe, or court of a consortium of tribes, that has entered into an agreement with the state pursuant to Section 10553.1 of the
+ Welfare and Institutions Code. This information may be used only for the purposes specified in Section 16504.5 of the Welfare and Institutions Code and for tribal approval or tribal licensing of foster care or adoptive homes. Article 6 (commencing with Section 11140) shall apply to officers, members, and employees of a tribal court receiving state summary criminal history information pursuant to this section.
 
-(20) Child welfare agency personnel of a tribe or consortium of tribes that has entered into an agreement with the state pursuant to Section 10553.1 of the Welfare and Institutions Code and to whom the state has delegated duties under paragraph (2) of
- subdivision (a) of Section 272 of the Welfare and Institutions Code. The purposes for use of the information shall be for the purposes specified in Section 16504.5 of the Welfare and Institutions Code and for tribal approval or tribal licensing of foster care or adoptive homes. When an agency obtains records on the basis of name checks and fingerprint checks, final placement decisions shall be based only on the records obtained pursuant to the fingerprint check. Article 6 (commencing with Section 11140) shall apply to child welfare agency personnel receiving criminal record offender information pursuant to this section.
+(20) Child welfare agency personnel of a tribe or consortium of tribes that has entered into an agreement with the state pursuant to Section 10553.1 of the Welfare and Institutions Code and to whom the state has delegated duties under paragraph (2) of subdivision (a) of Section 272 of the Welfare and Institutions Code. The purposes for use of the information shall be for the purposes specified in Section 16504.5 of the Welfare and
+ Institutions Code and for tribal approval or tribal licensing of foster care or adoptive homes. When an agency obtains records on the basis of name checks and fingerprint checks, final placement decisions shall be based only on the records obtained pursuant to the fingerprint check. Article 6 (commencing with Section 11140) shall apply to child welfare agency personnel receiving criminal record offender information pursuant to this section.
 
 (21) An officer providing conservatorship investigations pursuant to Sections 5351, 5354, and 5356 of the Welfare and Institutions Code.
 
-(22) A court investigator providing investigations or reviews in conservatorships pursuant to Section 1826, 1850, 1851, or
- 2250.6 of the Probate Code.
+(22) A court investigator providing investigations or reviews in conservatorships pursuant to Section 1826, 1850, 1851, or 2250.6 of the Probate Code.
 
 (23) A person authorized to conduct a guardianship investigation pursuant to Section 1513 of the Probate Code.
 
@@ -68021,90 +68020,91 @@ The Attorney General shall file all measurements, information and descriptions r
 
 (25) A public agency described in subdivision (b) of Section 15975 of the Government Code, for the purpose of oversight and enforcement policies with respect to its contracted providers.
 
-(26) (A) A state entity, or its designee, that receives federal tax information. A state entity or its designee that is authorized by this paragraph to receive state summary criminal history information also may transmit fingerprint images and related information to the Department of
- Justice to be transmitted to the Federal Bureau of Investigation for the purpose of the state entity or its designee obtaining federal-level criminal offender record information from the Department of Justice. This information shall be used only for the purposes set forth in Section 1044 of the Government Code.
+(26) (A) A state entity, or its designee, that receives federal tax information. A state entity or its designee that is authorized by this paragraph to receive state summary criminal history information also may transmit fingerprint images and related information to the
+ Department of Justice to be transmitted to the Federal Bureau of Investigation for the purpose of the state entity or its designee obtaining federal-level criminal offender record information from the Department of Justice. This information shall be used only for the purposes set forth in Section 1044 of the Government Code.
 
 (B) For purposes of this paragraph, “federal tax information,” “state entity” and “designee” are as defined in paragraphs (1), (2), and (3), respectively, of subdivision (f) of Section 1044 of the Government Code.
 
-(27) The director of the State Department of State Hospitals, or their designee, for use related to research and evaluation studies described in Section 4046 of the Welfare and Institutions Code, and subject to the limitations described in that section.
+(27) The director of the State Department of State Hospitals, or their designee, for use related to research and evaluation studies described in Section 4046 of the Welfare and Institutions Code, and subject to the limitations described in that
+ section.
 
-(c) The Attorney General may furnish state
- summary criminal history information and, when specifically authorized by this subdivision, federal-level criminal history information upon a showing of a compelling need to any of the following, provided that when information is furnished to assist an agency, officer, or official of state or local government, a public utility, or any other entity in fulfilling employment, certification, or licensing duties, Chapter 1321 of the Statutes of 1974 and Section 432.7 of the Labor Code shall apply:
+(c) The Attorney General may furnish state summary criminal history information and, when specifically authorized by this subdivision, federal-level criminal history information upon a showing of a compelling need to any of the following, provided that when information is furnished to assist an agency, officer, or official of state or local government, a public utility, or any other entity in fulfilling employment, certification, or licensing duties, Chapter 1321 of the Statutes of 1974 and Section 432.7 of the Labor Code shall apply:
 
-(1) A public utility, as defined in Section 216 of the Public Utilities Code, that operates a nuclear energy facility when access is needed in order to assist in employing persons to work at the facility, provided that, if the Attorney General supplies the data, the Attorney General shall furnish a copy of the data to the person to whom the data relates.
+(1) A public utility, as defined in Section 216 of the Public Utilities Code, that operates a nuclear energy facility when access is needed in order to assist in employing persons to work at the facility, provided that, if the Attorney
+ General supplies the data, the Attorney General shall furnish a copy of the data to the person to whom the data relates.
 
-(2) A peace officer of the state other
- than those included in subdivision (b).
+(2) A peace officer of the state other than those included in subdivision (b).
 
 (3) An illegal dumping enforcement officer as defined in subdivision (i) of Section 830.7.
 
 (4) A peace officer of another country.
 
-(5) Public officers, other than peace officers, of the United States, other states, or possessions or territories of the United States, provided that access to records similar to state summary criminal history information is expressly authorized by a statute of the United States, other states, or possessions or territories of the United States if the information is needed for the performance of their official duties.
+(5) Public officers, other than peace officers, of the United States, other states, or possessions or territories of the United States, provided that access to records similar to state summary criminal history information is expressly authorized by a statute of the United States, other states, or possessions or territories of the
+ United States if the information is needed for the performance of their official duties.
 
-(6) A person when disclosure is requested by a probation, parole, or peace officer with the consent of the subject of the state summary criminal history information and
- for purposes of furthering the rehabilitation of the subject.
+(6) A person when disclosure is requested by a probation, parole, or peace officer with the consent of the subject of the state summary criminal history information and for purposes of furthering the rehabilitation of the subject.
 
 (7) The courts of the United States, other states, or territories or possessions of the United States.
 
-(8) Peace officers of the United States, other states, or territories or possessions of the United States.
+(8) Peace officers of the United States, other states, tribes in other states, or territories or possessions of the United States.
 
-(9) An individual who is the subject of the record requested if needed in conjunction with an application to enter the United States or a foreign nation.
+(9) An individual who is the subject of the record requested if needed in conjunction with an application to enter the
+ United States or a foreign nation.
 
-(10) (A) (i) A public utility, as defined in Section 216 of the Public Utilities Code, or a cable corporation as defined in subparagraph (B), if receipt of criminal history information is needed in order to assist in employing current or prospective employees, contract employees, or
- subcontract employees who, in the course of their employment, may be seeking entrance to private residences or adjacent grounds. The information provided shall be limited to the record of convictions and arrests for which the person is released on bail or on their own recognizance pending trial.
+(10) (A) (i) A public utility, as defined in Section 216 of the Public Utilities Code, or a cable corporation as defined in subparagraph (B), if receipt of criminal history information is needed in order to assist in employing current or prospective employees, contract employees, or subcontract employees who, in the course of their employment, may be seeking entrance to private residences or adjacent grounds. The information provided shall be limited to the record of convictions and arrests for which the person is released on bail or on their own recognizance pending trial.
 
-(ii) If the Attorney General supplies the data pursuant to this paragraph, the Attorney General shall furnish a copy of the data to the current or prospective employee to whom the data relates.
+(ii) If the Attorney General supplies the data pursuant to this paragraph, the Attorney General shall furnish a copy of the data to
+ the current or prospective employee to whom the data relates.
 
-(iii) State summary criminal history information is confidential and the receiving public utility or cable corporation shall not disclose its contents, other than for the purpose for which it was acquired. The state summary criminal history information in the possession of the public utility or cable corporation and all copies made from it shall be destroyed not more than 30 days after employment or
- promotion or transfer is denied or granted, except for those cases where a current or prospective employee is out on bail or on their own recognizance pending trial, in which case the state summary criminal history information and all copies shall be destroyed not more than 30 days after the case is resolved.
+(iii) State summary criminal history information is confidential and the receiving public utility or cable corporation shall not disclose its contents, other than for the purpose for which it was acquired. The state summary criminal history information in the possession of the public utility or cable corporation and all copies made from it shall be destroyed not more than 30 days after employment or promotion or transfer is denied or granted, except for those cases where a current or prospective employee is out on bail or on their own recognizance pending trial, in which case the state summary criminal history information and all copies shall be destroyed not more than 30 days after the case is resolved.
 
-(iv) A violation of this paragraph is a misdemeanor, and shall give the current or prospective employee who is injured by the violation a cause of action against the public utility or cable corporation to recover damages proximately caused by the violations. A public utility’s or cable corporation’s request for state summary criminal history information for purposes of employing current or prospective employees who may be seeking entrance to private residences or adjacent grounds in the course of their employment shall be deemed a “compelling need” as required to be shown in this subdivision.
+(iv) A violation of
+ this paragraph is a misdemeanor, and shall give the current or prospective employee who is injured by the violation a cause of action against the public utility or cable corporation to recover damages proximately caused by the violations. A public utility’s or cable corporation’s request for state summary criminal history information for purposes of employing current or prospective employees who may be seeking entrance to private residences or adjacent grounds in the course of their employment shall be deemed a “compelling need” as required to be shown in this subdivision.
 
 (v) This section shall not be construed as imposing a duty upon public utilities or cable corporations to request state summary criminal history information on current or prospective employees.
 
-(B) For purposes of this paragraph, “cable corporation” means a corporation or firm that transmits or provides television, computer, or telephone services by cable, digital, fiber optic, satellite, or comparable technology to subscribers for a fee.
+(B) For
+ purposes of this paragraph, “cable corporation” means a corporation or firm that transmits or provides television, computer, or telephone services by cable, digital, fiber optic, satellite, or comparable technology to subscribers for a fee.
 
-(C) Requests for federal-level criminal history information received by the Department of Justice from entities authorized pursuant to subparagraph (A) shall be forwarded to the Federal Bureau of Investigation by the Department of Justice. Federal-level criminal history information received or compiled by the Department of Justice may then be disseminated to the entities referenced in
- subparagraph (A), as authorized by law.
+(C) Requests for federal-level criminal history information received by the Department of Justice from entities authorized pursuant to subparagraph (A) shall be forwarded to the Federal Bureau of Investigation by the Department of Justice. Federal-level criminal history information received or compiled by the Department of Justice may then be disseminated to the entities referenced in subparagraph (A), as authorized by law.
 
-(11) A campus of the California State University or the University of California, or a four-year college or university accredited by a regional accreditation organization approved by the United States Department of Education, if needed in conjunction with an application for admission by a convicted felon to a special education program for convicted felons, including, but not limited to, university alternatives and halfway houses. Only conviction information shall be furnished. The college or university may require the convicted felon to be fingerprinted, and any inquiry to the department under this section shall include the convicted felon’s fingerprints and any other information specified by the department.
+(11) A campus of the California State University or the University of California, or a four-year college or university accredited
+ by a regional accreditation organization approved by the United States Department of Education, if needed in conjunction with an application for admission by a convicted felon to a special education program for convicted felons, including, but not limited to, university alternatives and halfway houses. Only conviction information shall be furnished. The college or university may require the convicted felon to be fingerprinted, and any inquiry to the department under this section shall include the convicted felon’s fingerprints and any other information specified by the department.
 
-(12) A foreign government, if requested by the individual who is the subject of the record requested, if needed in conjunction with the
- individual’s application to adopt a minor child who is a citizen of that foreign nation. Requests for information pursuant to this paragraph shall be in accordance with the process described in Sections 11122 to 11124, inclusive. The response shall be provided to the foreign government or its designee and to the individual who requested the information.
+(12) A foreign government, if requested by the individual who is the subject of the record requested, if needed in conjunction with the individual’s application to adopt a minor child who is a citizen of that foreign nation. Requests for information pursuant to this
+ paragraph shall be in accordance with the process described in Sections 11122 to 11124, inclusive. The response shall be provided to the foreign government or its designee and to the individual who requested the information.
 
 (d) Whenever an authorized request for state summary criminal history information pertains to a person whose fingerprints are on file with the Department of Justice and the department has no criminal history of that person, and the information is to be used for employment, licensing, or certification purposes, the fingerprint card accompanying the request for information, if any, may be stamped “no criminal record” and returned to the person or entity making the request.
 
-(e) Whenever state summary criminal history information is
- furnished as the result of an application and is to be used for employment, licensing, or certification purposes, the Department of Justice may charge the person or entity making the request a fee that it determines to be sufficient to reimburse the department for the cost of furnishing the information. In addition, the Department of Justice may add a surcharge to the fee to fund maintenance and improvements to the systems from which the information is obtained. Notwithstanding any other law, a person or entity required to pay a fee to the department for information received under this section may charge the applicant a fee sufficient to reimburse the person or entity for this expense. All moneys received by the department pursuant to this section, Sections 11105.3 and 26190, and former Section 13588 of the Education Code shall be deposited in a special account in the General Fund to be available for expenditure by the department to offset costs incurred pursuant to those sections and for maintenance and
- improvements to the systems from which the information is obtained upon appropriation by the Legislature.
+(e) Whenever state summary criminal history information is furnished as the
+ result of an application and is to be used for employment, licensing, or certification purposes, the Department of Justice may charge the person or entity making the request a fee that it determines to be sufficient to reimburse the department for the cost of furnishing the information. In addition, the Department of Justice may add a surcharge to the fee to fund maintenance and improvements to the systems from which the information is obtained. Notwithstanding any other law, a person or entity required to pay a fee to the department for information received under this section may charge the applicant a fee sufficient to reimburse the person or entity for this expense. All moneys received by the department pursuant to this section, Sections 11105.3 and 26190, and former Section 13588 of the Education Code shall be deposited in a special account in the General Fund to be available for expenditure by
+ the department to offset costs incurred pursuant to those sections and for maintenance and improvements to the systems from which the information is obtained upon appropriation by the Legislature.
 
 (f) Whenever there is a conflict, the processing of criminal fingerprints and fingerprints of applicants for security guard or alarm agent registrations or firearms qualification permits submitted pursuant to Section 7583.9, 7583.23, 7596.3, or 7598.4 of the Business and Professions Code shall take priority over the processing of other applicant fingerprints.
 
 (g) It is not a violation of this section to disseminate statistical or research information obtained from a record, provided that the identity of the subject of the record is not disclosed.
 
-(h) It is not a violation of this section to include information obtained from a record in (1) a transcript or record of a judicial or administrative proceeding or (2)
- any other public record if the inclusion of the information in the public record is authorized by a court, statute, or decisional law.
+(h) It is not a violation of this section to include information obtained from a record in (1) a transcript or record of a judicial or administrative proceeding or (2) any other public record if the inclusion of the information in the public record is authorized by a court, statute, or decisional law.
 
 (i) Notwithstanding any other law, the Department of Justice or a state or local law enforcement agency may require the submission of fingerprints for the purpose of conducting state summary criminal history information checks that are authorized by law.
 
-(j) The state summary criminal history information shall include any finding of mental incompetence pursuant to Chapter 6 (commencing with Section 1367) of Title 10 of Part 2 arising out of a complaint charging a felony offense specified in Section 290.
+(j) The state summary criminal history information shall include any finding of mental incompetence pursuant to Chapter 6 (commencing with Section 1367) of Title 10 of Part 2 arising out of a complaint charging a
+ felony offense specified in Section 290.
 
-(k) (1) This subdivision shall apply whenever state or federal summary criminal history information is furnished by the Department of Justice
- in accordance with federal law and as the result of an application by an authorized agency or organization and the information is to be used for peace officer employment or certification purposes. As used in this subdivision, a peace officer is defined in Chapter 4.5 (commencing with Section 830) of Title 3 of Part 2.
+(k) (1) This subdivision shall apply whenever state or federal summary criminal history information is furnished by the Department of Justice in accordance with federal law and as the result of an application by an authorized agency or organization and the information is to be used for peace officer employment or certification purposes. As used in this subdivision, a peace officer is defined in Chapter 4.5 (commencing with Section 830) of Title 3 of Part 2.
 
 (2) Notwithstanding any other law, whenever state or federal summary criminal history information is initially furnished pursuant to paragraph (1), the Department of Justice shall disseminate the following information:
 
 (A) Every conviction rendered against the applicant.
 
-(B) Every arrest for an offense for which the applicant is presently awaiting trial,
- whether the applicant is incarcerated or has been released on bail or on their own recognizance pending trial.
+(B) Every arrest for an offense for which the applicant is presently awaiting trial, whether the applicant is incarcerated or has been released on bail or on their own recognizance pending trial.
 
 (C) Every arrest or detention, except for an arrest or detention resulting in an exoneration, provided, however, that where the records of the Department of Justice do not contain a disposition for the arrest, the Department of Justice first makes a genuine effort to determine the disposition of the arrest.
 
 (D) Every successful diversion.
 
-(E) Every date and agency name associated with all retained peace officer or nonsworn law enforcement agency employee preemployment criminal offender record information search requests.
+(E) Every date and agency name associated with all retained peace
+ officer or nonsworn law enforcement agency employee preemployment criminal offender record information search requests.
 
 (F) Sex offender registration status of the applicant.
 
@@ -68112,15 +68112,14 @@ The Attorney General shall file all measurements, information and descriptions r
 
 (l) (1) This subdivision shall apply whenever state or federal summary criminal history information is furnished by the Department of Justice in accordance with federal law and as the result of an application by a criminal justice agency or organization as defined in Section 13101, and the information is to be used for criminal justice employment, licensing, or certification purposes.
 
-(2) Notwithstanding any other law, whenever state or federal summary criminal history information is initially furnished pursuant to paragraph (1), the
- Department of Justice shall disseminate the following information:
+(2) Notwithstanding any other law, whenever state or federal summary criminal history information is initially furnished pursuant to paragraph (1), the Department of Justice shall disseminate the following information:
 
 (A) Every conviction rendered against the applicant.
 
 (B) Every arrest for an offense for which the applicant is presently awaiting trial, whether the applicant is incarcerated or has been released on bail or on their own recognizance pending trial.
 
-(C) Every arrest for an offense for which the records of the Department of Justice do not contain a disposition or that did not result in a conviction, provided that the Department of Justice first makes a genuine effort to determine the disposition of the arrest. However, information concerning an arrest shall not be disclosed if the records of the Department of Justice indicate or if the genuine effort reveals that the subject was exonerated, successfully completed a diversion or deferred entry of
- judgment program, or the arrest was deemed a detention, or the subject was granted relief pursuant to Section 851.91.
+(C) Every arrest for an offense for which the records of the Department of Justice do not contain a disposition or that did not result in a conviction, provided that the Department of Justice first makes a genuine effort to determine the disposition of the
+ arrest. However, information concerning an arrest shall not be disclosed if the records of the Department of Justice indicate or if the genuine effort reveals that the subject was exonerated, successfully completed a diversion or deferred entry of judgment program, or the arrest was deemed a detention, or the subject was granted relief pursuant to Section 851.91.
 
 (D) Every date and agency name associated with all retained peace officer or nonsworn law enforcement agency employee preemployment criminal offender record information search requests.
 
@@ -68128,8 +68127,7 @@ The Attorney General shall file all measurements, information and descriptions r
 
 (F) Sentencing information, if present in the department’s records at the time of the response.
 
-(m) (1) This subdivision shall apply whenever state or federal summary criminal history information is furnished by the Department of Justice in accordance with federal law and
- as the result of an application by an authorized agency or organization pursuant to Section 1522, 1568.09, 1569.17, or 1596.871 of the Health and Safety Code, or a statute that incorporates the criteria of any of those sections or this subdivision by reference, and the information is to be used for employment, licensing, or certification purposes.
+(m) (1) This subdivision shall apply whenever state or federal summary criminal history information is furnished by the Department of Justice in accordance with federal law and as the result of an application by an authorized agency or organization pursuant to Section 1522, 1568.09, 1569.17, or 1596.871 of the Health and Safety Code, or a statute that incorporates the criteria of any of those sections or this subdivision by reference, and the information is to be used for employment, licensing, or certification purposes.
 
 (2) Notwithstanding any other law, whenever state or federal summary criminal history information is initially furnished pursuant to paragraph (1), the Department of Justice shall disseminate the following information:
 
@@ -68137,14 +68135,15 @@ The Attorney General shall file all measurements, information and descriptions r
 
 (B) Every arrest for an offense for which the applicant is presently awaiting trial, whether the applicant is incarcerated or has been released on bail or on their own recognizance pending trial.
 
-(C) Every arrest for an offense for which the State Department of Social Services is required by paragraph (1) of subdivision (a) of Section 1522 of the Health and Safety Code to determine if an applicant has been arrested. However, if the records of the Department of Justice do not contain a disposition for an arrest, the Department of Justice shall first make a genuine effort to determine the disposition of the arrest.
+(C) Every arrest for an offense for which the State Department of Social Services is required by paragraph (1) of subdivision (a) of Section 1522 of the Health and Safety Code to determine if an
+ applicant has been arrested. However, if the records of the Department of Justice do not contain a disposition for an arrest, the Department of Justice shall first make a genuine effort to determine the disposition of the arrest.
 
 (D) Sex offender registration status of the applicant.
 
-(E) Sentencing information, if present in the department’s records at the time of the
- response.
+(E) Sentencing information, if present in the department’s records at the time of the response.
 
-(3) Notwithstanding the requirements of the sections referenced in paragraph (1) of this subdivision, the Department of Justice shall not disseminate information about an arrest subsequently deemed a detention or an arrest that resulted in the successful completion of a diversion program, exoneration, or a grant of relief pursuant to Section 851.91.
+(3) Notwithstanding the requirements of the sections referenced in paragraph (1) of this subdivision, the Department of Justice shall not disseminate information about an arrest subsequently deemed a detention or an arrest that resulted in the successful completion of a diversion program, exoneration, or a grant of relief pursuant
+ to Section 851.91.
 
 (n) (1) This subdivision shall apply whenever state or federal summary criminal history information, to be used for employment, licensing, or certification purposes, is furnished by the Department of Justice in accordance with federal law and as the result of an application by an authorized agency, organization, or individual pursuant to any of the following:
 
@@ -68154,41 +68153,41 @@ The Attorney General shall file all measurements, information and descriptions r
 
 (C) Section 15660 of the Welfare and Institutions Code.
 
-(D) A statute that incorporates the criteria of any of the statutory provisions listed in subparagraph (A), (B), or (C), or of this subdivision, by reference.
+(D) A statute that
+ incorporates the criteria of any of the statutory provisions listed in subparagraph (A), (B), or (C), or of this subdivision, by reference.
 
-(2) Notwithstanding any other
- law, whenever state or federal summary criminal history information is initially furnished pursuant to paragraph (1), the Department of Justice shall disseminate the following information:
+(2) Notwithstanding any other law, whenever state or federal summary criminal history information is initially furnished pursuant to paragraph (1), the Department of Justice shall disseminate the following information:
 
-(A) Every conviction, except a conviction for which relief has been granted pursuant to Section 1203.49, rendered against the applicant for a violation or attempted violation of an offense specified in subdivision (a) of Section 15660 of the Welfare and Institutions Code. However, with the exception of those offenses for which registration is required pursuant to Section 290, the Department of Justice shall not disseminate information pursuant to this subdivision unless the conviction occurred within 10 years of the date of the agency’s request for information or the conviction is over 10 years old but the subject of the request was incarcerated within
- 10 years of the agency’s request for information.
+(A) Every conviction, except a conviction for which relief has been granted pursuant to Section 1203.49, rendered against the applicant for a violation or attempted violation of an offense specified in subdivision (a) of Section 15660 of the Welfare and Institutions Code. However, with the exception of those offenses for which registration is required pursuant to Section 290, the Department of Justice shall not disseminate
+ information pursuant to this subdivision unless the conviction occurred within 10 years of the date of the agency’s request for information or the conviction is over 10 years old but the subject of the request was incarcerated within 10 years of the agency’s request for information.
 
 (B) Every arrest for a violation or attempted violation of an offense specified in subdivision (a) of Section 15660 of the Welfare and Institutions Code for which the applicant is presently awaiting trial, whether the applicant is incarcerated or has been released on bail or on their own recognizance pending trial.
 
 (C) Sex offender registration status of the applicant.
 
-(D) Sentencing information, if present in the department’s records at the time of the response.
+(D) Sentencing information, if present in the department’s records at the
+ time of the response.
 
-(o) (1) This subdivision shall apply whenever state or federal summary criminal history information is furnished by the Department of Justice
- in accordance with federal law and as the result of an application by an authorized agency or organization pursuant to Section 379 or 1300 of the Financial Code or a statute that incorporates the criteria of either of those sections or this subdivision by reference, and the information is to be used for employment, licensing, or certification purposes.
+(o) (1) This subdivision shall apply whenever state or federal summary criminal history information is furnished by the Department of Justice in accordance with federal law and as the result of an application by an authorized agency or organization pursuant to Section 379 or 1300 of the Financial Code or a statute that incorporates the criteria of either of those sections or this subdivision by reference, and the information is to be used for employment, licensing, or certification purposes.
 
 (2) Notwithstanding any other law, whenever state or federal summary criminal history information is initially furnished pursuant to paragraph (1), the Department of Justice shall disseminate the following information:
 
-(A) Every conviction rendered against the applicant for a violation or attempted violation of an offense specified in Section 1300 of the Financial Code, except a conviction for which
- relief has been granted pursuant to Section 1203.49.
+(A) Every conviction rendered against the applicant for a violation or attempted violation of an offense specified in Section 1300 of the Financial Code, except a conviction for which relief has been granted pursuant to Section 1203.49.
 
 (B) Every arrest for a violation or attempted violation of an offense specified in Section 1300 of the Financial Code for which the applicant is presently awaiting trial, whether the applicant is incarcerated or has been released on bail or on their own recognizance pending trial.
 
 (C) Sentencing information, if present in the department’s records at the time of the response.
 
-(p) (1) This subdivision shall apply whenever state or federal criminal history information is furnished by the Department of Justice in accordance with federal law and as the result of an application by an agency, organization, or individual not defined in
- subdivision (k), (l), (m), (n), or (o), or a statute that incorporates the criteria of that section or this subdivision by reference, and the information is to be used for employment, licensing, or certification purposes.
+(p) (1) This subdivision shall
+ apply whenever state or federal criminal history information is furnished by the Department of Justice in accordance with federal law and as the result of an application by an agency, organization, or individual not defined in subdivision (k), (l), (m), (n), or (o), or a statute that incorporates the criteria of that section or this subdivision by reference, and the information is to be used for employment, licensing, or certification purposes.
 
 (2) Notwithstanding any other law, whenever state or federal summary criminal history information is initially furnished pursuant to paragraph (1), the Department of Justice shall disseminate the following information:
 
-(A) Every conviction rendered against the applicant, except a conviction for which relief has been granted pursuant to Section 1203.4, 1203.4a, 1203.41, 1203.42, 1203.425, 1203.44, or 1203.49. The Commission on Teacher Credentialing, school districts, county offices
- of education, charter schools, private schools, state special schools for the blind and deaf, or any other entity required to have a background check because of a contract with a school district, county office of education, charter school, private school, or state special school for the blind and deaf, shall receive every conviction rendered against an applicant, retroactive to January 1, 2020, regardless of relief granted pursuant to Section 1203.4, 1203.4a, 1203.41, 1203.42, 1203.425, or 1203.49.
+(A) Every conviction rendered against the applicant, except a conviction for which relief has been granted pursuant to
+ Section 1203.4, 1203.4a, 1203.41, 1203.42, 1203.425, 1203.44, or 1203.49. The Commission on Teacher Credentialing, school districts, county offices of education, charter schools, private schools, state special schools for the blind and deaf, or any other entity required to have a background check because of a contract with a school district, county office of education, charter school, private school, or state special school for the blind and deaf, shall receive every conviction rendered against an applicant, retroactive to January 1, 2020, regardless of relief granted pursuant to Section 1203.4, 1203.4a, 1203.41, 1203.42, 1203.425, or 1203.49.
 
-(B) Notwithstanding subparagraph (A) or any other law, information for a conviction for a controlled substance offense listed in Section 11350 or 11377, or former Section 11500 or 11500.5, of the Health and Safety Code that is more than five years old, for which relief is granted pursuant to Section 1203.4, 1203.4a, 1203.41, 1203.42, 1203.425, or 1203.49, shall not be disseminated.
+(B) Notwithstanding subparagraph (A) or any other law, information for a conviction for a controlled substance offense listed in Section 11350 or 11377, or former Section 11500 or 11500.5, of
+ the Health and Safety Code that is more than five years old, for which relief is granted pursuant to Section 1203.4, 1203.4a, 1203.41, 1203.42, 1203.425, or 1203.49, shall not be disseminated.
 
 (C) Every arrest for an offense for which the applicant is presently awaiting trial, whether the applicant is incarcerated or has been released on bail or on their own recognizance pending trial.
 
@@ -68196,19 +68195,21 @@ The Attorney General shall file all measurements, information and descriptions r
 
 (E) Sentencing information, if present in the department’s records at the time of the response.
 
-(q) All agencies, organizations, or individuals defined in subdivisions (k), (l), (m), (n), (o), and (p) may contract with the Department of Justice for subsequent notification pursuant to Section 11105.2. This subdivision shall not supersede sections that mandate an agency, organization, or individual to contract with the Department of Justice for subsequent notification pursuant to Section 11105.2.
+(q) All agencies, organizations, or individuals defined in subdivisions (k), (l), (m), (n), (o), and (p) may contract with the Department
+ of Justice for subsequent notification pursuant to Section 11105.2. This subdivision shall not supersede sections that mandate an agency, organization, or individual to contract with the Department of Justice for subsequent notification pursuant to Section 11105.2.
 
 (r) This section does not require the Department of Justice to cease compliance with any other statutory notification requirements.
 
 (s) The provisions of Section 50.12 of Title 28 of the Code of Federal Regulations are to be followed in processing federal criminal history information.
 
-(t) Whenever state or federal summary criminal history information is furnished by the Department of Justice as the result of an application by an authorized agency, organization, or individual defined in subdivisions (k) to (p), inclusive, and the information is to be used for employment, licensing, or certification purposes, the authorized agency, organization, or individual shall expeditiously furnish a copy of the information to the person to whom the information relates if the information is a basis for an adverse employment, licensing, or certification decision. When furnished
- other than in person, the copy shall be delivered to the last contact information provided by the applicant.
+(t) Whenever state or federal summary criminal history information is furnished by the Department of Justice as the result of an application by an authorized agency,
+ organization, or individual defined in subdivisions (k) to (p), inclusive, and the information is to be used for employment, licensing, or certification purposes, the authorized agency, organization, or individual shall expeditiously furnish a copy of the information to the person to whom the information relates if the information is a basis for an adverse employment, licensing, or certification decision. When furnished other than in person, the copy shall be delivered to the last contact information provided by the applicant.
 
-(u) (1) If a fingerprint-based criminal history information check is required pursuant to any statute, that check shall be requested from the Department of Justice and shall be applicable to the person identified in the referencing statute. The agency or entity identified in the statute shall submit to the Department of Justice fingerprint images and related information required by the Department of Justice of the types of applicants identified in the referencing statute, for the purpose of obtaining information as to the existence and content of a record of state or federal convictions and state or federal arrests and also information as to the existence and content of a record of the state or federal arrests for which the Department of Justice establishes that the person is free on bail or on their own
- recognizance pending trial or appeal.
+(u) (1) If a fingerprint-based criminal history information check is required pursuant to any statute, that check shall be requested from the Department of Justice and shall be applicable to the person identified in the referencing statute. The agency or entity identified in the statute shall
+ submit to the Department of Justice fingerprint images and related information required by the Department of Justice of the types of applicants identified in the referencing statute, for the purpose of obtaining information as to the existence and content of a record of state or federal convictions and state or federal arrests and also information as to the existence and content of a record of the state or federal arrests for which the Department of Justice establishes that the person is free on bail or on their own recognizance pending trial or appeal.
 
-(2) If requested, the Department of Justice shall transmit fingerprint images and related information received pursuant to this section to the Federal Bureau of Investigation for the purpose of obtaining a federal criminal history information check. The Department of Justice shall review the information returned from the Federal Bureau of Investigation, and compile and disseminate a response to the agency or entity identified in the referencing statute, pursuant to the identified subdivision. The Department of Justice shall not disseminate federal criminal history information to a private entity that is unauthorized to receive it under federal law.
+(2) If requested, the Department of Justice shall transmit fingerprint images and related information received pursuant to this section to the Federal Bureau of Investigation for the purpose of obtaining a federal criminal history information check. The Department of Justice shall review
+ the information returned from the Federal Bureau of Investigation, and compile and disseminate a response to the agency or entity identified in the referencing statute, pursuant to the identified subdivision. The Department of Justice shall not disseminate federal criminal history information to a private entity that is unauthorized to receive it under federal law.
 
 (3) The Department of Justice shall provide a state response to the agency or entity identified in the referencing statute, pursuant to the identified subdivision.
 
@@ -68216,7 +68217,9 @@ The Attorney General shall file all measurements, information and descriptions r
 
 (5) The Department of Justice shall charge a fee sufficient to cover the reasonable cost of processing the request described in this subdivision.
 
-(History: Amended by Stats. 2025, Ch. 113, Sec. 33.   (SB 160)   Effective September 17, 2025.)
+(6) Release of information pursuant to this subdivision is subject to the limitations of subdivision (s).
+
+(History: Amended by Stats. 2026, Ch. 313, Sec. 19.   (AB 2796)   Effective September 18, 2026.)
 -------------------------------------------
 
 11105.001.
@@ -68225,8 +68228,7 @@ The Attorney General shall file all measurements, information and descriptions r
 
 (b) A government entity specified in subdivision (c) shall submit to the Department of Justice fingerprint images and related information for individuals specified in subdivision (a) who are subject to a state and national criminal history background check, pursuant to subdivision (u) of Section 11105. The Department of Justice shall provide a state- and federal-level response pursuant to subdivision (p) of Section 11105.
 
-(c) The following government
- entities are authorized pursuant to this section:
+(c) The following government entities are authorized pursuant to this section:
 
 (1) The University of California, as defined in Section 9 of Article IX of the Constitution.
 
@@ -68248,9 +68250,10 @@ The Attorney General shall file all measurements, information and descriptions r
 
 (6) The Department of Fish and Wildlife, as defined in Section 700 of the Fish and Game Code.
 
-(7) California Exposition and State Fair, as defined in Section 3301 of the Food and Agriculture Code.
+(7) California Exposition and State
+ Fair, as defined in Section 3301 of the Food and Agricultural Code.
 
-(8) Exposition Park, as defined in Section 4101 of the Food and Agriculture Code.
+(8) Exposition Park, as defined in Section 4101 of the Food and Agricultural Code.
 
 (9) The Office of Emergency Services, as defined in Section 8585 of the Government Code.
 
@@ -68272,21 +68275,28 @@ The Attorney General shall file all measurements, information and descriptions r
 
 (18) The State Department of Public Health, as defined in Section 131050 of the Health and Safety Code.
 
-(19) The Military Department, as defined in Section 50 of the Military and Veterans Code. The Military Department may require service members to undergo a fingerprint-based state and national criminal
- history background check, pursuant to subdivision (a). For purposes of this section, “service member” means a member of the active militia as defined in Section 120 of the Military and Veterans Code.
+(19) The Military Department, as defined in Section 50 of the Military and Veterans Code. The Military Department may require service members to undergo a fingerprint-based state and national criminal history background check, pursuant to subdivision (a). For purposes of this section, “service member” means a member of the active militia as defined in Section 120 of the Military and Veterans Code.
 
 (20) The Department of Veterans Affairs, as defined in Section 63 of the Military and Veterans Code.
 
-(21) The Department of Parks and Recreation, as defined in Section 501 of the Public Resources Code.
+(21) The Department of Parks and Recreation, as defined in Section
+ 501 of the Public Resources Code.
 
 (22) The Employment Development Department, as defined in Section 301 of the Unemployment Insurance Code.
 
 (23) The California Department of Aging, as defined in Section 9100 of the Welfare and Institutions Code.
 
-(d) The provisions of this section are severable. If any provision of this section
- or its application is held invalid pursuant to state or federal law, that invalidity shall not affect other provisions or applications that can be given effect without the invalid provision or application.
+(24) The Housing Development and Finance Committee, as established in Section 54925 of the Health and Safety Code.
 
-(History: Added by Stats. 2025, Ch. 113, Sec. 34.   (SB 160)   Effective September 17, 2025.)
+(25) The Department of Housing and Community Development, for both of the following entities:
+
+(A) The Department of Housing and Community Development, as described in Section 50400 of the Health and Safety Code.
+
+(B) The Housing Development and Finance Committee, as established in Section 54925 of the Health and Safety Code.
+
+(d) The provisions of this section are severable. If any provision of this section or its application is held invalid pursuant to state or federal law, that invalidity shall not affect other provisions or applications that can be given effect without the invalid provision or application.
+
+(History: Amended by Stats. 2026, Ch. 313, Sec. 20.   (AB 2796)   Effective September 18, 2026.)
 -------------------------------------------
 
 11105.002.
@@ -68297,17 +68307,36 @@ The Attorney General shall file all measurements, information and descriptions r
 
 (c) The following government entities are authorized pursuant to this section:
 
-(1) (A) Law enforcement agencies for
- peace officers and prospective peace officers, as designated in Chapter 4.5 (commencing with Section 830) of Title 3 of Part 2. The Department of Justice shall provide a state- and federal-level response pursuant to subdivision (k) of Section 11105.
+(1) (A) Law enforcement agencies for peace officers and
+ prospective peace officers, as designated in Chapter 4.5 (commencing with Section 830) of Title 3 of Part 2. The Department of Justice shall provide a state- and federal-level response pursuant to subdivision (k) of Section 11105.
 
 (B) As used in this subdivision, “law enforcement agencies” means a police or sheriff’s department, or any department or agency of the state or any political subdivision thereof that employs any peace officer, as designated in Chapter 4.5 (commencing with Section 830) of Title 3 of Part 2.
 
-(2) Criminal justice agencies, as defined in Section 13101, for employees, prospective employees, volunteers, contractors, and subcontractors. The Department of Justice shall provide a state- and federal-level response pursuant to subdivision (l) of Section 11105.
+(2) (A) Criminal justice agencies, as defined in Section 13101, for employees, prospective employees, volunteers, contractors, and subcontractors as specified in subparagraph (B). The Department of Justice shall provide a state- and
+ federal-level response pursuant to subdivision (l) of Section 11105.
 
-(d) The provisions of
- this section are severable. If any provision of this section or its application is held invalid pursuant to state or federal law, that invalidity shall not affect other provisions or applications that can be given effect without the invalid provision or application.
+(B) This paragraph only applies to a volunteer, contractor, or subcontractor who does either of the following:
 
-(History: Added by Stats. 2025, Ch. 113, Sec. 35.   (SB 160)   Effective September 17, 2025.)
+(i) Provides services for the administration of criminal justice as that term is defined in Section 20.3 of Subpart A of Part 20 of Chapter I of Title 28 of the Code of Federal Regulations.
+
+(ii) Has direct or remote access to the criminal justice agency’s systems or unescorted access to the criminal justice agency’s facilities.
+
+(d) The provisions of this section are severable. If any provision of this section or its application is held invalid pursuant to state or federal law, that
+ invalidity shall not affect other provisions or applications that can be given effect without the invalid provision or application.
+
+(History: Amended by Stats. 2026, Ch. 313, Sec. 21.   (AB 2796)   Effective September 18, 2026.)
+-------------------------------------------
+
+11105.003.
+
+(a) Notwithstanding any other law, any statutory requirement for an entity subject to any statutory requirement for an entity to conduct a federal criminal history information check for licensing, certification, or employment purposes does not apply if the Federal Bureau of Investigation has not authorized the entity to conduct a federal criminal history information check under the applicable federal laws and regulations.
+
+(b) Under these circumstances, an entity may make licensing, certification, or employment decisions based on the results of a state criminal history information check until the Federal Bureau of Investigation has authorized them to conduct a
+ federal criminal history information check.
+
+(c) If the Federal Bureau of Investigation authorizes an entity to conduct the federal criminal history information check, the entity shall require an applicant, licensee, certified individual, and employee who did not previously undergo the federal criminal history information check to resubmit their fingerprints for that purpose.
+
+(History: Added by Stats. 2026, Ch. 313, Sec. 22.   (AB 2796)   Effective September 18, 2026.)
 -------------------------------------------
 
 11105.01.
@@ -68409,11 +68438,17 @@ Any information obtained from the state summary criminal history information is 
 
 11105.05.
 
-(a) Criminal justice agencies, as defined in Section 13101, shall require employees, prospective employees, volunteers, contractors, and subcontractors, to undergo a fingerprint-based state and national criminal history background check.
+(a) Criminal justice agencies, as defined in Section 13101, shall require employees, prospective employees, volunteers, contractors, and subcontractors, as specified in subdivision (c), to undergo a fingerprint-based state and national criminal history background check.
 
 (b) Criminal justice agencies shall submit to the Department of Justice fingerprint images and related information for individuals specified in subdivision (a) who are subject to a state and national criminal history background check, pursuant to subdivision (u) of Section 11105. The Department of Justice shall provide a state- or federal-level response pursuant to subdivision (l) of Section 11105.
 
-(History: Added by Stats. 2025, Ch. 113, Sec. 36.   (SB 160)   Effective September 17, 2025.)
+(c) Subdivision (a) only applies to a volunteer, contractor, or subcontractor who does either of the following:
+
+(1) Provides services for the administration of criminal justice as that term is defined in Section 20.3 of Subpart A of Part 20 of Chapter I of Title 28 of the Code of Federal Regulations.
+
+(2) Has direct or remote access to the criminal justice agency’s systems or unescorted access to the criminal justice agency’s facilities.
+
+(History: Amended by Stats. 2026, Ch. 313, Sec. 23.   (AB 2796)   Effective September 18, 2026.)
 -------------------------------------------
 
 11105.06.
@@ -68552,81 +68587,64 @@ The Department of Justice shall retain an individual’s fingerprint images and 
 
 11105.3.
 
-(a) Notwithstanding any other law, a human resource agency or an employer may request from the Department of Justice records of all convictions or any arrest pending adjudication involving the offenses specified in subdivision (a) of Section 15660 of the Welfare and Institutions Code of a person who applies for a license, employment, or volunteer position, in which they would have supervisory or disciplinary power over a minor or any person under their care. The department shall furnish the information to the requesting employer and shall also send a copy of the information to the applicant.
+(a) (1) For the purposes of implementing the provisions of the National Child Protection Act, of 1993, as amended by the Volunteers for Children Act, the department shall develop the California Volunteer and Employee Criminal History Service Program pursuant to this section.
 
-(b) (1) A request for records under
- subdivision (a) shall include the applicant’s fingerprints, which may be taken by the requester, and any other data specified by the department. The department shall not require the applicant’s residence address for any request for records pursuant to subdivision (a). The request shall be on a form approved by the department, and the department may charge a fee to be paid by the employer, human resource agency, or applicant for the actual cost of processing the request. However, a fee shall not be charged to a nonprofit organization. Requests received by the department for federal level criminal offender record information shall be forwarded to the Federal Bureau of Investigation by the department to be searched for any record of arrests or convictions.
+(2) Notwithstanding any other law, a qualified entity may require a covered individual to undergo a fingerprint-based state and national criminal history background check.
+
+(3) The qualified entity shall submit to the department fingerprint images and related information for covered individuals who are subject to a state and
+ national criminal history background check pursuant to subdivision (u) of Section 11105. The department shall provide a state or federal response pursuant to subdivision (n) of Section 11105, except as otherwise specified.
+
+(4) A qualified entity shall request from the department subsequent notification service for covered individuals, pursuant to Section 11105.2.
+
+(b) (1) The department shall not require the applicant’s residence address for any request for records pursuant to subdivision (a). The department may charge a fee for the actual cost of processing the request. A fee shall not be charged to a nonprofit organization for requesting the state records of a covered individual pursuant to this section.
 
 (2) The following procedures are established under this section:
 
 (A) The department, upon receipt of a background check report lacking disposition data, shall conduct research in whatever recordkeeping systems are available in order to obtain complete data.
 
-(B) A human resource agency or employer shall register with the department before submitting a request for screening under this section. Each such request shall be voluntary. As a part of the registration, the human resource agency or employer shall agree to comply with state and federal law and shall so indicate by signing an agreement approved by the department. The department may periodically audit human resource agencies and employers to ensure compliance with federal law and this section.
+(B) A qualified entity shall register with the department before submitting a request for screening under this section. Each such request shall be voluntary. As a part of the registration, the qualified entity shall agree to comply with state and federal law and shall so indicate by signing an agreement approved by the department. The department may periodically audit qualified entities to ensure compliance with federal and state laws and regulations.
 
-(C) The human resource agency or employer shall maintain a waiver signed annually by the applicant, employee, or volunteer allowing the release of the state and federal level criminal history information to the human resource agency or employer.
+(C) The qualified entity shall maintain a waiver signed by the covered individual allowing the release of the state- and federal-level criminal history information to the qualified entity.
 
-(D) The federal level criminal history information is available to human resource agencies and employers to use only for the purpose of screening employees and volunteers or persons applying to be an employee or volunteer with a human resource agency or employer. The department shall provide this federal criminal history record information directly to the human resource agency or employer as authorized by the written waiver required pursuant to subparagraph (C) for submission of a request to the department.
+(D) The federal-level criminal history information is available to qualified entities to use only for the purpose of screening covered individuals. The department shall provide this federal criminal history record information directly to the qualified entity as authorized by the written waiver required pursuant to subparagraph (C) for submission of a request to the department.
 
-(E) The determination of whether the criminal history record shows that the applicant, employee, or volunteer has been convicted of, or is under pending indictment for, any crime that bears upon the fitness of the applicant, employee, or volunteer to have responsibility for the safety and well-being of children, the elderly, the handicapped, or the mentally impaired shall solely be made by the human resource agency or employer. This section does not require the department to make such a determination on behalf of any human resource agency or employer.
+(E) The determination of whether the criminal history record shows that the covered individual has been convicted of, or is under pending indictment for, any crime that bears upon the fitness of the covered
+ individual to have responsibility for the safety and well-being of children, the elderly, or individuals with disabilities shall solely be made by the qualified entity. This section does not require the department to make that determination on behalf of a qualified entity.
 
-(F) The human resource agency or employer shall notify the person in writing of their right to obtain a copy of any background screening report, including the criminal history records, if any, contained in the report, to challenge
- the accuracy and completeness of any information contained in any such report, and to obtain a determination as to the validity of such challenge before a final determination regarding the person is made by the human resource agency or employer reviewing the criminal history information.
+(F) The qualified entity shall notify the person in writing of their right to obtain a copy of any background screening report, including the criminal history records, if any, contained in the report, to challenge the accuracy and completeness of any information contained in any such report, and to obtain a determination as to the validity of such challenge before a final determination regarding the person is made by the qualified entity reviewing the criminal history information.
 
-(c) (1) When a request pursuant to this section reveals that a prospective employee or volunteer has been convicted of a violation or attempted violation of Section 220, 261.5, 273a, 273d, or 273.5, former Section 262, or any sex offense listed in Section 290, except for the offense specified in subdivision (d) of Section 243.4, and where the agency or employer hires the prospective employee or volunteer, the agency or employer shall notify the parents or guardians of any minor who will be supervised or disciplined by the employee or volunteer. A conviction for a violation or attempted violation of an offense
- committed outside the State of California shall be included in this notice if the offense would have been a crime specified in this subdivision if committed in California. The notice shall be given to the parents or guardians with whom the child resides, and shall be given at least 10 days prior to the day that the employee or volunteer begins their duties or tasks. Notwithstanding any other law, a person who conveys or receives information in good faith and in conformity with this section is exempt from prosecution under Section 11142 or 11143 for conveying or receiving that information. Notwithstanding subdivision (d), the notification requirements of this subdivision shall apply as an additional requirement of any other law requiring criminal record access or dissemination of criminal history information.
+(c) This section does not
+ supersede any law requiring criminal record access or dissemination of criminal history information. In any conflict with another statute, dissemination of criminal history information shall be pursuant to the mandatory statute. This subdivision applies to, but is not limited to, requirements pursuant to Article 1 (commencing with Section 1500) of Chapter 3 of, and Chapter 3.2 (commencing with Section 1569) and Chapter 3.4 (commencing with Section 1596.70) of, Division 2 of, and Section 1522 of, the Health and Safety Code, and Sections 8712, 8811, and 8908 of the Family Code, and Section 16519.5 of the Welfare and Institutions Code.
 
-(2) The notification requirement pursuant to paragraph (1) shall not apply to a misdemeanor conviction. This paragraph does not preclude
- an employer from requesting records of misdemeanor convictions from the Department of Justice pursuant to this section.
+(d) The department may adopt regulations to implement the provisions of this section as necessary.
 
-(d) This section does not supersede any law requiring criminal record access or dissemination of criminal history information. In any conflict with another statute, dissemination of criminal history information shall be pursuant to the mandatory statute. This subdivision applies to, but is not limited to, requirements pursuant to Article 1 (commencing with Section 1500) of Chapter 3 of, and Chapter 3.2 (commencing with Section 1569) and Chapter 3.4 (commencing with Section 1596.70) of, Division 2 of, and Section 1522 of, the Health and Safety Code, and Sections 8712, 8811, and 8908 of the Family Code, and Section 16519.5 of the Welfare and Institutions Code.
+(e) As used in this section, the following terms
+ have the following meanings:
 
-(e) The department may adopt regulations to implement the provisions of this section as necessary.
+(1) “Care” means the provision of services, treatment, education, training, instruction, supervision, or recreation to children, the elderly, or an individual with a disability.
 
-(f) As used in this section, the following terms have the following meanings:
+(2) “Child” means a person under 18 years of age.
 
-(1) “Community youth athletic program” means an employer having as its primary purpose the promotion or provision of athletic activities for youth under 18 years of age.
+(3) “Covered individual” means a person who has or may have access to a person served by a qualified entity and who meets one of the following criteria:
 
-(2) “Employer”
- means any nonprofit corporation or other organization specified by the Attorney General that employs or uses the services of volunteers in positions in which the volunteer or employee has supervisory or disciplinary power over a child or children.
+(A) Is a current or prospective volunteer of a qualified entity.
 
-(3) “Human resource agency” means a public or private entity, excluding any agency responsible for licensing of facilities pursuant to the California Community Care Facilities Act (Chapter 3 (commencing with Section 1500)), the California
- Residential Care Facilities for the Elderly Act (Chapter 3.2 (commencing with Section 1569)), Chapter 3.01 (commencing with Section 1568.01), and the California Child Day Care Facilities Act (Chapter 3.4 (commencing with Section 1596.70)) of Division 2 of the Health and Safety Code, responsible for determining the character and fitness of a person who is:
+(B) Is a current or prospective employee, owner, or administrator of a qualified entity.
 
-(A) Applying for a license, employment, or as a volunteer within the human services field that involves the care and security of children, the elderly, the handicapped, or the mentally impaired.
+(4) “Elderly” means a person 60 years of age or older.
 
-(B) Applying to be a volunteer who transports individuals impaired by drugs or alcohol.
+(5) “Employee” means every person in the service of a qualified entity under any appointment or contract of hire or apprenticeship, express or implied, oral or written.
 
-(C) Applying to adopt a child or to be a foster parent.
+(6) “Individual with a disability” means a person who has a physical or mental impairment that substantially limits one or more major life activities, a person who has a history or record of a physical or mental impairment, or a person who is perceived by others as having a physical or mental impairment.
 
-(4) “Regular volunteer” has the same meaning as that term is defined in Section 18975 of the Business and Professions Code.
+(7) “Qualified entity” means a business or organization, whether public, private, for profit, not for profit, or voluntary, that provides care or
+ licenses, certifies, or places others to provide care.
 
-(5) “Youth organization” means any community youth athletic program or youth service organization.
+(8) “Volunteer” means an individual who performs work without promise, expectation, or receipt of any compensation for any work performed.
 
-(6) “Youth service organization” has the same meaning as that term is defined in Section 18975 of the Business and Professions Code.
+(f) Criminal history information obtained pursuant to this section is confidential and a recipient shall not disclose its contents other than for the purpose for which it was acquired.
 
-(g) Except as provided in subdivision (c), criminal history information obtained pursuant to this section is confidential and a recipient shall not disclose its contents other than for
- the purpose for which it was acquired.
-
-(h) (1) A community youth athletic program may request state and federal level criminal history information pursuant to subdivision (a) for a volunteer coach or hired coach candidate. The director of the community youth athletic program shall be the custodian of records.
-
-(2) The community youth athletic program may request from the Department of Justice subsequent arrest notification service, as provided in Section 11105.2, for a volunteer coach or a hired coach candidate.
-
-(i) (1) A youth service organization shall request state and federal level criminal history information pursuant to subdivision (a) for an administrator, employee, or regular
- volunteer candidate.
-
-(2) The youth service organization may request from the Department of Justice subsequent arrest notification service, as provided in Section 11105.2, for an administrator, employee, or regular volunteer.
-
-(j) (1) When a youth organization that requests subsequent arrest notification service pursuant to subdivision (h) or (i) knows that the individual for whom the service is requested is no longer in a position for which the service is permitted, the youth organization shall notify the department immediately to terminate the service for that individual. The department shall terminate the service for the individual upon receipt of the notification.
-
-(2) A youth organization that requests subsequent arrest notification service shall, not less than every six months, verify that
- each individual for whom the service has not been terminated, is still in a position with the youth organization for which the service is permitted.
-
-(3) If a youth organization receives subsequent arrest notification for an individual unknown to the youth organization or for whom the youth organization terminated the service, the youth organization shall return the notification immediately to the department, informing the department that the individual is unknown to the youth organization or that the youth organization terminated the service for that individual.
-
-(k) Compliance with
- this section does not remove or limit the liability of a mandated reporter pursuant to Section 11166.
-
-(History: Amended by Stats. 2023, Ch. 190, Sec. 10.   (SB 135)   Effective September 13, 2023.)
+(History: Amended by Stats. 2026, Ch. 313, Sec. 24.   (AB 2796)   Effective September 18, 2026.)
 -------------------------------------------
 
 11105.4.
@@ -86473,9 +86491,29 @@ As used in the provisions listed in Section 16580, an offense that involves the 
 
 23520.
 
-Each application that requires any firearms eligibility determination involving the issuance of any license, permit, or certificate pursuant to this part shall include two copies of the applicant’s fingerprints on forms prescribed by the Department of Justice. One copy of the fingerprints may be submitted to the United States Federal Bureau of Investigation.
+(a) An applicant for a certificate of eligibility, as defined in Section 26710, or a dangerous weapons license or permit, as defined in subdivision (b), issued by the Department of Justice shall submit to the Department of Justice fingerprint images and related information for purposes of conducting a state and national criminal history background check, pursuant to subdivision (u) of Section 11105, and for the purpose of determining if the applicant is prohibited by state or federal law from possessing, receiving, owning, or purchasing a firearm.
 
-(History: Added by Stats. 2010, Ch. 711, Sec. 6.   (SB 1080)   Effective January 1, 2011.   Operative January 1, 2012, by Sec. 10 of Ch. 711.)
+(b) A dangerous weapons license or permit includes all of the following:
+
+(1) Assault weapon or .50 BMG rifle permit, as defined in
+ Article 6 (commencing with Section 31000) of Chapter 2 of Division 10.
+
+(2) Short-barreled shotgun or rifle permit, as defined in Article 2 (commencing with Section 33300) of Chapter 8 of Division 10.
+
+(3) Destructive device permit, as defined in Article 3 (commencing with Section 18900) of Chapter 1 of Division 5 of Title 2.
+
+(4) Machinegun permit, as defined in Article 3 (commencing with Section 32650) of Chapter 6 of Division 10.
+
+(5) Machinegun license, as defined in Article 4 (commencing with Section 32700) of Chapter 6 of Division 10.
+
+(6) Tear gas permit, as defined in Chapter 3
+ (commencing with Section 23000) of Division 11 of Title 3.
+
+(c) (1) The department shall review the state and federal response pursuant to subdivision (l) of Section 11105 for individuals specified in subdivision (a).
+
+(2) The department shall retain the fingerprint impressions for subsequent arrest notification pursuant to Section 11105.2.
+
+(History: Repealed and added by Stats. 2026, Ch. 313, Sec. 26.   (AB 2796)   Effective September 18, 2026.)
 -------------------------------------------
 
 
@@ -94814,7 +94852,7 @@ The implementation of Sections 29500, 29505, 29515, 29520, and 29525, and of sub
 
 
 
-  ARTICLE 1. Possession of Firearm [29610. - 29615.]
+  ARTICLE 1. Possession of Firearm [29610. - 29615.1.]
 
 29610.
 
@@ -94850,6 +94888,31 @@ Section 29610 shall not apply if one of the following circumstances exists:
 (2) The minor is 16 years of age or older or is accompanied by a responsible adult at all times while the minor is possessing the firearm.
 
 (History: Amended by Stats. 2025, Ch. 362, Sec. 2.   (AB 383)   Effective January 1, 2026.)
+-------------------------------------------
+
+29615.1.
+
+(a) Section 29610 shall not apply to a minor if all of the following are met:
+
+(1) The minor is actively engaged in, or is going to or from, any event conducted under the supervision or control of an entity authorized by the International Olympic Committee, International Paralympic Committee, International Shooting Sport Federation, or World Shooting Para Sport.
+
+(2) The minor is accompanied by a responsible adult. The responsible adult shall be one of the following:
+
+(A) A team official who is responsible for the minor’s participation in any event described in paragraph (1).
+
+(B) A member of the minor’s applicable National Olympic Committee or National Paralympic Committee.
+
+(C) A legal representative of the minor.
+
+(3) The minor is a competitor who will participate in any competitive or training event that utilizes firearms and is conducted under the supervision or control of an entity authorized by the International Olympic Committee, the International Paralympic Committee, International Shooting Sport Federation, or World Shooting Para Sport.
+
+(4) The minor has and is able to present an accredited credential issued by the International Olympic Committee, the International Paralympic Committee, International Shooting Sport Federation, or World Shooting Para Sport.
+
+(5) The firearm is for use in a competitive or training event that utilizes firearms and is conducted under the supervision or control of an entity authorized by the International Olympic Committee, the International Paralympic Committee, International Shooting Sport Federation, or World Shooting Para Sport.
+
+(b) This section shall become operative on July 1, 2027, and shall become inoperative upon the later of October 1, 2028, or the conclusion of the 2028 Olympic and Paralympic Games, and, as of January 1, 2029, is repealed.
+
+(History: Added by Stats. 2026, Ch. 354, Sec. 3.   (AB 191)   Effective September 20, 2026.   Operative July 1, 2027, by its own provisions.   Conditionally inoperative on or after October 1, 2028, as prescribed by its own provisions.   Repealed as of January 1, 2029, by its own provisions.)
 -------------------------------------------
 
 
@@ -95724,6 +95787,31 @@ Except as provided in Section 30215 and in Chapter 1 (commencing with Section 17
 (History: Added by Stats. 2010, Ch. 711, Sec. 6.   (SB 1080)   Effective January 1, 2011.   Operative January 1, 2012, by Sec. 10 of Ch. 711.)
 -------------------------------------------
 
+30300.1.
+
+(a) Section 30300 shall not apply to any transaction, sale, or transfer of ammunition between an ammunition vendor, as defined in Section 16151, and any competitor of the 2028 Olympic and Paralympic Games if all of the following are met:
+
+(1) A competitor presents an accredited credential issued by the International Olympic Committee, International Paralympic Committee, International Shooting Sport Federation, or World Shooting Para Sport.
+
+(2) A competitor will participate in any competitive or training event that utilizes firearms and is conducted under the supervision or control of an entity authorized by the International Olympic Committee, International Paralympic
+ Committee, International Shooting Sport Federation, or World Shooting Para Sport.
+
+(3) The competitor is accompanied by a responsible adult. The responsible adult shall be one of the following:
+
+(A) A team official who is responsible for the competitor’s participation in any event described in paragraph (2).
+
+(B) A member of the competitor’s applicable National Olympic Committee or National Paralympic Committee.
+
+(C) A legal representative of the competitor.
+
+(4) An ammunition vendor requires bona fide evidence of identity, as defined in Section 16300, a foreign passport, or other travel document used to enter the United States of the competitor and the accredited credential of the entity
+ described in paragraph (1) to verify that the person, who is receiving delivery of the ammunition, is the individual described in this section.
+
+(b) This section shall become operative on July 1, 2027, and shall become inoperative upon the later of October 1, 2028, or the conclusion of the 2028 Olympic and Paralympic Games, and, as of January 1, 2029, is repealed.
+
+(History: Added by Stats. 2026, Ch. 354, Sec. 4.   (AB 191)   Effective September 20, 2026.   Operative July 1, 2027, by its own provisions.   Conditionally inoperative on or after October 1, 2028, as prescribed by its own provisions.   Repealed as of January 1, 2029, by its own provisions.)
+-------------------------------------------
+
 30305.
 
 (a) (1) No person prohibited from owning or possessing a firearm under Chapter 2 (commencing with Section 29800) or Chapter 3 (commencing with Section 29900) of Division 9 of this title, or Section 8100 or 8103 of the Welfare and Institutions Code, shall own, possess, or have under custody or control, any ammunition or reloaded ammunition.
@@ -96030,6 +96118,22 @@ An ammunition vendor shall not sell or otherwise transfer ownership of, offer fo
 (f) The department is authorized to adopt regulations to implement the provisions of this section.
 
 (History: Amended by Stats. 2021, Ch. 253, Sec. 11.   (AB 173)   Effective September 23, 2021.)
+-------------------------------------------
+
+30352.1.
+
+(a) Subdivisions (a), (c), and (d) of Section 30352 shall not apply to sales or other transfers of ownership of ammunition by ammunition vendors to any competitor of the 2028 Olympic and Paralympic Games as follows, if properly identified:
+
+(1) The competitor presents an accredited credential issued by the International Olympic Committee, International Paralympic Committee, International Shooting Sport Federation, or World Shooting Para Sport.
+
+(2) The competitor will participate in any competitive or training event that utilizes firearms and is conducted under the supervision or control of an entity authorized by the International Olympic Committee, International Paralympic
+ Committee, International Shooting Sport Federation, or World Shooting Para Sport.
+
+(b) Prior to delivering ammunition under this section, an ammunition vendor shall require bona fide evidence of identity, as defined in Section 16300, a foreign passport, or other travel document used to enter the United States to verify that the person who is receiving delivery of the ammunition is a person listed in subdivision (a).
+
+(c) This section shall become operative on July 1, 2027, and shall become inoperative upon the later of October 1, 2028, or the conclusion of the 2028 Olympic and Paralympic Games, and, as of January 1, 2029, is repealed.
+
+(History: Added by Stats. 2026, Ch. 354, Sec. 5.   (AB 191)   Effective September 20, 2026.   Operative July 1, 2027, by its own provisions.   Conditionally inoperative on or after October 1, 2028, as prescribed by its own provisions.   Repealed as of January 1, 2029, by its own provisions.)
 -------------------------------------------
 
 30355.
@@ -96400,8 +96504,7 @@ As used in this chapter and in Sections 16780, 17000, 27555, 27560, 27565, 27875
 
 (D) A grenade launcher or flare launcher.
 
-(E) A
- flash suppressor.
+(E) A flash suppressor.
 
 (F) A forward pistol grip.
 
@@ -96415,8 +96518,8 @@ As used in this chapter and in Sections 16780, 17000, 27555, 27560, 27565, 27875
 
 (B) A second handgrip.
 
-(C) A shroud
- that is attached to, or partially or completely encircles, the barrel that allows the bearer to fire the weapon without burning the bearer’s hand, except a slide that encloses the barrel.
+(C) A shroud that is attached to, or partially or completely encircles, the barrel that allows the bearer to fire the weapon
+ without burning the bearer’s hand, except a slide that encloses the barrel.
 
 (D) The capacity to accept a detachable magazine at some location outside of the pistol grip.
 
@@ -96430,7 +96533,8 @@ As used in this chapter and in Sections 16780, 17000, 27555, 27560, 27565, 27875
 
 (7) A semiautomatic shotgun that does not have a fixed magazine.
 
-(8) Any shotgun with a revolving cylinder.
+(8) Any shotgun
+ with a revolving cylinder.
 
 (9) A semiautomatic centerfire firearm that is not a rifle, pistol, or shotgun, that does not have a fixed magazine, but that has any one of the following:
 
@@ -96446,7 +96550,8 @@ As used in this chapter and in Sections 16780, 17000, 27555, 27560, 27565, 27875
 
 (F) A forward pistol grip.
 
-(G) A threaded barrel, capable of accepting a flash suppressor, forward handgrip, or silencer.
+(G) A threaded barrel, capable of accepting a flash suppressor, forward handgrip, or
+ silencer.
 
 (H) A second handgrip.
 
@@ -96454,28 +96559,140 @@ As used in this chapter and in Sections 16780, 17000, 27555, 27560, 27565, 27875
 
 (J) The capacity to accept a detachable magazine at some location outside of the pistol grip.
 
-(10) A
- semiautomatic centerfire firearm that is not a rifle, pistol, or shotgun, that has a fixed magazine with the capacity to accept more than 10 rounds.
+(10) A semiautomatic centerfire firearm that is not a rifle, pistol, or shotgun, that has a fixed magazine with the capacity to accept more than 10 rounds.
 
 (11) A semiautomatic centerfire firearm that is not a rifle, pistol, or shotgun, that has an overall length of less than 30 inches.
 
-(b) For purposes of this section, “fixed magazine” means an ammunition feeding device contained in, or permanently attached to, a firearm in such a manner that the device cannot be removed without disassembly of the firearm action.
+(b) For purposes
+ of this section, “fixed magazine” means an ammunition feeding device contained in, or permanently attached to, a firearm in such a manner that the device cannot be removed without disassembly of the firearm action.
 
-(c) The Legislature finds a significant public purpose in exempting from the definition of “assault weapon” pistols that are designed expressly for use in Olympic target shooting events. Therefore, those pistols that
- are sanctioned by the International Olympic Committee and by USA Shooting, the national governing body for international shooting competition in the United States, and that were used for Olympic target shooting purposes as of January 1, 2001, and that would otherwise fall within the definition of “assault weapon” pursuant to this section are exempt, as provided in subdivision (d).
+(c) The Legislature finds a significant public purpose in exempting from the definition of “assault weapon” pistols that are designed expressly for use in Olympic or Paralympic target shooting events. Therefore, those pistols that are sanctioned by the Los Angeles Organizing Committee for the Olympic and Paralympic Games 2028, the International Olympic
+ Committee, the International Paralympic Committee, or by USA Shooting, the national governing body for international shooting competition in the United States, and that would otherwise fall within the definition of “assault weapon” pursuant to this section are exempt, as provided in subdivision (d).
 
 (d) “Assault weapon” does not include either of the following:
 
 (1) Any antique firearm.
 
-(2) Any of the following pistols, because they are consistent with the significant public purpose expressed in subdivision (c):MANUFACTURERMODELCALIBERBENELLIMP90.22LRBENELLIMP90.32 S&W LONGBENELLIMP95.22LRBENELLIMP95.32 S&W LONGHAMMERLI280.22LRHAMMERLI280.32 S&W LONGHAMMERLISP20.22LRHAMMERLISP20.32 S&W LONGPARDINIGPO.22 SHORTPARDINIGP-SCHUMANN.22 SHORTPARDINIHP.32 S&W LONGPARDINIMP.32 S&W LONGPARDINISP.22LRPARDINISPE.22LRWALTHERGSP.22LRWALTHERGSP.32 S&W LONGWALTHEROSP.22 SHORTWALTHEROSP-2000.22 SHORT
+(2) Any of the following pistols, because they are consistent with the significant public purpose expressed in subdivision (c):MANUFACTURERMODELCALIBERBENELLIMP90.22LRBENELLIMP90.32 S&W LONGBENELLIMP95.22LRBENELLIMP95.32 S&W LONGHAMMERLI280.22LRHAMMERLI280.32 S&W LONGHAMMERLISP20.22LRHAMMERLISP20.32 S&W LONGPARDINIGPO.22 SHORTPARDINIGP-SCHUMANN.22 SHORTPARDINIHP.32 S&W LONGPARDINIMP.32 S&W LONGPARDINISP.22LRPARDINISPE.22LRWALTHERGSP.22LRWALTHERGSP.32 S&W LONGWALTHEROSP.22 SHORTWALTHEROSP-2000.22 SHORT(3) The Department of Justice shall create a program that is consistent with the purposes stated in subdivision (c) to exempt new models of competitive pistols that would otherwise fall within the definition of “assault weapon” pursuant to this section from being classified as an assault weapon. The exempt competitive pistols may be based on recommendations by USA Shooting consistent with the regulations contained in the USA Shooting Official Rules or may be based on the recommendation or rules of any other organization that the department deems relevant.
 
-(3) The Department of Justice shall create a program that is consistent with the purposes stated in subdivision (c) to exempt new models of competitive pistols that would otherwise fall within the definition of “assault weapon” pursuant to this section from being classified as an assault weapon. The exempt competitive pistols may be based on recommendations by USA Shooting consistent with the regulations contained in the USA Shooting Official Rules or may be based on the recommendation or rules of any other organization that the department deems relevant.
+(4) (A) By June 30, 2028, the Department of Justice shall supplement the list of exempted pistols described in paragraph (3) to exempt new models of pistols anticipated to be utilized in the 2028 Olympic or Paralympic Games.
 
-(e) The provisions of this section are
- severable. If any provision of this section or its application is held invalid, that invalidity shall not affect other provisions or applications that can be given effect without the invalid provision or application.
+(B) The department shall supplement the list of exempted pistols pursuant to subparagraph (A) in coordination with, and promptly after receipt of any sufficient recommendation from, the Los Angeles Organizing Committee for the Olympic and Paralympic Games 2028. The Los Angeles Organizing Committee for the Olympic and Paralympic Games 2028 shall provide any sufficient recommendations to the department by June 19, 2028.
 
-(History: Amended by Stats. 2020, Ch. 29, Sec. 38.   (SB 118)   Effective August 6, 2020.)
+(C) Neither subparagraph (A) nor subparagraph (B) divest the Department of Justice of its independent authority to evaluate or render a decision regarding any sufficient recommendation submitted by the Los Angeles Organizing Committee for the Olympic and Paralympic Games 2028. To the extent that it does not conflict with the other provisions of this section, a sufficient recommendation may be approved, and the list of exempted pistols described in paragraph (3) may be
+ appropriately updated.
+
+(5) For the purposes of paragraph (4), a sufficient recommendation shall include all of the following:
+
+(A) Be signed and dated by either the chief executive officer or chief operating officer of the Los Angeles Organizing Committee for the Olympic and Paralympic Games 2028.
+
+(B) Specify the make, model, and caliber of the pistol.
+
+(C) Include a statement that the pistol is sanctioned by the Los Angeles Organizing Committee for the Olympic and Paralympic Games 2028, the International Olympic Committee, or the International Paralympic Committee for use in an Olympic or Paralympic target shooting competition.
+
+(D) Include a statement that the pistol is or will be used for
+ Olympic or Paralympic target shooting purposes.
+
+(e) Regulations adopted to implement paragraphs (4) and (5) of subdivision (d) are emergency regulations in accordance with Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code and shall be considered by the Office of Administrative Law to be necessary for the immediate preservation of the public health, safety, and welfare.
+
+(f) The provisions of this section are severable. If any provision of this section or its application is held invalid, that invalidity shall not affect other
+ provisions or applications that can be given effect without the invalid provision or application.
+
+(g) This section shall remain in effect only until January 1, 2029, and as of that date is repealed.
+
+(History: Amended by Stats. 2026, Ch. 354, Sec. 6.   (AB 191)   Effective September 20, 2026.   Repealed as of January 1, 2029, by its own provisions.   See later operative version added by Sec. 7 of Stats. 2026, Ch. 354.)
+-------------------------------------------
+
+30515.
+
+(a) Notwithstanding Section 30510, “assault weapon” also means any of the following:
+
+(1) A semiautomatic, centerfire rifle that does not have a fixed magazine but has any one of the following:
+
+(A) A pistol grip that protrudes conspicuously beneath the action of the weapon.
+
+(B) A thumbhole stock.
+
+(C) A folding or telescoping stock.
+
+(D) A grenade launcher or flare launcher.
+
+(E) A flash suppressor.
+
+(F) A forward pistol grip.
+
+(2) A semiautomatic, centerfire rifle that has a fixed magazine with the capacity to accept more than 10 rounds.
+
+(3) A semiautomatic, centerfire rifle that has an overall length of less than 30 inches.
+
+(4) A semiautomatic pistol that does not have a fixed magazine but has any one of the following:
+
+(A) A threaded barrel, capable of accepting a flash suppressor, forward handgrip, or silencer.
+
+(B) A second handgrip.
+
+(C) A shroud that is attached to, or partially or completely encircles, the barrel that allows the bearer to fire the weapon
+ without burning the bearer’s hand, except a slide that encloses the barrel.
+
+(D) The capacity to accept a detachable magazine at some location outside of the pistol grip.
+
+(5) A semiautomatic pistol with a fixed magazine that has the capacity to accept more than 10 rounds.
+
+(6) A semiautomatic shotgun that has both of the following:
+
+(A) A folding or telescoping stock.
+
+(B) A pistol grip that protrudes conspicuously beneath the action of the weapon, thumbhole stock, or vertical handgrip.
+
+(7) A semiautomatic shotgun that does not have a fixed magazine.
+
+(8) Any shotgun
+ with a revolving cylinder.
+
+(9) A semiautomatic centerfire firearm that is not a rifle, pistol, or shotgun, that does not have a fixed magazine, but that has any one of the following:
+
+(A) A pistol grip that protrudes conspicuously beneath the action of the weapon.
+
+(B) A thumbhole stock.
+
+(C) A folding or telescoping stock.
+
+(D) A grenade launcher or flare launcher.
+
+(E) A flash suppressor.
+
+(F) A forward pistol grip.
+
+(G) A threaded barrel, capable of accepting a flash suppressor, forward handgrip, or
+ silencer.
+
+(H) A second handgrip.
+
+(I) A shroud that is attached to, or partially or completely encircles, the barrel that allows the bearer to fire the weapon without burning the bearer’s hand, except a slide that encloses the barrel.
+
+(J) The capacity to accept a detachable magazine at some location outside of the pistol grip.
+
+(10) A semiautomatic centerfire firearm that is not a rifle, pistol, or shotgun, that has a fixed magazine with the capacity to accept more than 10 rounds.
+
+(11) A semiautomatic centerfire firearm that is not a rifle, pistol, or shotgun, that has an overall length of less than 30 inches.
+
+(b) For purposes
+ of this section, “fixed magazine” means an ammunition feeding device contained in, or permanently attached to, a firearm in such a manner that the device cannot be removed without disassembly of the firearm action.
+
+(c) The Legislature finds a significant public purpose in exempting from the definition of “assault weapon” pistols that are designed expressly for use in Olympic or Paralympic target shooting events. Therefore, those pistols that are sanctioned by the International Olympic Committee, the International Paralympic Committee, or by USA Shooting, the national governing body for international shooting competition in the United States, and that would otherwise fall within the definition of “assault weapon” pursuant to this section are exempt, as provided in subdivision (d).
+
+(d) “Assault weapon” does not include either of the following:
+
+(1) Any antique firearm.
+
+(2) Any of the following pistols, because they are consistent with the significant public purpose expressed in subdivision (c):MANUFACTURERMODELCALIBERBENELLIMP90.22LRBENELLIMP90.32 S&W LONGBENELLIMP95.22LRBENELLIMP95.32 S&W LONGHAMMERLI280.22LRHAMMERLI280.32 S&W LONGHAMMERLISP20.22LRHAMMERLISP20.32 S&W LONGPARDINIGPO.22 SHORTPARDINIGP-SCHUMANN.22 SHORTPARDINIHP.32 S&W LONGPARDINIMP.32 S&W LONGPARDINISP.22LRPARDINISPE.22LRWALTHERGSP.22LRWALTHERGSP.32 S&W LONGWALTHEROSP.22 SHORTWALTHEROSP-2000.22 SHORT(3) The Department of Justice shall create a program that is consistent with the purposes stated in subdivision (c) to exempt new models of competitive pistols that would otherwise fall within the definition of “assault weapon” pursuant to this section from being classified as an assault weapon. The exempt competitive pistols may be based on recommendations by USA Shooting consistent with the regulations contained in the USA Shooting Official Rules or may be based on the recommendation or rules of any other organization that the department deems relevant.
+
+(e) The provisions of this section are severable. If any provision of this section or its
+ application is held invalid, that invalidity shall not affect other provisions or applications that can be given effect without the invalid provision or application.
+
+(f) This section shall become operative on January 1, 2029.
+
+(History: Repealed (in Sec. 6) and added by Stats. 2026, Ch. 354, Sec. 7.   (AB 191)   Effective September 20, 2026.   Operative January 1, 2029, by its own provisions.)
 -------------------------------------------
 
 30520.
@@ -98502,13 +98719,47 @@ A handgun model removed from the roster pursuant to subdivision (d) of Section 3
 
 32105.
 
-(a) The Legislature finds a significant public purpose in exempting pistols that are designed expressly for use in Olympic target shooting events. Therefore, those pistols that are sanctioned by the International Olympic Committee and by USA Shooting, the national governing body for international shooting competition in the United States, and that were used for Olympic target shooting purposes as of January 1, 2001, and that fall within the definition of “unsafe handgun” pursuant to paragraph (3) of subdivision (b) of Section 31910 shall be exempt, as provided in subdivisions (b) and (c).
+(a) The Legislature finds a significant public purpose in exempting pistols that are designed expressly for use in Olympic or Paralympic target shooting events. Therefore, those pistols that are sanctioned by the Los Angeles Organizing Committee for the Olympic and Paralympic Games 2028, the International Olympic Committee, the International Paralympic Committee, or
+ by USA Shooting, the national governing body for international shooting competition in the United States, and that fall within the definition of “unsafe handgun” pursuant to paragraph (3) of subdivision (b) of Section 31910 shall be exempt, as provided in subdivisions (b) and (c).
 
-(b) Article 4 (commencing with Section 31900) and Article 5 (commencing with Section 32000) shall not apply to any of the following
- pistols, because they are consistent with the significant public purpose expressed in subdivision (a):MANUFACTURERMODELCALIBERANSCHUTZFP.22LRBENELLIMP90.22LRBENELLIMP90.32 S&W LONGBENELLIMP95.22LRBENELLIMP95.32 S&W LONGDRULOVFP.22LRGREENELECTROARM.22LRHAMMERLI100.22LRHAMMERLI101.22LRHAMMERLI102.22LRHAMMERLI162.22LRHAMMERLI280.22LRHAMMERLI280.32 S&W LONGHAMMERLIFP10.22LRHAMMERLIMP33.22LRHAMMERLISP20.22LRHAMMERLISP20.32 S&W LONGMORINICM102E.22LRMORINI22M.22LRMORINI32M.32 S&W LONGMORINICM80.22LRPARDINIGP.22 SHORTPARDINIGPO.22 SHORTPARDINIGP-SCHUMANN.22 SHORTPARDINIHP.32 S&W LONGPARDINIK22.22LRPARDINIMP.32 S&W LONGPARDINIPGP75.22LRPARDINISP.22LRPARDINISPE.22LRSAKOFINMASTER.22LRSTEYRFP.22LRVOSTOKIZH NO. 1.22LRVOSTOKMU55.22LRVOSTOKTOZ35.22LRWALTHERFP.22LRWALTHERGSP.22LRWALTHERGSP.32 S&W LONGWALTHEROSP.22 SHORTWALTHEROSP-2000.22
- SHORT(c) The department shall create a program that is consistent with the purpose stated in subdivision (a) to exempt new models of competitive firearms from Article 4 (commencing with Section 31900) and Article 5 (commencing with Section 32000). The exempt competitive firearms may be based on recommendations by USA Shooting consistent with the regulations contained in the USA Shooting Official Rules or may be based on the recommendation or rules of any other organization that the department deems relevant.
+(b) Article 4 (commencing with Section 31900) and Article 5 (commencing with Section 32000) shall not apply to any of the following pistols, because they are consistent with the significant public purpose expressed in subdivision (a):MANUFACTURERMODELCALIBERANSCHUTZFP.22LRBENELLIMP90.22LRBENELLIMP90.32 S&W LONGBENELLIMP95.22LRBENELLIMP95.32 S&W LONGDRULOVFP.22LRGREENELECTROARM.22LRHAMMERLI100.22LRHAMMERLI101.22LRHAMMERLI102.22LRHAMMERLI162.22LRHAMMERLI280.22LRHAMMERLI280.32 S&W LONGHAMMERLIFP10.22LRHAMMERLIMP33.22LRHAMMERLISP20.22LRHAMMERLISP20.32 S&W LONGMORINICM102E.22LRMORINI22M.22LRMORINI32M.32 S&W LONGMORINICM80.22LRPARDINIGP.22
+ SHORTPARDINIGPO.22 SHORTPARDINIGP-SCHUMANN.22 SHORTPARDINIHP.32 S&W LONGPARDINIK22.22LRPARDINIMP.32 S&W LONGPARDINIPGP75.22LRPARDINISP.22LRPARDINISPE.22LRSAKOFINMASTER.22LRSTEYRFP.22LRVOSTOKIZH NO. 1.22LRVOSTOKMU55.22LRVOSTOKTOZ35.22LRWALTHERFP.22LRWALTHERGSP.22LRWALTHERGSP.32 S&W LONGWALTHEROSP.22 SHORTWALTHEROSP-2000.22 SHORT(c) The department shall create a program that is consistent with the purpose stated in subdivision (a) to exempt new models of competitive
+ pistols from Article 4 (commencing with Section 31900) and Article 5 (commencing with Section 32000). The exempt competitive pistols may be based on recommendations by USA Shooting consistent with the regulations contained in the USA Shooting Official Rules or may be based on the recommendation or rules of any other organization that the department deems relevant.
 
-(History: Amended by Stats. 2011, Ch. 296, Sec. 243.   (AB 1023)   Effective January 1, 2012.)
+(d) (1) By June 30, 2028, the Department of Justice shall supplement the list of exempted pistols in subdivision (c) to exempt new models of pistols anticipated to be utilized in the 2028 Olympic or Paralympic Games.
+
+(2) The department shall supplement the list of exempted pistols pursuant to paragraph (1) in coordination with, and promptly after receipt of any sufficient recommendation from, the Los Angeles Organizing Committee for the Olympic and Paralympic Games 2028. The Los Angeles Organizing Committee for the Olympic and Paralympic Games 2028 shall provide any sufficient recommendations to the department by June 19, 2028.
+
+(3) Neither paragraph (1) nor paragraph (2) divest the Department of Justice of its independent authority to evaluate or render a decision regarding any sufficient recommendation submitted by the Los Angeles Organizing Committee for the Olympic and Paralympic Games 2028. To the extent that it does not conflict with the other provisions of this section, a sufficient
+ recommendation may be approved, and the list of exempted pistols described in subdivision (c) may be appropriately updated.
+
+(e) For the purposes of subdivision (d), a sufficient recommendation shall include all of the following:
+
+(1) Be signed and dated by either the chief executive officer or chief operating officer of the Los Angeles Organizing Committee for the Olympic and Paralympic Games 2028.
+
+(2) Specify the make, model, and caliber of the pistol.
+
+(3) Include a statement that the pistol is sanctioned by the Los Angeles Organizing Committee for the Olympic and Paralympic Games 2028, the International Olympic Committee, or the International Paralympic Committee in an Olympic or Paralympic target shooting competition.
+
+(4) Include a statement that the pistol is or will be used for Olympic or Paralympic target shooting purposes.
+
+(f) Regulations adopted to implement subdivisions (d) or (e) are emergency regulations in accordance with Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code and shall be considered by the Office of Administrative Law to be necessary for the immediate preservation of the public health, safety, and welfare.
+
+(g) This section shall remain in effect only until January 1, 2029, and as of that date is repealed.
+
+(History: Amended by Stats. 2026, Ch. 354, Sec. 8.   (AB 191)   Effective September 20, 2026.   Repealed as of January 1, 2029, by its own provisions.   See later operative version added by Sec. 9 of Stats. 2026, Ch. 354.)
+-------------------------------------------
+
+32105.
+
+(a) The Legislature finds a significant public purpose in exempting pistols that are designed expressly for use in Olympic or Paralympic target shooting events. Therefore, those pistols that are sanctioned by the International Olympic Committee, the International Paralympic Committee, or by USA Shooting, the national governing body for international shooting competition in the United States, and that fall within the definition of “unsafe handgun” pursuant to paragraph (3) of subdivision (b) of Section 31910 shall be exempt, as provided in subdivisions (b) and (c).
+
+(b) Article 4 (commencing with Section 31900) and Article 5 (commencing with Section 32000) shall not apply to any of the following pistols, because they are consistent with the
+ significant public purpose expressed in subdivision (a):MANUFACTURERMODELCALIBERANSCHUTZFP.22LRBENELLIMP90.22LRBENELLIMP90.32 S&W LONGBENELLIMP95.22LRBENELLIMP95.32 S&W LONGDRULOVFP.22LRGREENELECTROARM.22LRHAMMERLI100.22LRHAMMERLI101.22LRHAMMERLI102.22LRHAMMERLI162.22LRHAMMERLI280.22LRHAMMERLI280.32 S&W LONGHAMMERLIFP10.22LRHAMMERLIMP33.22LRHAMMERLISP20.22LRHAMMERLISP20.32 S&W LONGMORINICM102E.22LRMORINI22M.22LRMORINI32M.32 S&W LONGMORINICM80.22LRPARDINIGP.22 SHORTPARDINIGPO.22 SHORTPARDINIGP-SCHUMANN.22 SHORTPARDINIHP.32 S&W LONGPARDINIK22.22LRPARDINIMP.32 S&W LONGPARDINIPGP75.22LRPARDINISP.22LRPARDINISPE.22LRSAKOFINMASTER.22LRSTEYRFP.22LRVOSTOKIZH NO. 1.22LRVOSTOKMU55.22LRVOSTOKTOZ35.22LRWALTHERFP.22LRWALTHERGSP.22LRWALTHERGSP.32 S&W LONGWALTHEROSP.22 SHORTWALTHEROSP-2000.22 SHORT(c) The department shall create a program that is consistent with the purpose stated in subdivision (a) to exempt new models of competitive pistols from Article 4 (commencing with Section 31900) and Article 5 (commencing with Section 32000). The exempt competitive pistols may be based on recommendations by USA Shooting consistent with the regulations contained in the USA Shooting Official Rules or may be based on the recommendation or rules of any other organization that the department deem relevant.
+
+(d) This section shall become operative on January 1, 2029.
+
+(History: Repealed (in Sec. 8) and added by Stats. 2026, Ch. 354, Sec. 9.   (AB 191)   Effective September 20, 2026.   Operative January 1, 2029, by its own provisions.)
 -------------------------------------------
 
 32110.
