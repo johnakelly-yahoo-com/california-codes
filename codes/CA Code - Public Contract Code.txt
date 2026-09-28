@@ -5,7 +5,7 @@
 
 Source: Official California Legislative Information
         https://downloads.leginfo.legislature.ca.gov/
-Last Updated by State of California: July 17, 2026
+Last Updated by State of California: September 26, 2026
 
 
 ======================================================================
@@ -155,9 +155,12 @@ As used in this chapter:
 
 1604.
 
-Posting solicitations and receiving bids through an electronic procurement platform shall satisfy all statutory requirements for public advertising, bid submission, and document retention under this code, including the procurement platform requirements set forth in this chapter.
+(a) A public entity posting solicitations and receiving bids through an electronic procurement platform shall still satisfy all statutory requirements for public advertising, bid submission, and document retention under this code, including the procurement platform requirements set forth in this chapter.
 
-(History: Added by Stats. 2026, Ch. 84, Sec. 26.   (SB 172)   Effective July 13, 2026.)
+(b) Nothing in this section is intended to waive or otherwise eliminate
+ requirements, including requirements to print in newspapers or to advertise or otherwise post notices for solicitations, as may be required by this code.
+
+(History: Amended by Stats. 2026, Ch. 255, Sec. 18.   (AB 184)   Effective September 18, 2026.)
 -------------------------------------------
 
 1605.
