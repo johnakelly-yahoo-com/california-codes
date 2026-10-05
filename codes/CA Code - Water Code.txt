@@ -5,7 +5,7 @@
 
 Source: Official California Legislative Information
         https://downloads.leginfo.legislature.ca.gov/
-Last Updated by State of California: July 17, 2026
+Last Updated by State of California: October 02, 2026
 
 
 ======================================================================
@@ -37588,6 +37588,17 @@ The Legislature finds and declares as follows:
 (b) The state board shall develop a state pretreatment program and shall, not later than September 1, 1985, apply to the Environmental Protection Agency for approval of the pretreatment program in accordance with federal requirements.
 
 (History: Added by Stats. 1984, Ch. 1542, Sec. 1.)
+-------------------------------------------
+
+13371.
+
+(a) In response to an invasive species threat, including, but not limited to, the threat of golden mussels, the state and regional boards shall work with state and local agencies in order to quickly and efficiently respond to the threat. The state board shall identify any tools available to assist a state or local agency in rapidly responding to the invasive species threat.
+
+(b) The state board shall help identify any existing processes that allow for the rapid use of any tool that could be used to address the invasive species threat and enables a streamlined or faster administrative or procedural process.
+
+ (c) The state board, shall, if necessary, help coordinate efforts between the regional boards in response to a threat of an invasive species.
+
+(History: Added by Stats. 2026, Ch. 817, Sec. 5.   (AB 2032)   Effective September 29, 2026.)
 -------------------------------------------
 
 13372.
