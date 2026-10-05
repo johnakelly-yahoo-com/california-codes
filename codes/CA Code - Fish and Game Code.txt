@@ -5,7 +5,7 @@
 
 Source: Official California Legislative Information
         https://downloads.leginfo.legislature.ca.gov/
-Last Updated by State of California: November 27, 2025
+Last Updated by State of California: October 02, 2026
 
 
 ======================================================================
@@ -7390,59 +7390,85 @@ For purposes of this chapter, the following definitions apply:
 
 (2) The permittee avoids and minimizes impacts to, and the taking of, the western Joshua tree to the maximum extent practicable. Minimization may include trimming, encroachment on root systems, relocation, or other actions that result in detrimental but nonlethal impacts to a western Joshua tree.
 
-(3) The permittee mitigates all impacts to, and taking of, the western Joshua tree. The measures required to meet this obligation shall be roughly proportional in extent to the impact of the authorized taking of the species. When various measures are available to meet this obligation, the measures required shall maintain the permittee’s objectives to the greatest extent possible. All required measures shall be capable of successful implementation. The permittee shall ensure adequate funding to implement the mitigation measures. In lieu of completing the mitigation obligation on its own, the permittee may elect to satisfy this mitigation
- obligation by paying fees, pursuant to the fee schedule in subdivision (d) or (e), for deposit into the fund.
+(3) The permittee mitigates all impacts to, and taking of, the western Joshua tree. The measures required to meet this obligation shall be roughly proportional in extent to the impact of the authorized taking of the species. When various measures are available to meet this obligation, the measures required shall maintain the permittee’s objectives to the greatest extent possible. All required measures shall be capable of successful implementation. The permittee shall ensure adequate
+ funding to implement the mitigation measures. In lieu of completing the mitigation obligation on its own, the permittee may elect to satisfy this mitigation obligation by paying fees, pursuant to the fee schedule in subdivision (d), (e), or (g), for deposit into the fund.
 
 (4) (A) The department may include permit conditions that require the permittee to relocate one or more of the western Joshua trees. If relocation is required, the permittee shall implement measures to assist the survival of relocated trees, and to comply with any other reasonable measures required by the department to facilitate the successful relocation and survival of the western Joshua trees. These relocation measures shall include, but are not limited to, all of the following:
 
-(i) A requirement that the relocated western Joshua tree is placed in a location and with proper orientation to improve its survival.
+(i) A
+ requirement that the relocated western Joshua tree is placed in a location and with proper orientation to improve its survival.
 
-(ii) A requirement that western Joshua trees are relocated at a time that
- maximizes their survival when feasible.
+(ii) A requirement that western Joshua trees are relocated at a time that maximizes their survival when feasible.
 
 (iii) A requirement that a desert native plant specialist be onsite to oversee relocation.
 
 (B) The department may limit relocation to certain size classes of trees.
 
-(C) By July 1, 2024, the department shall adopt guidelines and relocation protocols, based on the best available science, to relocate western Joshua trees successfully. The department shall consult with desert native plant specialists as part of the development of these guidelines and relocation protocols. Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code shall not apply to the development, adoption, or amendment of guidelines and relocation protocols pursuant to this subparagraph.
+(C) By July 1, 2024, the department shall adopt guidelines and relocation protocols, based on the best available science, to relocate western Joshua trees successfully. The department shall consult with desert native plant specialists as part of the development of these
+ guidelines and relocation protocols. Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code shall not apply to the development, adoption, or amendment of guidelines and relocation protocols pursuant to this subparagraph.
 
-(b) For purposes of
- this section, each western Joshua tree stem or trunk arising from the ground shall be considered an individual tree requiring mitigation, regardless of its proximity to any other western Joshua tree stem or trunk.
+(b) For purposes of this section, each western Joshua tree stem or trunk arising from the ground shall be considered an individual tree requiring mitigation, regardless of its proximity to any other western Joshua tree stem or trunk.
 
-(c) The department may enter into an agreement with any county or city to delegate to the county or city the ability to authorize the taking of a western Joshua tree associated with developing single-family residences, multifamily residences, accessory structures, and public works projects concurrent with its approval of the project, if all of the following conditions are met:
+(c) (1) If all of the conditions of paragraph (3) are met, the department may enter into an agreement with any county to delegate to the county the ability to authorize the taking of a western Joshua tree associated with developing any one or more of the
+ following projects concurrent with the county’s approval of the project:
 
-(1) The county or city adopts an ordinance that requires as a condition of any approval or permit issued under the authority of an agreement entered into pursuant to this subdivision satisfaction of the requirements of this chapter.
+(A) Single-family residences.
 
-(2) Except as provided otherwise in this subdivision, the county or city ensures that the permittee satisfies all of the requirements of subdivision (a) of this section.
+(B) Multifamily residences.
 
-(3) The project will take no more than 10 individual western Joshua trees on the project site where the project proponent proposes to construct a single-family residence, multifamily residence, or accessory structure, or no more than 40 individual western Joshua trees on the project site on which a public agency proposes to undertake a public works project. Before authorizing the take of more than 20, but no more than 40, individual western Joshua trees for a public works project, the county or city shall obtain the department’s written concurrence that the project has avoided and minimized the take of western Joshua trees to the maximum extent practicable.
+(C) Accessory structures.
 
-(4) The county or city shall collect any
- fees for permits issued and remit them quarterly to the fund as directed by the department.
+(D) Public works projects.
 
-(5) The county or city entering into an agreement pursuant to this subdivision may impose a reasonable fee to cover the administrative costs of issuing the permit.
+(2) If all of the conditions of paragraph (3) are met, the department may enter into an agreement with any city to delegate to the city the ability to authorize the taking of a western Joshua tree associated with developing any one or more of the following projects concurrent with the city’s approval of the project:
 
-(6) (A) The department retains express authority to suspend or revoke the county or city’s take authorization in the event the department determines the county or city has violated the terms of the agreement, or this chapter, the county or city fails to implement or enforce the terms of the agreement or this chapter, or the department determines that the local population of western Joshua trees within, or in the vicinity of, that county or city needs further protection. The county or city shall conduct an annual assessment of the status of the local population within the county or city and submit the
- assessment to the department. The department shall determine if the population needs further protection to provide for the conservation of the species.
+(A) Single-family residences.
 
-(B) The department shall adopt standardized survey and assessment methods for the annual assessment required pursuant to subparagraph (A), including requiring that a desert native plant specialist conduct the assessment. Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code shall not apply to the development, adoption, or amendment of standardized survey and assessment methods pursuant to this subparagraph.
+(B) Multifamily residences.
 
-(7) The county or city shall be required to submit to the department quarterly reports documenting the number of permits issued, photographs and other evidence demonstrating that take and other impacts were avoided and minimized to the maximum extent practicable, the number and
- size class of western Joshua trees authorized to be taken, the number of western Joshua trees encroached upon, the number of western Joshua trees lethally removed, the number and location of western Joshua trees relocated, the amount of fees collected, and other information required by the department in the agreement.
+(C) Accessory structures.
 
-(d) Any person or public agency receiving a take authorization pursuant to this chapter for a project that meets the criteria set forth in paragraph (1) may elect, in lieu of satisfying the mitigation obligation provided for in paragraph (3) of subdivision (a), to pay fees in the amounts provided in paragraph (2) for deposit into the fund.
+(D) Public works projects.
 
-(1) (A) Any project in the area bounded by the intersection of Highway 99 and Highway 58, then east along Highway 58 to the intersection of Interstate 15, then north along Interstate 15 to the intersection of
- Highway 247, then south along Highway 247 to the intersection of Highway 18, then west along Highway 18 to the intersection of Highway 138, then west and north along Highway 138 to the intersection of Interstate 5, then north along Interstate 5 to the intersection of Highway 99, then north along Highway 99 to Highway 58.
+(E) Commercial projects.
 
-(B) Any project receiving a permit issued by a county or city pursuant to an agreement with the department pursuant to subdivision (c), regardless of location.
+(F) Industrial projects.
+
+(3) The delegation of authority pursuant to paragraphs (1) and (2) shall be subject to all of the following conditions:
+
+(A) The county or city adopts an ordinance that requires as a condition of any approval or permit issued under the authority of an agreement entered into pursuant to this subdivision satisfaction of the requirements of this
+ chapter.
+
+(B) Except as provided otherwise in this subdivision, the county or city ensures that the permittee satisfies all of the requirements of subdivision (a) of this section.
+
+(C) The project will take no more than 10 individual western Joshua trees on the project site where the project proponent proposes to construct a single-family residence, multifamily residence, or accessory structure, or no more than 40 individual western Joshua trees on the project site on which a project proponent proposes to construct a commercial or industrial project or a public agency proposes to undertake a public works project. Before authorizing the take of more than 20, but no more than 40, individual western Joshua trees for a commercial or industrial project or a public works project, the
+ county or city shall obtain the department’s written concurrence that the project has avoided and minimized the take of western Joshua trees to the maximum extent practicable.
+
+(D) The county or city shall collect any fees for permits issued and remit them quarterly to the fund as directed by the department.
+
+(E) The county or city entering into an agreement pursuant to this subdivision may impose a reasonable fee to cover the administrative costs of issuing the permit.
+
+(F) (i) The department retains express authority to suspend or revoke the county or city’s take authorization in the event the department determines the county or city has violated the terms of the agreement, or this chapter, the county or
+ city fails to implement or enforce the terms of the agreement or this chapter, or the department determines that the local population of western Joshua trees within, or in the vicinity of, that county or city needs further protection. The county or city shall conduct an annual assessment of the status of the local population within the county or city and submit the assessment to the department. The department shall determine if the population needs further protection to provide for the conservation of the species.
+
+(ii) The department shall adopt standardized survey and assessment methods for the annual assessment required pursuant to clause (i), including requiring that a desert native plant specialist conduct the assessment. Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code shall
+ not apply to the development, adoption, or amendment of standardized survey and assessment methods pursuant to this subparagraph.
+
+(G) The county or city shall be required to submit to the department quarterly reports documenting the number of permits issued, photographs and other evidence demonstrating that take and other impacts were avoided and minimized to the maximum extent practicable, the number and size class of western Joshua
+ trees authorized to be taken, the number of western Joshua trees encroached upon, the number of western Joshua trees lethally removed, the number and location of western Joshua trees relocated, the amount of fees collected, and other information required by the department in the agreement.
+
+(d) Any person or public agency receiving a take authorization pursuant to this chapter for a project that meets the criteria of either subparagraph (A) or (B) of paragraph (1) may elect, in lieu of satisfying the mitigation obligation provided for in paragraph (3) of subdivision (a), to pay fees in the amounts provided in paragraph (2) for deposit into the fund.
+
+(1) (A) Any project in the area bounded by the intersection of Highway 99 and Highway 58, then
+ east along Highway 58 to the intersection of Interstate 15, then north along Interstate 15 to the intersection of Highway 247, then south along Highway 247 to the intersection of Highway 18, then west along Highway 18 to the intersection of Highway 138, then west and north along Highway 138 to the intersection of Interstate 5, then north along Interstate 5 to the intersection of Highway 99, then north along Highway 99 to Highway 58.
+
+(B) Any single-family residence, multifamily residence, accessory structure, or public works project receiving a permit issued by a county or city pursuant to an agreement with the department pursuant to subdivision (c), regardless of location.
 
 (2) (A) One thousand dollars ($1,000) for each western Joshua tree five meters or greater in height.
 
 (B) Two hundred dollars ($200) for each western Joshua tree one meter or greater but less than five meters in height.
 
-(C) One hundred fifty dollars ($150)
- for each western Joshua tree less than one meter in height.
+(C) One hundred fifty dollars ($150) for each western Joshua tree less than one meter in height.
 
 (e) Any person or public agency receiving a take authorization pursuant to this chapter for a project that meets the criteria set forth in paragraph (1) may elect, in lieu of satisfying the mitigation obligation provided for in paragraph (3) of subdivision (a), to pay fees in the amounts provided in paragraph (2) for deposit into the fund.
 
@@ -7450,8 +7476,7 @@ For purposes of this chapter, the following definitions apply:
 
 (B) Any project that does not meet the criteria set forth in paragraph (1) of subdivision (d).
 
-(2) (A) Two thousand five hundred dollars ($2,500) for each western
- Joshua tree five meters or greater in height.
+(2) (A) Two thousand five hundred dollars ($2,500) for each western Joshua tree five meters or greater in height.
 
 (B) Five hundred dollars ($500) for each western Joshua tree one meter or greater but less than five meters in height.
 
@@ -7459,11 +7484,74 @@ For purposes of this chapter, the following definitions apply:
 
 (f) Upon request, the department may authorize a reduction in the amount of the fees prescribed by subdivisions (d) and (e) for any western Joshua tree conserved by a project proponent through the acquisition of compensatory habitat mitigation land otherwise required by law for the project.
 
-(g) (1) The permittee shall bear responsibility for implementing measures to assist the survival of western Joshua trees relocated pursuant to paragraph (4) of subdivision (a).
+(g) Notwithstanding subdivisions (d) and (e), a person or public agency receiving a take authorization from the department pursuant to this chapter for a project that meets the criteria set forth in either subparagraph (A) or (B) of paragraph (1) may elect to, in lieu of satisfying the mitigation obligation provided for in paragraph (3) of subdivision (a), pay fees in the amounts provided in paragraph (2) for deposit into the fund.
 
-(2) Unless specifically required by written agreement, a landowner that agrees in writing to allow western Joshua trees to be relocated onto land it owns shall not be liable for the continued survival of the western Joshua trees, shall not be required to manage or maintain the translocated western Joshua trees, and shall not be required to change existing land use practices, provided that the land use practices do not result in the taking, possession, sale, or further translocation of the western Joshua trees.
+(1) (A) The removal of no more than
+ 10 western Joshua trees or trimming of western Joshua trees by an owner-occupant of an existing single-family residence if the western Joshua trees are either of the following:
 
-(History: Added by Stats. 2023, Ch. 51, Sec. 5.   (SB 122)   Effective July 10, 2023.   Conditionally operative pursuant to Section 1927.2.)
+(i) Within 30 feet of the existing single-family residence or within 15 feet of an existing accessory structure.
+
+(ii) Within the construction footprint, or within 15 feet of the construction footprint, of a new accessory structure that is proposed to be constructed for the existing single-family residence.
+
+(B) The removal of no more than 40 western Joshua trees or trimming of western Joshua trees by the proponent of a public works project if the western Joshua trees are within the construction footprint, or within 15 feet of the construction footprint,
+ of a public works project to repair, rehabilitate, replace, or maintain an existing structure.
+
+(2) (A) Two hundred fifty dollars ($250) for each western Joshua tree five meters or greater in height.
+
+(B) Fifty dollars ($50) for each western Joshua tree one meter or greater but less than five meters in height.
+
+(C) Thirty-seven dollars and fifty cents ($37.50) for each western Joshua tree less than one meter in height.
+
+(h) (1) The permittee shall bear responsibility for implementing measures to assist the survival of western Joshua trees relocated pursuant to paragraph (4) of subdivision (a).
+
+(2) Unless specifically required by written agreement, a landowner that agrees in writing to allow western Joshua trees to be relocated onto land it owns shall not be liable for the continued survival of the western Joshua trees, shall not be required to manage or maintain the translocated western Joshua trees, and shall not be required to change existing land use practices, provided
+ that the land use practices do not result in the taking, possession, sale, or further translocation of the western Joshua trees.
+
+(i) Until the department certifies a programmatic environmental impact report that addresses actions with the potential to result in limited take of western Joshua trees from single-family residences and accessory structures, and there is a final, unappealable judgment in litigation, if any, challenging the programmatic environmental impact report, or until January 1, 2032, whichever occurs first, Division 13 (commencing with Section 21000) of the Public Resources Code shall not apply to the issuance of a permit pursuant to subparagraph (A) of paragraph (1) of subdivision (g).
+
+(History: Amended by Stats. 2026, Ch. 816, Sec. 1.   (AB 1808)   Effective September 29, 2026.   Conditionally operative pursuant to Section 1927.2.)
+-------------------------------------------
+
+1927.3.5.
+
+(a) Notwithstanding Sections 1927.3 and 1927.4, a county or city operating under an approved delegation agreement pursuant to subdivision (c) of Section 1927.3 or subdivision (b) of Section 1927.4 may authorize, by permit, without mitigation, both of the following:
+
+(1) The removal of no more than 10 western Joshua trees or trimming of western Joshua trees by an owner-occupant of an existing single-family residence if the western Joshua trees are either of the following:
+
+(A) Within 30 feet of the existing single-family residence or within 15 feet of an existing accessory structure.
+
+(B) Within the construction footprint, or within 15 feet of the construction footprint, of a new accessory structure that is proposed to be constructed for the existing single-family residence.
+
+(2) The removal of no more than 40 western Joshua trees or trimming of western Joshua trees by the proponent of a public works project if the western Joshua trees are within the construction footprint, or within 15 feet of the construction footprint, of a public works project to repair, rehabilitate, replace, or maintain an existing structure.
+
+(b) A county or city issuing a permit under subdivision (a) may impose a reasonable fee to cover the administrative costs of issuing the permit.
+
+(c) A property owner or proponent of a public works project
+ seeking a permit under subdivision (a) shall submit a request to the county or city, as applicable, on a form to be provided by the county or city that requires the following information:
+
+(1) The name, telephone number, mailing address, and email address of the property owner or proponent of the public works project seeking the permit.
+
+(2) The street address of the single-family residence or public works project on which each western Joshua tree requested to be removed or trimmed is located. If a street address is not available, the property owner or proponent of the public works project shall include the assessor’s parcel number.
+
+(3) A statement as to whether each western Joshua tree requested to
+ be removed or trimmed meets the conditions described in subparagraph (A) or (B) of paragraph (1), or paragraph (2), of subdivision (a).
+
+(4) The size class of each western Joshua tree requested to be removed or trimmed, in accordance with paragraph (1) of subdivision (a) of Section 1927.3.
+
+(5) The distance of each western Joshua tree requested to be removed or trimmed from the single-family residence, existing accessory structure, or construction footprint of a new accessory structure that is proposed to be constructed or of the public works project.
+
+(6) Photographs of each western Joshua tree requested to be removed or trimmed that depict its location relative to the single-family residence, existing accessory
+ structure, or construction footprint of a new accessory structure that is proposed to be constructed or of the public works project.
+
+(d) Within 60 days of receipt of a request for a permit pursuant to subdivision (c), the county or city, as applicable, shall do either of the following:
+
+(1) Notify the property owner or proponent of the public works project that the county or city, as applicable, will issue a permit for the removal or trimming of a western Joshua tree.
+
+(2) Deny the request if the request does not demonstrate a permit can be issued pursuant to this section. A denial shall include a brief description explaining why a permit cannot be issued.
+
+(e) Until the department certifies a programmatic environmental impact report that addresses actions with the potential to result in limited take of western Joshua trees from single-family residences and accessory structures, and there is a final, unappealable judgment in litigation, if any, challenging the programmatic environmental impact report, or until January 1, 2032, whichever occurs first, Division 13 (commencing with Section 21000) of the Public Resources Code shall not apply to the issuance of a permit pursuant to paragraph (1) of subdivision (a).
+
+(History: Added by Stats. 2026, Ch. 816, Sec. 2.   (AB 1808)   Effective September 29, 2026.   Conditionally operative pursuant to Section 1927.2.)
 -------------------------------------------
 
 1927.4.
@@ -7556,12 +7644,24 @@ For purposes of this chapter, the following definitions apply:
 
 1927.8.
 
-(a) Beginning in 2026, and at least every two years thereafter, the commission shall review the status of the western Joshua tree and the effectiveness of the conservation plan in conserving the species at a public meeting to be held prior to August 31. Concurrent with each review conducted pursuant to this section, the department shall make recommendations to the commission, as necessary, for amendments to the conservation plan to ensure the conservation of the western Joshua tree.
+(a) Beginning in 2026, and at least every two years thereafter, the commission shall review the status of the western Joshua tree and the effectiveness of the conservation plan in conserving the species at a public meeting to be held before August 31. Concurrent with each review conducted pursuant to this section, the department shall make recommendations to the commission, as necessary, for amendments to the conservation plan to ensure the conservation of the western Joshua tree.
 
-(b) The department shall annually adjust the fees provided for in Section 1927.3 pursuant to Section 713. By December 31, 2026, and every three years thereafter, the department shall adopt and subsequently amend regulations pursuant to Section 702 adjusting the
- fees as necessary to ensure the conservation of the species. The department shall utilize total cost accounting when determining the adequacy of the fees for ensuring conservation of the species, including ensuring sufficient funds for land acquisition or conservation easement costs, monitoring costs, restoration costs, transaction costs, and the amount of endowments for land management or easement stewardship costs consistent with Chapter 4.6 (commencing with Section 65965) of Division 1 of Title 7 of the Government Code and Part 7 (commencing with Section 18501) of Division 9 of the Probate Code.
+(b) The department shall annually adjust the fees provided for in Section 1927.3 pursuant to Section 713. By
+ June 30, 2027, and every three years thereafter, the department shall adopt and subsequently amend regulations pursuant to Section 702 adjusting the fees as necessary to ensure the conservation of the species. The department shall use total cost accounting when determining the adequacy of the fees for ensuring conservation of the species, including ensuring sufficient funds for land acquisition or conservation easement costs, monitoring costs, restoration costs, transaction costs, and the amount of endowments for land management or easement stewardship costs consistent with Chapter 4.6 (commencing with Section 65965) of Division 1 of Title 7 of the Government Code and Part 7 (commencing with Section 18501) of Division 9 of the Probate
+ Code.
 
-(History: Added by Stats. 2023, Ch. 51, Sec. 5.   (SB 122)   Effective July 10, 2023.   Conditionally operative pursuant to Section 1927.2.)
+(History: Amended by Stats. 2026, Ch. 816, Sec. 3.   (AB 1808)   Effective September 29, 2026.   Conditionally operative pursuant to Section 1927.2.    Superseded January 1, 2027; see amendment by Stats. 2026, Ch. 816.)
+-------------------------------------------
+
+1927.8.
+
+(a) Beginning in 2026, and at least every two years thereafter, the commission shall review the status of the western Joshua tree and the effectiveness of the conservation plan in conserving the species at a public meeting to be held before August 31. Concurrent with each review conducted pursuant to this section, the department shall make recommendations to the commission, as necessary, for amendments to the conservation plan to ensure the conservation of the western Joshua tree.
+
+(b) The department shall annually adjust the fees provided for in Section 1927.3
+ pursuant to Section 713. By June 30, 2027, and every three years thereafter, the department shall adopt and subsequently amend regulations pursuant to Section 702 adjusting the fees as necessary to ensure the conservation of the species. The department shall consider making the fees proportionate to the impact of a project and the use of tiered fees by project type, size, or other criteria. The department shall use total cost accounting when determining the adequacy of the fees for ensuring
+ conservation of the species, including ensuring sufficient funds for land acquisition or conservation easement costs, monitoring costs, restoration costs, transaction costs, and the amount of endowments for land management or easement stewardship costs consistent with Chapter 4.6 (commencing with Section 65965) of Division 1 of Title 7 of the Government Code and Part 7 (commencing with Section 18501) of Division 9 of the Probate Code.
+
+(History: Amended by Stats. 2026, Ch. 816, Sec. 3.5.   (AB 1808)   Effective September 29, 2026.   Operative January 1, 2027, pursuant to Sec. 4 of Stats. 2026, Ch. 816.   Conditionally operative pursuant to Section 1927.2.)
 -------------------------------------------
 
 1927.9.
@@ -10331,6 +10431,19 @@ Classes, orders, families, genera, and species which may not be imported, transp
 (History: Added by Stats. 1974, Ch. 1503.)
 -------------------------------------------
 
+2150.6.
+
+(a) A public or private agency that operates a water supply system and has submitted a control plan to the department, prepared pursuant to subdivision (d) of Section 2301, shall be exempt from any permit requirement for invasive mussels pursuant to this chapter for maintenance, operational, and research activities
+ within the water supply system, including, but not limited to, removing invasive mussels from pipes, screens, filters, and other infrastructure in accordance with the submitted control plan.
+
+(b) A public or private agency that operates a water supply system and has submitted a control plan to the department, prepared pursuant to subdivision (d) of Section 2301, shall be exempt from any permit requirement for
+ dead invasive mussels pursuant to this chapter for research, outreach, education, species verification, training, or other purposes deemed by the department to be in the best interest of the state.
+
+(c) An exemption under subdivision (a) or (b) shall remain in effect for a particular public or private agency until the department determines the agency’s control plan does not meet the statutory requirements for control plans or approves the control plan.
+
+(History: Added by Stats. 2026, Ch. 817, Sec. 2.   (AB 2032)   Effective September 29, 2026.)
+-------------------------------------------
+
 2151.
 
 A permit shall be issued only upon written application from the person desiring to import or transport the species, enumerating all of the following:
@@ -10723,6 +10836,20 @@ CHAPTER 3.5. Aquatic Invasive Species [2300. - 2303.]
 (i) This section shall remain in effect only until January 1, 2030, and as of that date is repealed, unless a later enacted statute, that is enacted before January 1, 2030, deletes or extends that date.
 
 (History: Amended by Stats. 2025, Ch. 106, Sec. 2.   (AB 149)   Effective September 17, 2025.   Repealed as of January 1, 2030, by its own provisions.)
+-------------------------------------------
+
+2301.5.
+
+(a) The department’s Invasive Species Program shall develop, by April 1, 2027, guidance for public and private agencies that operate water supply systems to develop effective control plans pursuant to subdivision (d) of Section 2301. The guidance shall include relevant protocols, example standards, and statutory requirements of a control plan. Other than the statutory requirements of a control plan contained in the guidance, the guidance is voluntary for a public or private agency that operates a water supply system to comply with.
+
+(b) The
+ department’s Invasive Species Program shall develop and publish on the department’s internet website, by April 1, 2027, guidance for scientific research conducted by or for public and private agencies that operate water supply systems that is conducted outside of an infested water supply system and that includes mussel handling procedures to prevent and control the spread of invasive mussels, including biology, ecology, and feasibility studies for
+ invasive mussel prevention, mitigation, control, and eradication methods. The guidance shall also include mussel handling standards for mussel handling to minimize any potential negative impacts of the possession, transportation, and disposal of invasive mussels.
+
+(c) The department shall update the spatial distribution maps of invasive
+ mussel-infested water bodies posted on its internet website no less than quarterly based on monitoring and reported detections. The maps shall distinguish between reported and confirmed detections of invasive mussels and include the date of the most recent map update to provide the most accurate and up-to-date information.
+
+(History: Added by Stats. 2026, Ch. 817, Sec. 3.   (AB 2032)   Effective September 29, 2026.)
 -------------------------------------------
 
 2302.
