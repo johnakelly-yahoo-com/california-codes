@@ -5,7 +5,7 @@
 
 Source: Official California Legislative Information
         https://downloads.leginfo.legislature.ca.gov/
-Last Updated by State of California: August 26, 2026
+Last Updated by State of California: October 02, 2026
 
 
 ======================================================================
@@ -356,7 +356,7 @@ A person of unsound mind, of whatever degree, is civilly liable for a wrong done
 
 
 
-PART 2. PERSONAL RIGHTS [43. - 53.7.]
+PART 2. PERSONAL RIGHTS [43. - 53.9.]
 
 43.
 
@@ -2032,6 +2032,99 @@ It is a felony in California to knowingly engage in commercial trafficking and p
 (2) The burden is no greater than necessary to serve the compelling government interest.
 
 (History: Added by Stats. 2014, Ch. 912, Sec. 2.   (AB 2646)   Effective January 1, 2015.)
+-------------------------------------------
+
+53.8.
+
+(a) This section shall be known, and may be cited, as the No Kings Act.
+
+(b) Every natural person who, under color of any law, statute, ordinance, regulation, custom, or usage, subjects, or causes to be subjected, any citizen of this state or any person within the jurisdiction thereof to the deprivation of any rights, privileges, or immunities secured by the United States Constitution, shall be liable to the party injured in an action at law, suit in equity, or other proper proceeding for redress, except that in any action brought against a judicial officer for an act or omission taken in the officer’s judicial capacity, injunctive relief shall not be granted unless a
+ declaratory decree was violated or declaratory relief was unavailable.
+
+(c) (1) A defendant in an action brought under subdivision (b) may assert, and shall receive the benefit of, a defense of absolute or qualified immunity only to the same extent as a person sued under Section 1983 of Title 42 of the United States Code under like circumstances.
+
+(2) Nothing in this section shall be construed to make a defense described in this subdivision broader or narrower than that defense would be if asserted under like circumstances in an action under Section 1983 of Title 42 of the United States Code.
+
+(3) This subdivision applies only to proceedings brought under subdivision (b), and does not
+ alter, amend, create, or support a qualified or absolute immunity defense, or any rule or decision governing such a defense, in any other action or proceeding brought under any other provision of California law.
+
+(d) Nothing in this section shall be construed to waive or abrogate any defense of sovereign immunity otherwise available to a party. This subdivision applies only to proceedings brought under subdivision (b), and does not alter, amend, create, or support a sovereign immunity defense in any other action or proceeding brought under any other provision of California law.
+
+(e) In any action or proceeding brought under this section, the court, in its discretion, may award a prevailing plaintiff reasonable attorney’s fees and costs, except that in any action brought against a judicial officer for an act or omission taken in the officer’s judicial capacity, the officer shall not be held liable for any fees or costs, except if the officer’s action was clearly in excess of the officer’s jurisdiction.
+
+(f) A civil action brought under subdivision (b) shall not be commenced later than two years after the date that the cause of action accrues.
+
+(g) The provisions of this section are severable. If any provision of this section or its application is held invalid, that invalidity shall not affect other provisions or applications that can be given effect without the invalid provision or application.
+
+(h) (1) This section shall apply retroactively to March 1, 2025, provided that, for any claim for a violation of the United States Constitution that occurred between March 1, 2025, and the effective date of this section, the only monetary damages that shall be available pursuant to this section for that constitutional violation are nominal and compensatory damages.
+
+(2) (A) An action shall not be brought under this
+ section by or on behalf of an injured party if, before the effective date of this section, a court of competent jurisdiction entered a final judgment on the merits determining either of the following:
+
+(i) Whether the conduct complained of deprived that party of rights, privileges, or immunities secured by the United States Constitution.
+
+(ii) The person whose conduct is complained of did not violate clearly established constitutional rights of which a reasonable person would have known at the time of the conduct complained of.
+
+(B) For purposes of this paragraph, a judgment is not a judgment on the merits if it rested on the absence or unavailability of a cause of action or remedy for the alleged deprivation, rather than on a determination described in clause (i) or (ii) of subparagraph (A).
+
+(3) Paragraph (2) supplements, and does not limit or displace, any otherwise applicable law governing claim or issue preclusion.
+
+(i) For purposes of this section, both of the following definitions apply:
+
+(1) “Color of any law, statute, ordinance, regulation, custom, or usage” includes color of any statute, ordinance, regulation, custom, or usage, of the United States and of any state or territory or the District of Columbia.
+
+(2)   “Natural person” does not include a federal, state, or local official who is sued in their official capacity for monetary relief.
+
+(History: Added by Stats. 2026, Ch. 752, Sec. 2.   (SB 747)   Effective September 29, 2026.)
+-------------------------------------------
+
+53.9.
+
+(a) All persons housed or detained for purposes of civil immigration proceedings in California at any state, county, local, or private locked detention facility, including any county, local, or private locked detention facility in which an individual is housed or detained on behalf of, or pursuant to a contract with, the federal Office of Refugee Resettlement or the United States Immigration and Customs Enforcement, have the legal rights and responsibilities guaranteed all other persons by the United States Constitution and federal law and the California Constitution and state law, unless specifically limited by federal or state law or regulations.
+
+(b) All persons housed or detained for purposes of civil immigration proceedings in California at any state, county, local, or private locked detention facility, including any county, local, or private locked detention facility in which an individual is housed or detained on behalf of, or pursuant to a contract with, the federal Office of Refugee Resettlement or the United States Immigration and Customs Enforcement, have the following rights:
+
+(1) A right to dignity, privacy, and humane
+ care.
+
+(2) A right to mental health treatment services provided in ways that are the least restrictive of the personal liberty of the individual.
+
+(3) A right to medical and dental care and treatment.
+
+(4) A right to be free from harm, including abuse or neglect, and unnecessary
+ or excessive physical restraint, isolation,
+ or medication.
+
+(5) A right to religious freedom and practice, physical exercise, and recreational opportunities.
+
+(6) A right to clean drinking water and functioning toilet and shower
+ facilities.
+
+(7) A right to a clean facility and living quarters that is kept in good repair.
+
+(8) A right to food that is adequate to maintain health and is selected, stored, prepared, and served in a safe and healthful manner.
+
+(9) A right, subject to denial for good cause as described in subdivisions (c) to (e), inclusive, of Section 884 of Title 9 of the California Code of Regulations, to all of the following:
+
+(A) Reasonable access to a telephone, both to make and receive confidential calls, provided that telephone hours, frequency and duration of telephone calls, and method of payment may be limited to ensure access by all.
+
+(B) Reasonable access to letter writing materials.
+
+(C) The ability to send and receive correspondence, subject to inspection for contraband and subject to limitations on size, weight, and volume of mail as specified by formal facility policy. Letters or documents sent to or received from an attorney, court, or government official through the mail shall not
+ be read by anyone other than the addressee.
+
+(c) The Legislature reaffirms that persons protected by the rights described in Sections 4502, 4503, 5325, and 5325.1 of the Welfare and Institutions Code and Sections 883 and 884 of Title 9 of the California Code of Regulations have all of the following rights:
+
+(1) A right to mental health and dental care and treatment.
+
+(2) A right to clean drinking water and functioning toilet and shower facilities.
+
+(3) A right to a clean facility and living quarters that is kept in good repair.
+
+(4) A right to food that is adequate to maintain health and
+ is selected, stored, prepared, and served in a safe and healthful manner.
+
+(History: Added by Stats. 2026, Ch. 755, Sec. 3.   (SB 942)   Effective September 29, 2026.)
 -------------------------------------------
 
 
