@@ -5,7 +5,7 @@
 
 Source: Official California Legislative Information
         https://downloads.leginfo.legislature.ca.gov/
-Last Updated by State of California: September 26, 2026
+Last Updated by State of California: October 01, 2026
 
 
 ======================================================================
@@ -944,17 +944,15 @@ The commission may on its own order, whenever it determines it to be necessary, 
 
 (a) The commission shall exercise its regulatory authority to maintain the California High-Cost Fund-A Administrative Committee Fund program (CHCF-A program) to provide universal service rate support to small independent telephone corporations in amounts sufficient to meet the revenue requirements established by the commission through rate-of-return regulation in furtherance of the state’s universal service commitment to the continued affordability and widespread availability of safe, reliable, high-quality communications services in rural areas of the state.
 
-(b) For purposes of this section, the following terms have the following meanings:
+(b) For purposes of this section, all of the following terms have the following meanings:
 
-(1) “Carrier of last resort” means a telephone corporation
- that is required to fulfill all reasonable requests for service within its service territory.
+(1) “Carrier of last resort” means a telephone corporation that is required to fulfill all reasonable requests for service within its service territory.
 
 (2) “Rate base” means the value of a telephone corporation’s plant and equipment that is reasonably necessary to provide regulated voice services and access to advanced services, and upon which the telephone corporation is entitled to a fair opportunity to earn a reasonable rate of return.
 
 (3) “Rate design” means the mix of end user rates, high-cost support, and other revenue sources that are targeted to provide a fair opportunity to meet the revenue requirement of the telephone corporation.
 
-(4) “Rate-of-return regulation” means a regulatory structure whereby the commission establishes a telephone corporation’s revenue requirement, and then fashions a rate design to provide the company a fair opportunity to meet the revenue
- requirement.
+(4) “Rate-of-return regulation” means a regulatory structure whereby the commission establishes a telephone corporation’s revenue requirement, and then fashions a rate design to provide the company a fair opportunity to meet the revenue requirement.
 
 (5) “Revenue requirement” means the amount that is necessary for a telephone corporation to recover its reasonable expenses and tax liabilities and earn a reasonable rate of return on its rate base.
 
@@ -964,22 +962,21 @@ The commission may on its own order, whenever it determines it to be necessary, 
 
 (1) Continue to set rates to be charged by the small independent telephone corporations in accordance with Sections 451, 454, 455, and 728.
 
-(2) Employ rate-of-return regulation to determine a small independent telephone corporation’s revenue requirement in a manner that
- provides revenues and earnings sufficient to allow the telephone corporation to deliver safe, reliable, high-quality voice communication service and fulfill its obligations as a carrier of last resort in its service territory, and to afford the telephone corporation a fair opportunity to earn a reasonable return on its investments, attract capital for investment on reasonable terms, and ensure the financial integrity of the telephone corporation.
+(2) Employ rate-of-return regulation to determine a small independent telephone corporation’s revenue requirement in a manner that provides revenues and earnings sufficient to allow the telephone corporation to deliver safe, reliable, high-quality voice communication service and fulfill its obligations as a carrier of last resort in its service territory, and to afford the telephone corporation a fair opportunity to earn a reasonable return on its investments, attract capital for investment on reasonable terms, and ensure the financial integrity of the telephone corporation.
 
-(3) Ensure that rates charged to customers of small independent telephone corporations are just and reasonable and are reasonably comparable to rates charged to customers of urban telephone corporations.
+(3) Ensure that rates charged to customers of small
+ independent telephone corporations are just and reasonable and are reasonably comparable to rates charged to customers of urban telephone corporations.
 
-(4) Provide universal service rate support from the CHCF-A program to small independent telephone corporations in an amount sufficient to supply the portion of the revenue requirement that cannot reasonably be provided by the customers of
- each small independent telephone corporation after receipt of federal universal service rate support.
+(4) Provide universal service rate support from the CHCF-A program to small independent telephone corporations in an amount sufficient to supply the portion of the revenue requirement that cannot reasonably be provided by the customers of each small independent telephone corporation after receipt of federal universal service rate support.
 
 (5) Promote customer access to advanced services and deployment of broadband-capable facilities in rural areas that is reasonably comparable to that in urban areas, consistent with national communications policy.
 
-(6) Include all reasonable investments necessary to provide for the delivery of high-quality voice communication services and the deployment of broadband-capable facilities in the rate base of small independent telephone corporations.
+(6) Include all
+ reasonable investments necessary to provide for the delivery of high-quality voice communication services and the deployment of broadband-capable facilities in the rate base of small independent telephone corporations.
 
 (7) Ensure that support is not excessive so that the burden on all contributors to the CHCF-A program is limited.
 
-(d) In order to participate in the CHCF-A program, a small independent telephone corporation shall
- meet all of the following requirements:
+(d) In order to participate in the CHCF-A program, a small independent telephone corporation shall meet all of the following requirements:
 
 (1) Be subject to rate-of-return regulation.
 
@@ -989,14 +986,14 @@ The commission may on its own order, whenever it determines it to be necessary, 
 
 (4) Qualify as a rural telephone company under federal law (47 U.S.C. Sec. 153(44)).
 
-(e) Upon request from the commission, a small independent telephone corporation that receives support from the CHCF-A program shall provide information regarding revenues derived from the provision of unregulated internet access service by that corporation or its affiliate within that corporation’s telephone service territory. The commission shall treat as
- confidential any information provided pursuant to this subdivision.
+(e) Upon request from the commission, a small independent telephone corporation that receives support from the CHCF-A program shall provide information regarding revenues derived from the provision of unregulated internet access service by that corporation or its affiliate within that corporation’s telephone service territory. The commission shall treat as confidential any information provided pursuant to this subdivision.
 
-(f) The commission shall structure the CHCF-A program so that any charge imposed to promote the goals of universal service reasonably equals the value of the benefits of universal service to contributing entities and their subscribers.
+(f) The commission shall structure the CHCF-A program so that any charge imposed to promote the goals of universal service reasonably equals the
+ value of the benefits of universal service to contributing entities and their subscribers.
 
-(g) This section shall remain in effect only until January 1, 2028, and as of that date is repealed.
+(g) This section shall remain in effect only until January 1, 2033, and as of that date is repealed.
 
-(History: Amended by Stats. 2022, Ch. 706, Sec. 1.   (SB 857)   Effective September 28, 2022.   Repealed as of January 1, 2028, by its own provisions.)
+(History: Amended by Stats. 2026, Ch. 683, Sec. 1.   (SB 1191)   Effective September 27, 2026.   Repealed as of January 1, 2033, by its own provisions.)
 -------------------------------------------
 
 276.
@@ -1013,16 +1010,16 @@ The commission may on its own order, whenever it determines it to be necessary, 
 
 276.5.
 
-(a) The commission shall develop, implement, and maintain a suitable, competitively neutral, and broad-based program to establish a fair and equitable local rate support structure aided by universal service rate support to telephone corporations serving areas where the cost of providing services exceeds rates charged by providers, as determined by the commission. The program shall be known, and may be cited, as the California High-Cost Fund-B Administrative Committee Fund program or CHCF-B program. The purpose of the program shall be to promote the goals of universal telephone service and to reduce any disparity in the rates charged by those companies. Except as otherwise explicitly provided, this subdivision does not limit the manner in which the commission collects and disburses funds, and does not limit the manner in which it
- may include or exclude the revenue of contributing entities in structuring the program.
+(a) The commission shall develop, implement, and maintain a suitable, competitively neutral, and broad-based program to establish a fair and equitable local rate support structure aided by universal service rate support to telephone corporations serving areas where the cost of providing services exceeds rates charged by providers, as determined by the commission. The program shall be known, and may be cited, as the California High-Cost Fund-B Administrative Committee Fund program or CHCF-B program. The purpose of the program shall be to promote the goals of universal telephone service and to reduce any disparity in the rates charged by those companies. Except as otherwise explicitly provided, this subdivision does not limit the manner in which
+ the commission collects and disburses funds, and does not limit the manner in which it may include or exclude the revenue of contributing entities in structuring the program.
 
 (b) The commission shall structure the CHCF-B program so that any charge imposed to promote the goals of universal service reasonably equals the value of the benefits of universal service to contributing entities and their subscribers.
 
 (c) The commission shall investigate reducing the level of universal service rate support, or elimination of universal service rate support in service areas with demonstrated competition.
 
-(d) This section shall remain in effect only until January 1, 2028, and as of that date is repealed.
+(d) This section shall remain in effect only until January 1, 2033, and as of that date is repealed.
 
-(History: Amended by Stats. 2022, Ch. 706, Sec. 2.   (SB 857)   Effective September 28, 2022.   Repealed as of January 1, 2028, by its own provisions.)
+(History: Amended by Stats. 2026, Ch. 683, Sec. 2.   (SB 1191)   Effective September 27, 2026.   Repealed as of January 1, 2033, by its own provisions.)
 -------------------------------------------
 
 277.
