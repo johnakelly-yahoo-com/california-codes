@@ -5,7 +5,7 @@
 
 Source: Official California Legislative Information
         https://downloads.leginfo.legislature.ca.gov/
-Last Updated by State of California: September 26, 2026
+Last Updated by State of California: October 02, 2026
 
 
 ======================================================================
@@ -14328,15 +14328,19 @@ An agreement that is entered into pursuant to this article shall do all of the f
 
 4477.
 
-(a) The State Fire Marshal, with the involvement of the Statewide Training and Education Advisory Committee, shall develop a curriculum for, or amend into an existing curriculum, a certification program for burn bosses, who, pursuant to Section 4476, possess authority to engage in a prescribed burning operation and to enter into the necessary contracts related to a prescribed burning operation. The curriculum shall provide for the initial certification as well as the continuing education of burn bosses. It is the intent of the Legislature that this curriculum become a regular part of the training of firefighters conducted by the Department of Forestry and Fire Protection and all other appropriate accredited training providers.
+(a) The State Fire Marshal, with the involvement of the Statewide Training and Education Advisory Committee, shall develop a curriculum for, or amend into an existing curriculum, a certification program for burn bosses, who, pursuant to Section 4476, possess authority to engage in a prescribed burning operation and to enter into the necessary contracts related to a prescribed burning operation. The curriculum shall provide for the initial certification as well as the continuing education of burn bosses. As part of the continuing education of burn bosses, the State Fire Marshal shall require recertification no sooner than every three years. The department shall consider methods to increase the pool of available instructors for the certification
+ program, including the use of nondepartment instructors. It is the intent of the Legislature that this curriculum become a regular part of the training of firefighters conducted by the Department of Forestry and Fire Protection and all other appropriate accredited training providers.
 
-(b) In addition to the curriculum and
- certification program developed pursuant to subdivision (a), the department shall develop a training program for prescribed fire users to certify professionals in any agency or organization as burn bosses. The department shall certify these individuals to a common standard. It is the intent of the Legislature that the department use its discretion to ensure that burn bosses are thoroughly qualified to engage in prescribed burning operations prior to issuing certifications.
+(b) In addition to the curriculum and certification program developed pursuant to subdivision (a), the department shall, in consultation with the Statewide Training and Education Advisory Committee, develop a mechanism to allow individuals certified by the department as a prescribed fire incident commander or equivalent, individuals qualified for the National Wildfire Coordinating Group position title of “Prescribed Fire Burn Boss Type 1” or “Prescribed Fire Burn Boss Type 2” or equivalent, or individuals certified as prescribed fire managers or similar positions
+ by other states pursuant to a certification program that is substantially similar to the program described in subdivision (a) to be designated as a state-certified burn boss pursuant to subdivision (a). Once certified, an individual may use the recertification process provided in subdivision (a) to maintain currency as a state-certified burn boss.
 
-(c) On or before July 1, 2023, the State Fire Marshal, with the involvement of the Statewide Training and Education Advisory Committee, in consultation with the California Conservation Corps, the Regional Forest and Fire Capacity program, a statewide intertribal organization or indigenous stewardship network, and the Sierra Nevada Conservancy, shall develop a proposal to establish a prescribed fire training center. In developing the proposal, the State Fire Marshal shall do
- all of the following:
+(c) In addition to the curriculum and certification program developed pursuant to subdivision (a), the department shall develop a training program for prescribed fire users to certify professionals in any agency or organization as burn bosses. The department shall certify these individuals to a common standard. It is the intent of the Legislature that the department use its discretion to ensure that burn bosses are thoroughly qualified to engage in prescribed burning operations
+ prior to issuing certifications.
 
-(1) Collaborate with the University of California Cooperative Extension, fire safe councils, relevant California State Universities, California Native American tribes, tribal organizations, cultural fire practitioners, resource conservation districts, and other relevant stakeholders on the development of the proposal.
+(d) On or before July 1, 2023, the State Fire Marshal, with the involvement of the Statewide Training and Education Advisory Committee, in consultation with the California Conservation Corps, the Regional Forest and Fire Capacity program, a statewide intertribal organization or indigenous stewardship network, and the Sierra Nevada Conservancy, shall develop a proposal to establish a prescribed fire training center. In developing the proposal, the State Fire Marshal shall do all of the following:
+
+(1) Collaborate with the University of California Cooperative Extension, fire safe councils, relevant California State Universities, California Native American tribes, tribal organizations, cultural fire practitioners, resource conservation districts, and other
+ relevant stakeholders on the development of the proposal.
 
 (2) Identify potential funding sources for the proposal, including, but not limited to, federal funds, and consider the proposal’s eligibility for those funding sources.
 
@@ -14346,11 +14350,14 @@ An agreement that is entered into pursuant to this article shall do all of the f
 
 (5) Ensure that cultural fire practitioners are engaged in the development and ongoing leadership of the prescribed fire training center.
 
-(d) On or before January 1, 2023, the State Fire Marshal shall post and update on its internet website the number of burn bosses with an active burn boss certification.
+(e) On or before January 1, 2023, the State
+ Fire Marshal shall post and update on its internet website the number of burn bosses with an active burn boss certification.
 
-(e) Adherence to the best practices outlined in the curriculum and certification process established pursuant to this section shall constitute prima facie evidence of due diligence.
+(f) Adherence to the best practices outlined in the curriculum and certification process established pursuant to this section shall constitute prima facie evidence of due diligence.
 
-(History: Amended by Stats. 2021, Ch. 375, Sec. 11.   (AB 642)   Effective January 1, 2022.)
+(g) The changes made to this section by Assembly Bill 1699 of the 2025–26 Regular Session do not alter, expand, or limit the applicable standard of care related to prescribed fires and cultural burning under California law.
+
+(History: Amended by Stats. 2026, Ch. 761, Sec. 3.   (AB 1699)   Effective September 29, 2026.)
 -------------------------------------------
 
 4479.
@@ -14415,14 +14422,27 @@ A person, firm, or corporation, or a group or combination of persons, firms, cor
 
 4493.
 
-(a) Upon receipt of an application, the department shall inspect the land in company with the applicant to determine whether a permit shall be granted, shall prescribe the manner in which the site for the prescribed burning shall be prepared, and shall require any precautions to be taken by the applicant as may be considered reasonable to prevent damage to the property of others by reason of the burning. The precautions shall, if deemed necessary, include the advance preparation of firebreaks and the firefighting equipment and personnel desirable to conduct the prescribed burning.
+(a) (1) Upon receipt of an application, the department shall inspect the land in company with the applicant to determine whether a permit shall be granted, shall prescribe the manner in which the site for the prescribed burning shall be prepared, and shall require any precautions to be taken by the applicant as may be considered reasonable to prevent damage to the property of others by reason of the burning. The precautions shall, if deemed necessary, include the advance preparation of firebreaks and the firefighting equipment and personnel desirable to conduct the prescribed burning.
 
-(b) In issuing the permit, the department shall consider the availability of nondepartmental contingency resources when determining whether to require department contingency resources as
- part of the required precautions.
+(2) Notwithstanding paragraph (1), the department may waive the inspection
+ requirement or modify the standard precautions described in paragraph (1) for an application submitted by any of the following individuals:
+
+(A) A person certified pursuant to Section 4477 to conduct prescribed burning operations and to enter into contracts related to prescribed burning operations.
+
+(B) A person qualified for the National Wildfire Coordinating Group position title of “Prescribed Fire Burn Boss Type 1” or “Prescribed Fire Burn Boss Type 2.”
+
+(C) A cultural fire practitioner, as defined in Section 3333.8 of the Civil Code.
+
+(D) Other parties as determined by the director.
+
+(b) In
+ issuing the permit, the department shall consider the availability of nondepartmental contingency resources when determining whether to require department contingency resources as part of the required precautions.
 
 (c) The department shall, to the extent feasible, employ burn suspensions at the unit level, and not at the state or regional level, to not unreasonably restrict prescribed burning operations that are within prescription.
 
-(History: Amended by Stats. 2021, Ch. 375, Sec. 13.   (AB 642)   Effective January 1, 2022.)
+(d) The changes made to this section by Assembly Bill 1699 of the 2025–26 Regular Session do not alter, expand, or limit the applicable standard of care related to prescribed fires and cultural burning under California law.
+
+(History: Amended by Stats. 2026, Ch. 761, Sec. 4.   (AB 1699)   Effective September 29, 2026.)
 -------------------------------------------
 
 4494.
@@ -14450,7 +14470,7 @@ In coordination with local air pollution control and air quality management dist
 
 
 
-  ARTICLE 4.3. Burning with Cooperators [4497. - 4497.2.]
+  ARTICLE 4.3. Burning with Cooperators [4497. - 4497.3.]
 
 4497.
 
@@ -14489,21 +14509,29 @@ To be considered for the public interest and beneficial to the state, each presc
 (History: Added by Stats. 2018, Ch. 638, Sec. 2.   (AB 2551)   Effective January 1, 2019.)
 -------------------------------------------
 
+4497.3.
+
+A state agency, department, board, or commission that has awarded grant funds for a project that includes the preparation for, or implementation of, a beneficial fire project shall include as an allowable expense of the grant the payment of overtime or double rates of pay to employees or contractors who prepare for or implement the beneficial fire project when such expenses are necessary for the implementation of the beneficial fire project.
+
+(History: Added by Stats. 2026, Ch. 761, Sec. 5.   (AB 1699)   Effective September 29, 2026.)
+-------------------------------------------
+
 
 
   ARTICLE 4.4. Prescribed Fire Liability Pilot Program [4500. - 4503.]
 
 4500.
 
-(a) For purposes of this section, the following terms have the following meanings:
+(a) For purposes of this article, the following terms have the following meanings:
 
 (1) “Burn boss” means either of the following:
 
-(A) A person certified pursuant to Section 4477 to conduct prescribed burning operations and to enter into contracts related to prescribed burning operations. 
+(A) A person certified pursuant to Section 4477 to conduct prescribed burning operations and to enter into contracts related to prescribed burning operations.
 
-(B) A person qualified for the National Wildfire Coordinating Group position title of “Prescribed Fire Burn Boss Type 1” or “Prescribed Fire Burn Boss Type 2.”
+(B) A person who possesses current qualification for the National Wildfire Coordinating Group position title of “Prescribed Fire Burn Boss Type 1” or “Prescribed Fire Burn Boss Type 2.”
 
-(2) “Cultural burn” has the same meaning as set forth in Section 3333.8 of the Civil Code. 
+(2) “Cultural burn” has the same
+ meaning as set forth in Section 3333.8 of the Civil Code.
 
 (3) “Cultural fire practitioner” has the same meaning as set forth in Section 3333.8 of the Civil Code.
 
@@ -14511,31 +14539,31 @@ To be considered for the public interest and beneficial to the state, each presc
 
 (5) “Program” means the Prescribed Fire Liability Pilot Program established pursuant to subdivision (b).
 
-(b) The Prescribed Fire Liability Pilot Program is hereby established, to be administered by the department, to increase the pace and scale of the use of prescribed fire and cultural burning and to reduce barriers for conducting prescribed fires and cultural burning. 
+(b) The Prescribed Fire Liability Pilot Program is hereby established, to be administered by the department, to increase the pace and scale of the use of prescribed fire and cultural burning and to reduce barriers for conducting prescribed fires and cultural burning.
 
-(c) (1) (A) The Prescribed Fire Claims Fund is hereby created in the State Treasury to
- support coverage for losses from prescribed fires and cultural burning by nonpublic entities, such as cultural fire practitioners, private landowners, and nongovernmental entities. The moneys in the fund shall be under the control of the department, and the department, or the third-party administrator with whom the department contracts pursuant to subdivision (d), is authorized to direct payments for claims from the fund, consistent with this section and the guidelines adopted by the department pursuant to subdivision (e).
+(c) (1) (A) The Prescribed Fire Claims Fund is hereby created in the State Treasury to support coverage for losses from prescribed fires and cultural burning on any lands within the state led by individuals and entities other than the department or the federal government. The moneys in the fund shall be under the control of the department, and the department, or the third-party administrator with whom the department contracts pursuant to subdivision (d), is authorized to direct payments for claims from the fund, consistent with this section and the guidelines adopted by the department pursuant to subdivision (e).
 
-(B) Upon order of the Department of Finance, the amount in Item 3540-102-0001 of the Budget Act of 2021 (Chapter 240 of the Statutes of 2021) shall be transferred into the fund.
+(B) Upon order of the Department of Finance, the amount in Item 3540-102-0001 of the Budget Act of 2021 (Chapter 240 of the
+ Statutes of 2021) shall be transferred into the fund.
 
-(C) Notwithstanding Section 13340 of the Government Code or any other law, all moneys deposited or transferred into the fund, including pursuant to subparagraph (B), shall be
- continuously appropriated, without regard to fiscal years, to the department for purposes of this section.
+(C) Notwithstanding Section 13340 of the Government Code or any other law, all moneys deposited or transferred into the fund, including pursuant to subparagraph (B), shall be continuously appropriated, without regard to fiscal years, to the department for purposes of this section.
 
-(2) (A) Except as provided in subparagraph (B), notwithstanding any other law, the Controller may use moneys in the fund for cash flow loans to the General Fund as provided in Sections 16310 and 16381 of the Government Code. Interest shall be paid on all moneys loaned to the General Fund and shall be computed at a rate determined by the Pooled Money Investment Board to be the current earning rate of the fund.
+(2) (A) Except as provided in subparagraph (B), notwithstanding any other law, the Controller may use moneys in the fund for cashflow loans to the General Fund as provided in Sections 16310 and 16381 of the Government Code. Interest shall be paid on all moneys loaned to the General Fund and shall be computed at a rate determined by the Pooled Money Investment Board to be the current earning rate of the fund.
 
 (B) This paragraph does not authorize any transfer that would interfere with the department’s ability to carry out the purposes of this section.
 
-(d) (1) The department may contract with any entity, including another state agency, to serve as a third-party
- administrator to administer or to assist in administering the fund, including, but not limited to, managing and operating the fund, adjusting claims made to the fund, and paying claims from the fund. Subject to prior written approval by the Insurance Commissioner pursuant to Section 1063.19 of the Insurance Code, the California Insurance Guarantee Association may serve as a third-party administrator of the fund. Participation by the California Insurance Guarantee Association shall be governed by the Insurance Commissioner’s authority over its Plan of Operation, pursuant to Article 14.2 (commencing with Section 1063) of Chapter 1 of Part 2 of Division 1 of the Insurance Code.
+(d) (1) The department may contract with any entity, including another state agency, to serve as a third-party administrator to administer or to assist in administering the fund, including, but not limited to, managing and operating the fund, adjusting claims made to the fund, and paying claims from the fund. Subject to prior written approval by the Insurance Commissioner pursuant to Section 1063.19 of the Insurance Code, the California Insurance Guarantee Association may serve as a third-party administrator of the fund. Participation by the California Insurance Guarantee Association shall be governed by the Insurance
+ Commissioner’s authority over its Plan of Operation, pursuant to Article 14.2 (commencing with Section 1063) of Chapter 1 of Part 2 of Division 1 of the Insurance Code.
 
 (2) A third-party administrator with whom the department contracts pursuant to this subdivision, including the California Insurance Guarantee Association, is prohibited from settling or adjusting any claims to the fund while seeking to subrogate against the fund.
 
-(3) (A) Notwithstanding any other law, advertising, competitive bidding, and protest requirements, and the requirement for Department of General Services approval, do not apply to a contract of no more than three years entered into by the department in the 2022–2023 fiscal year with a third-party administrator pursuant to this subdivision. However, subsequent contracts shall be awarded in accordance with applicable state laws and policies.
+(3) (A) Notwithstanding any other law, advertising, competitive bidding, and protest requirements, and the requirement for Department of General Services approval, do not apply to a contract of no more than three years entered into by the department in the 2022–23 fiscal year with a third-party administrator pursuant to this
+ subdivision. However, subsequent contracts shall be awarded in accordance with applicable state laws and policies.
 
-(B) In the event that a third-party administrator with whom the department contracts with pursuant to this subdivision, including the California Insurance Guarantee Association, is prohibited by law from settling or adjusting any claims to the fund as a result of seeking to subrogate against the fund, the department may award a contract to a new third-party administrator for the limited purpose of settling and adjusting those
- claims only and that contract shall not be subject to existing advertising, competitive bidding, and protest requirements, or the requirement for Department of General Services approval.
+(B) In the event that a third-party administrator with whom the department contracts with pursuant to this subdivision, including the California Insurance Guarantee Association, is prohibited by law from settling or adjusting any claims to the fund as a result of seeking to subrogate against the fund, the department may award a contract to a new third-party administrator for the limited purpose of settling and adjusting those claims only and that contract shall not be subject to existing advertising, competitive bidding, and protest requirements, or the requirement for Department of General Services approval.
 
-(e) The department shall collaborate with other relevant state agencies, cultural fire practitioners, and burn bosses to establish guidelines governing the program and the administration of the fund, including the payment of claims from the fund. The guidelines shall include, at a minimum, all of the following requirements:
+(e) The department shall collaborate with other relevant state agencies,
+ cultural fire practitioners, and burn bosses to establish guidelines governing the program and the administration of the fund, including the payment of claims from the fund. The guidelines shall include, at a minimum, all of the following requirements:
 
 (1) An eligible claim shall relate to either of the following:
 
@@ -14545,32 +14573,40 @@ To be considered for the public interest and beneficial to the state, each presc
 
 (2) A claim shall not be paid from the fund unless, at a minimum, all of the following conditions are met:
 
-(A) The department reviewed and approved a burn plan before the prescribed fire or cultural burning.
+(A) (i) The department or
+ a burn boss has reviewed and approved a burn plan before the prescribed fire or cultural burning.
+
+(ii) A burn plan shall be submitted to the claims fund portal before ignition.
 
 (B) A burn permit, if required, and all other permits required to conduct the prescribed fire or cultural burn were obtained.
 
 (C) The department determines that the prescribed fire or cultural burn complied with, as applicable, the terms and conditions of all burn plans, burn permits, and other permits required to conduct the prescribed fire or cultural burn.
 
-(3) The maximum amount the fund shall pay for losses arising from any one prescribed fire or cultural burn event is two million
- dollars ($2,000,000). For purposes of this paragraph, “losses arising from any one prescribed fire or cultural burn event” means all activities conducted pursuant to any one burn plan and, if required, burn permit.
+(3) The maximum amount the fund shall pay for losses arising from any one prescribed fire or cultural burn event is two million dollars
+ ($2,000,000). For purposes of this paragraph, “losses arising from any one prescribed fire or cultural burn event” means all activities conducted pursuant to any one burn plan and, if required, burn permit.
+
+(4) Methods for prioritizing broadcast burns and burns by nonpublic individuals or entities or California Native American tribes in the event the fund is oversubscribed.
 
 (f) The department shall post the guidelines established pursuant to subdivision (e) on its internet website.
 
-(g) Notwithstanding any other law, the state’s liability for all claims for covered losses established pursuant to this section and the guidelines developed by the department pursuant to subdivision (e) shall be limited as described in this section and to the amount in the fund.
+(g) Notwithstanding any other law, the state’s liability for all claims for covered losses established pursuant to this section and the guidelines developed by the department pursuant to subdivision (e) shall be limited as described in this section
+ and to the amount in the fund.
 
-(h) The Administrative Procedure Act (Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code) does not apply to the guidelines developed by the department pursuant to
- subdivision (e) and used by the department or a third-party administrator with whom the department contracts pursuant to subdivision (d) to implement the program and to administer the fund.
+(h) The Administrative Procedure Act (Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code) does not apply to the guidelines developed by the department pursuant to subdivision (e) and used by the department or a third-party administrator with whom the department contracts pursuant to subdivision (d) to implement the program and to administer the fund.
 
 (i) A person engaging with a Native American tribe, tribal organization, or cultural fire practitioner pursuant to this article shall respect tribal sovereignty, customs, and culture.
 
-(History: Repealed and added by Stats. 2022, Ch. 606, Sec. 4.   (SB 926)   Effective September 27, 2022.   Repealed as of January 1, 2028, pursuant to Section 4503.)
+(j) The changes made to this section by Assembly Bill 1699 of the 2025–26 Regular Session do not alter,
+ expand, or limit the applicable standard of care related to prescribed fires and cultural burning under California law.
+
+(History: Amended by Stats. 2026, Ch. 761, Sec. 6.   (AB 1699)   Effective September 29, 2026.)
 -------------------------------------------
 
 4503.
 
-This article shall remain in effect only until January 1, 2028, and as of that date is repealed, unless a later enacted statute that is enacted before January 1, 2028, deletes or extends that date.
+No later than one year after a claim is paid from the fund, the department shall submit a report to the Legislature, in compliance with Section 9795 of the Government Code, regarding the claim process and propose statutory changes that may improve the efficiency, transparency, effectiveness, or overall function of the fund.
 
-(History: Added by Stats. 2022, Ch. 606, Sec. 5.   (SB 926)   Effective September 27, 2022.   Repealed as of January 1, 2028, by its own provisions.   Note: Repeal affects Article 4.4, commencing with Section 4500.)
+(History: Repealed and added by Stats. 2026, Ch. 761, Sec. 8.   (AB 1699)   Effective September 29, 2026.)
 -------------------------------------------
 
 
@@ -18950,17 +18986,16 @@ To effectuate the purposes of this chapter, the department is authorized to:
 
 (a) (1) The director may provide grants to, or enter into contracts or other cooperative agreements with, entities, including, but not limited to, private or nongovernmental entities, Native American tribes, or local, state, and federal public agencies, for the implementation and administration of projects and programs to improve forest health and reduce greenhouse gas emissions.
 
-(2) (A) The director may authorize advance payments to a nonprofit organization, a local agency, a special district, a
- private forest landowner, or a Native American tribe from a grant awarded pursuant to this section. No single advance payment shall exceed 25 percent of the total grant award.
+(2) (A) The director may authorize advance payments to a nonprofit organization, a local agency, a special district, a private forest landowner, or a Native American tribe from a grant awarded pursuant to this section. No single advance payment shall exceed 25 percent of the
+ total grant award.
 
 (B) (i) The grantee shall expend the funds from the advance payment within six months of receipt, unless the department waives this requirement.
 
-(ii) The grantee shall file an accountability report with the department four months from the date of receiving the funds and every four months thereafter.
+(ii) The grantee shall file an accountability report with the department six months from the date of receiving the funds and every six months thereafter.
 
 (C) (i) The department shall provide a report to the Legislature on or before January 1, 2023, on the outcome of the department’s use of advance payments.
 
-(ii) A report submitted pursuant to this subparagraph shall be submitted in compliance
- with Section 9795 of the Government Code.
+(ii) A report submitted pursuant to this subparagraph shall be submitted in compliance with Section 9795 of the Government Code.
 
 (iii) The requirement for submitting a report imposed under clause (i) is inoperative on January 1, 2027, pursuant to Section 10231.5 of the Government Code.
 
@@ -18968,41 +19003,39 @@ To effectuate the purposes of this chapter, the department is authorized to:
 
 (c) Moneys appropriated to the department for landscape-scale projects shall be allocated as follows:
 
-(1) To subsidize the removal of small diameter material, especially surface fuels and ladder fuels, as well as dead trees, in order to help develop markets for beneficial uses
- of the material, including, but not limited to, animal bedding, biochar, cross-laminated timber, mulch, oriented strand board, pulp, post, shredding, and veneer products.
+(1) To subsidize the removal of small diameter material, especially surface fuels and ladder fuels, as well as dead trees, in order
+ to help develop markets for beneficial uses of the material, including, but not limited to, animal bedding, biochar, cross-laminated timber, mulch, oriented strand board, pulp, post, shredding, and veneer products.
 
-(2) For multiple benefit projects, such as tree thinning, carbon sequestration, forest resilience, and improved ecological outcome projects, including, but not limited to, restoring watershed health and function and supporting biodiversity and wildlife adaptation to climate change. The department shall give grant funding priority to landowners who practice uneven aged forest management with a resilient forest of diverse age, size, and species class within the boundaries of the project and whose activities are conducted pursuant to an approved timber harvest plan, nonindustrial timber harvest plan, or working forest management plan. An application for a grant for a project under this
- paragraph shall include a description of how the proposed project will increase average stem diameter and provide other site-specific improvement to forest complexity, as demonstrated by the expansion of the variety of tree age classes and species persisting for a period of at least 50 years. The department shall also give funding priority to landowners who agree to long-term forest management goals prescribed by the department.
+(2) For multiple benefit projects, such as tree thinning, carbon sequestration, forest resilience, and improved ecological outcome projects, including, but not limited to, restoring watershed health and function and supporting biodiversity and wildlife adaptation to climate change. The department shall give grant funding priority to landowners who practice uneven aged forest management with a resilient forest of diverse age, size, and species class within the boundaries of the project and whose activities are conducted pursuant to an approved timber harvest plan, nonindustrial timber harvest plan, or working forest management plan.
+ An application for a grant for a project under this paragraph shall include a description of how the proposed project will increase average stem diameter and provide other site-specific improvement to forest complexity, as demonstrated by the expansion of the variety of tree age classes and species persisting for a period of at least 50 years. The department shall also give funding priority to landowners who agree to long-term forest management goals prescribed by the department.
 
-(3) For activities on national forest lands to increase tree stand heterogeneity, create forest openings of less than one acre, and increase average tree stand diameter of residual trees. Any grants provided under this paragraph shall be approved by the department, in
- collaboration with appropriate state agencies, including the State Air Resources Board.
+(3) For activities on national forest lands to increase tree stand heterogeneity, create forest openings of less than one acre, and increase average tree stand diameter of residual trees. Any grants provided under this paragraph shall be approved by the department, in collaboration with appropriate state agencies, including the State Air Resources Board.
 
-(d) (1) Division 13 (commencing with Section 21000) does not apply to prescribed fire, reforestation, habitat restoration, thinning, or fuel reduction projects, or to related activities included in the project description, undertaken, in whole or in part, on federal lands to reduce the risk of high-severity wildfire that have been reviewed under the federal National Environmental Policy Act of 1969 (42 U.S.C. Sec.
- 4321 et seq.) if either of the following is satisfied:
+(d) (1) Division 13 (commencing with Section 21000) does not apply to prescribed fire, reforestation, habitat restoration, thinning, or fuel reduction projects, or to related activities included in the project description, undertaken, in whole or in part, on federal lands to reduce the risk of high-severity wildfire that have been reviewed under the federal National Environmental Policy Act of 1969 (42 U.S.C. Sec. 4321 et seq.) if either of the following is satisfied:
 
 (A) The primary role of a state or local agency is providing funding or staffing for those projects.
 
-(B) A state or local agency is undertaking those projects pursuant to the federal Good Neighbor Authority (Public Law 113-79) or a stewardship agreement with the federal government entered into pursuant to Public Law 113-79.
+(B) A state or local agency is undertaking those projects pursuant to the federal Good Neighbor Authority (Public Law 113-79) or a
+ stewardship agreement with the federal government entered into pursuant to Public Law 113-79.
 
 (2) Division 13 (commencing with Section 21000) does not apply to the issuance of a permit or other project approval by a state or local agency for projects described in paragraph (1).
 
-(3) This section does not alter, affect, or in any way diminish the authority of a state or local agency to impose mitigation measures or conditions on
- projects described in paragraph (1) pursuant to other laws or regulations.
+(3) This section does not alter, affect, or in any way diminish the authority of a state or local agency to impose mitigation measures or conditions on projects described in paragraph (1) pursuant to other laws or regulations.
 
-(4) (A) If the lead agency, as defined in Section 21067, determines that a project is not subject to Division 13 (commencing with Section 21000) pursuant to this subdivision and it determines to approve or carry out the project, the lead agency shall file a notice of exemption with the Office of Planning and Research and with the county clerk in the county in
- which the project will be located in the manner specified in subdivisions (b) and (c) of Section 21108 or subdivisions (b) and (c) of Section 21152. The lead agency shall also post the notice of exemption on its internet website together with a description of where the documents analyzing the environmental impacts of the project under the federal National Environmental Policy Act of 1969 are available for public review.
+(4) (A) If the lead agency, as defined in Section 21067, determines that a project is not subject to Division 13 (commencing with Section 21000) pursuant to this subdivision and it determines to approve or
+ carry out the project, the lead agency shall file a notice of exemption with the Office of Land Use and Climate Innovation and with the county clerk in the county in which the project will be located in the manner specified in subdivisions (b) and (c) of Section 21108 or subdivisions (b) and (c) of Section 21152. The lead agency shall also post the notice of exemption on its internet website together with a description of where the documents analyzing the environmental impacts of the project under the federal National Environmental Policy Act of 1969 are available for public review.
 
-(B) If the lead agency is not the department, the lead agency shall also provide the notice of exemption together with the information set forth in subdivision (d) of Section 4137 to the department. The department shall compile the information submitted to it pursuant to this subparagraph and post the information on the department’s internet website.
+(B) If the lead agency is not the department, the lead agency shall also provide the notice of exemption together with the information set forth in subdivision (d) of Section 4137 to the department. The department shall compile the information submitted to
+ it pursuant to this subparagraph and post the information on the department’s internet website.
 
-(5) On or before February 1, 2027, if the Secretary of the Natural Resources Agency
- determines that substantial changes have been made since January 1, 2023, to the federal National Environmental Policy Act of 1969 or other federal laws that affect the management of federal forest lands in California, the secretary shall report those changes to the Legislature in accordance with Section 9795 of the Government Code.
+(5) On or before February 1, 2027, if the Secretary of the Natural Resources Agency determines that substantial changes have been made since January 1, 2023, to the federal National Environmental Policy Act of 1969 or other federal laws that affect the management of federal forest lands in California, the secretary shall report those changes to the Legislature in accordance with Section 9795 of the Government Code.
 
 (6) This subdivision shall become inoperative on January 1, 2028.
 
-(e) Division 13 (commencing with Section 21000) does not apply to any discretionary approval necessary to carry out or implement projects funded by the Nature-Based Solutions Tribal Program or the tribal cultural burn and tribal wildfire funding authorized by Schedule (2) of Item 3540-101-0001 of Section 2.00 of the Budget Act of 2021, as added by Section 46
- of Chapter 240 of the Statutes of 2021. This subdivision only applies to projects carried out on lands subject to the jurisdictional control or the ownership of a California Native American tribe, as defined in Section 21073.
+(e) Division 13 (commencing with Section 21000) does not apply to any discretionary approval necessary to carry out or implement projects
+ funded by the Nature-Based Solutions Tribal Program or the tribal cultural burn and tribal wildfire funding authorized by Schedule (2) of Item 3540-101-0001 of Section 2.00 of the Budget Act of 2021, as added by Section 46 of Chapter 240 of the Statutes of 2021. This subdivision only applies to projects carried out on lands subject to the jurisdictional control or the ownership of a California Native American tribe, as defined in Section 21073.
 
-(History: Amended by Stats. 2022, Ch. 574, Sec. 17.   (AB 211)   Effective September 27, 2022.)
+(History: Amended by Stats. 2026, Ch. 761, Sec. 9.   (AB 1699)   Effective September 29, 2026.)
 -------------------------------------------
 
 
@@ -55643,6 +55676,13 @@ This division does not apply to any of the following wildfire risk reduction pro
 (History: Added by Stats. 2025, Ch. 24, Sec. 11.   (SB 131)   Effective June 30, 2025.)
 -------------------------------------------
 
+21080.49.1.
+
+This division does not apply to actions taken by the Department of Forestry and Fire Protection to assist in the implementation of prescribed fire or cultural burning projects that do not otherwise require compliance with this division.
+
+(History: Added by Stats. 2026, Ch. 761, Sec. 10.   (AB 1699)   Effective September 29, 2026.)
+-------------------------------------------
+
 21080.50.
 
 (a) For purposes of this section, the following definitions apply:
@@ -56231,6 +56271,33 @@ Notwithstanding any other law, a housing development project, as defined in para
 (e) The project is located on a parcel adjacent to a California historical landmark on the California Register of Historic Places.
 
 (History: Added by Stats. 2025, Ch. 650, Sec. 10.   (SB 158)   Effective October 11, 2025.)
+-------------------------------------------
+
+21080.77.
+
+(a) The Legislature finds and declares all of the following:
+
+(1) The City of San Diego has approved, or may approve, a mixed-use development project known as the Midway Rising project, consisting of approximately 4,254 new homes, of which 2,000 are deed-restricted affordable homes at or below 80 percent of area median income, up to 130,000 square feet of commercial uses, approximately 14.5 acres of public parks and open space, and a new 16,000-seat multipurpose entertainment center.
+
+(2) The scale of the Midway Rising project makes the project one of the largest mixed-income housing communities on the west coast
+ and the single largest affordable housing development in
+ California’s history.
+
+(3) The Midway Rising project developer intends to have the construction work performed pursuant to a project labor agreement that would provide for the payment of prevailing wages and use of apprentices registered in state-approved programs.
+
+(4) In connection with the approval of the Midway Rising project, the City of San Diego has certified, or may certify, the Midway Rising Specific Plan Subsequent Final Environmental Impact Report (SCH No. 2023120451) pursuant to this division. The City of San Diego’s Midway Rising Specific Plan Subsequent Final Environmental Impact Report (SCH No. 2023120451) imposes comprehensive mitigation measures to address potential environmental impacts associated with the development of the Midway Rising
+ project. The City of San Diego Planning Commission reviewed and considered the Midway Rising Specific Plan Subsequent Final Environmental Impact Report (SCH No. 2023120451) pursuant to this division on September 25, 2025, and voted unanimously to recommend that the City Council of the City of San Diego certify the report and adopt the associated findings pursuant to this division.
+
+(b) The City of San Diego’s Midway Rising Specific Plan Subsequent Final Environmental Impact Report (SCH No. 2023120451) considered by the City of San Diego Planning Commission, including technical corrections or clarifications made by the City Council of the City of San Diego in connection with the report’s certification that do not affect the comprehensive mitigation measures recommended by the City of San Diego Planning Commission, is deemed sufficient,
+ adequate, and complete for full compliance with this division and shall be final and conclusive for purposes of reliance on that report. Any approval of the project reviewed in the Midway Rising Specific Plan Subsequent Final Environmental Impact Report may rely conclusively on that report for
+ compliance with this division.
+
+(c) All mitigation measures required pursuant to this division adopted by the City of San Diego as the lead agency, and incorporated into the Midway Rising Specific Plan Subsequent Final Environmental Impact Report (SCH No. 2023120451), including the Mitigation Monitoring and Reporting Program, shall be conditions of approval of the project. Those conditions shall be fully enforceable by the lead agency or another agency designated by the lead agency and shall be monitored and enforced by the lead agency for the life of each applicable obligation. The project applicant shall submit to the lead agency an annual status report on the implementation of those mitigation measures.
+
+(d) This section shall become operative upon the effective date of
+ this section or on the date the City Council of the City of San Diego certifies the Midway Rising Specific Plan Subsequent Final Environmental Impact Report (SCH No. 2023120451), whichever occurs later.
+
+(History: Added by Stats. 2026, Ch. 786, Sec. 1.   (SB 344)   Effective September 29, 2026.   Conditionally operative on or after September 29, 2026, as prescribed by its own provisions.)
 -------------------------------------------
 
 21080.81.
@@ -59942,6 +60009,89 @@ If, before January 1, 2033, a lead agency fails to approve a project certified b
 This chapter shall remain in effect until January 1, 2034, and as of that date is repealed unless a later enacted statute extends or repeals that date.
 
 (History: Amended by Stats. 2023, Ch. 60, Sec. 5.   (SB 149)   Effective July 10, 2023.   Repealed as of January 1, 2034, by its own provisions.   Note: Repeal affects Chapter 6.5, commencing with Section 21178.)
+-------------------------------------------
+
+
+
+CHAPTER 6.8. Concord Community Reuse Project [21189.60. - 21189.63.]
+
+21189.60.
+
+For purposes of this chapter, the following definitions apply:
+
+(a) “Addendum” means the Final Environmental Impact Report Addendum and Initial Study of Environmental Significance for the Concord Reuse Project Area Plan approved by the city in January 2012.
+
+(b) “City” means the City of Concord.
+
+(c) “CNWS” means the Concord Naval Weapons Station.
+
+(d) “Concord Community Reuse Project” means the Concord Community Reuse Project, approved by the city on February 23, 2010, that established the planning process for civilian use of the former CNWS.
+
+(e) “CRP area plan” means the area plan for the Concord Community Reuse Project reviewed in the addendum and adopted and incorporated into the city’s 2030 general plan in 2012, that covers the inland portion of the former CNWS, the North Concord/Martinez Bay Area Rapid Transit Station, and the Diablo Creek Golf Course.
+
+(f) “CRP area plan diagram” means figure 3-3 of the CRP area plan.
+
+(g) “CRP area plan maximum planning area-wide total” means the total aggregate development in the plan area of approximately 12,272 housing units and 6,115,718 square feet of commercial floor space as set forth in the CRP area plan.
+
+(h) “CRP FEIR” means the Final Environmental Impact Report for the Concord Community Reuse Project Plan (SCH No. 2007052094) certified by the
+ city in February 2010.
+
+(i) “Land use types” means the land uses listed in CRP area plan Table 3-4, District Standards, in the rows titled “Mix of Uses”, without regard to the labels “Required Use” and “Mix of Appropriate Uses.”
+
+(j) “Plan area” means the approximately 5,000-acre inland portion of the CNWS included within the boundaries of the CRP area plan.
+
+(History: Added by Stats. 2026, Ch. 785, Sec. 2.   (SB 328)   Effective September 29, 2026.)
+-------------------------------------------
+
+21189.61.
+
+(a) The CRP FEIR and addendum shall be conclusively presumed to satisfy the requirements of this division for any project within the plan area that meets the following requirements:
+
+(1) The project has land use types that are consistent with CRP area plan land use types and locations for those land use types that are consistent with the CRP area plan land use diagram.
+
+(2) The project does not cause the aggregate development in the plan area to exceed the CRP area plan maximum planning area-wide total.
+
+(b) A project that contains land use types that are consistent with the CRP area plan land use types in locations
+ that are not consistent with the CRP area plan diagram shall be subject to review pursuant to this division, provided that: 
+
+(1) The conclusive presumption of subdivision (a) shall continue to apply to components of the project and environmental impacts that are unaffected by the changed location of land use types.
+
+(2) Any review shall be limited to review of the location of land use types that are not consistent with the CRP area plan diagram.
+
+(3) If review is undertaken pursuant to Section 21166, notwithstanding subdivisions (b) and (c) of Section 21166, any required review shall not be required to include analysis of changed circumstances or new information.
+
+(History: Added by Stats. 2026, Ch. 785, Sec. 2.   (SB 328)   Effective September 29, 2026.)
+-------------------------------------------
+
+21189.62.
+
+(a) In any action or proceeding challenging the application of subdivision (a) or (b) of Section 21189.61 to any project within the plan area or any required environmental review for any project within the plan area, the following shall apply:
+
+(1) The project applicant shall pay any additional costs incurred by the courts in hearing and deciding any case subject to this section, including payment of the costs for the appointment of a special master if deemed appropriate by the court, in a form and manner provided in the California Rules of Court adopted by the Judicial Council.
+
+(2) The project applicant shall pay the costs of preparing the record of proceedings for the project
+ concurrent with the review and consideration of the project pursuant to this division, in a form and manner specified by the lead agency for the project.
+
+(3) Within five calendar days after the filing of the notice required by subdivision (a) or (b) of Section 21152, the lead agency shall certify the record of proceedings for the approval or determination and shall provide an electronic copy of the record of proceedings to a party that has submitted a written request for a copy. The lead agency may charge and collect a reasonable fee for the electronic copy from a party requesting a copy of the record of proceedings, which shall not exceed the reasonable costs of producing the copy.
+
+(4) Within 10 calendar days after being served with a complaint or a petition for a writ of mandate, the lead agency shall lodge a copy of the certified record of proceedings with the superior
+ court.
+
+(5) Any dispute over the content of the record of proceedings shall be resolved by the superior court. Unless the superior court directs otherwise, a party disputing the content of the record of proceedings shall file a motion to augment the record of proceedings at the time it files its initial brief.
+
+(6) The contents of the record of proceedings shall be as set forth in subdivision (e) of Section 21167.6.
+
+(b) On or before July 1, 2027, the Judicial Council shall adopt rules of court that require any action or proceeding brought to attack, review, set aside, void, or annul the approval of any project within the plan area or any environmental impact review for any project within the plan area pursuant to subdivision (a) or (b) of Section 21189.61, including any potential appeals to the court of appeal or the
+ California Supreme Court to be resolved to the extent feasible within 270 calendar days of the filing of the certified record of proceedings with the court.
+
+(History: Added by Stats. 2026, Ch. 785, Sec. 2.   (SB 328)   Effective September 29, 2026.)
+-------------------------------------------
+
+21189.63.
+
+The provisions of this chapter are severable. If any provision of this chapter or its application is held invalid, that invalidity shall not affect other provisions or applications that can be given effect without the invalid provision or application.
+
+(History: Added by Stats. 2026, Ch. 785, Sec. 2.   (SB 328)   Effective September 29, 2026.)
 -------------------------------------------
 
 
