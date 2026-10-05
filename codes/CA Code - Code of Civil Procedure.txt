@@ -5,7 +5,7 @@
 
 Source: Official California Legislative Information
         https://downloads.leginfo.legislature.ca.gov/
-Last Updated by State of California: July 10, 2026
+Last Updated by State of California: October 03, 2026
 
 
 ======================================================================
@@ -16052,8 +16052,7 @@ Pending the hearing of a motion pursuant to Section 663.1 to grant a new trial, 
 
 (a) If parties to pending litigation stipulate, in a writing signed by the parties outside of the presence of the court or orally before the court, for settlement of the case, or part thereof, the court, upon motion, may enter judgment pursuant to the terms of the settlement. If the parties to the settlement agreement or their counsel stipulate in writing or orally before the court, the court may dismiss the case as to the settling parties without prejudice and retain jurisdiction over the parties to enforce the settlement until performance in full of the terms of the settlement.
 
-(b) For purposes of this section, a writing is signed by a party if it is signed by any
- of the following:
+(b) For purposes of this section, a writing is signed by a party if it is signed by any of the following:
 
 (1) The party.
 
@@ -16063,19 +16062,19 @@ Pending the hearing of a motion pursuant to Section 663.1 to grant a new trial, 
 
 (c) Paragraphs (2) and (3) of subdivision (b) do not apply in a civil harassment action, an action brought pursuant to the Family Code, an action brought pursuant to the Probate Code, or a matter that is being adjudicated in a juvenile court or a dependency court.
 
-(d) In addition to any available civil remedies, an attorney who signs a writing on behalf of a party pursuant to subdivision (b) without the party’s express authorization shall, absent good cause, be subject to professional discipline.
+(d) In addition to any available civil remedies, an attorney who signs a writing on behalf of a party pursuant to subdivision (b)
+ without the party’s express authorization shall, absent good cause, be subject to professional discipline.
 
 (e) (1) If a plaintiff, cross-complainant, or other party seeking affirmative relief has filed a notice of conditional settlement, the court may, upon its own motion, without stipulation from the parties or their counsel, set an order to show cause as to why the court should not dismiss the entire action without prejudice and retain jurisdiction to enforce the settlement.
 
-(2) This subdivision does not apply to actions brought pursuant to Chapter 5 of Title 3 of Part 2 of
- the Code of Civil Procedure (commencing with Section 378) and Part 13 of Division 2 of the Labor Code (commencing with Section 2698).
+(2) This subdivision does not apply to actions brought pursuant to Chapter 5 of Title 3 of Part 2 of the Code of Civil Procedure (commencing with Section 378) and Part 13 of Division 2 of the Labor Code (commencing with Section 2698).
 
-(f) If the Court enters judgment or dismisses the case without prejudice pursuant to this section, the following shall apply:
+(f) If the Court enters judgment or dismisses the case without prejudice pursuant to this section, the following apply:
 
 (1) A party may file a motion or other document pertaining to the settlement, including an application for determination of good faith settlement, a motion for the reduction or determination of a lien, a petition related to the compromise of the claim of a minor or person with a disability, or, if the terms of a settlement are not performed, a motion based upon such terms. Responsive filings and related documents may also be filed.
 
-(2) The court shall exercise
- its retained jurisdiction if a party files a notice that a written settlement agreement required of all parties was not signed by all parties.
+(2) The court shall exercise its retained jurisdiction if a party files a notice that a written settlement agreement required of all parties was
+ not signed by all parties.
 
 (3) A party who has paid a first appearance fee shall not be assessed a first appearance fee again for filing a motion, notice or other document pertaining to the settlement after entry of judgment or dismissal without prejudice.
 
@@ -16083,11 +16082,23 @@ Pending the hearing of a motion pursuant to Section 663.1 to grant a new trial, 
 
 (g) Nothing in this section shall preclude a party from filing a request for dismissal with prejudice after the court has dismissed the case without prejudice pursuant to this section.
 
-(h) On or before January 1, 2025, the Judicial Council shall update or develop new forms or Rules of Court as necessary to implement this section.
+(h) (1) This subdivision applies to a settlement
+ agreement resolving a tort claim against a local public entity if both of the following conditions are satisfied:
 
-(i) This section shall become operative on January 1, 2025.
+(A) A civil action arising from the tort claim has not yet been filed or has been voluntarily withdrawn by the plaintiff.
 
-(History: Repealed (in Sec. 12) and added by Stats. 2023, Ch. 478, Sec. 13.   (AB 1756)   Effective January 1, 2024.   Operative January 1, 2025, by its own provisions.)
+(B) The claim is eligible for payment from a victims’ compensation fund or other victim-related financial assistance program established by the local public entity.
+
+(2) A settlement agreement described in paragraph (1) may be enforced in a subsequent action under this section if both of the following conditions are satisfied:
+
+(A) The agreement is in a writing signed by the claimant and the local public entity or its authorized
+ representatives.
+
+(B) The agreement expressly states that it is enforceable pursuant to this section.
+
+(3) For purposes of this subdivision, “local public entity” has the same meaning as provided in Section 970 of the Government Code.
+
+(History: Amended by Stats. 2026, Ch. 907, Sec. 1.   (AB 1908)   Effective September 30, 2026.)
 -------------------------------------------
 
 664.7.
