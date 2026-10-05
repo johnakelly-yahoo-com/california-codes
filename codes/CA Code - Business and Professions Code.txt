@@ -5,7 +5,7 @@
 
 Source: Official California Legislative Information
         https://downloads.leginfo.legislature.ca.gov/
-Last Updated by State of California: September 26, 2026
+Last Updated by State of California: October 03, 2026
 
 
 ======================================================================
@@ -114006,69 +114006,89 @@ The customer list, including the names, addresses, and identity of customers, of
 
 (6) “Misconduct” has the same meaning as in Section 1256 of the Unemployment Insurance Code.
 
-(7) “Penalty, fee, or cost” includes, but is not limited to, a
- replacement hire fee, retraining fee, replacement fee, quit fee, reimbursement for immigration or visa-related costs, liquidated damages, lost goodwill, and lost profit.
+(7) “Penalty, fee, or cost” includes, but is not limited to, a replacement hire fee, retraining fee, replacement fee, quit fee, reimbursement for immigration or visa-related costs, liquidated damages, lost goodwill, and lost profit.
 
 (8) “Person” means a natural person or an entity, including, but not limited to, a corporation, partnership, association, trust, limited liability company, cooperative, or other organization.
 
-(9) “Training provider” means an entity, whether or not affiliated with an employer, that provides an education program, as defined in Section 94837 of the Education Code, a job training program, or a skills training program.
+(9) “Training provider” means an entity, whether or not affiliated with an employer, that provides an educational program, as defined in Section 94837 of the Education Code, a job training program, or a skills training program.
 
-(10) “Transferable credential” means a degree that is offered by a third-party institution that is accredited and authorized to operate
- in the state, is not required for a worker’s current employment, and is transferable and useful for employment beyond the worker’s current employer. 
+(10) “Transferable credential” means a degree that is offered by a third-party institution that is accredited and authorized to operate in the state, is not required for a worker’s current employment, and is transferable and useful for employment beyond the worker’s current employer.
 
 (11) “Worker” means a natural person who is permitted to work for or on behalf of an employer or business entity, or who is permitted to participate in any other work relationship, job training program, or skills training program. “Worker” includes, but is not limited to, an employee or prospective employee.
 
-(b) (1) Except as provided in paragraph (2), for contracts entered into on or after January 1, 2026, it shall be unlawful to include in any employment contract, or to require a worker to execute as a condition of employment or a work relationship a contract that includes, a contract term that does any of the following:
+(b) (1) Except as provided in paragraph (2), for contracts entered into on or after January 1, 2027, it shall be unlawful to include in any employment contract, or to require a worker to execute as a condition of employment or a work relationship a contract that includes, a contract term that does any of the following:
 
 (A) Requires the worker to pay an employer, training provider, or debt collector for a debt if the worker’s employment or work relationship with a specific employer terminates.
 
 (B) Authorizes the employer, training provider, or debt collector to resume or initiate collection of or end forbearance on a debt if the worker’s employment or work relationship with a specific employer terminates.
 
-(C) Imposes any penalty, fee, or cost on a worker if the worker’s employment or work relationship with a specific employer
- terminates.
+(C) Imposes any penalty, fee, or cost on a worker if the worker’s employment or work relationship with a specific employer terminates.
 
 (2) This section does not apply to any of the following:
 
-(A) A contract entered into under any loan repayment assistance program or loan forgiveness program provided by a federal, state, or local governmental agency.
+(A) (i) A contract entered into under any loan repayment assistance program or loan forgiveness program provided by a federal, state, or local governmental agency.
 
-(B) A contract related to the repayment of the cost of tuition for a transferable credential that meets all of the following
- requirements:
+(ii) A contract entered into pursuant to a recruitment and retention program funded by a federal, state, or local government agency grant that offers recruitment or retention bonuses, if the employee repayment obligations comply with the requirements of the grant and do not exceed the service obligations required by the grant.
+
+(B) A contract related to the repayment of the cost of tuition for a transferable credential that meets all of the following requirements:
 
 (i) The contract is offered separately from any contract for employment.
 
-(ii) The contract does not require obtaining the transferable credential as a condition of employment. 
+(ii) The contract does not require obtaining the transferable credential as a condition of employment.
 
 (iii) The contract specifies the repayment amount before the worker agrees to the contract, and the repayment amount does not exceed the cost to the employer of the transferable credential received by the worker.
 
-(iv) The contract provides for a prorated repayment amount during any required employment period that is proportional to the total repayment amount and the length of the required employment
- period and does not require an accelerated payment schedule if the worker separates from the employment.
+(iv) The contract provides for a prorated repayment amount during any required employment period that is proportional to the total repayment amount and the length of the required employment period and does not require an accelerated payment schedule if the worker separates from the employment.
 
 (v) The contract does not require repayment to the employer by the worker if the worker is terminated, except if the worker is terminated for misconduct.
 
 (C) A contract related to enrollment in an apprenticeship program approved by the Division of Apprenticeship Standards.
 
-(D) A contract for the receipt of a discretionary or unearned monetary payment, including a financial bonus, at the outset of employment that is not tied to specific job performance, provided that all of the following conditions are met:
+(D) A contract for the receipt of a discretionary or unearned monetary payment, including a financial bonus, that is not tied to specific job performance, provided that all of the following conditions are met:
 
-(i) The terms of any repayment
- obligation are set forth in a separate agreement from the primary employment contract.
+(i) The terms of any repayment obligation are set forth in a separate agreement from the primary employment contract.
 
-(ii) The employee is
- notified that they have the right to consult an attorney regarding the agreement and provided with a reasonable time period of not less than five business days to obtain advice of counsel prior to executing the agreement.
+(ii) The employee is notified that they have the right to consult an attorney regarding the agreement and provided with a reasonable time period of not less than five business days to obtain advice of counsel prior to executing the agreement.
 
 (iii) Any repayment obligation for early separation from employment is not subject to interest accrual and is prorated based on the remaining term of any retention period, which shall not exceed two years from the receipt of payment.
 
 (iv) The worker has an option to defer receipt of the payment to the end of a fully served retention period without any repayment obligation.
 
-(v) Separation from employment prior to the retention period was at the sole election of the employee, or at the election
- of the employer for misconduct.
+(v) Separation from employment prior to the retention period was at the sole election of the employee, or at the election of the employer for misconduct.
 
 (E) A contract related to the lease, financing, or purchase of residential property, including, but not limited to, a contract pursuant to the California Residential Mortgage Lending Act (Division 20 (commencing with Section 50000) of the Financial Code).
 
-(c) A contract that is unlawful under subdivision (b) is a contract restraining a person from engaging in a lawful profession, trade, or business, and is void under Section 16600 only if the contract was entered into on or after January 1, 2026.
+(F) A contract for the receipt of a discretionary or unearned monetary payment from the employer that is an inducement for the worker to be affiliated with the employer or agreeing to maintain a relationship with the employer, provided that all of the following conditions are met:
 
-(d) The rights, remedies, and penalties established by this section are cumulative and shall not be construed to supersede or limit the rights, remedies, or penalties established under other laws,
- or to limit the ability of any other person or entity to pursue enforcement of rights, remedies, or penalties established under other laws,
- including, but not limited to:
+(i) The terms of any repayment obligation are set forth in a separate agreement from the primary employment contract.
+
+(ii) The payment from the employer to the worker is in addition to compensation that would otherwise be payable to the worker in connection with their employment.
+
+(iii) The worker is notified that they have the right to consult an attorney regarding the agreement and be provided with a reasonable time period of not less than five business days to obtain advice of counsel prior to executing the agreement.
+
+(iv) If an outstanding repayment obligation continues following separation from employment and interest accrues on the obligation after separation, the applicable interest rate shall not exceed the applicable federal rate published by the Internal Revenue Service for federal income tax purposes.
+
+(v) The contract is between a securities broker-dealer, insurance producer, or investment adviser, including their affiliates, and its agents or representatives that are any of the following:
+
+(I) Registered with the United States Securities and Exchange Commission or the Financial Industry Regulatory Authority.
+
+(II) Licensed by the State of California under Chapter 2 (commencing with Section 25210) or Chapter 3 (commencing with Section 25230) of Part 3 of Division 1 of Title 4 of the Corporations Code.
+
+(III) Licensed by the State of California under Section 1626 of the Insurance Code. 
+
+(G) A repayment obligation arising from voluntary separation of employment related to an advanced payment made by the employer for paid time off in excess of a worker’s accrued paid time off, provided that all of the following conditions are met:
+
+(i) The terms of any repayment obligation are clearly disclosed to the worker separate from the primary employment contract upon the worker’s request to receive advanced payment for paid time off in excess of a worker’s accrued paid time off.
+
+(ii) The repayment obligation does not exceed 40 hours accrued paid time off.
+
+(iii) The repayment obligation is not subject to interest accrual.
+
+(c) (1) A contract that is unlawful under subdivision (b) is a contract restraining a person from engaging in a lawful profession, trade, or business, and is void under Section 16600 only if the contract was entered into on or after January 1, 2027.
+
+(2) The provisions of this section, as they existed on January 1, 2026, shall be inoperative from January 1, 2026, to December 31, 2026, inclusive.
+
+(d) The rights, remedies, and penalties established by this section are cumulative and shall not be construed to supersede or limit the rights, remedies, or penalties established under other laws, or to limit the ability of any other person or entity to pursue enforcement of rights, remedies, or penalties established under other laws, including, but not limited to:
 
 (1) Obligations of employers under Section 2802 of the Labor Code.
 
@@ -114076,7 +114096,7 @@ The customer list, including the names, addresses, and identity of customers, of
 
 (3) The Unfair Competition Law (Chapter 5 (commencing with Section 17200)).
 
-(History: Added by Stats. 2025, Ch. 703, Sec. 1.   (AB 692)   Effective January 1, 2026.)
+(History: Amended by Stats. 2026, Ch. 889, Sec. 2.   (AB 1697)   Effective September 30, 2026.)
 -------------------------------------------
 
 
@@ -141269,7 +141289,7 @@ CHAPTER 25. AI Transparency Act [22757. - 22757.6.]
 
 This chapter shall be known as the California AI Transparency Act.
 
-(History: Added by Stats. 2024, Ch. 291, Sec. 1.   (SB 942)   Effective January 1, 2025.   Operative August 2, 2026, pursuant to Section 22757.6.)
+(History: Added by Stats. 2024, Ch. 291, Sec. 1.   (SB 942)   Effective January 1, 2025.)
 -------------------------------------------
 
 22757.1.
@@ -141278,24 +141298,26 @@ As used in this chapter:
 
 (a) “Artificial intelligence” or “AI” means an engineered or machine-based system that varies in its level of autonomy and that can, for explicit or implicit objectives, infer from the input it receives how to generate outputs that can influence physical or virtual environments.
 
-(b) “Capture device” means a device that can record photographs, audio, or video content, including, but not limited to, video and still photography cameras, mobile phones with built-in cameras or microphones, and voice recorders.
+(b) “Assistive technology” means an item, piece of equipment, or product system, whether acquired commercially, modified, or customized, that is used to increase, maintain, or improve functional capabilities of individuals with disabilities and any service that directly assists an individual with a disability in the selection, acquisition,
+ or use of the item, equipment, or product system.
 
-(c) (1) “Capture device manufacturer” means a person who produces
- a capture device for sale in the state.
+(c) “Capture device” means a device that can record photographs, audio, or video content, including, but not limited to, video and still photography cameras, mobile phones with built-in cameras or microphones, and voice recorders.
+
+(d) (1) “Capture device manufacturer” means a person who produces a capture device for sale in the state.
 
 (2) “Capture device manufacturer” does not include a person exclusively engaged in the assembly of a capture device.
 
-(d) “Covered provider” means a person that creates, codes, or otherwise produces a generative artificial intelligence system that has over 1,000,000 monthly visitors or users and is publicly accessible within the geographic boundaries of the state.
+(e) “Covered provider” means a person that creates, codes, or otherwise produces a generative artificial intelligence system that is publicly
+ accessible within the geographic boundaries of the state.
 
-(e) “Digital signature” means a cryptography-based method that identifies the user or entity that attests to the information provided in the signed section.
+(f) “Digital signature” means a cryptography-based method that identifies the user or entity that attests to the information provided in the signed section.
 
-(f) “Generative
- artificial intelligence system” or “GenAI system” means an artificial intelligence that can generate derived synthetic content, including text, images, video, and audio, that emulates the structure and characteristics of the system’s training data.
+(g) “Generative artificial intelligence system” or “GenAI system” means an artificial intelligence that can generate derived synthetic content, including text, images, video, and audio, that emulates the structure and characteristics of the system’s training data.
 
-(g) “GenAI hosting platform” means an internet website or application that makes available for download the source code or model weights a generative artificial intelligence system by a resident of the state, regardless of whether the terms of that use include compensation.
+(h) “GenAI hosting platform” means an internet website or application that makes available for download the source code or model weights a generative artificial intelligence system by a resident of the state, regardless of whether the terms of
+ that use include compensation.
 
-(h) (1) “Large online platform” means a public-facing social media platform, file-sharing platform, mass messaging platform,
- or stand-alone search engine that distributes content to users who did not create or collaborate in creating the content that exceeded 2,000,000 unique monthly users during the preceding 12 months.
+(i) (1) “Large online platform” means a public-facing social media platform, file-sharing platform, mass messaging platform, or stand-alone search engine that distributes content to users who did not create or collaborate in creating the content that exceeded 2,000,000 unique monthly users during the preceding 12 months.
 
 (2) “Large online platform” does not include either of the following:
 
@@ -141303,113 +141325,142 @@ As used in this chapter:
 
 (B) A telecommunications service, as defined in Section 153 of Title 47 of the United States Code.
 
-(i) “Latent” means present but not manifest.
+(j) “Mass messaging platform” means a direct messaging platform that allows users to distribute content to more than 100 users simultaneously.
 
-(j) “Manifest” means easily perceived, understood, or recognized by a natural person.
+(k) “Metadata” means structural or descriptive information about data.
 
-(k) “Mass messaging platform” means a direct messaging platform that allows users to distribute content to more than 100 users simultaneously.
+(l) “Minor modification” means any of the following alterations:
 
-(l) “Metadata” means structural or descriptive information about data.
+(1) A change to brightness, contrast, or color.
+
+(2) Sharpening.
+
+(3) Saturating.
+
+(4) File resizing.
+
+(5) Scaling.
+
+(6) Cropping.
+
+(7) File format conversions.
+
+(8) Denoising and removal of background noise in audio.
 
 (m) “Personal information” has the same meaning as defined in Section 1798.140 of the Civil Code.
 
-(n) (1) “Personal provenance data” means provenance data that contains either
- of the following:
+(n) “Provenance data” means information about the origin of a piece of digital content and the history of modifications to the content that is in a format that is compliant, or interoperable with, widely adopted specifications adopted by an established standards-setting body.
 
-(A) Personal information.
-
-(B) Unique device, system, or service information that is reasonably capable of being associated with a particular user.
-
- (2) “Personal provenance data” does not include information contained within a digital signature.
-
-(o) “Provenance data” means data that is embedded into digital content, or that is included in the digital content’s metadata, for the
- purpose of verifying the digital content’s authenticity, origin, or history of modification.
-
-(p) “System provenance data” means provenance data that is not reasonably capable of being associated with a particular user and that contains either of the following:
+(o) “System provenance data” means provenance data that is not
+ reasonably capable of being associated with a particular user and that contains either of the following:
 
 (1) Information regarding the type of device, system, or service that was used to generate a piece of digital content.
 
 (2) Information related to content authenticity.
 
-(History: Amended by Stats. 2025, Ch. 674, Sec. 1.   (AB 853)   Effective January 1, 2026.   Operative August 2, 2026, pursuant to Section 22757.6.)
+(History: Amended by Stats. 2026, Ch. 861, Sec. 2.   (SB 1000)   Effective September 30, 2026.)
 -------------------------------------------
 
 22757.2.
 
-(a) A covered provider shall make available an AI detection tool at no cost to the user that meets all of the following criteria:
+(a) A covered provider shall make available a disclosure verification tool at no cost to the user that meets all of the following criteria:
 
-(1) The tool allows a user to assess whether image, video, or audio content, or content that is any combination thereof, was created or altered by the covered provider’s GenAI system.
+(1) The tool allows a user to assess whether image, video, or audio content, or content that is any combination thereof, was created or altered, except by minor modification, by the covered provider’s GenAI system.
 
 (2) The tool outputs any system provenance data that is detected in the content.
 
-(3) The tool does not output any personal provenance data that is
+(3) (A) Except as provided in subparagraph (B), the tool does not output any personal information that is
  detected in the content.
+
+(B) The tool may output personal information that is detected in the content if the user to whom the personal information pertains expressly consents, clearly and conspicuously in plain language, to including personal information specified by the user in the content pursuant to a notice that does both of the following:
+
+(i) Informs the user of the personal information that may be output by the tool.
+
+(ii) Informs the user that once personal information is embedded into provenance data and exported, the information becomes part of the file’s permanent digital footprint and cannot be retracted from copies already in circulation.
 
 (4) (A) Subject to subparagraph (B), the tool is publicly accessible.
 
-(B) A covered provider may impose reasonable limitations on access to the tool to prevent, or respond to, demonstrable risks to the security or integrity of its GenAI system.
+(B) A covered provider may impose reasonable limitations on access to the tool to prevent, or respond to, demonstrable risks to the security or integrity of its GenAI system or to prevent misuse of the tool for malicious purposes.
 
 (5) The tool allows a user to upload content or provide a uniform resource locator (URL) linking to online content.
 
-(6) The tool
- supports an application programming interface that allows a user to invoke the tool without visiting the covered provider’s internet website.
+(6) The tool supports technology, including an application programming interface, that allows a user to invoke the tool without visiting the covered provider’s internet website.
 
-(b) A covered provider shall collect user feedback related to the efficacy of the covered provider’s AI detection tool and incorporate relevant feedback into any attempt to improve the efficacy of the tool.
+(b) A covered provider shall collect user
+ feedback related to the efficacy of the covered provider’s AI disclosure verification tool and incorporate relevant feedback into any attempt to improve the efficacy of the tool.
 
-(c) A covered provider shall not do any of the following:
+(c) (1) Except as provided in paragraph (2), a covered provider shall not collect, use, retain, sell, share, or otherwise make available personal information derived either from a user of the covered provider’s AI disclosure verification tool or from any content processed by the disclosure verification tool beyond what is
+ strictly necessary to comply with this chapter.
 
-(1) (A) Except as provided in subparagraph (B), collect or retain personal information from users of the covered provider’s AI detection tool.
+(2) A covered provider may collect, retain, or use personal information for the sole purpose of communicating with a user that opts into being contacted by the covered provider.
 
-(B) (i) A covered provider may collect and retain the contact information
- of a user who submits feedback pursuant to subdivision (b) if the user opts in to being contacted by the covered provider.
+(d) A covered provider shall not make access to the covered provider’s GenAI system or disclosure verification tool contingent upon a user providing personal information beyond what is strictly necessary
+ to comply with this chapter.
 
-(ii) User information collected pursuant to clause (i) shall be used only to evaluate and improve the efficacy of the covered provider’s AI detection tool.
+(e) A covered provider may satisfy the requirements of this section by directing a user to a third-party disclosure verification tool that is all of the following:
 
-(2) Retain any content submitted to the AI detection tool for longer than is necessary to comply with this section.
+(1) In compliance with this section.
 
-(3) Retain any personal provenance data from content submitted to the AI detection tool by a user.
+(2) Compatible with latent disclosures included in content produced or altered by the covered provider’s GenAI system.
 
-(History: Added by Stats. 2024, Ch. 291, Sec. 1.   (SB 942)   Effective January 1, 2025.   Operative August 2, 2026, pursuant to Section 22757.6.)
+(3) Clearly and conspicuously accessible through the user interface of the covered provider’s GenAI system.
+
+(History: Amended by Stats. 2026, Ch. 861, Sec. 3.   (SB 1000)   Effective September 30, 2026.)
 -------------------------------------------
 
 22757.3.
 
-(a) A covered provider shall offer the user the option to include a manifest disclosure in image, video, or audio content, or content that is any combination thereof, created or altered by the covered provider’s GenAI system that meets all of the following criteria:
+(a) To the extent it is technically feasible, a covered provider shall include a latent disclosure that meets all of the following criteria in any image, video, or audio content, or content that is any combination thereof, created or
+ altered, except by minor modification, by the covered provider’s GenAI system:
 
-(1) The disclosure identifies content as AI-generated content.
-
-(2) The disclosure is clear, conspicuous, appropriate for the medium of the content, and understandable to a reasonable person.
-
-(3) The disclosure is permanent or extraordinarily difficult to remove, to the extent it is
- technically feasible.
-
-(b) A covered provider shall include a latent disclosure in AI-generated image, video, or audio content, or content that is any combination thereof, created by the covered provider’s GenAI system that meets all of the following criteria:
-
-(1) To the extent that it is technically feasible and reasonable, the disclosure conveys all of the following information, either directly or through a link to a permanent internet website:
+(1) The disclosure conveys all of the following information, either directly or through a link to a permanent internet website:
 
 (A) The name of the covered provider.
 
-(B) The name and version number of the GenAI system that created or altered the content.
+(B) The name and version information of the GenAI system that created or altered the content.
 
 (C) The time and date of the content’s creation or alteration.
 
 (D) A unique identifier.
 
-(2) The disclosure is detectable by the covered provider’s AI detection tool.
+(E) Whether the GenAI system created or altered the content.
 
-(3) The disclosure is consistent with widely accepted industry standards.
+(F) On and after January 1, 2029, whether the GenAI system is designed to primarily function as assistive technology.
 
-(4) The disclosure is permanent or extraordinarily difficult to remove, to the extent it is technically feasible.
+(2) The disclosure is permanent or extraordinarily difficult to remove or tamper with.
 
-(c) (1) If a covered provider licenses its GenAI system to a third
- party, the covered provider shall require by contract that the licensee maintain the system’s capability to include a disclosure required by subdivision (b) in content the system creates or alters.
+(3) The disclosure is compatible with the covered provider’s disclosure verification tool.
 
-(2) If a covered provider knows that a third-party licensee modified a licensed GenAI system such that it is no longer capable of including a disclosure required by subdivision (b) in content the system creates or alters, the covered provider shall revoke the license within 96 hours of discovering the licensee’s action.
+(4) The disclosure is compliant or interoperable with widely
+ recognized industry standards.
 
-(3) A third-party licensee shall cease using a licensed GenAI system after the license for the system has
- been revoked by the covered provider pursuant to paragraph (2).
+(b) (1) If a covered provider licenses its GenAI system to a third party, the covered provider shall, when it provides the license, notify the licensee of the licensee’s obligations under this chapter.
 
-(History: Added by Stats. 2024, Ch. 291, Sec. 1.   (SB 942)   Effective January 1, 2025.   Operative August 2, 2026, pursuant to Section 22757.6.)
+(2) If a covered provider knows that an identifiable third-party licensee modified a licensed GenAI system such that it no longer
+ complies with this chapter,
+ the covered provider shall do either of the following:
+
+(A) Terminate the licensee’s authorization to use the GenAI system within 72 hours of discovering the licensee’s action.
+
+(B) Notify the licensee of both of the following within 72 hours of discovering the licensee’s action:
+
+(i) The licensee’s noncompliance.
+
+(ii) The requirement to report noncompliance with paragraph (3) to the Attorney General pursuant to paragraph (4).
+
+(3) A third-party licensee that receives a notice under paragraph (2) shall modify the licensed GenAI system to be in compliance with this chapter or cease using or making available the licensed GenAI system, including a copy or
+ modified version of the GenAI
+ system and shall report which of those actions it took to the covered provider within 96 hours of receipt of the notice.
+
+(4) If a covered provider does not receive a report pursuant to paragraph (3) or if a covered provider receives a report from a third-party licensee indicating that the third-party licensee did not, pursuant to paragraph (3), modify or cease using or making available the licensed GenAI system, the covered provider shall report the third-party licensee’s noncompliance with paragraph (3) to the Attorney General.
+
+(5) This subdivision does not require a covered provider to monitor, investigate, or otherwise inquire into a third-party licensee’s use or modification of a licensed GenAI system.
+
+(c) The Attorney General shall establish a mechanism to receive reports from covered providers submitted to the Attorney General pursuant to this section.
+
+(d) A covered provider shall not falsely represent that a GenAI system is designed to primarily function as assistive technology.
+
+(History: Amended by Stats. 2026, Ch. 861, Sec. 4.   (SB 1000)   Effective September 30, 2026.)
 -------------------------------------------
 
 22757.3.1.
@@ -141442,7 +141493,7 @@ As used in this chapter:
 
 (c) This section shall become operative on January 1, 2027.
 
-(History: Added by Stats. 2025, Ch. 674, Sec. 2.   (AB 853)   Effective January 1, 2026.   Operative August 2, 2026, pursuant to Section 22757.6.)
+(History: Added by Stats. 2025, Ch. 674, Sec. 2.   (AB 853)   Effective January 1, 2026.   Operative January 1, 2027, by its own provisions.)
 -------------------------------------------
 
 22757.3.2.
@@ -141451,7 +141502,7 @@ As used in this chapter:
 
 (b) This section shall become operative on January 1, 2027.
 
-(History: Added by Stats. 2025, Ch. 674, Sec. 3.   (AB 853)   Effective January 1, 2026.   Operative August 2, 2026, pursuant to Section 22757.6.)
+(History: Added by Stats. 2025, Ch. 674, Sec. 3.   (AB 853)   Effective January 1, 2026.   Operative January 1, 2027, by its own provisions.)
 -------------------------------------------
 
 22757.3.3.
@@ -141473,7 +141524,7 @@ As used in this chapter:
 
 (c) This section shall become operative on January 1, 2028.
 
-(History: Added by Stats. 2025, Ch. 674, Sec. 4.   (AB 853)   Effective January 1, 2026.   Operative August 2, 2026, pursuant to Section 22757.6.)
+(History: Added by Stats. 2025, Ch. 674, Sec. 4.   (AB 853)   Effective January 1, 2026.   Operative January 1, 2028, by its own provisions.)
 -------------------------------------------
 
 22757.4.
@@ -141484,20 +141535,34 @@ As used in this chapter:
 
 (b) Each day that a covered provider, large online platform, or capture device manufacturer is in violation of this chapter shall be deemed a discrete violation.
 
-(c) For a violation by a third-party licensee of paragraph (3) of subdivision (c) of Section 22757.3, the Attorney General, a county counsel, or a city attorney may bring a civil action for both of the following:
+(c) A civil action brought under this section before the effective date of the act adding this subdivision shall not be maintained if the alleged conduct does not violate this chapter on and after the effective date of the act adding this subdivision.
 
-(1) Injunctive relief.
+(d) This section does not apply with respect to a violation of subdivision (d) of Section 22757.3.
 
-(2) Reasonable attorney’s fees and costs.
+(History: Amended by Stats. 2026, Ch. 861, Sec. 5.   (SB 1000)   Effective September 30, 2026.)
+-------------------------------------------
 
-(History: Amended by Stats. 2025, Ch. 674, Sec. 5.   (AB 853)   Effective January 1, 2026.   Operative August 2, 2026, pursuant to Section 22757.6.)
+22757.4.1.
+
+(a) (1) A violator of subdivision (d) of Section 22757.3 shall be liable for a civil penalty in the amount of fifty thousand dollars ($50,000) per violation to be collected in a civil action filed by the Attorney General, a city attorney, or a county counsel.
+
+(2) A prevailing plaintiff in an action brought pursuant to this subdivision shall be entitled to all reasonable attorney’s costs and fees.
+
+(b) Each day that a covered provider is in violation of this section shall be deemed a discrete violation.
+
+(c) This section shall remain in effect until January 1, 2029, and as of that date is
+ repealed.
+
+(History: Added by Stats. 2026, Ch. 861, Sec. 6.   (SB 1000)   Effective September 30, 2026.   Repealed as of January 1, 2029, by its own provisions.)
 -------------------------------------------
 
 22757.5.
 
-This chapter does not apply to any product, service, internet website, or application that provides exclusively non-user-generated video game, television, streaming, movie, or interactive experiences.
+(a) This chapter does not apply to any product, service, internet website, or application that provides exclusively non-user-generated videogames.
 
-(History: Added by Stats. 2024, Ch. 291, Sec. 1.   (SB 942)   Effective January 1, 2025.   Operative August 2, 2026, pursuant to Section 22757.6.)
+(b) Before January 1, 2029, this chapter does not apply to a GenAI system that is designed to primarily function as assistive technology.
+
+(History: Amended by Stats. 2026, Ch. 861, Sec. 7.   (SB 1000)   Effective September 30, 2026.)
 -------------------------------------------
 
 22757.6.
@@ -149467,30 +149532,29 @@ An on-sale general license, with respect to beer and wine, and any on-sale licen
 
 23401.5.
 
-(a) Notwithstanding any other law to the contrary, the holder of an on-sale license for a bona fide public eating place that has off-sale privileges, or a licensed beer manufacturer, licensed wine manufacturer, or licensed craft distiller that operates a bona fide public eating place at its premises of production,
- may exercise the following rights and privileges subject to the requirements of this section:
+(a) Notwithstanding any other law to the contrary, the holder of an on-sale license for a bona fide public eating place that has off-sale privileges, or a licensed beer manufacturer, licensed wine manufacturer, or licensed craft distiller that operates a bona fide public eating place at its premises of production, may exercise the following rights and privileges subject to the requirements of this section:
 
-(1) The licensee may sell the distilled spirits for off-sale consumption for which their license permits on-sale consumption provided the beverages are in
- manufacturer-prepackaged containers and ordered and picked up by the consumer in compliance with subdivision (b).
+(1) The licensee may sell the distilled spirits for off-sale consumption for which their license permits on-sale consumption provided the beverages are in manufacturer-prepackaged containers and ordered and picked up by the consumer in compliance with subdivision (b).
 
-(2) In addition to the privilege provided by paragraph (1), the licensee may sell the alcoholic beverages, except beer, for off-sale consumption for which their license permits on-sale consumption when the beverages are not in manufacturer prepackaged containers if the following conditions are met:
+(2) In addition to the privilege provided by paragraph (1), the licensee may sell the alcoholic beverages, except beer, for off-sale consumption for which their license permits on-sale consumption when the beverages are not in manufacturer-prepackaged containers if the following conditions are met:
 
 (A) The alcoholic beverages are packaged in a container with a secure lid or cap sealed in a manner designed to prevent consumption without removal of the lid or cap by breaking the seal.
 
-(B) Wine is sold only in single-serve containers.
- For purposes of this subparagraph, “single-serve containers” means containers that have a standard of fill between 187 milliliters and 355 milliliters that is authorized for wine under Section 4.72 of Title 27 of the Code of Federal Regulations.
+(B) Wine is sold only in single-serve containers. For purposes of this subparagraph, “single-serve containers” means containers that have a standard of fill between 187 milliliters and 355 milliliters that is authorized for wine
+ under Section 4.72 of Title 27 of the Code of Federal Regulations.
 
-(C) Mixed drinks and cocktails sold for off-sale consumption pursuant to the authorization granted by this section shall not exceed four and one-half ounces of distilled spirits. 
+(C) Mixed drinks and cocktails sold for off-sale consumption
+ pursuant to the authorization granted by this section shall not exceed four and one-half ounces of distilled spirits.
 
 (D) Alcoholic beverages sold pursuant to this paragraph shall be sold in conjunction with a bona fide meal, and shall be limited to two such drinks per bona fide meal. For purposes of this requirement, a “bona fide meal” shall conform to the guidance issued by the department on July 5, 2020, entitled “What is required to be considered a ‘meal’?,” available on the department’s internet website.
 
 (E) The container is clearly and conspicuously labeled or otherwise identified as containing an alcoholic beverage.
 
-(F) (i) The following warning sign is posted in a manner that notifies consumers of restrictions regarding open container laws:
+(F) (i) The following warning sign is posted in a manner that notifies
+ consumers of restrictions regarding open container laws:
 “Alcoholic beverages that are packaged by this establishment are open containers and shall not be transported in a motor vehicle except in the vehicle’s trunk or, if there is no trunk, the containers shall be kept in some other area of the vehicle that is not normally occupied by the driver or passengers. This does not include a utility compartment or glove compartment (See Vehicle Code Section 23225). Additionally, these beverages shall not be consumed in public or in any other area where open containers are prohibited by law.”
-(ii) For purposes of this subparagraph, “post” means to prominently
- display on the premises, post online, or present in whatever manner is necessary to ensure that the consumer
- purchasing the beverages to which this section applies is given notice of this warning.
+(ii) For purposes of this subparagraph, “post” means to prominently display on the premises, post online, or present in whatever manner is
+ necessary to ensure that the consumer purchasing the beverages to which this section applies is given notice of this warning.
 
 (G) The alcoholic beverages are ordered and picked up by the consumer in compliance with subdivision (b).
 
@@ -149498,14 +149562,14 @@ An on-sale general license, with respect to beer and wine, and any on-sale licen
 
 (b) An alcoholic beverage sold pursuant to subdivision (a) shall meet both of the following conditions:
 
-(1) The alcoholic beverage shall be ordered by the consumer online, over the telephone, or in person, for pickup by the consumer.
+(1) The alcoholic beverage shall be ordered by the consumer online, over the telephone, or in person, for pickup by
+ the consumer.
 
-(2) The consumer who places the order for an alcoholic beverage shall pick up the order directly from the licensee and shall present a bona fide identification card for purposes of confirming the age and identity of the consumer who placed the order. The alcoholic beverage shall not be ordered or picked up for delivery. 
+(2) The consumer who places the order for an alcoholic beverage shall pick up the order directly from the licensee and shall present a bona fide identification card for purposes of confirming the age and identity of the consumer who placed the order. The alcoholic beverage shall not be ordered or picked up for delivery.
 
-(c) Prior to exercising the privileges authorized in paragraph (2) of subdivision (a), the licensee shall notify the department in writing of its intent to do so. 
+(c) Prior to exercising the privileges authorized in paragraph (2) of subdivision (a), the licensee shall notify the department in writing of its intent to do so.
 
-(d) Notwithstanding any law to the contrary, the
- department may at any time impose conditions on a license restricting or prohibiting the licensee from selling or furnishing any alcoholic beverage pursuant to this Section.
+(d) Notwithstanding any law to the contrary, the department may at any time impose conditions on a license restricting or prohibiting the licensee from selling or furnishing any alcoholic beverage pursuant to this Section.
 
 (1) Any conditions imposed pursuant to this subdivision shall be based upon a showing of good cause. Good cause includes, but is not limited to, a written request, including the reason for the restriction or prohibition, from a local law enforcement agency or local governing body, or its designated subordinate officer or agency.
 
@@ -149513,16 +149577,16 @@ An on-sale general license, with respect to beer and wine, and any on-sale licen
 
 (A) A petition under this paragraph shall be subject to the same fee as provided in Section 23803.
 
-(B) If the department denies
- the licensee’s petition, the licensee may request a hearing, which shall be conducted in the same manner as provided in Section 23805.
+(B) If the department denies the licensee’s petition, the licensee may request a hearing, which shall be
+ conducted in the same manner as provided in Section 23805.
 
 (C) In any hearing pursuant to this paragraph, the licensee shall have the burden to establish that the condition is unreasonable or that no good cause exists for its imposition. The condition shall remain in effect during any appeal of its imposition.
 
 (e) Nothing in this section shall preclude privileges authorized pursuant to Sections 23401 and 23661.3.
 
-(f) This section shall be operative until December 31, 2026, and as of that date is repealed.
+(f) This section shall be operative until December 31, 2029, and as of that date is repealed.
 
-(History: Added by Stats. 2021, Ch. 657, Sec. 1.   (SB 389)   Effective January 1, 2022.   Repealed as of December 31, 2026.)
+(History: Amended by Stats. 2026, Ch. 829, Sec. 1.   (AB 2663)   Effective September 30, 2026.   Repealed as of December 31, 2029, by its own provisions.)
 -------------------------------------------
 
 23402.
