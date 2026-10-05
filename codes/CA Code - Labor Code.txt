@@ -5,7 +5,7 @@
 
 Source: Official California Legislative Information
         https://downloads.leginfo.legislature.ca.gov/
-Last Updated by State of California: September 26, 2026
+Last Updated by State of California: October 03, 2026
 
 
 ======================================================================
@@ -8591,16 +8591,18 @@ Negotiation of terms and conditions of labor should result from voluntary agreem
 
 926.
 
-(a) A contract or contract term that violates Section 16608 of the Business and Professions Code is void as contrary to public policy only if entered into on or after January 1, 2026.
+(a) A contract or contract term that violates Section 16608 of the Business and Professions Code is void as contrary to public policy only if entered into on or after January 1, 2027.
 
-(b) A worker who has been subjected to the conduct prohibited by subdivision (b) of Section 16608 of the Business and Professions Code or a worker representative may bring a civil action on behalf of that worker, other persons similarly situated, or both, in any court of competent jurisdiction. 
+(b) A worker who has been subjected to the conduct prohibited by subdivision (b) of Section 16608 of the Business and Professions Code or a worker representative may bring a civil action on behalf of that worker, other persons similarly situated, or both, in any court of competent jurisdiction.
 
-(c) Any person found liable for a violation of this section shall be liable for actual damages sustained by the worker or workers on
- whose behalf the case is brought, or five thousand dollars ($5,000) per worker, whichever is greater, in addition to injunctive relief, and reasonable attorney’s fees and costs.
+(c) Any person found liable for a violation of this section shall be liable for actual damages sustained by the worker or workers on whose behalf the case
+ is brought, or five thousand dollars ($5,000) per worker, whichever is greater, in addition to injunctive relief, and reasonable attorney’s fees and costs.
 
 (d) This section does not limit the remedies available to a worker or other natural person specified in Section 16608 of the Business and Professions Code.
 
-(History: Added by Stats. 2025, Ch. 703, Sec. 2.   (AB 692)   Effective January 1, 2026.)
+(e) The provisions of this section, as they existed on January 1, 2026, shall be inoperative from January 1, 2026, to December 31, 2026, inclusive.
+
+(History: Amended by Stats. 2026, Ch. 889, Sec. 3.   (AB 1697)   Effective September 30, 2026.)
 -------------------------------------------
 
 927.
