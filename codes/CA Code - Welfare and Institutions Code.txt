@@ -5,7 +5,7 @@
 
 Source: Official California Legislative Information
         https://downloads.leginfo.legislature.ca.gov/
-Last Updated by State of California: September 26, 2026
+Last Updated by State of California: October 01, 2026
 
 
 ======================================================================
@@ -60655,28 +60655,30 @@ As used in this part:
 
 (a) “Alternative payments” includes payments that are made by one childcare agency to another agency or childcare provider for the provision of childcare and development services, and payments that are made by an agency to a parent for the parent’s purchase of childcare and development services.
 
-(b) “Alternative payment program” means a local government agency or nonprofit organization that has contracted with the department pursuant to Section 10225.5, or a migrant alternative payment program pursuant to Chapter 6 (commencing with Section 10235), to provide alternative payments and to provide support services to parents and providers.
+(b) “Alternative payment program” means a local government agency or nonprofit organization that has contracted with the department pursuant to Section 10225.5, or a migrant alternative payment program pursuant to Chapter 6 (commencing with Section 10235), to provide alternative payments and to provide support services to
+ parents and providers.
 
 (c) “Applicant or contracting agency” means a school district, community college district, college or university, county superintendent of schools, county, city, public agency, private nontax-exempt agency, private tax-exempt agency, or other entity that is authorized to establish, maintain, or operate services pursuant to this chapter. Private agencies and parent cooperatives, duly licensed by law, shall receive the same consideration as any other authorized entity with no loss of parental decisionmaking prerogatives as consistent with the provisions of this chapter.
 
-(d) “Assigned reimbursement rate” is that rate established by the contract with the agency and is derived by dividing the total dollar amount of the contract by the minimum child day of average daily enrollment level of service required.
+(d) “Assigned reimbursement rate” is that rate established by the contract with the agency and is derived by dividing the total dollar amount of the contract by the minimum child day of average
+ daily enrollment level of service required.
 
 (e) “Attendance” means the number of children present at a
  childcare and development facility. “Attendance,” for purposes of reimbursement, includes excused absences by children because of illness, quarantine, illness or quarantine of their parent, family emergency, medical and educational appointments, or to spend time with a parent or other relative as required by a court of law or that is clearly in the best interest of the child. For purposes of reimbursement, a contractor may claim attendance for days that the contractor or provider is required to hold a space for a child during the period that a family is assumed to have abandoned care or is engaging in the appeal process based on disenrollment for abandoning care.
 
-(f) “Capital outlay” means the amount paid for the renovation and repair of childcare and development and preschool facilities to comply with state and local health and safety standards, and the amount paid for the state purchase of relocatable childcare and development and preschool
- facilities for lease to qualifying contracting agencies.
+(f) “Capital outlay” means the amount paid for the renovation and repair of childcare and development and preschool facilities to comply with state and local health and
+ safety standards, and the amount paid for the state purchase of relocatable childcare and development and preschool facilities for lease to qualifying contracting agencies.
 
 (g) “Caregiver” means a person who provides direct care, supervision, and guidance to children in a childcare and development facility.
 
 (h) “Childcare and development facility” means a residence or building or part thereof in which childcare and development services are provided.
 
-(i) “Childcare and development programs” means those programs that offer a full range of services for children from infancy to 13 years of age, for any part of a day, by a public or private agency, in centers and family childcare homes. These programs include, but are not limited to, all of the following:
+(i) “Childcare and development programs” means those programs that offer a full range of services for children from infancy to 13 years of age, for any part of a day, by a public or private agency, in centers and family childcare homes. These programs include,
+ but are not limited to, all of the following:
 
 (1) General childcare and development.
 
-(2) Migrant
- childcare and development.
+(2) Migrant childcare and development.
 
 (3) Childcare provided by the California School Age Families Education Program (Article 7.1 (commencing with Section 54740) of Chapter 9 of Part 29 of Division 4 of Title 2).
 
@@ -60690,58 +60692,62 @@ As used in this part:
 
 (8) Schoolage community childcare.
 
-(j) “Childcare and development services” means those services designed to meet a wide variety of needs of children and their families, while their parents or
- guardians are working, in training, seeking employment, incapacitated, or in need of respite. These services may include direct care and supervision, instructional activities, resource and referral programs, and alternative payment arrangements.
+(j) “Childcare and development services” means those services designed to meet a wide variety of needs of children and their families, while their parents or guardians are working, in training, seeking employment, incapacitated, or in need of respite. These services may include direct care and supervision, instructional activities, resource and referral programs, and alternative payment arrangements.
 
 (k) “Children at risk of abuse, neglect, or exploitation” means children who are so identified in a written referral from a legal, medical, or social service agency, or emergency shelter.
 
-(l) “Children with exceptional needs” means either of the following:
+(l) “Children with exceptional needs” means
+ either of the following:
 
 (1) Infants and toddlers under three years of age who have been determined to be eligible for early intervention services pursuant to the California Early Intervention Services Act (Title 14 (commencing with Section 95000) of the Government Code) and its implementing regulations. These children include an infant or
  toddler with a developmental delay or established risk condition, or who is at high risk of having a substantial developmental disability, as defined in subdivision (a) of Section 95014 of the Government Code. These children shall have active individualized family service plans, shall be receiving early intervention services, and shall be children who require the special attention of adults in a childcare setting.
 
-(2) Children 3 to 21 years of age, inclusive, who have been determined to be eligible for special education and related services by an individualized education program team according to the special education requirements contained in Part 30 (commencing with Section 56000) of Division 4 of Title 2 of the Education Code, and who meet eligibility criteria described in Section 56026 of the Education Code and, Article 2.5 (commencing with Section 56333) of Chapter 4 of Part 30 of Division 4 of Title 2 of the Education Code, and Sections
- 3030 and 3031 of Title 5 of the California Code of Regulations. These children shall have an active individualized education program, shall be receiving early intervention services or appropriate special education and related services, and shall be children who require the special attention of adults in a childcare setting. These children include children with intellectual disabilities, hearing impairments (including deafness), speech or language impairments, visual impairments (including blindness), serious emotional disturbance (also referred to as emotional disturbance), orthopedic impairments, autism, traumatic brain injury, other health impairments, or specific learning disabilities, who need special education and related services consistent with Section 1401(3)(A) of Title 20 of the United States Code.
+(2) Children 3 to 21 years of age, inclusive, who have been determined to be eligible for special education and related services by an individualized education program team according to the special education requirements contained in Part 30 (commencing with Section 56000) of Division 4 of Title 2 of the Education Code, and who meet eligibility criteria described in Section 56026 of the Education Code and, Article
+ 2.5 (commencing with Section 56333) of Chapter 4 of Part 30 of Division 4 of Title 2 of the Education Code, and Sections 3030 and 3031 of Title 5 of the California Code of Regulations. These children shall have an active individualized education program, shall be receiving early intervention services or appropriate special education and related services, and shall be children who require the special attention of adults in a childcare setting. These children include children with intellectual disabilities, hearing impairments (including deafness), speech or language impairments, visual impairments (including blindness), serious emotional disturbance (also referred to as emotional disturbance), orthopedic impairments, autism, traumatic brain injury, other health impairments, or specific learning disabilities, who need special education and related services consistent with Section 1401(3)(A) of Title
+ 20 of the United States Code.
 
-(m) “Closedown costs” means reimbursements for all approved activities associated with the closing of operations at the end of each
- growing season for migrant child development programs only.
+(m) “Closedown costs” means reimbursements for all approved activities associated with the closing of operations at the end of each growing season for migrant child development programs only.
 
-(n) “Cost” includes, but is not limited to, expenditures that are related to the operation of childcare and development programs. “Cost” may include a reasonable amount for state and local contributions to employee benefits, including approved retirement programs, agency administration, and any other reasonable program operational costs. “Cost” may also include amounts for licensable facilities in the community served by the program, including lease payments or depreciation, downpayments, and payments of principal and interest on loans incurred to acquire, rehabilitate, or construct licensable facilities, but these costs shall not exceed fair market rents existing in the community in which the facility is located. “Reasonable and necessary costs” are costs that, in nature and amount, do not exceed what an ordinary prudent person would incur in the conduct of a competitive business.
+(n) “Cost” includes, but is not limited to, expenditures that are related to the operation of childcare and development programs. “Cost” may include a reasonable amount for state and local contributions to employee benefits, including approved retirement programs, agency administration, and any other reasonable program operational costs. “Cost” may also include amounts for licensable facilities in the community served by the program, including lease payments or depreciation, downpayments, and payments of principal and interest on loans incurred to
+ acquire, rehabilitate, or construct licensable facilities, but these costs shall not exceed fair market rents existing in the community in which the facility is located. “Reasonable and necessary costs” are costs that, in nature and amount, do not exceed what an ordinary prudent person would incur in the conduct of a competitive business.
 
 (o) “Elementary school,” as contained in former Section 425 of Title 20 of the United States Code (the National Defense Education Act of 1958, Public Law 85-864, as amended), includes early childhood education programs and all child development programs, for the purpose of the cancellation provisions of loans to students in institutions of higher learning.
 
-(p) “Family childcare home education network” means an entity organized under law that contracts with the department pursuant to Section 10250 to make payments to licensed family childcare home providers and to provide educational and support services to those providers and to children and families eligible for state-subsidized childcare and development services. A family childcare home education network may also be referred to as a family childcare home system.
+(p) “Family childcare home education network” means an entity organized under law that
+ contracts with the department pursuant to Section 10250 to make payments to licensed family childcare home providers and to provide educational and support services to those providers and to children and families eligible for state-subsidized childcare and development services. A family childcare home education network may also be referred to as a family childcare home system.
 
 (q) “Health services” include, but are not limited to, all of the following:
 
 (1) Referral, whenever possible, to appropriate health care providers able to provide continuity of medical care.
 
-(2) Health screening and health treatment, including a full range of immunization recorded on the appropriate state immunization form to the extent provided by the Medi-Cal Act (Chapter 7 (commencing with Section 14000) of Part 3) and the Child Health and Disability Prevention Program (Article 6 (commencing with Section 124025) of Chapter 3 of Part 2 of Division 106 of the Health and Safety Code), but only to the extent that ongoing care cannot be obtained utilizing community resources.
+(2) Health screening and health treatment, including a full range of immunization recorded on the appropriate state immunization form to the extent
+ provided by the Medi-Cal Act (Chapter 7 (commencing with Section 14000) of Part 3) and the Child Health and Disability Prevention Program (Article 6 (commencing with Section 124025) of Chapter 3 of Part 2 of Division 106 of the Health and Safety Code), but only to the extent that ongoing care cannot be obtained utilizing community resources.
 
 (3) Health education and training for children, parents, staff, and providers.
 
 (4) Followup treatment through referral to appropriate health care agencies or individual health care professionals.
 
-(r) “Higher educational institutions” means the Regents of the University of California, the Trustees of the California State University, the Board of Governors of the California Community Colleges, and the governing bodies of any accredited private nonprofit institution of postsecondary education.
+(r) “Higher educational institutions” means the Regents of the University of California, the Trustees of the California State University, the Board of Governors of the California Community Colleges,
+ and the governing bodies of any accredited private nonprofit institution of postsecondary education.
 
 (s) “Intergenerational staff” means persons of various generations.
 
 (t) “Dual language learner” means children whose first language is a language other than English or children who are developing two or more languages, one of which may be English.
 
-(u) “Parent” means a biological parent, stepparent, adoptive parent, foster parent,
- caretaker relative, or any other adult living with a child who has responsibility for the care and welfare of the child.
+(u) “Parent” means a biological parent, stepparent, adoptive parent, foster parent, caretaker relative, or any other adult living with a child who has responsibility for the care and welfare of the child.
 
-(v) “Program director” means a person who, pursuant to Sections 10242 and 10380.5, is qualified to serve as a program director.
+(v) “Program director” means a person who, pursuant to Sections 10242 and 10380.5, is qualified to serve as a
+ program director.
 
 (w) “Proprietary childcare agency” means an organization or facility providing childcare, which is operated for profit.
 
-(x) “Resource and referral programs” means programs that provide information to parents, including referrals and coordination of community resources for parents and public or private providers of care. Services frequently include, but are not limited to: technical assistance for providers, toy-lending libraries, equipment-lending libraries, toy- and equipment-lending libraries, staff development programs, health and nutrition education, and referrals to
- social services.
+(x) “Resource and referral programs” means programs that provide information to parents, including referrals and coordination of community resources for parents and public or private providers of care. Services frequently include, but are not limited to: technical assistance for providers, toy-lending libraries, equipment-lending libraries, toy- and equipment-lending libraries, staff development programs, health and nutrition education, and referrals to social services.
 
-(y) “Severely disabled children” are children with exceptional needs from birth to 21 years of age, inclusive, who require intensive instruction and training in programs serving pupils with the following profound disabilities: autism, blindness, deafness, severe orthopedic impairments, serious emotional disturbances, or severe intellectual disabilities. “Severely disabled children” also include those individuals who would have been eligible for enrollment in a developmental center for handicapped pupils under Chapter 7 (commencing with Section 56800) of Part 30 of Division 4 of Title 2 of the Education Code as it read on January 1, 1980.
+(y) “Severely disabled children” are children with exceptional needs from birth to 21 years of age, inclusive, who
+ require intensive instruction and training in programs serving pupils with the following profound disabilities: autism, blindness, deafness, severe orthopedic impairments, serious emotional disturbances, or severe intellectual disabilities. “Severely disabled children” also include those individuals who would have been eligible for enrollment in a developmental center for handicapped pupils under Chapter 7 (commencing with Section 56800) of Part 30 of Division 4 of Title 2 of the Education Code as it read on January 1, 1980.
 
-(z) “Short-term respite childcare” means childcare service to assist families whose children have been identified through written referral from a legal, medical, or social service agency, or emergency shelter as being neglected,
- abused, exploited, or homeless, or at risk of being neglected, abused, exploited, or homeless. Childcare is provided for less than 24 hours per day in childcare centers, treatment centers for abusive parents, family childcare homes, or in the child’s own home.
+(z) “Short-term respite childcare” means childcare service to assist families whose children have been identified through written referral from a legal, medical, or social service agency, or emergency shelter as being neglected, abused, exploited, or homeless, or at risk of being neglected, abused, exploited, or homeless.
+ Childcare is provided for less than 24 hours per day in childcare centers, treatment centers for abusive parents, family childcare homes, or in the child’s own home.
 
 (aa) “Site supervisor” means a person who, regardless of their title, has operational program responsibility for a childcare and development program at a single site. A site supervisor shall hold a permit issued by the Commission on Teacher Credentialing that authorizes supervision of a childcare and development program operating in a single site. The department may waive the requirements of this subdivision if the department determines that the existence of compelling need is appropriately documented.
 
@@ -60751,7 +60757,8 @@ As used in this part:
 
 (ad) “California state preschool program” means part-day and full-day educational programs for low-income or otherwise disadvantaged three- and four-year-old children.
 
-(ae) “Support services” means those services that, when combined with childcare and development services, help promote the healthy physical, mental, social, and emotional growth of children. Support services include, but are not limited to: protective services, parent training, provider and staff training, transportation, parent and child counseling, child development resource and referral services, and child placement counseling.
+(ae) “Support services” means those services that, when combined with childcare and development services, help promote the healthy physical, mental, social, and emotional growth of children. Support services include, but are not limited to: protective services, parent training, provider and staff training, transportation, parent and child counseling, child development resource and referral
+ services, and child placement counseling.
 
 (af) “Teacher” means a person with the appropriate permit issued by the Commission on Teacher Credentialing who provides program supervision and instruction that includes supervision of a number of aides, volunteers, and groups of children.
 
@@ -60767,30 +60774,36 @@ As used in this part:
 
 (ai) “Homeless children and youth” has the same meaning as defined in Section 11434a(2) of the federal McKinney-Vento Homeless Assistance Act (42 U.S.C. Sec. 11301 et seq.).
 
-(aj) “Local educational agency” means a school district, a county office of education, a community college district, or a school district acting on behalf of one or more schools within the school district.
+(aj) “Local educational agency” means a school district, a county office of education, a community college district, or a school district acting on behalf of one or more schools
+ within the school district.
 
-(ak) “Alternative methodology” means a cost-based ratesetting method, including a cost estimation model, on which to base payment rates pursuant to the requirements
- set forth in Section 98.45 of Title 45 of the Code of Federal Regulations.
+(ak) “Alternative methodology” means a cost-based method, including a cost estimation model, that informs payment rates pursuant to the requirements set forth in Section 98.45 of Title 45 of the Code of Federal Regulations.
 
 (al) (1) Effective no later than March 1, 2024, “part-time care” means care certified for a child for fewer than 25 hours per week.
 
 (2) Effective no later than March 1, 2024, “full-time care” means care certified for a child for 25 or more hours per week.
 
-(3) Notwithstanding the rulemaking provisions of the Administrative Procedure Act (Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code), the department may implement and administer this subdivision by all-county letters, bulletins, or similar written instructions until regulations are adopted.
+(3) Notwithstanding the rulemaking provisions of the Administrative Procedure Act (Chapter 3.5 (commencing with Section 11340) of Part 1
+ of Division 3 of Title 2 of the Government Code), the department may implement and administer this subdivision by all-county letters, bulletins, or similar written instructions until regulations are adopted.
 
-(4) The department shall initiate a rulemaking action to adopt
- regulations to implement this subdivision no later than July 1, 2026.
+(4) The department shall initiate a rulemaking action to adopt regulations to implement this subdivision no later than July 1, 2026.
 
 (5) If the provisions of this subdivision are in conflict with the provisions of a memorandum of understanding reached pursuant to Section 10426, the memorandum of understanding shall be controlling without further legislative action, except that if such provisions of a memorandum of understanding require the expenditure of funds, the provisions shall not become effective unless approved by the Legislature in the annual Budget Act.
 
-(am) “Excessive unexplained absences” means absences that are not considered excused as defined in subdivision (e) and exceed 30 days within a 12-month interval during the period of time between determinations and redeterminations. Excessive unexplained absences, for the purposes of reimbursement,
- include nonconsecutive and consecutive days of absence that are not considered excused as defined in subdivision (e).
+(am) “Excessive unexplained absences” means absences that are not considered excused as defined in subdivision (e) and exceed 30 days within a 12-month interval during the period of time between determinations and redeterminations. Excessive unexplained absences, for the purposes of reimbursement, include nonconsecutive and consecutive days of absence that are not considered excused as defined in subdivision (e).
 
 (1) Notwithstanding the rulemaking provisions of the Administrative Procedure Act (Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code), the department may implement and administer this subdivision by all-county letters, bulletins, or similar written instructions until regulations are adopted.
 
 (2) The department shall initiate a rulemaking action to adopt regulations to implement this subdivision no later than July 1, 2030.
 
-(History: Amended by Stats. 2026, Ch. 25, Sec. 27.   (AB 150)   Effective June 29, 2026.)
+(an) “Nonstandard hours” means certified need from 6:00 p.m. to 7:00 a.m. any day of the week and certified need from 7:00 a.m. to 6:00 p.m. on Saturday or Sunday.
+
+(ao) “Base payment rate” means the standard, unadjusted subsidy rate authorized by the state to reimburse providers and contractors to meet health, safety, program, and staffing requirements as it pertains to the delivery of subsidized childcare services to eligible children.
+
+(ap) “Enhanced rate,” or “enhanced payment rate” means a state-authorized reimbursement,
+ disbursed as a fixed, flat amount, to reimburse providers and contractors for specialized services, as determined by the department, provided to eligible children by an individual provider.
+
+(History: Amended by Stats. 2026, Ch. 567, Sec. 3.   (AB 1981)   Effective September 27, 2026.)
 -------------------------------------------
 
 10214.
@@ -61185,62 +61198,69 @@ Alternative payments may be made for services provided in licensed centers and f
 
 (b) Reimbursement rates are subject to agreement and codification by the Legislature.
 
-(c) The department, in collaboration with the State Department of Education, shall develop and conduct an alternative methodology. The department shall begin the process of data collection and analysis pursuant to developing an alternative methodology by July 1, 2023, and consult with the State Department of Education on data collection, analysis, and methodology for preschool programs. The alternative methodology
+(c) The department, in collaboration with the State Department of Education, shall develop and conduct an alternative methodology. The department shall begin the process of data collection and analysis pursuant to developing an alternative methodology by July 1, 2023, and consult with the State Department of Education on data collection,
+ analysis, and methodology for preschool programs. The alternative methodology
  shall build on the recommendations of the working group established pursuant to Section 10280.2 and shall be aligned with the recommendations of the Joint Labor Management Committee established pursuant to subdivision (a) of Section 10280.2.
 
-(d) No later than February 15, 2024, the department, in collaboration with the State Department of Education and the Joint Labor Management Committee established pursuant to subdivision (a) of Section 10280.2, using information from the cost estimation model, shall define elements of the base rate and any enhanced rates to inform the state’s proposed single rate structure and rates. These elements shall be subject to the mandated public engagement state plan process and legislative review. The department shall report to the Senate Health and Human Services budget subcommittees, Assembly and Senate Education budget subcommittees, and the Legislative Analyst’s Office on progress made to conduct an alternative
- methodology and cost estimate model.
+(d) No later than February 15, 2024, the department, in collaboration with the State Department of Education and the Joint Labor Management Committee established pursuant to subdivision (a) of Section 10280.2, using information from the cost estimation model, shall define elements of the base rate and any enhanced rates to inform the state’s proposed single-rate structure and rates. These elements shall be subject to the mandated public engagement state plan process and legislative review. The department shall report to the Senate Health and Human Services budget subcommittees, Assembly
+ and Senate Education budget subcommittees, and the Legislative Analyst’s Office on progress made to conduct an alternative methodology and cost-estimate model.
 
-(e) No later than May 15, 2024, the department shall report on the status of the draft Child Care and Development Fund state plan to the Senate Health and Human Services budget subcommittees, Assembly and Senate Education budget subcommittees, and the Legislative Analyst’s Office on the state’s proposed single rate structure to be submitted to the United States Department of Health and Human Services, Administration for Children and Families.
+(e) No later than May 15, 2024, the department shall report on the status of the draft Child Care and Development Fund state plan to the Senate Health and Human Services budget subcommittees, Assembly and Senate Education budget subcommittees, and the Legislative Analyst’s Office on the state’s proposed single-rate structure to be submitted to the United States Department of Health and Human Services, Administration for Children and Families.
 
-(f) No later than July 1, 2024, the department shall submit necessary information to support use of a single rate structure using the alternative methodology to the United States Department of Health and Human Services, Administration for Children and Families in the Child Care and Development Fund state plan or an amendment to the state plan. The department shall provide a copy of the Child Care and
- Development Fund state plan or amendment to the state plan submitted to the United States Department of Health and Human Services, Administration for Children and Families to the Senate Health and Human Services budget subcommittees, Assembly and Senate Education budget subcommittees, and the Legislative Analyst’s Office no later than July 10, 2024.
+(f) No later than July 1, 2024, the department shall submit necessary information to support use of a single rate structure using the alternative methodology to the United
+ States Department of Health and Human Services, Administration for Children and Families in the Child Care and Development Fund state plan or an amendment to the state plan. The department shall provide a copy of the Child Care and Development Fund state plan or amendment to the state plan submitted to the United States Department of Health and Human Services, Administration for Children and Families to the Senate Health and Human Services budget subcommittees, Assembly and Senate Education budget subcommittees, and the Legislative Analyst’s Office no later than July 10, 2024.
 
-(g) (1) Within 60 days of federal approval of the single rate structure utilizing the alternative methodology in the state plan, the department, in collaboration with the State Department of Education, shall provide the Assembly Committee on Budget, the Senate Committee on Budget and Fiscal Review, and the Legislative Analyst’s Office with a report that outlines the implementation components for the approved single rate structure. For a period of 30 days, the Legislature shall have the opportunity to review and provide feedback regarding draft guidance for implementation of
- policies. The report shall include all of the following:
+(g) (1) Within 60 days of federal approval of the
+ single-rate structure utilizing the alternative methodology in the state plan, the department, in collaboration with the State Department of Education, shall provide the Assembly Committee on Budget, the Senate Committee on Budget and Fiscal Review, and the Legislative Analyst’s Office with a report that outlines the implementation components for the approved single-rate structure. For a period of 30 days, the Legislature shall have the opportunity to review and provide feedback regarding draft guidance for implementation of policies. The report shall include all of the following:
 
 (A) The department’s plan to set new reimbursement rates under the alternative methodology by no later than July 1, 2025.
 
-(B) The estimated costs and estimated timelines associated with the implementation components of the approved single rate structure, including, but not limited to, state operations resources, technology and infrastructure changes, and any regulatory or statutory changes necessary to implement the approved single rate structure.
+(B) The estimated costs and estimated timelines associated with the
+ implementation components of the approved single-rate structure, including, but not limited to, state operations resources, technology and infrastructure changes, and any regulatory or statutory changes necessary to implement the approved single-rate structure.
 
-(2) (A) The department shall, from October 1, 2024, to July 1, 2028, inclusive, provide the Assembly Committee on Budget, the Senate Committee on Budget and Fiscal Review, and the Legislative Analyst’s Office with quarterly updates on the implementation of the new reimbursement rates set under the alternative methodology. The quarterly updates shall include any changes to the information provided in the report described in paragraph (1).
+(2) (A) The department shall, from October 1, 2024, to July 1,
+ 2028, inclusive, provide the Assembly Committee on Budget, the Senate Committee on Budget and Fiscal Review, and the Legislative Analyst’s Office with quarterly updates on the implementation of the new reimbursement rates set under the alternative methodology. The quarterly updates shall include any changes to the information provided in the report described in paragraph (1).
 
-(B) (i) The quarterly report issued in July 2027, pursuant to subparagraph (A) shall consist of the considerations required to add monthly cost of care plus rates made pursuant to Sections 10277.1, 10277.2, and 10277.6 to existing reimbursement rates that are funded within existing childcare and
- development contracts for alternative payment programs, including, but not limited to, migrant alternative payment programs pursuant to Chapter 3 (commencing with Section 10225), migrant childcare and development programs pursuant to Chapter 6 (commencing with Section 10235), general childcare and development programs pursuant to Chapter 7 (commencing with Section 10240), family childcare home education networks pursuant to Chapter 8 (commencing with Section 10250), childcare and development services for children with special needs pursuant to Chapter 9 (commencing with Section 10260), childcare for recipients of the CalWORKs program pursuant to Chapter 21 (commencing with Section 10370), and the emergency childcare bridge program for foster children pursuant to Section 11461.6.
+(B) (i) The quarterly report issued in July 2027, pursuant to subparagraph (A) shall consist of the considerations required to add monthly cost of care plus rates made pursuant to Sections
+ 10277.1, 10277.2, and 10277.6 to existing reimbursement rates that are funded within existing childcare and development contracts for alternative payment programs, including, but not limited to, migrant alternative payment programs pursuant to Chapter 3 (commencing with Section 10225), migrant childcare and development programs pursuant to Chapter 6 (commencing with Section 10235), general childcare and development programs pursuant to Chapter 7 (commencing with Section 10240), family childcare home education networks pursuant to Chapter 8 (commencing with Section 10250), childcare and development services for children with special needs pursuant to Chapter 9 (commencing with Section 10260), childcare for recipients of the CalWORKs program pursuant to Chapter 21 (commencing with Section 10370), and the emergency childcare bridge program for foster children
+ pursuant to Section 11461.6.
 
-(ii) Considerations presented by the department pursuant to
- clause (i) shall include, but not be limited to, all of the following:
+(ii) Considerations presented by the department pursuant to clause (i) shall include, but not be limited to, all of the following:
 
 (I) Updates to data systems required to add monthly cost of care plus payments to existing contract rates.
 
 (II) Necessary statutory and regulatory changes to add monthly cost of care plus payments to existing contract rates.
 
-(III) Activities needed to be performed by the department and contractors to ensure contractors can pay childcare providers through a contract rate that includes the monthly cost of care plus payments.
+(III) Activities needed to be performed by the department and contractors to ensure contractors can pay childcare providers through a
+ contract rate that includes the monthly cost of care plus payments.
 
 (iii) The department shall present, where practicable, an estimated timeframe for each consideration described pursuant to clause (ii).
 
-(h) Beginning October 1, 2025, and through July 1, 2027, inclusive, the department shall update the Legislature not more frequently than quarterly, to the extent information is available or reported to the department by contractors, regarding progress on implementation of paying based on enrollment.
+(h) Beginning October 1, 2025, and through July 1, 2027, inclusive, the department shall update the Legislature not more frequently than quarterly, to the extent information is available or reported to the department by contractors, regarding progress on
+ implementation of paying based on
+ enrollment.
 
-(i) The Governor and the Legislature shall, by no later than July 1, 2025, establish reimbursement rates based on the alternative methodology. Provider reimbursement rates shall not be reduced from the reimbursement rates that were in effect on June 30, 2024, pursuant to Sections 10280 and 10374.5 of this code and Section 8242 of the Education Code, inclusive of the cost of care plus rates established pursuant to subdivision (b) of Section 10277.1 and
- subdivision (b) of Section 10277.2.
+(i) The Governor and the Legislature shall, by no later than July 1, 2025, establish reimbursement rates based on the alternative methodology. Provider reimbursement rates shall not be reduced from the reimbursement rates that were in effect on June 30, 2024, pursuant to Sections 10280 and 10374.5 of this code and Section 8242 of the Education Code, inclusive of the cost of care plus rates established pursuant to subdivision (b) of Section 10277.1 and subdivision (b) of Section 10277.2.
 
-(j) (1) If the new reimbursement rates established pursuant to subdivision(i) do not take effect on July 1, 2025, the department shall provide the Legislature with a timeline for transitioning from the rates that are in effect on July 1, 2025, to the new rates established pursuant to subdivision (i).
+(j) (1) If the new reimbursement rates established pursuant to subdivision (i) do not take effect on July 1, 2025,
+ the department shall provide the Chairperson of the Joint Legislative Budget Committee with the department’s anticipated timeline for transitioning from the rates that are in effect on July 1, 2025, to the new rates established pursuant to subdivision (i).
 
 (2) Any temporary reimbursement rates established as part of the transition timeline required by paragraph (1) shall be, at minimum, equivalent to the reimbursement rates established pursuant to Sections 10280 and 10374.5 of this code and Section 8242 of the Education Code, inclusive of the cost of care plus rates established pursuant to subdivision (b) of Section 10277.1 and subdivision (b) of Section 10277.2.
 
-(k) The single rate structure shall apply to all
- programs funded by the State Department of Social Services under Chapter 3 (commencing with Section 10225), Chapter 6 (commencing with Section 10235), Chapter 7 (commencing with Section 10240), Chapter 8 (commencing with Section 10250), Chapter 9 (commencing with Section 10260), Chapter 21 (commencing with Section 10370), and Chapter 2 (commencing with Section 11461.6) of Part 2, and the State Department of Education under Chapter 2 (commencing with Section 8200) of Part 6 of Division 1 of Title 1 of the Education Code.
+(k) The single rate structure shall apply to all programs funded by the State Department of Social
+ Services under Chapter 3 (commencing with Section 10225), Chapter 6 (commencing with Section 10235), Chapter 7 (commencing with Section 10240), Chapter 8 (commencing with Section 10250), Chapter 9 (commencing with Section 10260), Chapter 21 (commencing with Section 10370), and Chapter 2 (commencing with Section 11461.6) of Part 2, and the State Department of Education under Chapter 2 (commencing with Section 8200) of Part 6 of Division 1 of Title 1 of the Education Code.
 
 (l) The department, after collaborating with the State Department of Education, shall identify the remaining foundational policy frameworks of the single rate structure by January 10, 2028.
 
-(m) (1) Except as required by subdivision (n), it is the intent of the Legislature, beginning July 1, 2025, to cease using a regional market rate survey pursuant to Section 10436, and instead use an alternative methodology, as defined in subdivision (ak) of Section 10213.5, for the purpose of informing the setting of future childcare rates and California state preschool program rates.
+(m) (1) Except as required by subdivision (n), it is the intent of the Legislature, beginning July 1,
+ 2025, to cease using a regional market-rate survey pursuant to Section 10436, and instead use an alternative methodology, as defined in subdivision (ak) of Section 10213.5, for the purpose of informing the setting of future childcare rates and California state preschool program rates.
 
 (2) It is the intent of the Legislature that:
 
-(A) Reimbursement
- rates are set pursuant to statute and informed by the alternative methodology, as defined in subdivision (ak) of Section 10213.5.
+(A) Reimbursement rates are set pursuant to statute and informed by the alternative methodology, as defined in subdivision (ak) of Section 10213.5.
 
-(B) Under the single rate structure, all programs described in subdivision (k) shall be reimbursed under a unified structure that takes into account a common set of rate elements.
+(B) Under the single-rate structure, all programs described in
+ subdivision (k) shall be reimbursed under a unified structure that takes into account a common set of rate elements.
 
 (C) Rate levels shall be informed by the costs associated with meeting health and safety requirements and program requirements.
 
@@ -61252,7 +61272,8 @@ Alternative payments may be made for services provided in licensed centers and f
 
 (ii) Type of care setting.
 
-(iii) Regulatory and statutory requirements applicable to each type of care setting.
+(iii) Regulatory and statutory
+ requirements applicable to each type of care setting.
 
 (iv) Time categories.
 
@@ -61262,10 +61283,10 @@ Alternative payments may be made for services provided in licensed centers and f
 
 (II) Children who are two years of age, the care of whom will be reimbursed at the toddler rate.
 
-(III) Children who are three years of age to six years of age, inclusive, who are not yet enrolled in first grade, the
- care of whom will be reimbursed at the preschool rate.
+(III) Children who are three years of age to six years of age, inclusive, who are not yet enrolled in first grade, the care of whom will be reimbursed at the preschool rate.
 
-(IV) Children five years of age and older, who are enrolled in first grade or higher, the care of whom will be reimbursed at the schoolage rate.
+(IV) Children five years of age and
+ older, who are enrolled in first grade or higher, the care of whom will be reimbursed at the schoolage rate.
 
 (F) (i) Enhanced inclusion rates shall be administered as a per-child amount, and programs shall be able to claim reimbursement, consistent with the rules and regulations developed by the department and the State Department of Education, respectively. To receive an enhanced inclusion rate for a child, the family data file shall include documentation of at least one of the following:
 
@@ -61277,12 +61298,12 @@ Alternative payments may be made for services provided in licensed centers and f
 
 (IV) An active plan pursuant to Section 504 of the federal Rehabilitation Act of 1973 (29 U.S.C. Sec. 794).
 
-(V) An active
- incidental medical services plan, as described in Section 1596.802 of the Health and Safety Code.
+(V) An active incidental medical services plan, as described in Section 1596.802 of the Health and Safety Code.
 
 (ii) The documentation described in clause (i) may be unsigned if the family did not consent to the services, despite the child being deemed eligible.
 
-(3) It is further the intent of the Legislature that the alternative methodology shall be based on a cost study and cost estimation model conducted by the department for the measurement of the costs of care in California for all childcare and preschool programs described in subdivision (k), and shall include, but not be limited to, all of the following costs:
+(3) It is further the intent of the Legislature that the alternative methodology shall be based on a cost study and cost estimation model conducted by the department for the measurement of the costs of care in California for all childcare and preschool programs described in subdivision (k), and
+ shall include, but not be limited to, all of the following costs:
 
 (A) Salaries and wages.
 
@@ -61298,13 +61319,80 @@ Alternative payments may be made for services provided in licensed centers and f
 
 (G) Cost for delivering inclusion supports.
 
-(n) Commencing July 1, 2026, rates for all programs described in subdivision (k) shall receive the cost-of-living adjustment granted by the Legislature annually pursuant to Section 42238.15 of the Education Code as a minimum annual rate increase for all subsidized childcare providers.
+(n) Commencing July 1, 2026, rates for all programs
+ described in subdivision (k) shall receive the cost-of-living adjustment granted by the Legislature annually pursuant to Section 42238.15 of the Education Code as a minimum annual rate increase for all subsidized childcare providers.
 
 (o) If the United States Department of Health and Human Services, Administration for Children and Families does not approve the alternative methodology developed pursuant to this section, the department shall develop and conduct a survey of the market rates for childcare services.
 
-(p) If the provisions of this section are in conflict with the provisions of a memorandum of understanding reached pursuant to Section 10426, the memorandum of understanding shall be controlling without further legislative action, except that if such provisions of a memorandum of understanding require the expenditure of funds, the provisions shall not become effective unless approved by the Legislature in the annual Budget Act.
+(p) If the provisions of this section are in conflict with the provisions of a memorandum of understanding reached pursuant to Section 10426, the memorandum of understanding shall be controlling without further legislative action, except that if such provisions of a
+ memorandum of understanding require the expenditure of funds, the provisions shall not become effective unless approved by the Legislature in the annual Budget Act.
 
-(History: Amended by Stats. 2026, Ch. 257, Sec. 18.   (AB 190)   Effective September 18, 2026.)
+(q) When updating the alternative methodology, as required by the triennial federal Child Care Development fund plan, the department shall use values or selection points that reflect the actual, established costs of providing care.
+
+(History: Amended by Stats. 2026, Ch. 567, Sec. 4.5.   (AB 1981)   Effective September 27, 2026.)
+-------------------------------------------
+
+10227.7.
+
+(a) When establishing new reimbursement rates using a single-rate structure informed by an alternative methodology, pursuant to subdivision (i) of Section 10227.6, to the extent it is consistent with the approved Child Care and Development Fund state plan, the department, in consultation with the State Department of Education, shall do all of the following:
+
+(1) Vary rates based on
+ geographic regions established by the department and determined by the cost of living.
+
+(2) Vary rates, at a minimum, based on whether the childcare is being provided in a license-exempt childcare setting, a licensed family daycare home, or a licensed daycare center setting.
+
+(3) Vary rates based on regulatory and statutory requirements applicable to each type of care setting.
+
+(4) Vary rates, at a minimum, based on the following time category considerations:
+
+(A) Part-time and full-time certified need.
+
+(B) A week, for purposes of determining the hours of certified need in
+ a week, begins at midnight on Sunday and ends at 11:59 p.m. on Saturday.
+
+(5) Vary rates, at a minimum, based on the following child age considerations:
+
+(A) All programs that serve the same age of children and have the same program requirements receive the same reimbursable
+ base payment rate, regardless of the type of program contract.
+
+(B) The establishment of rates based on the following child age groupings:
+
+(i) Children who are younger than two years of age, the care of whom will be reimbursed at the infant rate.
+
+(ii) Children who are two years of age, the care of whom will be reimbursed at the toddler rate.
+
+(iii) Children who are three to six years of age, inclusive, who are not yet enrolled in first grade, the care of whom will be reimbursed at the preschool rate.
+
+(iv) Children who are five years of age and older who are enrolled in first
+ grade, the care of whom will be reimbursed at the schoolage rate.
+
+(6) Include an enhanced rate for nonstandard hours of care.
+
+(7) (A) Include an enhanced inclusion rate, which shall be administered as a per-child amount and for which programs shall be able to claim reimbursement, consistent with the rules and regulations developed by the department and the State Department of Education, as applicable. To receive an enhanced inclusion rate for a child, the family data file shall include documentation of at least one of the following:
+
+(i) A current individualized family service plan.
+
+(ii) A current individualized
+ education program.
+
+(iii) A current individual program plan.
+
+(iv) An active plan pursuant to Section 504 of the federal Rehabilitation Act of 1973 (29 U.S.C. Sec. 794).
+
+(v) An active incidental medical services plan, as described in Section 1596.802 of the Health and Safety Code.
+
+(B) The documentation described in subparagraph (A) may be unsigned if the family did not consent to the child’s receipt of services, despite the child being deemed eligible.
+
+(8) May include other enhanced rates, as determined through the annual Budget process.
+
+(9) Ensure that the reimbursement rates for a specific child, payable to an individual provider or contractor, includes all enhanced rates for which the child is eligible, and that are for services the child is receiving from the individual provider or contractor.
+
+(10) Ensure that base payment rates are based on a child’s maximum certified hours of care with an individual provider, regardless of attendance.
+
+(b) Notwithstanding the rulemaking provisions of the Administrative Procedure Act (Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code), the department may implement and administer this section by all-county letters, childcare bulletins, or similar written instructions until regulations are adopted. These all-county
+ letters or similar written instructions shall have the same force and effect as regulations.
+
+(History: Added by Stats. 2026, Ch. 567, Sec. 5.   (AB 1981)   Effective September 27, 2026.)
 -------------------------------------------
 
 10228.
