@@ -5,7 +5,7 @@
 
 Source: Official California Legislative Information
         https://downloads.leginfo.legislature.ca.gov/
-Last Updated by State of California: September 26, 2026
+Last Updated by State of California: October 02, 2026
 
 
 ======================================================================
@@ -2215,7 +2215,7 @@ The definitions of the terms used in this article and in Article 1 (commencing w
 
 
 
-  ARTICLE 3.5. English Language Proficiency Assessment [313. - 313.5.]
+  ARTICLE 3.5. English Language Proficiency Assessment [313. - 314.]
 
 313.
 
@@ -2223,41 +2223,78 @@ The definitions of the terms used in this article and in Article 1 (commencing w
 
 (b) The department, with the approval of the state board, shall establish procedures for conducting the assessment required pursuant to subdivision (a) and for the reclassification of a pupil from English learner to English proficient.
 
-(c) Commencing with the 2000–01 school year until subdivision (d) is implemented, the assessment shall be conducted upon initial enrollment, and annually,
- thereafter, during a period of time determined by the Superintendent and the state board. The annual assessments shall continue until the pupil is redesignated as English proficient. The assessment shall primarily utilize the English language development test identified or developed by the Superintendent pursuant to Chapter 7 (commencing with Section 60810) of Part 33 of Division 4 of Title 2.
+(c) Commencing with the 2000–01 school year until subdivision (d) is implemented,
+ the assessment shall be conducted upon initial enrollment, and annually, thereafter, during a period of time determined by the Superintendent and the state board. The annual assessments shall continue until the pupil is redesignated as English proficient. The assessment shall primarily use the English language development test identified or developed pursuant to Chapter 7 (commencing with Section 60810) of Part 33 of Division 4 of Title 2.
 
-(d) (1) This subdivision shall not be implemented unless and until the department receives written documentation from the United States Department of Education that federal law permits the implementation of the changes set forth in this subdivision or until the 2013–14 school year, whichever occurs later.
+(d) (1) This subdivision shall not be implemented unless and until the department receives written documentation from the United States Department of Education that federal law permits the implementation of the changes set forth in this subdivision or until the 2013–14 school year,
+ whichever occurs later.
 
-(2) The summative assessment shall be conducted annually during a four-month period after January 1 determined by the Superintendent with the approval of the state
- board. Annual assessments shall continue until the pupil is redesignated as English proficient. The annual assessment shall primarily utilize the English language development assessment identified or developed by the Superintendent pursuant to Chapter 7 (commencing with Section 60810) of Part 33 of Division 4 of Title 2.
+(2) The summative assessment shall be conducted annually during a four-month period after January 1 determined by the Superintendent with the approval of the state board. Annual assessments shall continue until the pupil is redesignated as English proficient. The annual assessment shall primarily use the English language development assessment identified or developed pursuant to Chapter 7 (commencing with Section 60810) of Part 33 of Division 4 of Title 2.
 
 (3) The assessment for initial identification shall be conducted upon the initial enrollment of a pupil in order to provide information to be used to determine if the pupil is an English learner.
 
 (A) If the initial enrollment of a pupil occurs on a date outside of the testing period identified pursuant to paragraph (2), the prior year’s annual assessment for the grade in which the pupil is enrolling shall be used for this purpose.
 
-(B) If the initial enrollment of a pupil occurs on a date within the
- testing period identified pursuant to paragraph (2), the initial assessment of the pupil shall be conducted as part of the annual assessment conducted pursuant to paragraph (2).
+(B) If the initial enrollment of a pupil occurs on a date within the testing period identified pursuant to paragraph (2), the initial assessment of the pupil shall be conducted as part of the annual assessment conducted pursuant to paragraph (2).
 
-(4) Notwithstanding paragraph (2), a school district shall assess the English language development of a pupil pursuant to this section no more than one time per school year for each assessment purpose pursuant to Chapter 7 (commencing with Section 60810) of Part 33 of Division 4 of Title 2.
+(4) Notwithstanding paragraph (2), a school district shall assess the English language development of a pupil pursuant to this section no more than one time per school year for each assessment purpose pursuant to Chapter 7 (commencing with Section
+ 60810) of Part 33 of Division 4 of Title 2.
 
 (e) The assessments conducted pursuant to subdivision (d) shall be conducted in a manner consistent with federal statutes and regulations.
 
-(f) The reclassification procedures developed by the department shall utilize multiple criteria in determining whether to reclassify a pupil as proficient in English, including, but not limited to, all of the
- following:
+(f) (1) An English learner pupil who, on the 2025–26 or 2026–27
+ administration of a summative assessment, meets the score established by the state board for purposes of reclassification on the assessment identified or developed pursuant to Chapter 7 (commencing with Section 60810) of Part 33 of Division 4 of Title 2, or, if applicable, meets the score established by the state board for purposes of reclassification on the statewide alternate assessment for English language proficiency developed pursuant to Section 11518.30 of Title 5 of the California Code of Regulations, shall be reclassified as English proficient. The pupil shall be considered reclassified as English proficient as of the
+ day after the pupil demonstrated proficiency through one of these assessments.
 
-(1) Assessment of language proficiency using an objective assessment instrument, including, but not limited to, the English language development test that is developed or acquired pursuant to Section 60810.
-
-(2) Teacher evaluation, including, but not limited to, a review of the pupil’s curriculum mastery.
-
-(3) Parental opinion and consultation.
-
-(4) Comparison of the performance of the pupil in basic skills against an empirically established range of performance in basic skills based upon the performance of English proficient pupils of the same age, that demonstrates whether the pupil is sufficiently proficient in English to participate effectively in a curriculum designed for pupils of the same age whose native language is English.
+(2) A pupil who, on the 2025–26 administration of a summative assessment, met the requirements of subparagraph (1) and did not reclassify in the 2025–26 school year, shall be reclassified as English proficient on or before January 31, 2027, by the local educational agency, as specified in subparagraph (1).
 
 (g) This section does not preclude a school district or county office of education from testing English learners more than once in a school year if the school district or county office of education chooses to do so.
 
+(h) For purposes of this
+ section, “initial enrollment” does not include enrollment in a transitional kindergarten program.
+
+(i) This section shall become inoperative on July 1, 2027, and, as of January 1, 2028, is repealed.
+
+(History: Amended by Stats. 2026, Ch. 619, Sec. 2.   (AB 2555)   Effective September 27, 2026.   Inoperative July 1, 2027, by its own provisions.   Repealed as of January 1, 2028, by its own provisions.   See later operative version added by Sec. 3 of Stats. 2026, Ch. 619.)
+-------------------------------------------
+
+313.
+
+(a) The Legislature finds and declares that federal law requires states to establish and implement standardized statewide reclassification procedures for English learner pupils to enter and exit from English learner programs, services, and status (20 U.S.C. Sec. 6821 et seq.). This section, Sections 313.3 and 313.4, and subparagraph (B) of paragraph (1) of subdivision (a) of Section 51225.33 include the state’s standardized entry and exit procedures.
+
+(b) Each
+ school district that has one or more pupils who are English learners, and, to the extent required by federal law, each county office of education and each charter school, shall assess the English language development of each pupil in order to determine the level of proficiency for purposes of this chapter.
+
+(c) The department, with the approval of the state board, shall establish procedures for conducting the assessment required pursuant to subdivision (b).
+
+(d) (1) The assessment shall be conducted upon initial enrollment, and annually thereafter, during a period of time determined by the Education
+ Commissioner and the state board. The annual assessments shall continue until the pupil is redesignated as English proficient. The assessment shall use the English language development test identified or developed pursuant to Chapter 7 (commencing with Section 60810) of Part 33 of Division 4 of Title 2 or the statewide alternate assessment for English language proficiency pursuant to subdivision (c) of Section 11518.30 of Title 5 of the California Code of Regulations.
+
+(2) The determination of a pupil’s eligibility to take the statewide alternate assessment for English language proficiency pursuant to subdivision (c) of Section 11518.30 of Title 5 of the California Code of Regulations may be made before a determination that the pupil
+ is eligible to take the alternate performance assessment in English language arts or mathematics, as authorized by Section 60640.
+
+(e) (1) The summative assessment shall be conducted annually during a four-month period after January 1 determined by the Education Commissioner with the approval of the state board. Annual assessments shall continue until the pupil is redesignated as English proficient. The annual assessment shall primarily use the English language development assessment identified or developed pursuant to Chapter 7
+ (commencing with Section 60810) of Part 33 of Division 4 of Title 2 or the statewide alternate assessment for English language proficiency pursuant to subdivision (c) of Section 11518.30 of Title 5 of the California Code of Regulations.
+
+(2) The assessment for initial identification shall be conducted upon the initial enrollment of a pupil in order to provide information to be used to determine if the pupil is an English learner.
+
+(A) If the initial enrollment of a pupil occurs on a date outside of the testing period identified pursuant to paragraph (1), the prior year’s annual assessment for the grade in which the pupil is enrolling shall be used for this purpose.
+
+(B) If the initial enrollment of a pupil occurs on a
+ date within the testing period identified pursuant to paragraph (1), the initial assessment of the pupil shall be conducted as part of the annual assessment conducted pursuant to paragraph (1).
+
+(3) Notwithstanding paragraph (1), a school district shall assess the English language development of a pupil pursuant to this section no more than one time per school year for each assessment purpose pursuant to Chapter 7 (commencing with Section 60810) of Part 33 of Division 4 of Title 2 or subdivision (c) of Section 11518.30 of Title 5 of the California Code of Regulations.
+
+(f) The assessments conducted pursuant to subdivision (e) shall be conducted in a manner consistent with federal statutes and regulations.
+
+(g) This
+ section does not preclude a school district or county office of education from testing English learners more than once in a school year if the school district or county office of education chooses to do so.
+
 (h) For purposes of this section, “initial enrollment” does not include enrollment in a transitional kindergarten program.
 
-(History: Amended by Stats. 2024, Ch. 15, Sec. 2.   (AB 2268)   Effective June 14, 2024.)
+(i) This section shall become operative on July 1, 2027.
+
+(History: Repealed (in Sec. 2) and added by Stats. 2026, Ch. 619, Sec. 3.   (AB 2555)   Effective September 27, 2026.   Operative July 1, 2027, by its own provisions.)
 -------------------------------------------
 
 313.1.
@@ -2325,17 +2362,182 @@ For purposes of this article, the following terms have the following meanings:
 
 313.3.
 
-(a) On or before December 31, 2023, the department shall develop a standardized English language teacher observation protocol for use by teachers in evaluating a pupil’s English language proficiency, as required by paragraph (2) of subdivision (f) of Section 313.
+(a) When a pupil is initially determined to be an English learner pursuant to Section 313, the school district, county office of education, or charter school shall communicate to the pupil’s parent or guardian in a clear, concise, and comprehensible manner, and, if applicable, translated into the parent or guardian’s primary language pursuant to Section 48985, all of the following information regarding the parent or guardian’s child:
+
+(1) Their child has been classified as an English learner.
+
+(2) California’s vision of success for English learners is that they attain high levels of English proficiency, mastery of
+ grade level standards, and have opportunities to develop proficiency in multiple languages. California’s schools value the culture and language that their child brings to their education.
+
+(3) They are encouraged to engage as a partner with the school in supporting their child’s language development and may request meetings with their child’s teachers to discuss their child’s progress.
+
+(4) Their child is entitled to special support in order to help them learn English and succeed in school.
+
+(5) Each year, their child will take an assessment to measure their progress toward becoming proficient in English. The results of the assessment will be used to determine if their child is ready to become reclassified as English
+ proficient. After their child is reclassified, their progress will continue to be monitored for four years.
+
+(6) (A) Their child’s reclassification as English proficient is an important accomplishment and may be seen as a step on the path to becoming literate in two languages, also known as biliteracy.
+
+(B) If their child becomes biliterate, they may be eligible to earn the State Seal of Biliteracy, which is a special recognition in the form of a seal affixed to their high school diploma.
+
+(b) The notice required pursuant to subdivision (a) may be provided at the same time as the notice required pursuant to Section 440, as applicable.
+
+(c) This section shall become operative on July 1, 2027.
+
+(History: Added by Stats. 2026, Ch. 619, Sec. 5.   (AB 2555)   Effective September 27, 2026.   Operative July 1, 2027, by its own provisions.)
+-------------------------------------------
+
+313.4.
+
+(a) All English learner pupils, including those with or without disabilities, are eligible to reclassify from English learner to English proficient when they meet the requirements of this section or Section 313.5.
+
+(b) (1) (A) An English learner pupil shall be reclassified as English proficient when the pupil meets the score established by the state board for purposes of reclassification on the assessment identified or developed pursuant to Chapter 7 (commencing with Section 60810) of Part 33 of Division 4 of Title 2, or, if applicable, the pupil meets the score established by the state board for purposes of reclassification on the statewide alternate assessment for English language proficiency developed pursuant to Section 11518.30 of Title 5 of the California Code of Regulations. The pupil shall be considered reclassified as English proficient as of the day after the pupil demonstrated proficiency through one of these assessments.
+
+(B) A pupil who, on the 2026–27 administration of a summative
+ assessment, met the requirements of subdivision (f) of Section 313, as that section read on June 30, 2027, and did not reclassify in the 2026–27 school year, shall be reclassified as English proficient on or before January 31, 2028, by the local educational agency, as specified in that subdivision.
+
+(2) (A) As pupil scores specified in subparagraph (A) of paragraph (1) become available, the department shall record the pupils who meet the requirements of
+ subparagraph (A) of paragraph (1) as reclassified in the appropriate data system.
+
+(B) After a pupil has been recorded as reclassified in the appropriate data system pursuant to subparagraph (A), a local educational agency shall do both of the following, as applicable:
+
+(i) Ensure that the pupil’s instructional program and placement reflects that the pupil is a reclassified pupil. This includes, but is not limited to, making any necessary course placement adjustments for pupils in, or entering into, middle school or high school for the subsequent academic year to reflect the change in status.
+
+(ii) Communicate to the pupil’s parent or guardian, and, if applicable, translated into the parent or
+ guardian’s primary language pursuant to Section 48985, that their child has been reclassified and provide information about the pupil’s potential opportunity to earn the State Seal of Biliteracy.
+
+(C) After a pupil has been reclassified as English proficient, the pupil shall not be classified as an English learner.
+
+(3) Local educational agencies are encouraged to recognize a pupil and the pupil’s family for the pupil’s accomplishment of achieving proficiency in English and encourage the pupil to pursue a course of study leading to biliteracy and a State Seal of Biliteracy, if offered by the local educational agency.
+
+(c) For purposes of this section, “local educational agency” means a school district, county office of
+ education, charter school, or state special school for the blind or the deaf.
+
+(d) This section shall become operative on July 1, 2027.
+
+(History: Added by Stats. 2026, Ch. 619, Sec. 6.   (AB 2555)   Effective September 27, 2026.   Operative July 1, 2027, by its own provisions.)
+-------------------------------------------
+
+313.5.
+
+(a) (1) The Legislature finds and declares that California has established alternate coursework and performance tasks for educators to use for pupils with disabilities so that they may demonstrate completion of the state graduation requirements through alternate means and earn a high school diploma.
+
+(2) It is the intent of the Legislature to enable the pupils described in paragraph (1) to demonstrate proficiency in English, in whole or in part, for purposes of reclassification, through alternate means aligned to the domains assessed by the English language development test identified or developed
+ pursuant to Chapter 7 (commencing with Section 60810) of Part 33 of Division 4 of Title 2.
+
+(b) (1) Commencing July 1, 2028, and subject to the availability of the development of rubrics and sample alternate pupil work and performance tasks pursuant to subparagraph (B) of paragraph (1) of subdivision (a) of Section 51225.33, if an English learner pupil has an individualized education program, the pupil may be eligible to be reclassified as English proficient by the local educational agency if all of the following are true for the pupil:
+
+(A) Received English language
+ development instruction that would reasonably be expected to result in English proficiency but has not achieved the proficiency level required for purposes of reclassification on the assessment identified or developed pursuant to Chapter 7 (commencing with Section 60810) of Part 33 of Division 4 of Title 2, or, if applicable, the statewide alternate assessment for English language proficiency pursuant to subdivision (c) of Section 11518.30 of Title 5 of the California Code of Regulations.
+
+(B) Used all designated supports and accommodations and any domain exemptions in accordance with the pupil’s individualized education program or plan pursuant to Section 504 of the federal Rehabilitation Act of 1973 (29 U.S.C. Sec. 794).
+
+(C) Scored an overall performance level that is one level below the level established by the state board for purposes of reclassification on the most recent administration of the assessment identified or developed pursuant to Chapter 7 (commencing with Section 60810) of Part 33 of Division 4 of Title 2, or, if applicable, received any score on the statewide alternate assessment for English language proficiency pursuant to subdivision (c) of Section 11518.30 of Title 5 of the California Code of Regulations.
+
+(2) (A) (i) If a pupil meets the criteria pursuant to paragraph (1) and the local educational agency determines through using rubrics
+ developed pursuant to subparagraph (B) of paragraph (1) of subdivision (a) of Section 51225.33 that the pupil has demonstrated, through new or existing pupil work aligned to the alternate pupil work and performance tasks developed pursuant to subparagraph (B) of paragraph (1) of subdivision (a) of Section 51225.33, that the pupil has reached a level of proficiency that is
+ comparable to the threshold for reclassification on the English language assessment established pursuant to Section 313 through alternate means, the local educational agency shall report the pupil as reclassified as English proficient to the department as described in subparagraph (B). Documentation of a determination made pursuant to this clause shall be recorded in the pupil’s individualized education program.
+
+(ii) The demonstration in clause (i) may apply to one or more of the domains of the assessment in which the pupil has not shown proficiency, and may be combined with proficient scores in other domains for purposes of meeting the overall threshold for reclassification.
+
+(B) A report by a local educational agency to the department pursuant to subparagraph (A) shall be made in a form and manner determined by the department. After receiving a report, the department shall record any pupils in the appropriate data systems as reclassified.
+
+(c) For purposes of this section, “local educational agency” means a school district, county office of education, charter school, or state special school for the blind or the deaf.
+
+(History: Repealed and added by Stats. 2026, Ch. 619, Sec. 8.   (AB 2555)   Effective September 27, 2026.)
+-------------------------------------------
+
+313.6.
+
+(a) The Legislature finds and declares that Section 6841(a)(5) of Title 20 of the United States Code and Section 11304 of Title 5 of the California Code of Regulations require local educational agencies to monitor and report on the progress of pupils who have been reclassified from English learner to English proficient, including the number and percentage of those pupils who are meeting challenging state academic standards for each of the four years after those pupils are no longer receiving services in the aggregate and disaggregated by, at a minimum, pupils with disabilities.
+
+(b) (1) Pursuant to federal law, a local educational agency
+ shall,
+ for a pupil who has been reclassified as English proficient, monitor the pupil’s progress to ensure all of the following:
+
+(A) English proficiency is not a barrier to the pupil’s academic success, which indicates the pupil has not been prematurely reclassified as English proficient.
+
+(B) Any academic deficits the pupil incurred as a result of participation in an English learner program have been remedied.
+
+(C) The pupil is meaningfully participating in the standard instructional program that is comparable to their peers who were never classified as English learners.
+
+(2) The requirements of this subdivision are declarative of existing federal law.
+
+(c) On or before January 1, 2028, the state board shall identify both of the following:
+
+(1) Means of monitoring reclassified pupils for four years after reclassification for purposes of identifying pupils who are not meeting challenging state academic standards after reclassification.
+
+(2) An appropriate instrument to be used for purposes of monitoring the progress of reclassified English learners pursuant to Section 6841(a)(5) of Title 20 of the United States Code who are not meeting challenging academic standards, which is aligned to the English language development standards and performance levels of the assessment of English language development, is appropriate for use by content area teachers at all grade levels, and is
+ designed for use with all pupils, including those with individualized education programs. In identifying an appropriate instrument, the state board shall consider the use of the standardized English language observation protocol established pursuant to Section 314.
+
+(d) On or before January 1, 2028, the department shall identify appropriate interventions for pupils who are determined, pursuant to paragraph (1), as needing additional support for their English language in order to progress academically.
+
+(e) For purposes of this section, “local educational agency” means a school district, county office of education, charter school, or state special school for the blind or the deaf.
+
+(History: Added by Stats. 2026, Ch. 619, Sec. 9.   (AB 2555)   Effective September 27, 2026.)
+-------------------------------------------
+
+313.7.
+
+Commencing with the 2027–28 school year, and subject to state and federal law regarding the privacy of pupil information, the department shall annually post on its internet website all of the following:
+
+(a) The reclassification rates of each local educational agency and charter school.
+
+(b) Statewide reclassification rates disaggregated by grade, disability status, and the 10 most commonly spoken home languages of pupils.
+
+(c) In addition to the data required to be reported pursuant to paragraph (1) of subdivision (b) of Section 60900.1,
+ statewide
+ rates of chronic absenteeism, suspension and expulsion, and school stability of reclassified pupils.
+
+(History: Added by Stats. 2026, Ch. 619, Sec. 10.   (AB 2555)   Effective September 27, 2026.)
+-------------------------------------------
+
+313.9.
+
+Subject to an appropriation for this purpose in the Budget Act or another statute, the department shall contract for an evaluation of the effects of the changes to the reclassification criteria and process required by Assembly Bill 2555 of the 2025–26 Regular Session to be completed and sent to the appropriate policy and fiscal committees of the Legislature on or before January 1, 2032. The evaluation shall include, but not be limited to, the effects on all of the following for pupils who have ever been classified as English learners:
+
+(a) The number of pupils reclassified disaggregated by grade, language, and disability status as compared to prior years.
+
+(b) The longitudinal achievement of English learner pupils in English language arts and mathematics, including pre- and post-reclassification.
+
+(c) Core curriculum access, including course placement of reclassified middle school and high school pupils and including, at minimum, a comparison with pupils never classified as English learners with respect to enrollment in core academic subjects, enrollment in upper-level and remedial or lower-level courses, and enrollment in electives.
+
+(d) For pupils who are reclassified in any grade, four-year and five-year cohort graduation rates and rates of completion of courses required to meet the admissions requirements of the California State University and the University of
+ California.
+
+(e) The administration of reclassification procedures at the local level.
+
+(f) Engagement of parents in their children’s education and understanding of English learner status and the reclassification process.
+
+(g) Achievement of biliteracy, including receiving the State Seal of Biliteracy.
+
+(h) Reclassification of English learners with disabilities.
+
+(i) The number of long-term English learners and the percentage of long-term English learners who have disabilities.
+
+(j) The monitoring practices of school districts, county offices of
+ education, and charter schools.
+
+(k) The quality of English language development instruction for English learners.
+
+(History: Added by Stats. 2026, Ch. 619, Sec. 11.   (AB 2555)   Effective September 27, 2026.)
+-------------------------------------------
+
+314.
+
+(a) On or before December 31, 2023, the department shall develop a standardized English language teacher observation protocol for use by teachers in evaluating a pupil’s English language proficiency for the purpose of a formative assessment of English learners and for monitoring reclassified pupils pursuant to Section 313.6.
 
 (b) (1) The protocol shall be designed to be used by teachers to evaluate a pupil’s use of English while engaging in academic content learning, including interactive language use with peers.
 
-(2) The protocol shall be designed to allow teachers to assess language practices across a range of proficiency levels in order to help teachers identify pupils’ performance along the continuum of progress toward proficiency in English.
+(2) The protocol shall be designed to allow teachers to assess language practices across a range of
+ proficiency levels in order to help teachers identify pupils’ performance along the continuum of progress toward proficiency in English.
 
 (3) The protocol shall be designed to be used for all English learner pupils, including those who have individualized education programs.
 
 (4) The protocol shall be designed for use by content area teachers at all grade levels, English language development teachers, bilingual teachers, and special education teachers, and shall be designed for ease of use by educators.
 
-(5) The protocol shall be aligned to the English language development standards and the performance levels for the English language development test described in Chapter 7 (commencing with Section 60810) of Part 33 of Division 4 of Title 2.
+(5) The protocol shall be aligned to the English language development standards and the performance levels for the English language development test described in Chapter 7 (commencing with Section 60810) of Part 33 of
+ Division 4 of Title 2.
 
 (c) It is the intent of the Legislature that the protocol additionally be useful to all of the following:
 
@@ -2345,57 +2547,20 @@ For purposes of this article, the following terms have the following meanings:
 
 (3) Institutions of higher education in the preparation of new teachers.
 
-(d) (1) In developing the protocol, the department shall consult, at a minimum, with current content area teachers at different grade levels, English language development teachers, bilingual teachers, and special education teachers, and with experts with demonstrated experience in observing and documenting pupil academic language practices and in developing and administering assessments for English learners. The department
- shall ensure that the majority of individuals with whom it consults are currently teaching, credentialed teachers who regularly instruct English learner pupils.
+(d) (1) In developing the protocol, the department shall consult, at minimum, with current content area teachers at different grade levels,
+ English language development teachers, bilingual teachers, and special education teachers, and with experts with demonstrated experience in observing and documenting pupil academic language practices and in developing and administering assessments for English learners. The department shall ensure that the majority of individuals with whom it consults are currently teaching, credentialed teachers who regularly instruct English learner pupils.
 
 (2) In developing the protocol, the department shall pilot the protocol with educators and pupils, and refine instruments and guidelines as needed.
 
-(3) The department shall also conduct a validation process to ensure the protocol appropriately assesses the intended target language constructs, demonstrates a meaningful relationship to the performance levels for the English language development test and assessed classroom language use, and reflects pupil progress toward attaining targeted constructs.
+(3) The department shall also conduct a validation process to ensure the protocol appropriately assesses the intended target language constructs, demonstrates a meaningful relationship to the
+ performance levels for the English language development test and assessed classroom language use, and reflects pupil progress toward attaining targeted constructs.
 
-(e) The department shall provide guidance to school districts, county offices of education, and charter schools on the use of the protocol.
+(e) The department shall provide guidance to school districts, county offices of education, and charter schools on the use of the
+ protocol.
 
 (f) The department shall develop and make available to school districts, county offices of education, and charter schools professional development tools to train teachers on the use of the protocol. These tools may include, but are not limited to, audio and video samples of English learner pupils’ language use for the purpose of assisting educators using the protocol in calibrating judgments about observed language use.
 
-(History: Amended by Stats. 2022, Ch. 52, Sec. 1.   (AB 181)   Effective June 30, 2022.)
--------------------------------------------
-
-313.5.
-
-(a) By January 1, 2014, the department shall review and analyze the criteria, policies, and practices that a sampling of school districts that represent the geographic, socioeconomic, and demographic diversity of school districts in the state use to reclassify English learners, and recommend to the Legislature and state board any guideline,
- regulatory, or statutory changes that the department determines are necessary to identify when English learners are prepared for the successful transition to classrooms and curricula that require English proficiency.
-
-(b) For purposes of completing the review and analysis required pursuant to subdivision (a), the department shall consult with parents of English learners, experts with demonstrated experience in developing and administering assessments for English learners, classroom or resource teachers, or both, school district administrators with expertise in curriculum, instruction, assessment, and accountability, and researchers possessing expertise in the education of English learners.
-
-(c) The group of experts described in subdivision (b) shall develop a study design that may include a sampling methodology for purposes of selecting the school districts that will be part of the
- review and analysis to identify best practices pursuant to subdivision (a).
-
-(d) For purposes of completing the review and analysis required pursuant to subdivision (a), the department shall examine and report on the following:
-
-(1) The practices and standards used by a sampling of school districts that represent the geographic, socioeconomic, and demographic diversity of school districts in the state to meet the four reclassification criteria specified in subdivision (f) of Section 313.
-
-(2) The extent to which school districts are following the guidelines established by the state board.
-
-(3) The range of reclassification criteria developed by school districts.
-
-(e) As part of the examination
- required pursuant to subdivision (d), the department shall analyze the following:
-
-(1) English language proficiency and academic performance data.
-
-(2) The relationship of the reclassification criteria to reclassification rates.
-
-(3) The academic performance of pupils after reclassification as English proficient.(4) The relationship of the reclassification criteria to the academic performance of pupils after reclassification.
-
-(f) In its report, the department also shall identify any other pupil outcome measures that indicate an English learner is prepared to successfully transition to a classroom and curricula that require English proficiency.
-
-(g) By January 1,
- 2014, the department shall issue a report that includes the department’s findings, research, analysis, recommendations, and best practices pursuant to subdivisions (a), (d), (e,) and (f).
-
-(h) By January 1, 2017, the department shall issue an updated report that reflects any changes in analysis and recommendations as a result of the adoption by the state board of the common core standards pursuant to Section 60605.8 and the English language development standards adopted pursuant to Section 60811.3.
-
-(i) This section shall be implemented only if state or federal funds are appropriated as necessary to fully fund this purpose or if private funds are made available as necessary to fully fund this purpose.
-
-(History: Added by Stats. 2012, Ch. 434, Sec. 1.   (SB 1108)   Effective January 1, 2013.)
+(History: Added by renumbering Section 313.3 by Stats. 2026, Ch. 619, Sec. 4.   (AB 2555)   Effective September 27, 2026.)
 -------------------------------------------
 
 
@@ -66834,8 +66999,8 @@ Reports of audits previously filed with the county clerk pursuant to Section 410
 
 (a) Commencing with the 2027–28 fiscal year Guide for Annual Audits of K–12 Local Education Agencies and State Compliance Reporting, the Controller shall include instructions necessary to require, as part of supplementary information, or other information as deemed applicable under generally accepted auditing standards, schedules of all of the following for local educational agencies, as applicable:
 
-(1) Pupil enrollment and attendance, including total pupil enrollment and attendance for each school month, and, if the local educational agency operates a multitrack year-round calendar, by track, and perform an analytical procedure and identify and disclose unusual increases or decreases in enrollment by month and track, if applicable, that
- are material and provide an opportunity for the local educational agency to provide an explanation in the note.
+(1) Pupil enrollment and attendance, including total pupil enrollment and attendance for each school month, and, if the local educational agency operates a multitrack year-round calendar, by track, and perform an analytical procedure and identify and disclose unusual increases or decreases in enrollment by month and track, if applicable, that are material and
+ provide an opportunity for the local educational agency to provide an explanation in the note.
 
 (2) The largest 25 aggregate payments or transfers of assets to individuals or organizations determined by value accumulated over the fiscal year.
 
@@ -66847,62 +67012,63 @@ Reports of audits previously filed with the county clerk pursuant to Section 410
 
 (6) The five highest-paid employees.
 
-(b) Commencing with the 2027–28 fiscal year Guide for Annual Audits of K–12 Local Education Agencies and
- State Compliance Reporting, the Controller shall include, but is not necessarily limited to, instructions necessary to require, at a minimum, that all of the following compliance procedures are performed in an audit of a local educational agency, except as otherwise limited:
+(b) Commencing with the 2027–28 fiscal year Guide for Annual Audits of K–12 Local Education Agencies and State Compliance
+ Reporting, the Controller shall include, but is not necessarily limited to, instructions necessary to require, at a minimum, that all of the following compliance procedures are performed in an audit of a local educational agency, except as otherwise limited:
 
 (1) Compliance: compliance with professional accounting and auditing standards with an emphasis in the audit guide that annual audits of local educational agencies issued in compliance with the standards and requirements of the Governmental Accounting Standards Board (GASB) or Financial Accounting Standards Board (FASB), as applicable, shall be conducted in accordance with generally accepted auditing standards (GAAS) and generally accepted government auditing standards.
 
-(2) (A) Sample selection: where representative samples of pupils, pupil work product, financial transactions, or other
- sampling are required to be performed and selected, the auditor shall independently identify the sample and make that selection in a manner that cannot be predicted, in accordance with professional standards.
+(2) (A) Sample selection: where representative samples of pupils, pupil work product, financial transactions, or other sampling are
+ required to be performed and selected, the auditor shall independently identify the sample and make that selection in a manner that cannot be predicted, in accordance with professional standards.
 
 (B) Auditor transaction sampling shall include a sample size appropriate for the type of local educational agency pursuant to the test of compliance sample table in the Guide for Annual Audits of K–12 Local Education Agencies and State Compliance Reporting.
 
 (C) Sampling of pupil enrollment, attendance, and instructional minutes shall be representative of and inclusive of all the local education agencies’ tracks and grade spans as applicable and in consideration of materiality levels established in the Guide for Annual Audits of K–12 Local Education Agencies and State Compliance Reporting.
 
-(D) For an audit of a
- locally funded charter school that is governed by a school district or county office of education and that is included in the school district’s or county office of education’s audit, the auditor shall ensure that all samples completed are representative of each of the local educational agencies included in the audit.
+(D) For an audit of a locally funded
+ charter school that is governed by a school district or county office of education and that is included in the school district’s or county office of education’s audit, the auditor shall ensure that all samples completed are representative of each of the local educational agencies included in the audit.
 
 (E) Audits shall ensure that samples from all payment sources are selected and shall verify that those payments are legal and have proper authorization. The sampling shall include, but is not limited to, payments made through a variety of sources such as credit cards, debit cards, and other electronic payment methods and media, and bank statements.
 
-(3) Charter schools that are locally funded and governed by a school district or county office of education shall report charter school financial data separately from the general fund of the school district or county office
- of education. If the school district or county office of education audit includes more than one charter school, or if the charter school fund is not a major fund, the local educational agency shall also present financial data separately for each individual charter school in the supplemental section or footnotes of the audit report.
+(3) Charter schools that are locally funded and governed by a school district or county office of education shall report charter school financial data separately from the general fund of the school district or county office of education.
+ If the school district or county office of education audit includes more than one charter school, or if the charter school fund is not a major fund, the local educational agency shall also present financial data separately for each individual charter school in the supplemental section or footnotes of the audit report.
 
 (4) Using appropriate sampling techniques, verify pupil enrollment for independent study programs at local educational agencies and verify that a pupil’s residence meets applicable residency requirements based on documentation provided by the parent or guardian of the pupil, emancipated pupil, or other custodian of the pupil, or, in the case of a pupil over 18 years of age, by the pupil.
 
-(5) (A) Chartering authority input for audits of a charter school: require auditors to consult with and inquire of the chartering authority during
- planning stages of the audit of a charter school authorized by the chartering authority to assist the auditor in identifying potential audit risks, including, but not limited to, fiscal and compliance areas that the charter school may not meet expectations, potential fraud risks, irregularities in observations and reporting, and other background information pertinent to the audit.
+(5) (A) Chartering authority input for audits of a charter school: require auditors to consult with and inquire of the chartering authority during planning
+ stages of the audit of a charter school authorized by the chartering authority to assist the auditor in identifying potential audit risks, including, but not limited to, fiscal and compliance areas that the charter school may not meet expectations, potential fraud risks, irregularities in observations and reporting, and other background information pertinent to the audit.
 
-(B) County office of education input for audits of a school district or educational joint powers authority: require auditors to consult with and inquire of the county office of education during planning stages of the audit of a school district or educational joint powers authority to assist the auditor in identifying potential audit risks, including, but not limited to, fiscal and compliance areas that the school district or educational joint powers authority may not meet expectations, potential fraud risks, irregularities in observations and reporting, and other
- background information pertinent to the audit.
+(B) County office of education input for audits of a school district or educational joint powers authority: require auditors to consult with and inquire of the county office of education during planning stages of the audit of a school district or educational joint powers authority to assist the auditor in identifying potential audit risks, including, but not limited to, fiscal and compliance areas that the school district or educational joint powers authority may not meet expectations, potential fraud risks, irregularities in observations and reporting, and other background
+ information pertinent to the audit.
 
 (C) Department input for audits of a county office of education: require auditors to consult with and inquire of the department during planning stages of the audit of a county office of education to assist the auditor in identifying potential audit risks, including, but not limited to, fiscal and compliance areas that the county office of education may not meet expectations, potential fraud risks, irregularities in observations and reporting, and other background information pertinent to the audit.
 
-(6) (A) Related entity for audits of a charter school: determining if a related entity, such as a charter management organization, education management organization, or similar third party with financial, economic, or controlling membership interest, exists with the charter school, as defined by generally accepted
- accounting principles. A charter school that files a federal tax return shall include all related entities identified on the federal tax return in the disclosure required by this paragraph.
+(6) (A) Related entity for audits of a charter school: determining if a related entity, such as a charter management organization, education management organization, or similar third party with financial, economic, or controlling membership interest, exists with the charter school, as defined by generally accepted accounting
+ principles. A charter school that files a federal tax return shall include all related entities identified on the federal tax return in the disclosure required by this paragraph.
 
 (B) If a relationship is determined to exist pursuant to subparagraph (A), evaluate the level of the relationship to determine if it is material. For purposes of materiality, determine if the related party has a material financial, economic, or controlling interest in the charter school or can exercise material control, such as common management or board, majority voting interest, or sole corporate or statutory member or other arrangement.
 
 (7) (A) Verification: For a charter school, verify if more than 20 percent of the charter school’s total average daily attendance was generated through independent study, pursuant to Section 47634.2.
 
-(B) Verify the pupil-to-teacher ratio calculation. For independent study programs at school districts, county offices of education, and charter schools, verify the pupil-to-teacher ratios and calculations required pursuant to Section 51745.6.
+(B) Verify the pupil-to-teacher ratio calculation. For independent study programs at school districts, county offices of education, and charter schools, verify the average daily attendance-to-full-time equivalent certificated employee ratio calculations for independent study programs comply with Section 51745.6.
 
-(8) Identify any transfers of funds or assets to other individuals or organizations that exceed one million dollars ($1,000,000) or 10 percent of the local educational agency’s total revenue and other sources, whichever is less, together with a written explanation from the local educational agency regarding the local educational agency’s purpose for each of those transfers of funds or assets.
+(8) Identify any transfers of funds or assets to other individuals or organizations that exceed one million dollars ($1,000,000) or 10 percent of the local educational agency’s total revenue and other sources, whichever is less, together with a written explanation from the local educational agency regarding the local educational
+ agency’s purpose for each of those transfers of funds or assets.
 
-(9) Charter School Oversight: Ensure the chartering authority has documentation of completing the oversight tasks in Section 47604.32 and teacher assignment monitoring pursuant to Section
- 44258.9.
+(9) Charter School Oversight: Ensure the chartering authority has documentation of completing the oversight tasks in Section 47604.32 and teacher assignment monitoring pursuant to Section 44258.9.
 
 (10) (A) For schools that offer grades 10, 11, or 12, inclusive, at local educational agencies, perform an analytical procedure and identify unusual enrollment patterns between consecutive grade levels and pupils that change grade levels during the school year for that school and report as a note that shall not include personally identifiable information for any pupil.
 
-(B) Identify if a pupil advanced to grade 12 without completing a California Assessment of Student Performance and Progress assessment in English language arts/literacy and mathematics using pupil cohort data and assessment data and report the number of such pupils as a note. Report the total number of pupils disenrolled from the school after census day, in a note. A local educational agency shall provide the auditor necessary assessment data from the Test Operations Management System
- or subsequent successor system.
+(B) Identify if a pupil advanced to grade 12 without completing a California Assessment of Student Performance and Progress assessment in English language arts/literacy and
+ mathematics using pupil cohort data and assessment data and report the number of such pupils as a note. Report the total number of pupils disenrolled from the school after census day, in a note. A local educational agency shall provide the auditor necessary assessment data from the Test Operations Management System or subsequent successor system.
 
 (11) Verify documentation of pupil work products, pursuant to clause (iii) of subparagraph (A) of paragraph (2) of subdivision (b) of Section 51747.5.
 
-(c) Commencing with the 2027–28 fiscal year Guide for Annual Audits of K–12 Local Education Agencies and State Compliance Reporting, the Controller shall include a library of sample letters and schedules applicable to the Guide for Annual Audits of K–12 Local Education Agencies and State Compliance Reporting requirements for both school districts and charter schools as a means of guidance to auditors.
+(c) Commencing with the 2027–28 fiscal year Guide for Annual Audits of K–12 Local Education Agencies and State Compliance Reporting, the Controller shall include a library of sample letters and schedules applicable to the Guide for Annual Audits of K–12 Local Education Agencies and State Compliance Reporting requirements for both school districts and charter schools as a means of guidance
+ to auditors.
 
 (d) For purposes of this section, “local educational agency” means a school district, county office of education, charter school, or educational joint powers authority.
 
-(History: Added by Stats. 2026, Ch. 65, Sec. 43.   (AB 126)   Effective July 9, 2026.)
+(History: Amended by Stats. 2026, Ch. 608, Sec. 1.   (AB 2467)   Effective September 27, 2026.)
 -------------------------------------------
 
 41020.8.
@@ -77780,13 +77946,12 @@ The holder of a single subject teaching credential or a standard secondary teach
 (B) That local educational agencies, state officials, pupils, and guardians have a vested interest in knowing and
  understanding the capacity of local educational agencies to fill all available and funded teaching assignments with educators who are fully credentialed for the subjects and pupils they are teaching, and a vested interest in understanding the scope of the teacher shortage across the TK/K–12 educational system, including, but not limited to, those instances where vacancies cannot be filled, resulting in the use of substitutes, increases in class size, or cancellation of courses or classes.
 
-(2) To support pupil access to credentialed and appropriately assigned educators, the commission and the department shall collaborate to publish annual data on educator credentialing and assignment, at the school, local educational agency, and state levels. To the
- extent possible, and with the funds provided for that purpose, each county office of education shall perform its duties as a monitoring authority, as specified in subdivision (e).
+(2) To support pupil access to credentialed and appropriately assigned educators, the commission and the department shall collaborate to publish annual data on educator credentialing and assignment, at the school, local educational agency, and state levels. To the extent possible, and with the funds provided for that purpose, each county office of education shall perform its duties as a monitoring authority, as specified in subdivision (e).
 
 (3) The commission and the department shall collaborate to perform the duties specified in this section, with the commission executing the assignment monitoring process and the department facilitating the annual teaching assignment monitoring data production and publication.
 
-(4) The teaching assignment monitoring outcome data reporting shall be executed in a manner consistent with the statewide system of support and the school accountability system established pursuant to Article 4.5 (commencing with Section 52059.5) of Chapter 6.1 of Part 28 of Division 4, county office of education monitoring established pursuant to Article 2 (commencing with Section 1240) of Chapter 2 of Part 2 of Division 1 of Title
- 1, and the state plan approved by the state board that is required for compliance with the federal Every Student Succeeds Act, or any other federal law that effectively replaces that act.
+(4) The teaching assignment monitoring outcome data reporting shall be executed in a manner consistent with the statewide system of support and the school accountability system established pursuant to Article 4.5 (commencing with Section 52059.5) of Chapter 6.1 of Part 28 of Division 4, county office of education monitoring established pursuant to Article 2 (commencing with Section 1240) of Chapter 2 of Part 2 of Division 1 of Title 1, and the state plan approved by the state board that is required for compliance with the federal Every Student Succeeds Act, or any other federal law that effectively replaces that
+ act.
 
 (b) For purposes of this section, the following definitions and identifications apply:
 
@@ -77798,86 +77963,83 @@ The holder of a single subject teaching credential or a standard secondary teach
 
 (iii) Filled by a teacher who is appropriately assigned.
 
-(B) A “fully credentialed teacher” means an
- individual who has completed a teacher preparation program, as defined in subdivision (e) of Section 44225.7, and who holds a valid preliminary or clear credential issued based upon the completion of that teacher preparation program.
+(B) A “fully credentialed teacher” means an individual who has completed a teacher preparation program, as defined in subdivision (e) of Section 44225.7, and who holds a valid preliminary or clear credential issued based upon
+ the completion of that teacher preparation program.
 
 (C) An assignment is “permanently filled as of Census Day” if the educator serving as a teacher has been contracted as of Census Day to provide instruction for either the entire school year or for a one-semester course for the entire semester.
 
 (D) A teacher is “appropriately assigned” if the teacher holds a credential, permit, or waiver issued by the commission that contains an authorization to legally teach in the setting, in the subject area, and the pupil population associated with the assignment.
 
-(2) “An unfilled position” shall be identified in each instance where a local
- educational agency has attempted to fill or is actively trying to fill an open and funded position, but is unable to do so.
+(2) “An unfilled position” shall be identified in each instance where a local educational agency has attempted to fill or is actively trying to fill an open and funded position, but is unable to do so.
 
-(3) “A vacant position” shall be identified in each instance where, as of Census Day, a course or class assignment has not been permanently filled by a single-designated certificated employee serving for either the entire school year or for a one-semester course for the entire semester. For purposes of identifying an instance of a teacher shortage pursuant to paragraph (3) of subdivision
- (i), a “vacant position” shall be limited to an employee serving as a teacher.
+(3) “A vacant position” shall be identified in each instance where, as of Census Day, a course or class assignment has not been permanently filled by a single-designated certificated employee serving for either the entire school year or for a one-semester course for the entire semester. For purposes of identifying an instance of a teacher shortage pursuant to paragraph (3) of subdivision (i), a “vacant position” shall be limited to an employee serving as a teacher.
 
 (4) “Assignment” means the placement of an individual in a teaching or services position. An “assignment” can be filled legally by an individual with a credential, permit, waiver, or any other document issued by the commission authorizing the assignment, or the individual may be otherwise authorized by statute.
 
-(5) “Local educational agency” means a school district, county office of education, charter school, or state special school.
+(5) “Local educational agency” means a school district, county office of education, charter
+ school, or state special school.
 
-(6) “Misassignment” has the same meaning as defined in Section 33126. For purposes of this section, “employee,” as used in the definition of “misassignment” in Section 33126, includes an individual hired on a contract. For purposes of this section, in a charter
- school, “misassignment” shall apply only to employees in teaching positions.
+(6) “Misassignment” has the same meaning as defined in Section 33126. For purposes of this section, “employee,” as used in the definition of “misassignment” in Section 33126, includes an individual hired on a contract. For purposes of this section, in a charter school, “misassignment” shall apply only to employees in teaching positions.
 
 (7) “Monitoring authority” means:
 
 (A) The county office of education for school districts in the county and programs operated by the county office of education.
 
-(B) The commission for a school district or county office of education that operates within a city or county in which there is a single school district, including the Counties of Alpine, Amador, Del Norte, Mariposa, Plumas, and Sierra, and the City and County of San Francisco, and the state special schools.
+(B) The commission for a school district or county office of education that operates within a city or county in which there is a single school district, including the Counties of Alpine, Amador, Del Norte, Mariposa, Plumas, and
+ Sierra, and the City and County of San Francisco, and the state special schools.
 
 (C) (i) The chartering authority for a charter school.
 
-(ii) Notwithstanding clause (i), in cases where a charter school operates
- under the authority of a school district in which the charter school is the sole schoolsite in the school district, the commission shall serve as the monitoring authority.
+(ii) Notwithstanding clause (i), in cases where a charter school operates under the authority of a school district in which the charter school is the sole schoolsite in the school district, the commission shall serve as the monitoring authority.
 
 (8) “System,” unless the context requires otherwise, means the California Statewide Assignment Accountability System, which is an electronic data system administered by the commission for monitoring educator assignments and vacant positions and uses department data collected pursuant to Sections 10600 and 60900 for its functioning.
 
-(c) The commission and the department shall enter into a data sharing agreement for the department to provide the commission with educator assignment data necessary to annually identify educator assignments, including assignments filled by individuals on preliminary or clear credentials, intern credentials, permits or waivers, misassignments, and vacant positions at local educational
- agencies. The data sharing agreement shall also require the commission to make credential, permit, waiver, misassignment, vacant positions, and other relevant data available to the department to support reporting consistent with the state plan approved by the state board that is required for compliance with the federal Every Student Succeeds Act (Public Law 114–95), or any other federal law that effectively replaces that act, and applicable state reporting requirements, including for the statewide system of support established pursuant to Article 4.5 (commencing with Section 52059.5) of Chapter 6.1 of Part 28 of Division 4.
+(c) The commission and
+ the department shall enter into a data sharing agreement for the department to provide the commission with educator assignment data necessary to annually identify educator assignments, including assignments filled by individuals on preliminary or clear credentials, intern credentials, permits or waivers, misassignments, and vacant positions at local educational agencies. The data sharing agreement shall also require the commission to make credential, permit, waiver, misassignment, vacant positions, and other relevant data available to the department to support reporting consistent with the state plan approved by the state board that is required for compliance with the federal Every Student Succeeds Act (Public Law 114–95), or any other federal law that effectively replaces that act, and applicable state reporting requirements, including for the statewide system of support established pursuant to Article 4.5 (commencing with Section 52059.5) of Chapter 6.1 of Part 28 of Division 4.
 
-(d) The commission and the department may engage in a variety of activities designed to inform school administrators, teachers, and personnel within the county offices of education of the regulations and statutes affecting the assignment of educators and how data on educator assignments is published and used. These
- activities may include, but shall not necessarily be limited to, the preparation of instructive brochures and the holding of regional workshops.
+(d) The commission and the department may engage in a variety of activities designed to inform school administrators, teachers, and personnel within the county offices of education of the regulations and statutes affecting the assignment of educators and how data on educator assignments is published and used. These activities may include, but shall not necessarily be limited to, the preparation of instructive brochures and the holding of regional workshops.
 
-(e) (1) The commission shall annually use the data provided by the department pursuant to subdivision (c) to produce an initial data file of vacant positions and educator assignments that do not have a clear match of credential to assignment. The commission shall notify local educational agencies and monitoring authorities of the opportunity to access the system and review the initial data file of potential misassignments and vacant positions.
+(e) (1) The commission shall annually use the data provided by the department pursuant to subdivision (c) to produce an initial data file of vacant positions and educator assignments that do not have a clear match of credential to assignment. The commission shall notify local educational agencies and monitoring authorities of the opportunity to access the system and review the initial data file of potential
+ misassignments and vacant positions.
 
 (2) A local educational agency may do any of the following within 60 days of the commission’s notification pursuant to paragraph (1):
 
-(A) Access and review the initial data file in the system to determine if each
- educator included in the initial data file is otherwise legally authorized for the assignment.
+(A) Access and review the initial data file in the system to determine if each educator included in the initial data file is otherwise legally authorized for the assignment.
 
 (B) Submit documentation or additional assignment information to the commission and monitoring authority showing that the educator is otherwise legally authorized for the assignment. This information may include the use of local assignment options outlined in any statute or regulation.
 
-(C) Submit documentation to the commission and monitoring authority showing that a position identified in the initial data file as vacant was miscoded and that a legally authorized educator was assigned to the position.
+(C) Submit documentation to the commission and monitoring authority showing that a position identified in the initial data file as
+ vacant was miscoded and that a legally authorized educator was assigned to the position.
 
 (3) Information submitted to the commission and monitoring authority pursuant to paragraph (2) shall be submitted electronically through the system.
 
-(4) A
- monitoring authority shall access the system to review the initial data file and any documentation or additional information submitted by a local educational agency for which it is a monitoring authority and make a determination of potential misassignments and vacant positions within 90 days of the commission’s notification pursuant to paragraph (1).
+(4) A monitoring authority shall access the system to review the initial data file and any documentation or additional information submitted by a local educational agency for which it is a monitoring authority and make a determination of potential misassignments and vacant positions within 90 days of the commission’s notification pursuant to paragraph (1).
 
 (5) The commission shall have the authority to make a final determination for all potential assignments and misassignments.
 
-(6) After the 90-day review period pursuant to paragraph (4), the commission shall share all educator assignment data, including all preliminary and clear credentials, intern credentials, permits, waivers, misassignments, and vacant positions for that year, with the department for the department’s teaching assignment monitoring outcomes report and other state and federal reporting requirements.
+(6) After the 90-day review period
+ pursuant to paragraph (4), the commission shall share all educator assignment data, including all preliminary and clear credentials, intern credentials, permits, waivers, misassignments, and vacant positions for that year, with the department for the department’s teaching assignment monitoring outcomes report and other state and federal reporting requirements.
 
 (7) Once published, the commission shall post a link to the department’s teaching assignment monitoring outcomes reporting on its internet website, with resources for local educational agencies seeking to maintain a fully credentialed and appropriately assigned educator workforce.
 
-(8) Notwithstanding any other law, the commission, when identifying misassignments using the system, shall identify an educator in a teaching position, including an educator at a charter school, as correctly assigned only when the educator holds the certificate or credential required by the commission for that assignment in a noncharter public school, taking into account local assignment options.
+(8) Notwithstanding any other law, the commission, when identifying misassignments using the system, shall identify an educator in a teaching position, including an educator at a charter school, as correctly assigned only when the educator holds
+ the certificate or credential required by the commission for that assignment in a noncharter public school, taking into account local assignment options.
 
-(9) Commencing in the 2020–21 school year, a chartering authority, as provided in this section, may request technical assistance to assist in its
- determination of potential misassignments and vacant positions from the county office of education in the county in which the chartering authority is located.
+(9) Commencing in the 2020–21 school year, a chartering authority, as provided in this section, may request technical assistance to assist in its determination of potential misassignments and vacant positions from the county office of education in the county in which the chartering authority is located.
 
-(10) For a school district, the county superintendent of schools shall notify, through the office of the school district superintendent, a certificated school administrator responsible for the assignment of a certificated person to a position for which the person has no legal authorization of the misassignment, and shall advise the school administrator to correct the assignment within 30 calendar days. For a charter school, the monitoring authority shall notify the charter school administrator responsible for the assignment of a certificated person to a position for which the person has
- no legal authorization of the misassignment and shall advise the charter school administrator to correct the assignment within 30 calendar days.
+(10) For a school district, the county superintendent of schools shall notify, through the office of the school district superintendent, a certificated school administrator responsible for the assignment of a certificated person to a position for which the person has no legal authorization of the misassignment, and shall advise the school administrator to correct the assignment within 30 calendar days. For a charter school, the
+ monitoring authority shall notify the charter school administrator responsible for the assignment of a certificated person to a position for which the person has no legal authorization of the misassignment and shall advise the charter school administrator to correct the assignment within 30 calendar days.
 
 (f) The system and the data reported from the system shall not be used by a local educational agency for purposes of evaluating certificated employees, certificated employee performance determinations, or employment decisions.
 
 (g) If an employee, including an employee who is employed by a charter school, is required by a local educational agency to accept an assignment in a teaching or services position for which the employee has no legal authorization, all of the following shall occur:
 
-(1) (A) After exhausting existing local remedies, an employee of a school district shall notify the superintendent of the school district, and an employee of a charter
- school shall notify the administrator of the charter school, in writing, of the illegal assignment.
+(1) (A) After exhausting existing local remedies, an employee of a school district shall notify the superintendent of the school district, and an employee of a charter school shall notify the administrator of the charter school, in writing, of the illegal assignment.
 
 (B) If no action is taken after the notice required pursuant to subparagraph (A), an employee of a school district shall notify the county superintendent of schools, and an employee of a charter school shall notify the chartering authority, in writing, of the illegal assignment.
 
-(2) In the case of an assignment by a school district for which the employee has filed a notice that the employee has no legal authorization, the school district or county superintendent of schools shall advise the employee about the legality of the assignment within 15 working days. In the case of an assignment by a charter school for which the employee has filed a notice that the employee has no legal authorization, the administrator of the charter school or the chartering authority shall advise the
- employee about the legality of the assignment within 15 working days.
+(2) In the case of an assignment by a school district for which the employee has filed a notice that the employee has no legal authorization, the school district or county superintendent of schools shall advise the employee about the legality of the assignment within 15 working days. In the case of an assignment by a charter school
+ for which the employee has filed a notice that the employee has no legal authorization, the administrator of the charter school or the chartering authority shall advise the employee about the legality of the assignment within 15 working days.
 
 (3) A local educational agency shall not take adverse action against an employee who files a notice of misassignment pursuant to paragraph (1).
 
@@ -77885,26 +78047,26 @@ The holder of a single subject teaching credential or a standard secondary teach
 
 (5) During the period of a misassignment, the certificated employee who files a written notice pursuant to subparagraph (B) of paragraph (1) shall be exempt from Section 45034.
 
-(6) If it is determined that a misassignment has occurred, a performance evaluation pursuant to Article 11 (commencing with Section 44660) of Chapter 3 of
- the certificated employee in the misassignment shall be nullified.
+(6) If it is determined that a misassignment has occurred, a performance evaluation pursuant to Article 11 (commencing with Section 44660) of Chapter 3 of the certificated employee in the misassignment shall be nullified.
 
 (7) A certificated employee who has not attained permanent status is subject to the protections described in this subdivision and subdivision (f) even if the certificated employee does not provide notice pursuant to paragraph (1).
 
 (h) For the 2019–20 school year, the final data file generated by the system to identify misassignments and vacant positions shall be nonconsequential and shall be provided to the department, local educational agencies, and monitoring authorities by the commission for informational purposes only.
 
-(i) Commencing with the 2020–21 school year, and each school year thereafter, following the 90-day review period provided for monitoring authorities pursuant to subdivision (e), the commission shall do all of the following:
+(i) Commencing
+ with the 2020–21 school year, and each school year thereafter, following the 90-day review period provided for monitoring authorities pursuant to subdivision (e), the commission shall do all of the following:
 
 (1) Ensure local educational agencies have access to the results of the system’s process of assignment monitoring to support local continuous improvement efforts.
 
-(2) Publish annual certificated educator assignment data that reflects the level of preparation and licensure of educators serving California pupils. This data shall include comprehensive information on all educator assignments, including those filled by individuals on permits or waivers, intern credentials, and preliminary or clear credentials, and those appropriately assigned and misassigned, at the schoolsite, local educational agency, county, and state
- levels. The commission may also publish data on educators serving on administrative and pupil services credentials, educator preparation pathways, and educator retention, and whether certificated staff are employed in K–12 education.
+(2) Publish annual certificated educator assignment data that reflects the level of preparation and licensure of educators serving California pupils. This data shall include comprehensive information on all educator assignments, including those filled by individuals on permits or waivers, intern credentials, and preliminary or clear credentials, and those appropriately assigned and misassigned, at the schoolsite, local educational agency, county, and state levels. The commission may also publish data on educators
+ serving on administrative and pupil services credentials, educator preparation pathways, and educator retention, and whether certificated staff are employed in K–12 education.
 
 (3) (A) Identify instances of a teacher shortage in each instance where, as of Census Day, a course or class assignment is permanently filled by an employee who is not fully credentialed or who is not appropriately assigned, as identified in clauses (i) to (vii), inclusive, below:
 
 (i) Individuals who are fully credentialed teachers and are serving outside their credential area based on holding a valid commission-issued permit authorizing the subject, setting, or pupil population being taught.
 
-(ii) Individuals who are fully
- credentialed teachers and are serving outside of their credential area pursuant to a statute or Title 5 of the California Code Regulations that allows a local educational agency to otherwise legally assign the individual at the local level.
+(ii) Individuals who are fully credentialed teachers and are serving outside of their credential area pursuant to a statute or Title
+ 5 of the California Code Regulations that allows a local educational agency to otherwise legally assign the individual at the local level.
 
 (iii) Individuals serving on a valid district or university intern credential that authorizes the subject, setting, or pupil population being taught.
 
@@ -77912,7 +78074,8 @@ The holder of a single subject teaching credential or a standard secondary teach
 
 (v) Individuals serving on the basis of a valid permit issued by the commission that authorizes the subject, setting, or pupil population being taught.
 
-(vi) Individuals serving on a short-term or variable-term waiver document issued by the commission that authorizes the subject, setting, or pupil population being taught.
+(vi) Individuals serving on a short-term or
+ variable-term waiver document issued by the commission that authorizes the subject, setting, or pupil population being taught.
 
 (vii) Individuals who are identified as misassigned by the commission, other than those educators described in clause (iv).
 
@@ -77920,17 +78083,17 @@ The holder of a single subject teaching credential or a standard secondary teach
 
 (4) Support the department to do all of the following:
 
-(A) Make annual educator assignment, misassignment, and vacant position data generated by the system publicly available in a searchable format on the department’s internet website.
- Data shall be updated annually and provide comprehensive information on teaching assignment outcomes inclusive of all educator classifications at the schoolsite, school district, and county levels.
+(A) Make annual educator assignment, misassignment, and vacant position data generated by the system publicly available in a searchable format on the department’s internet website. Data shall be updated annually and provide comprehensive information on teaching assignment outcomes
+ inclusive of all educator classifications at the schoolsite, school district, and county levels.
 
 (B) Ensure that data for charter schools is distinguishable from data for noncharter public schools when made publicly available in a searchable format.
 
 (C) Maintain each year’s data for no less than five years.
 
-(D) Ensure that the publicly available misassignment data reported from the system shall not include any personally identifiable information, including names, social security numbers, home addresses, telephone numbers,
- or email addresses of individual educators.
+(D) Ensure that the publicly available misassignment data reported from the system shall not include any personally identifiable information, including names, social security numbers, home addresses, telephone numbers, or email addresses of individual educators.
 
-(j) The commission may promulgate regulations that define standards for a local educational agency, including a charter school, that consistently misassigns educators and what sanctions, if any, to impose on that local educational agency.
+(j) The commission may promulgate regulations that define standards for a local educational agency, including a charter school, that consistently misassigns educators and what sanctions, if
+ any, to impose on that local educational agency.
 
 (k) (1) On or before December 1, 2022, the commission shall report to the appropriate policy and fiscal committees of the Legislature on the development of the system, including, but not limited to, all of the following:
 
@@ -77938,8 +78101,7 @@ The holder of a single subject teaching credential or a standard secondary teach
 
 (B) The ability of the system to efficiently produce accurate annual data on teacher misassignments.
 
-(C) Statewide
- information regarding misassignments, delineated by credential type, assignment, and type of school.
+(C) Statewide information regarding misassignments, delineated by credential type, assignment, and type of school.
 
 (D) Use of local assignment options, delineated by local assignment option and type of school.
 
@@ -77949,18 +78111,20 @@ The holder of a single subject teaching credential or a standard secondary teach
 
 (2) Pursuant to Section 10231.5 of the Government Code, the reporting requirement described in paragraph (1) shall be inoperative on December 1, 2026.
 
-(l) This section shall not
- relieve a local educational agency from compliance with state and federal law regarding teachers of English learners or be construed to alter the definition of “misassignment” for purposes of Section 33126 or the definition of “vacancy” for purposes of Section 35186.
+(l) This section shall not relieve a local educational agency from compliance with state and federal law regarding teachers of English learners or be construed to alter the definition of “misassignment” for purposes of Section 33126 or the definition of “vacancy” for purposes of Section
+ 35186.
 
 (m) This section does not change existing rights or obligations, including, but not limited to, those specified in Sections 33126 and 33315.
 
-(n) (1) Beginning July 1, 2027, a teacher employed by a local educational agency and offering a course in which pupils receive course credit or that counts toward instructional minutes, or both, shall hold the certificate, permit, or other document required by the commission for that assignment and shall be monitored.
+(n) (1) Beginning July 1, 2027, a teacher employed by a local educational agency and offering a course in which pupils receive course credit or that counts toward instructional minutes, or both, shall hold the certificate, permit, or other document required by the commission for that assignment and shall be reported to the department by the local educational agency annually and monitored, as specified in subdivision (e).
 
-(2) Paragraph (1) does not authorize a local educational agency to assign a teacher of record that is not an employee of the local educational agency.
+(2) Paragraph (1) does not
+ authorize a local educational agency to assign a teacher of record that is not an employee of the local educational agency.
 
-(3) For purposes of this subdivision, “local educational agency” means a school district, county office of education, charter school, or educational joint powers authority.
+(3) For purposes of this subdivision, “local educational agency” means a school district, county office of education,
+ or charter school.
 
-(History: Amended by Stats. 2026, Ch. 65, Sec. 59.   (AB 126)   Effective July 9, 2026.)
+(History: Amended by Stats. 2026, Ch. 608, Sec. 2.   (AB 2467)   Effective September 27, 2026.)
 -------------------------------------------
 
 44259.
@@ -79938,29 +80102,47 @@ A “diversified” or “liberal arts” program is any program that has been a
 
 44320.
 
-(a) Professional preparation, including student teaching, shall be made available in the upper division course offerings at all California public institutions of higher learning, except the California Maritime Academy and the college named in Section 92200. No more than nine semester units, or the equivalent, of professional education courses may be designated as prerequisites for purposes of admission to student teaching, except that, to satisfy the English language requirement as set forth in paragraph (3) of subdivision (b) of Section 44259, candidates may be required to take 12 semester units, or the equivalent, as professional education prerequisites to student teaching.
+(a) Professional preparation, including student teaching, shall be made available in the upper division course offerings at all California public institutions of higher learning, except the California Maritime Academy and the College of the Law, San Francisco. No more than nine semester units, or the equivalent, of professional education courses may be designated as prerequisites for purposes of admission to student teaching, except that, to satisfy the English language requirement as set forth in paragraph (3) of subdivision (b) of Section 44259, candidates may be required to take 12 semester units, or the equivalent, as professional education prerequisites to student teaching.
 
-(b) The commission shall encourage postsecondary
- institutions that offer programs of professional preparation to collaborate with school districts, county offices of education, and professional organizations in the design and delivery of local programs to function as part of the California Beginning Teacher Support and Assessment Program pursuant to Section 44279.2. If local educational agencies and institutions of higher education voluntarily agree to implement the program, the following provisions shall apply to each collaborative effort:
+(b) The commission shall encourage institutions of higher education that offer programs of professional preparation to collaborate with school districts, county offices of education, and professional organizations in the design and delivery of local programs to function as part of the California Beginning Teacher Support and Assessment Program pursuant to Section 44279.2. If local educational agencies and institutions of higher education voluntarily agree to implement the program, the following provisions shall apply to each collaborative effort:
 
-(1) Postsecondary institutions and local educational agencies shall coordinate and articulate the program of professional preparation and the California Beginning Teacher Support and Assessment Program, so the two programs provide continuity in the preparation, support, and assessment of beginning teachers.
+(1) Institutions of higher education and local educational agencies shall coordinate and articulate the program of professional preparation and the California Beginning Teacher Support and Assessment Program, so the two programs provide continuity in the preparation, support, and assessment of
+ beginning teachers.
 
-(2) At the discretion of a postsecondary institution that participates in a
- collaborative effort, the program of professional preparation may be submitted to the commission for approval as a program of preparation, support, and assessment that is at least two years long.
+(2) At the discretion of an institution of higher education that participates in a collaborative effort, the program of professional preparation may be submitted to the commission for approval as a program of preparation, support, and assessment that is at least two years long.
 
-(3) In each program of preparation, support, and assessment, the postsecondary institution shall make it possible for each candidate to complete all requirements for a valid teaching credential in the equivalent of one year of full-time study.
+(3) In each program of preparation, support, and assessment, the institution of higher education shall make it possible for each candidate to complete all requirements for a valid teaching credential in the equivalent of one year of full-time study.
 
-(4) A postsecondary institution that participates in a collaborative effort may, at its discretion, determine that successful completion of the support and assessment components of an articulated program of professional preparation, support, and assessment fulfills some or all of the requirements of subdivision (c) of Section 44259, and may accordingly recommend applicants for the professional teaching credential. The standards and criteria for
- making these determinations and recommendations shall be included in the institution’s proposal for a program.
+(4) An institution of higher education that participates in a collaborative effort may, at its discretion, determine that successful completion of the support and assessment
+ components of an articulated program of professional preparation, support, and assessment fulfills some or all of the requirements of subdivision (c) of Section 44259, and may accordingly recommend applicants for the professional teaching credential. The standards and criteria for making these determinations and recommendations shall be included in the institution’s proposal for a program.
 
-(5) A local educational agency that collaborates, at its own discretion, with a postsecondary education institution in the design and delivery of an articulated program of professional preparation, support, and assessment that meets the standards and criteria pursuant to subdivision (c) of Section 44279.2, and that receives funds pursuant to the annual Budget Act, may contract with the postsecondary institution to pay the institution’s costs of designing and delivering the support and assessment components of the program.
+(5) A local educational agency that collaborates, at its own discretion, with an institution of higher education in the design and delivery of an articulated program of professional preparation, support, and assessment that meets the standards and criteria pursuant to subdivision (c) of Section 44279.2, and that receives funds pursuant to the annual Budget Act, may contract with the institution of higher education to pay the institution’s costs of designing
+ and delivering the support and assessment components of the program.
 
-(c) Local educational agencies that are approved by the commission to provide programs of personalized preparation to candidates for designated subjects teaching credentials are encouraged to participate in the design and delivery of local programs under
- the California Beginning Teacher Support and Assessment Program pursuant to Article 4.5 (commencing with Section 44279.2), in a manner consistent with subdivision (b).
+(c) Local educational agencies that are approved by the commission to provide programs of personalized preparation to candidates for designated subjects teaching credentials are encouraged to participate in the design and delivery of local programs under the California Beginning Teacher Support and Assessment Program pursuant to Article 4.5 (commencing with Section 44279.2), in a manner consistent with subdivision (b).
 
-(d) Before admission to either student teaching under any professional preparation program approved by the commission, or participation in a field experience program as described in Section 44324, a candidate for a credential shall obtain a certificate of clearance from the commission which shall be issued when the commission has verified the candidate’s personal identification and health status. The fee for the certificate of clearance shall not exceed one-half of the regular fee for a credential and shall be deducted from the fee for the initial credential applied for by the certificate holder.
+(d) (1) Before admission to any professional preparation program approved by the commission for a multiple subject credential, single subject credential, PK–3 early childhood education specialist instruction credential, or education specialist credential, a candidate shall provide
+ verification to the professional preparation program that one of the following holds true for the candidate:
 
-(History: Amended by Stats. 2022, Ch. 478, Sec. 5.   (AB 1936)   Effective January 1, 2023.)
+(A) The candidate holds a valid permit or credential previously issued by the commission.
+
+(B) The candidate has applied for a certificate of clearance from the commission that shall be issued when the commission has verified the candidate’s personal identification and health status.
+
+(2) Before beginning student teaching, clinic practice, or participation in a field experience program as described in Section 44324, a candidate described in subparagraph (B) of paragraph (1) shall have obtained the certificate of clearance. The fee for the certificate of clearance shall not exceed one-half of the regular fee for
+ a credential and shall be deducted from the fee for the initial credential applied for by the certificate holder.
+
+(e) A professional preparation program approved by the commission for a multiple subject credential, single subject credential, PK–3 early childhood education specialist instruction credential, or education specialist credential shall do all of the following:
+
+(1) (A) Submit candidate profile information to the commission for each enrolled credential candidate within 30 days of the candidate beginning the program.
+
+(B) The candidate profile information shall include, but not be limited to, the candidate’s credential program, type of credential being sought, and preparation pathway, including
+ residency, student teaching, internship, or other preparation pathway, as determined by the commission.
+
+(2) Annually update each candidate’s profile information described in subparagraph (A) of paragraph (1) to indicate continued enrollment in, or departure from, the program.
+
+(3) Indicate to the commission a candidate’s program completion within 30 days of the candidate completing all credential requirements.
+
+(History: Amended by Stats. 2026, Ch. 608, Sec. 3.   (AB 2467)   Effective September 27, 2026.)
 -------------------------------------------
 
 44320.2.
@@ -86426,43 +86608,34 @@ If any school district fails to pay the salary of any person employed by it in a
 
 45037.
 
-(a) Except as provided in Section 45036, for a fiscal year in which a person renders service as a teacher in kindergarten or any of grades 1 to 12, inclusive, who does not have a valid credential or certification document, as those terms are defined in Sections 44002 and 44007, or for a charter school, as described in
- subdivision (l) of Section 47605 or subdivision (l) of Section 47605.6, the school district, county office of
- education, or charter school that the person is employed by shall be assessed a penalty that shall be calculated as provided in subdivision (b) and withheld from state funding otherwise due to the school district, county office of education, or charter school.
+(a) Except as provided in Section 45036, for a fiscal year in which a person renders service as a teacher in kindergarten or any of grades 1 to 12, inclusive, who does not have a valid credential or certification document, as those terms are defined in Sections 44002 and 44007, the school district, county office of education, or charter school that the person is employed by shall be assessed a penalty that shall be calculated as provided in subdivision (b) and withheld from state funding otherwise due to the school district, county office of education, or charter school.
 
-(1) Notwithstanding
- Sections 46300 and 47612.5, the attendance of the noncertificated person’s pupils during the period of service shall be included in the computation of average daily attendance.
+(1) Notwithstanding Sections 46300 and 47612.5, the attendance of the noncertificated person’s pupils during the period of service shall be included in the computation of average daily attendance.
 
 (2) The noncertificated person’s period of service shall not be excluded from the determination of eligibility for instruction time pursuant to Article 8 (commencing with Section 46200) of Chapter 2 of Part 26 of Division 4, or, for a charter school, pursuant to Section 47612.5.
 
-(b) (1) For each person who rendered service in the employment of the
- school district, county office of
- education, or charter school
- as a teacher in kindergarten or any of grades 1 to 12, inclusive, during the fiscal year, add the total number of schooldays on which the person rendered any amount of the service.
+(b) (1) For each person who rendered service in the employment of the school district, county office of education, or charter school as a teacher in kindergarten or any of grades 1 to 12, inclusive, during the fiscal year, add the total number of schooldays on which the person rendered any amount of the service.
 
-(2) For each person who rendered service in the employment of the school district, county office of education, or charter school as a teacher in kindergarten or any of grades 1 to 12, inclusive, during the fiscal year, for a period of service during which the person did not have a valid certification document, add the number of schooldays on which the
- person rendered any amount of the service without a valid certification document.
+(2) For each person who rendered service in the employment of the school district, county office of education, or charter school as a teacher in kindergarten or any of grades 1 to 12, inclusive, during the fiscal year, for a period of service during which the person did not have a valid certification document, add the number of schooldays on which the person rendered any amount of the service without a valid certification document.
 
-(3) Divide the number determined in paragraph (2) by the number determined in paragraph (1) and carry the result to four decimal places.
+(3) Divide the number determined in paragraph (2) by the
+ number determined in paragraph (1) and carry the result to four decimal places.
 
 (4) Multiply a school district’s or charter school’s local control funding formula grant apportionment for the fiscal year, calculated pursuant to Section 42238.02, as implemented by Section 42238.03, or a county office of education’s local control funding formula alternative education grant computed pursuant to Section 2574, as apportioned pursuant to Section 2575, for the fiscal year, for the program in which the noncertificated person rendered service by the number determined in paragraph (3).
 
-(c) If a county office of education releases a warrant in favor of a person for whom a period of school district service is included in the calculation set forth in paragraph (2) of subdivision (b), and the warrant is either compensation for employment as a teacher or for employment in some other capacity if the county office of education has direct knowledge or is in possession of information giving rise to a reasonable inference that the person is rendering service as a teacher, the county office of education shall be assessed a penalty. The penalty assessed to a county office of education
- for any fiscal year in which one or more school district teachers did not have a valid certification document shall be equal to the lesser of three amounts as follows:
+(c) If a county office of education releases a warrant in favor of a person for whom a period of school district service is included in the calculation set forth in paragraph (2) of subdivision (b), and the warrant is either compensation for employment as a teacher or for employment in some other capacity if
+ the county office of education has direct knowledge or is in possession of information giving rise to a reasonable inference that the person is rendering service as a teacher, the county office of education shall be assessed a penalty. The penalty assessed to a county office of education for any fiscal year in which one or more school district teachers did not have a valid certification document shall be equal to the lesser of three amounts as follows:
 
 (1) Fifty percent of all penalties assessed for that fiscal year to all school districts in the county office of education’s jurisdiction pursuant to subdivision (b).
 
-(2) One-half percent of the total expenditures for that fiscal year from unrestricted resources, as defined in the California School Accounting Manual, in the county
- office of education’s county school service fund, when two or fewer
- school districts in the county office of education’s jurisdiction are subject to penalties pursuant to subdivision (b).
+(2) One-half percent of the total expenditures for that fiscal year from unrestricted resources, as defined in the California School Accounting Manual, in the county office of education’s county school service fund, when two or fewer school districts in the county
+ office of education’s jurisdiction are subject to penalties pursuant to subdivision (b).
 
-(3) One percent of the total expenditures for that fiscal year from unrestricted resources, as defined in the California School Accounting Manual, in the county office of education’s county school service fund, when three or more
- school
- districts in the county office of education’s jurisdiction are subject to penalties pursuant to subdivision (b).
+(3) One percent of the total expenditures for that fiscal year from unrestricted resources, as defined in the California School Accounting Manual, in the county office of education’s county school service fund, when three or more school districts in the county office of education’s jurisdiction are subject to penalties pursuant to subdivision (b).
 
 (d) Except as provided in Section 41344.1, nothing in this section may be waived in whole or in part.
 
-(History: Amended by Stats. 2026, Ch. 65, Sec. 80.   (AB 126)   Effective July 9, 2026.)
+(History: Amended by Stats. 2026, Ch. 608, Sec. 4.   (AB 2467)   Effective September 27, 2026.)
 -------------------------------------------
 
 45038.
@@ -91188,7 +91361,8 @@ Whenever any attendance records of any district have been lost or destroyed, mak
 
 (5) Earthquake.
 
-(6) The imminence of a major safety hazard as determined by the local law enforcement agency.
+(6) The imminence of a major safety hazard as determined by the local law enforcement or fire
+ agency.
 
 (7) A strike involving transportation services to pupils provided by a nonschool entity.
 
@@ -91196,73 +91370,76 @@ Whenever any attendance records of any district have been lost or destroyed, mak
 
 (9) Snowstorm.
 
-(b) (1) In the event a state of emergency is declared by the Governor in a county, a decrease in average daily attendance in the county below the approximate total average daily attendance that would have been credited to a school district, county office of education, or charter school had the state of emergency not occurred shall be deemed material. The Superintendent shall determine the length of the
- period during which average daily attendance has been reduced by the state of emergency.
+(b) (1) In the event a state of emergency is declared by the Governor in a county, a decrease in average daily attendance in the county below the approximate total average daily attendance that would have been credited to a school district, county office of education, or charter school had the state of emergency not occurred shall be deemed material. The Superintendent shall determine the length of the period during which average daily attendance has been reduced by the state of emergency.
 
-(2) The period determined by the Superintendent shall not extend into the next fiscal year following the declaration of the state of emergency by the Governor, except upon a showing by a school district, county office of education, or charter school, to the satisfaction of the Superintendent, that extending the period into the next fiscal year is essential to alleviate continued reductions in average daily attendance attributable to the state of emergency.
+(2) The
+ period determined by the Superintendent shall not extend into the next fiscal year following the declaration of the state of emergency by the Governor, except upon a showing by a school district, county office of education, or charter school, to the satisfaction of the Superintendent, that extending the period into the next fiscal year is essential to alleviate continued reductions in average daily attendance attributable to the state of emergency.
 
-(3) Notwithstanding any other law, the Superintendent shall extend through the 2018–19 fiscal year the period during which it is essential to alleviate continued reductions in average daily attendance attributable to a state of emergency declared by the Governor in October 2017, for a school district where no less than 5 percent of the
- residences within the school district or school district facilities were destroyed by the qualifying emergency.
+(3) Notwithstanding any other law, the Superintendent shall extend through the 2018–19 fiscal year the period during which it is essential to alleviate continued reductions in average daily attendance attributable to a state of emergency declared by the Governor in October 2017, for a school district where no less than 5 percent of the residences within the school district or school district facilities were destroyed by the qualifying emergency.
 
 (c) (1) The average daily attendance of the school district, county office of education, or charter school for the fiscal year shall be estimated by the Superintendent in a manner that credits to the school district, county office of education, or charter school for determining the apportionments to be made to the school district, county office of education, or charter school from the State School Fund approximately the total average daily attendance that would have been credited to the school district, county office of education, or charter school had the emergency not occurred or had the order not been issued.
 
-(2) (A) From September 1, 2021, to June 30, 2022, inclusive, with the exception of a material loss of attendance for
- pupils who are individuals with exceptional needs, as that term is defined in Section 56026, whose individualized education program developed pursuant to Article 3 (commencing with Section 56340) of Chapter 4 of Part 30 does not specifically provide for participation in independent study or pupils who are enrolled in community day schools pursuant to Article 3 (commencing with Section 48660) of Chapter 4 of Part 27, a school district, county office of education, or charter school shall not receive average daily attendance credit pursuant to this section for pupils that have been quarantined and are unable to attend in-person instruction due to exposure to, or infection with, COVID-19 pursuant to local or state public health guidance.
+(2) (A) From September 1, 2021, to June 30, 2022, inclusive, with the exception of a material loss of attendance for pupils who are individuals with exceptional needs, as that term is defined in Section 56026, whose individualized education program developed pursuant to Article 3
+ (commencing with Section 56340) of Chapter 4 of Part 30 does not specifically provide for participation in independent study or pupils who are enrolled in community day schools pursuant to Article 3 (commencing with Section 48660) of Chapter 4 of Part 27, a school district, county office of education, or charter school shall not receive average daily attendance credit pursuant to this section for pupils that have been quarantined and are unable to attend in-person instruction due to exposure to, or infection with, COVID-19 pursuant to local or state public health guidance.
 
-(B) Notwithstanding subparagraph (A), from September 1, 2021, to June 30, 2022, inclusive, a school district, county office of education, or charter school may receive average daily attendance credit pursuant to
- this section for school closures related to impacts from COVID-19 or material loss of attendance due to COVID-19 related staffing shortages if the following conditions are established to the satisfaction of the Superintendent by affidavits of the members of the governing board or body of the school district, county office of education, or charter school and the county superintendent of schools:
+(B) Notwithstanding subparagraph (A), from September 1, 2021, to June 30, 2022, inclusive, a school district, county office of education, or charter school may receive average daily attendance credit pursuant to this section for school closures related to impacts from COVID-19 or material loss of attendance due to COVID-19 related staffing shortages if the following
+ conditions are established to the satisfaction of the Superintendent by affidavits of the members of the governing board or body of the school district, county office of education, or charter school and the county superintendent of schools:
 
 (i) The school district, county office of education, or charter school is unable to provide in person instruction to pupils due to staffing shortages as a result of staff quarantine due to exposure to, or infection with, COVID-19 pursuant to local or state public health guidance.
 
-(ii) For certificated staff shortages, the school district, county office of education, or charter school has exhausted all options for obtaining staff coverage, including using all certificated staff and
- substitute teacher options, and has consulted with their county office of education and the Superintendent in determining that staffing needs cannot be met through any option.
+(ii) For certificated staff shortages, the school district, county office of education, or charter school has exhausted all options for obtaining staff coverage, including using all certificated staff and substitute teacher options, and has consulted with their county office of education and the Superintendent in determining that staffing needs cannot be met through
+ any option.
 
 (iii) For classified staff shortages, the school district, county office of education, or charter school has exhausted all options for obtaining staff coverage, including using all staff options, and has consulted with their county office of education and the Superintendent in determining that staffing needs cannot be met through any option.
 
 (d) Notwithstanding any other law, for a school district or charter school physically located within a school district, where no less than 5 percent of the residences within the school district, or the school district’s facilities, were destroyed as a result of a state of emergency that was declared by the Governor in November 2018, all of the following shall apply:
 
-(1) (A) In the 2020–21 fiscal year, for school districts, the Superintendent shall calculate the difference between the school district’s certified second principal apportionment local control funding formula entitlement pursuant to Section 42238.02 in the 2020–21 fiscal year and the 2019–20 fiscal year and, if there is a difference, allocate the amount of that difference to the school district.
+(1) (A) In the 2020–21 fiscal year, for school districts, the Superintendent
+ shall calculate the difference between the school district’s certified second principal apportionment local control funding formula entitlement pursuant to Section 42238.02 in the 2020–21 fiscal year and the 2019–20 fiscal year and, if there is a difference, allocate the amount of that difference to the school district.
 
 (B) In the 2021–22 fiscal year, for school districts, the Superintendent shall allocate an amount equal to 25 percent of the difference calculated in subparagraph (A) to the school district.
 
 (C) In the 2022–23 fiscal year, for school districts, the Superintendent shall allocate an amount equal to 12.5 percent of the difference calculated in subparagraph (A) to the school district.
 
-(2) (A) In the 2019–20 and 2020–21 fiscal years, for charter schools, the Superintendent shall calculate the difference between the charter school’s certified second principal apportionment local control funding formula entitlement pursuant to 42238.02 in the current year and each respective prior year and, if there is a difference, allocate the amount of that difference to the charter school.
+(2) (A) In the 2019–20 and 2020–21 fiscal years, for charter schools, the Superintendent shall
+ calculate the difference between the charter school’s certified second principal apportionment local control funding formula entitlement pursuant to Section 42238.02 in the current year and each respective prior year and, if there is a difference, allocate the amount of that difference to the charter school.
 
-(B) In the 2021–22 fiscal year, for charter schools that operate a minimum of 175 school days and report at least 75 percent of the total second period average daily attendance for the 2019–20 fiscal year, as described in Section 41601, the Superintendent shall allocate 25 percent of the difference calculated in subparagraph (A) to the charter school.
+(B) In the 2021–22 fiscal year, for charter schools that operate a minimum of 175 schooldays and report at least 75 percent of the total second period average daily attendance for the 2019–20 fiscal year, as described in Section 41601, the Superintendent shall allocate 25 percent of the difference calculated in subparagraph (A) to the
+ charter school.
 
-(3) For a county office of education funded pursuant to
- paragraph (1) of subdivision (g) of Section 2575 that has within the boundaries of the county school districts or charter schools affected pursuant to this subdivision and that has in the schools operated by the county office of education at least a 10-percent decrease in average daily attendance in the current fiscal year, in the 2019–20 and 2020–21 fiscal years, the Superintendent shall calculate the difference between the county office of education’s alternative education grant entitlement certified at the annual principal apportionment pursuant to Section 2574 in the current fiscal year and each respective prior fiscal year and, if there is a difference, allocate the amount of that difference to the county office of education.
+(3) For a county office of education funded pursuant to paragraph (1) of subdivision (g) of Section 2575 that has within the boundaries of the county school districts or charter schools affected pursuant to this subdivision and that has in the schools operated by the county office of education at least a 10-percent decrease in average daily attendance in the current fiscal year, in the 2019–20 and 2020–21 fiscal years, the Superintendent shall calculate the difference between the county office of education’s alternative education grant entitlement certified at the annual principal apportionment pursuant to Section 2574 in the current fiscal year and each respective prior fiscal year and, if there is a difference, allocate the amount of that difference to the county office of education.
 
-(4) A school district may transfer funds received pursuant to paragraph (1) to the county office of education for the portion of the funds that represents pupils served by the county office of education who are funded
- through the school district’s local control funding formula apportionment pursuant to Section 2576.
+(4) A school district may transfer funds received pursuant to paragraph (1) to
+ the county office of education for the portion of the funds that represents pupils served by the county office of education who are funded through the school district’s local control funding formula apportionment pursuant to Section 2576.
 
-(5) In each fiscal year, the allocations pursuant to this subdivision shall be made to school districts and charter schools by the Superintendent as soon as practicable after the second principal apportionment and to county offices of education as soon as practicable after the annual principal apportionment. The allocations made shall be final. The Superintendent may provide a preliminary allocation of up to 50 percent no sooner than the first principal apportionment.
+(5) In each fiscal year, the allocations made pursuant to this subdivision shall be made to school districts and charter schools by the Superintendent as soon as practicable after the second principal apportionment and to county offices of education as soon as practicable after the annual principal apportionment. The allocations made shall be final. The Superintendent may provide a preliminary allocation of up to 50 percent no sooner than the first principal apportionment.
 
-(6) (A) The amounts described in this subdivision shall be continuously appropriated from the General Fund to the Superintendent for these purposes.
+(6) (A) The amounts described in this
+ subdivision shall be continuously appropriated from the General Fund to the Superintendent for these purposes.
 
-(B) For purposes of making the computations required by Section 8 of Article XVI of
- the California Constitution, the appropriation made by this subdivision shall be deemed to be “General Fund revenues appropriated for school districts,” as defined in subdivision (c) of Section 41202, for the fiscal year in which they are appropriated, and included within the “total allocations to school districts and community college districts from General Fund proceeds of taxes appropriated pursuant to Article XIIIB,” as defined in subdivision (e) of Section 41202.
+(B) For purposes of making the computations required by Section 8 of Article XVI of the California Constitution, the appropriation made by this subdivision shall be deemed to be “General Fund revenues appropriated for school districts,” as defined in subdivision (c) of Section 41202, for the fiscal year in which they are appropriated, and included within the “total allocations to school districts and community college districts from General Fund proceeds of taxes appropriated pursuant to Article XIIIB,” as defined in subdivision (e) of Section 41202.
 
-(e) Notwithstanding any other law, for a school district or charter school physically located within a school district, where no less than 5 percent of the residences within the school district, or the school district’s facilities, were destroyed as a result of a state of emergency that was declared by the Governor in September 2020, all of the following shall apply:
+(e) Notwithstanding any other law, for a school district or charter school physically located within a school district, where no less than 5 percent of the residences within the school district, or
+ the school district’s facilities, were destroyed as a result of a state of emergency that was declared by the Governor in September 2020, all of the following shall apply:
 
-(1) For the 2021–22
- fiscal year, for school districts, the Superintendent shall calculate the difference between the school district’s certified annual principal apportionment local control funding formula revenues pursuant to Section 42238.02 in the 2021–22 fiscal year and the 2019–20 fiscal year, including local revenue, pursuant to subdivision (j) of Section 42238.02, and any additional funds received pursuant to subdivision (e) of Section 42238.03 in excess of the entitlement calculated pursuant to Section 42238.02 and 42238.03 and, if there is a difference, allocate the amount of that difference to the school district.
+(1) For the 2021–22 fiscal year, for school districts, the Superintendent shall calculate the difference between the school district’s certified annual principal apportionment local control funding formula revenues pursuant to Section 42238.02 in the 2021–22 fiscal year and the 2019–20 fiscal year, including local revenue, pursuant to subdivision (j) of Section 42238.02, and any additional funds received pursuant to subdivision (e) of Section 42238.03 in excess of the entitlement calculated pursuant to Section 42238.02 and 42238.03 and, if there is a difference, allocate the amount of that difference to the school district.
 
-(2) For the 2021–22 fiscal year, for charter schools that operate a minimum of 175 school days and report at least 75 percent of the total second period average daily attendance for the 2019–20 fiscal year, as described in Section 41601, the Superintendent shall calculate the difference between the charter school’s certified second principal
- apportionment local control funding formula revenues pursuant to Section 42238.02 in the 2021–22 fiscal year and the 2019–20 fiscal year, and, if there is a difference, allocate the amount of that difference to the charter school.
+(2) For the 2021–22 fiscal year, for charter schools that operate a minimum of 175
+ schooldays and report at least 75 percent of the total second period average daily attendance for the 2019–20 fiscal year, as described in Section 41601, the Superintendent shall calculate the difference between the charter school’s certified second principal apportionment local control funding formula revenues pursuant to Section 42238.02 in the 2021–22 fiscal year and the 2019–20 fiscal year, and, if there is a difference, allocate the amount of that difference to the charter school.
 
 (3) School districts and charter schools shall notify the Superintendent of their eligibility pursuant to this subdivision by November 1, 2021, in the manner prescribed by the Superintendent.
 
-(4) Preliminary allocations made pursuant to paragraph (1) shall be made to school districts by the Superintendent through the principal apportionment beginning with the 2021–22 fiscal year first principal apportionment certification and shall be made final as of the annual principal apportionment.
+(4) Preliminary allocations made pursuant to paragraph (1) shall be made to school districts by the Superintendent through the principal apportionment beginning with
+ the 2021–22 fiscal year first principal apportionment certification and shall be made final as of the annual principal apportionment.
 
-(5) Allocations pursuant to paragraph (2) shall be made to charter schools by the Superintendent as soon
- as practicable after the second principal apportionment and shall be made final as of the annual principal apportionment. The Superintendent may provide a preliminary allocation of up to 50 percent no sooner than the first principal apportionment.
+(5) Allocations
+ made
+ pursuant to paragraph (2) shall be made to charter schools by the Superintendent as soon as practicable after the second principal apportionment and shall be made final as of the annual principal apportionment. The Superintendent may provide a preliminary allocation of up to 50 percent no sooner than the first principal apportionment.
 
 (f) Notwithstanding any other law, for a school district where a school eligible for funding pursuant to Article 4 (commencing with Section 42280) of Chapter 7 of Part 24 of Division 3 was destroyed as a result of a state of emergency that was declared by the Governor in August 2021, the following shall apply:
 
-(1) The school district may continue to report the amount of attendance generated by pupils enrolled in another school of the school district that would have otherwise attended the destroyed school, and the number of full-time teachers employed by the school district that would have otherwise provided instructional services at the
- school, as if the school were operational in the 2021–22, 2022–23, and 2023–24 fiscal years.
+(1) The school district may continue to report the amount of attendance generated by pupils enrolled in another school of the school district that would have otherwise attended the destroyed school, and the number of full-time
+ teachers employed by the school district that would have otherwise provided instructional services at the school, as if the school were operational in the 2021–22, 2022–23, and 2023–24 fiscal years.
 
 (2) The school shall be considered a necessary small school for the purpose of Section 42282 in the 2022–23 and 2023–24 fiscal years.
 
@@ -91270,24 +91447,23 @@ Whenever any attendance records of any district have been lost or destroyed, mak
 
 (A) Marquez Charter, Palisades Charter Elementary, and Palisades Charter High within the Los Angeles Unified School District.
 
-(B) Aveson Global Leadership Academy, Aveson School of Leaders, Odyssey Charter, OCS - South, and
- Pasadena Rosebud Academy in the Pasadena Unified School District.
+(B) Aveson Global Leadership Academy, Aveson School of Leaders, Odyssey Charter, OCS - South, and Pasadena Rosebud Academy in the Pasadena Unified School District.
 
 (C) Alma Fuerte Public in the City of Pasadena.
 
-(2) For the 2025–26 fiscal year, for charter schools identified in paragraph (1) that operate a minimum of 175 school days, as described in Section 41601, the Superintendent shall calculate the difference between the charter school’s certified local control funding formula entitlement pursuant to Section 42238.02 as of the annual principal apportionment in the 2025–26 fiscal year and the first principal apportionment in the 2024–25 fiscal year, and, if there is a difference, allocate the amount of that difference to the charter school. The amount calculated shall be adjusted to account for the increase in the add-on amount for transitional kindergarten pursuant to paragraph (3) of
- subdivision (g) of Section 42238.02 from the 2024–25 to 2025–26 fiscal years, inclusive, in a manner that ensures that the charter schools identified in paragraph (1) are not negatively impacted for the difference in the funding increase for transitional kindergarten.
+(2) For the 2025–26 fiscal year, for charter schools identified in paragraph (1) that operate a minimum of 175 schooldays, as described in Section 41601, the Superintendent shall calculate the difference between the charter school’s certified local control funding formula entitlement pursuant to Section 42238.02 as of the annual principal apportionment in the 2025–26 fiscal year and the first principal apportionment in the 2024–25 fiscal year, and, if there
+ is a difference, allocate the amount of that difference to the charter school. The amount calculated shall be adjusted to account for the increase in the add-on amount for transitional kindergarten pursuant to paragraph (3) of subdivision (g) of Section 42238.02 from the 2024–25 to 2025–26 fiscal years, inclusive, in a manner that ensures that the charter schools identified in paragraph (1) are not negatively impacted for the difference in the funding increase for transitional kindergarten.
 
-(3) Allocations pursuant to paragraph (2) shall be made final as of the annual principal apportionment. The Superintendent may provide a preliminary allocation no sooner than the first principal apportionment.
+(3) Allocations made pursuant to paragraph (2) shall be made final as of the annual principal apportionment. The Superintendent may provide a preliminary allocation no sooner than the first principal apportionment.
 
-(h) (1) Notwithstanding any other law, for charter schools listed in paragraph (1) of subdivision (g), the Superintendent shall calculate 30 percent of the charter school’s local control funding formula entitlement pursuant to Section 42238.02 as of the 2024–25 first principal
- apportionment and allocate that amount for each charter school in the 2026–27 fiscal year.
+(h) (1) Notwithstanding any other law, for charter
+ schools listed in paragraph (1) of subdivision (g), the Superintendent shall calculate 30 percent of the charter school’s local control funding formula entitlement pursuant to Section 42238.02 as of the 2024–25 first principal apportionment and allocate that amount for each charter school in the 2026–27 fiscal year.
 
 (2) In the 2026–27 fiscal year, the Superintendent shall allocate four million dollars ($4,000,000) to Pasadena Unified School District to help address outstanding and ongoing recovery-related costs that resulted from the state of emergency that was declared by the Governor in January 2025.
 
 (i) This section applies to any average daily attendance that occurs during any part of a school year.
 
-(History: Amended by Stats. 2026, Ch. 65, Sec. 89.   (AB 126)   Effective July 9, 2026.)
+(History: Amended by Stats. 2026, Ch. 773, Sec. 1.   (SB 959)   Effective September 29, 2026.)
 -------------------------------------------
 
 46393.
@@ -91821,16 +91997,15 @@ A charter school and an entity managing a charter school shall promptly respond 
 
 (2) Visit each schoolsite approved in the charter petition or material revision that has been established by the charter school at least annually.
 
-(3) Verify
- that each charter school under its authority complies with all reports required of charter schools by law, including the local control and accountability plan and annual update to the local control and accountability plan required pursuant to Section 47606.5.
+(3) Verify that each charter school under its authority complies with all reports required of charter schools by law, including the local control and accountability plan and annual update to the local control and accountability plan
+ required pursuant to Section 47606.5.
 
 (4) Monitor the fiscal condition, including enrollment and attendance data, and make periodic checks of credit and debit card transactions of each charter school under its authority.
 
-(5) Provide the governing body of the charter school with feedback on any issues of concern identified pursuant to paragraph (4) and an
- opportunity to respond. If in the course of the review, the chartering authority has reasonable suspicion that fraud, misappropriations of public funds, embezzlement, or other financial crimes may be occurring, the chartering authority shall notify the Superintendent and the county superintendent of schools.
+(5) Provide the governing body of the charter school with feedback on any issues of concern identified pursuant to paragraph (4) and an opportunity to respond. If in the course of the review, the chartering authority has reasonable suspicion that fraud, misappropriations of public funds, embezzlement, or other financial crimes may be occurring, the chartering authority shall notify the Superintendent and the county superintendent of schools.
 
-(6) Provide timely notification to the Superintendent if any of the following circumstances
- occurs or will occur with regard to a charter school for which it is the chartering authority:
+(6) Provide timely notification to the Superintendent if any of the following circumstances occurs or will occur with regard to a charter school for which it is
+ the chartering authority:
 
 (A) A renewal of the charter is granted or denied.
 
@@ -91838,7 +92013,10 @@ A charter school and an entity managing a charter school shall promptly respond 
 
 (C) The charter school will cease operation for any reason.
 
-(7) (A) After completing annual financial and compliance audit oversight responsibilities pursuant to Section 41020, identify and provide notification to the governing body of the charter school within 60 days of any material concern arising out of the chartering authority’s ongoing oversight and monitoring activities.
+(7) Conduct annual financial and compliance audit review and oversight responsibilities pursuant to Section 41020.
+
+(8) (A) Not later than July 1 of each year, identify and provide written and timely notification to the governing body of the charter school
+ of any material concern arising out of the chartering authority’s ongoing oversight and monitoring activities during the previous 12 months.
 
 (B) For purposes of this paragraph, “material concern” means a concern that could lead to a decision of non-renewal or revocation of the charter, such as concerns regarding any of the following:
 
@@ -91856,20 +92034,18 @@ A charter school and an entity managing a charter school shall promptly respond 
 
 (1) (A) Visit each resource center, meeting space, and satellite facility approved in a charter petition or material revision and established by the charter school (i) upon the opening and (ii) pursuant to subparagraph (B) thereafter.
 
-(B) Visit each
- resource center, meeting space, and satellite facility approved in a charter petition or material revision and established by the charter school at least once every two years.
+(B) Visit each resource center, meeting space, and satellite facility approved in a charter petition or material revision and
+ established by the charter school at least once every two years.
 
 (2) Annually attend, in person, at least one meeting of the governing body of the charter school.
 
 (3) Review the agendas and minutes of the meetings of the governing body of the charter school.
 
-(4) Conduct annual financial and compliance audit oversight responsibilities pursuant to Section 41020.
+(4) Refer any credible allegations of fraud,
+ misappropriation of funds, or other illegal fiscal practices received from third parties, or observed through the chartering authority’s duties, to the county superintendent of schools who may elect to exercise its authority pursuant to subdivision (c) of Section 1241.5, Section 47604.3, or Section 47604.4.
 
-(5) Refer any credible allegations of fraud, misappropriation of funds,
- or other illegal fiscal practices received from third parties, or observed through the chartering authority’s duties, to the county superintendent of schools who may elect to exercise its authority pursuant to subdivision (c) of Section 1241.5, Section 47604.3, or Section 47604.4.
-
-(c) (1) Commencing July 1, 2027, each chartering authority, in addition to any other duties imposed by this part, shall annually review, with respect to each nonclassroom-based charter school under its authority, the charter school’s average daily attendance. The chartering authority shall review a sample of independent study written agreements and work samples from each track to gauge whether the documents generally align with the reported attendance if the independent study average daily attendance reported by the charter school to the Superintendent for apportionment purposes has increased by 10 percent or more relative to the most recent
- prior principal apportionment reporting period, as defined in Section 41601, as follows:
+(c) (1) Commencing July 1, 2027, each chartering authority, in addition to any other duties imposed by this part, shall annually review, with respect to each nonclassroom-based charter school under its authority, the charter school’s average daily attendance. The chartering authority shall review a sample of independent study written agreements and work samples from each track to gauge whether the documents generally align with the reported attendance if the independent study average daily attendance reported by the charter school to the Superintendent for apportionment purposes has increased by 10 percent or more
+ relative to the most recent prior principal apportionment reporting period, as defined in Section 41601, as follows:
 
 (A) For the first principal reporting period compared to the prior year first principal reporting period.
 
@@ -91877,15 +92053,14 @@ A charter school and an entity managing a charter school shall promptly respond 
 
 (C) For the annual principal reporting period compared to the current year second principal reporting period.
 
-(2) If a review pursuant
- to paragraph (1) does not generally align with the reported attendance during the applicable apportionment reporting period, including subsequent corrected reports submitted to the chartering authority, the chartering authority shall request additional information to explain the misalignment.
+(2) If a review pursuant to paragraph (1) does not generally align with the reported attendance during the applicable apportionment reporting period, including subsequent corrected reports submitted to the chartering authority, the chartering authority shall request additional information to explain the
+ misalignment.
 
 (d) The cost of performing the duties required by this section shall be funded with supervisorial oversight fees collected pursuant to Section 47613.
 
-(e) A charter school shall provide the chartering authority
- the necessary supporting documentation in order for the chartering authority to perform verification duties described in this section.
+(e) A charter school shall provide the chartering authority the necessary supporting documentation in order for the chartering authority to perform verification duties described in this section.
 
-(History: Amended by Stats. 2026, Ch. 65, Sec. 91.   (AB 126)   Effective July 9, 2026.)
+(History: Amended by Stats. 2026, Ch. 608, Sec. 5.   (AB 2467)   Effective September 27, 2026.)
 -------------------------------------------
 
 47604.33.
@@ -94149,47 +94324,48 @@ Commencing with the 2015–16 school year, a local educational agency shall prov
 
 (1) With the expansion of transitional kindergarten, there is an increased need to support our youngest multilingual learners, including pupils whose primary language is a language other than English, pupils who are learning two or more languages at the same time, and pupils who are learning a second language while still developing their first language.
 
-(2) The languages and cultures that pupils bring with them are an asset to their learning communities and should be uplifted and celebrated. Research demonstrates the cognitive, economic, and long-term academic benefits of multilingualism and multiliteracy.
+(2) The languages and cultures that pupils bring with them are an asset to their learning communities and should be uplifted and celebrated. Research demonstrates the cognitive, economic, and long-term
+ academic benefits of multilingualism and multiliteracy.
 
 (3) Early identification of multilingual learners is key in providing early support with evidence-based language development resources and in improving pupil outcomes. However, identification should be done in a developmentally appropriate manner that minimizes the stress placed on young pupils.
 
 (4) With the passage of Assembly Bill 2268 of the 2023–24 Regular Session, signed by the Governor on June 14, 2024, the Legislature affirmed its commitment to ensuring all pupils in transitional kindergarten, including young four-year-old children eligible for transitional kindergarten, are not assessed for English language acquisition status with a language proficiency assessment that is not developmentally appropriate.
 
-(5) As a result of the passage of Assembly Bill 2268 of the 2023–24 Regular Session, pupils in transitional
- kindergarten were exempted from the requirement to be administered the English Language Proficiency Assessments for California (ELPAC) in the 2024–25 school year, thereby eliminating the ability of local educational agencies to screen pupils in transitional kindergarten for English language acquisition status.
+(5) As a result of the passage of Assembly Bill 2268 of the 2023–24 Regular Session, pupils in transitional kindergarten were exempted from the requirement to be administered the English Language Proficiency Assessments for California (ELPAC) in the 2024–25 school year, thereby eliminating the ability of local educational agencies to screen pupils in transitional kindergarten for English language acquisition status.
 
-(6) It is the intent of the Legislature to ensure an efficient method of screening pupils in transitional kindergarten for English language acquisition status to determine if they are a multilingual learner and to streamline processes for local educational agencies and staff through the statewide use of a standardized screening instrument that is developmentally appropriate for use with three- and four-year-old children entering transitional kindergarten.
+(6) It is the intent of the Legislature to ensure an efficient method of screening pupils in transitional kindergarten for English language acquisition status to determine if they are a multilingual learner and to streamline processes for local educational agencies and staff through the statewide use of a standardized screening instrument that is developmentally
+ appropriate for use with three- and four-year-old children entering transitional kindergarten.
 
-(7) It is further the intent of the Legislature that local educational agencies provide language development support to
- multilingual learners in transitional kindergarten and that local educational agencies and teachers and staff assigned to transitional kindergarten classrooms provide parents or guardians of pupils enrolled in transitional kindergarten with information regarding the benefits of multilingualism.
+(7) It is further the intent of the Legislature that local educational agencies provide language development support to multilingual learners in transitional kindergarten and that local educational agencies and teachers and staff assigned to transitional kindergarten classrooms provide parents or guardians of pupils enrolled in transitional kindergarten with information regarding the benefits of multilingualism.
 
-(8) It is further the intent of the Legislature that local educational agencies identify multilingual learners in transitional kindergarten who need language development support by using a screening instrument that meets all requirements of subdivision (d) and a home language survey that complements the screening.
+(8) It is further the intent of the Legislature that local educational agencies identify multilingual learners in transitional kindergarten who need language development support by using a screening instrument that meets all requirements of subdivision (d) and a home language
+ survey that complements the screening.
 
-(b) (1) (A) By no later than March 31, 2026, the Superintendent shall select, subject to the approval of the executive director of the state board, a list of screening instruments that meet the requirements of subdivision (d) to support
- the identification of multilingual learners in transitional kindergarten.
+(b) (1) (A) By no later than March 31, 2026, the Superintendent shall select, subject to the approval of the executive director of the state board, a list of screening instruments that meet the requirements of subdivision (d) to support the identification of multilingual learners in transitional kindergarten.
 
-(B) The Superintendent shall submit recommendations to the executive director of the state board, and the relevant policy and fiscal committees of the Legislature, whether any of the screening instruments chosen pursuant to this section are also developmentally appropriate for identifying dual language learners, who are three through four years old, inclusive, in California state preschool programs.
+(B) The Superintendent shall submit recommendations to the executive director of the state board, and the relevant policy and fiscal committees of the Legislature, whether any of the screening instruments chosen pursuant to this section are also developmentally appropriate for identifying dual language learners, who are three through four years old, inclusive, in California state preschool
+ programs.
 
 (2) (A) For the 2025–26 fiscal year, the sum of ten million dollars ($10,000,000) is hereby appropriated from the General Fund to the Superintendent for any of the following purposes:
 
-(i) To acquire screening instruments selected pursuant to subparagraph (A) of paragraph (1) and any training materials, available for use by, and
- free of cost to, local educational agencies.
+(i) To acquire screening instruments selected pursuant to subparagraph (A) of paragraph (1) and any training materials, available for use by, and free of cost to, local educational agencies.
 
 (ii) To support field testing of the screening instruments pursuant to paragraph (2) of subdivision (c).
 
-(B) Funds appropriated pursuant to paragraph (2) shall be available for expenditure or encumbrance through June 30, 2028.
+(B) Funds appropriated pursuant to paragraph (2) shall be available for expenditure or encumbrance through June 30,
+ 2029.
 
 (3) For purposes of this subdivision, the department is exempt from the requirements of Part 2 (commencing with Section 10100) of Division 2 of the Public Contract Code and from the requirements of Article 6 (commencing with Section 999) of Chapter 6 of Division 4 of the Military and Veterans Code.
 
-(c) (1) (A) Commencing with the 2027–28 school year, a local educational agency serving pupils in transitional kindergarten pursuant to Section
- 48000 shall screen transitional kindergarten pupils whose primary language is a language other than English, as indicated on a home language survey administered upon the pupil’s enrollment, to identify whether they are multilingual learners using a screening instrument selected by the Superintendent pursuant to subparagraph (A) of paragraph (1) of subdivision (b).
+(c) (1) (A) Commencing with the 2028–29 school year, a local educational agency serving pupils in transitional kindergarten pursuant to Section 48000 shall screen transitional kindergarten pupils whose primary language is a language other than English, as indicated on a home language survey administered upon the pupil’s enrollment, to identify whether they are multilingual learners using a screening instrument selected by the Superintendent
+ pursuant to subparagraph (A) of paragraph (1) of subdivision (b).
 
 (B) The department shall provide guidance to local educational agencies on the use of the screening instruments selected pursuant to subparagraph (A) of paragraph (1) of subdivision (b).
 
-(2) In the 2026–27 school year the Superintendent may select local educational agencies to voluntarily conduct a field test of the screening instruments selected pursuant to subparagraph (A) of paragraph (1) of subdivision (b).
+(2) In the 2027–28 school year the Superintendent may select local educational agencies to voluntarily conduct a field test of the screening instruments selected pursuant to subparagraph (A) of paragraph (1) of subdivision (b).
 
-(d) The screening instruments selected
- pursuant to subparagraph (A) of paragraph (1) of subdivision (b) shall be able to measure the extent to which a pupil enrolled in a transitional kindergarten pursuant to Section 48000 would benefit from additional support in English by screening their English language listening and speaking skills and shall meet all of the following requirements:
+(d) The screening instruments selected pursuant to subparagraph (A) of paragraph (1) of subdivision (b) shall be able to measure the extent to which a pupil enrolled in a transitional kindergarten pursuant to Section 48000 would benefit from
+ additional support in English by screening their English language listening and speaking skills and shall meet all of the following requirements:
 
 (1) Have psychometric properties of reliability and validity deemed adequate by technical experts.
 
@@ -94207,15 +94383,15 @@ Commencing with the 2015–16 school year, a local educational agency shall prov
 
 (1) To identify a pupil as an English learner pursuant to Section 306.
 
-(2) Any high-stakes purpose, including, but not limited to, teacher or other school staff evaluation, accountability, pupil grade promotion or retention, identification for gifted or
- talented education, reclassification of English learners, or identification as an individual with exceptional needs.
+(2) Any high-stakes purpose, including, but not limited to, teacher or other school staff evaluation, accountability, pupil grade promotion or retention, identification for gifted or talented education,
+ reclassification of English learners, or identification as an individual with exceptional needs.
 
 (g) (1) This section does not preclude a local educational agency from administering, based on the responses of a home language survey administered upon a pupil’s enrollment, the English language proficiency assessment pursuant to Sections 313 and 60810 to a pupil in kindergarten or any of grades 1 to 12, inclusive.
 
 (2) This section does not change existing law that excludes a pupil enrolled in a transitional kindergarten program pursuant to Section 48000 from being administered an English language proficiency assessment pursuant to Section 313 or 60810.
 
-(h) This section does not preclude an educator from providing language development support to pupils in transitional
- kindergarten based on classroom observations and the educator’s interactions with a pupil.
+(h) This section does not preclude an educator from
+ providing language development support to pupils in transitional kindergarten based on classroom observations and the educator’s interactions with a pupil.
 
 (i) For purposes of this section, the following definitions apply:
 
@@ -94229,12 +94405,12 @@ Commencing with the 2015–16 school year, a local educational agency shall prov
 
 (5) “Multilingual learner” is a pupil enrolled in transitional kindergarten pursuant to Section 48000 who has a primary language other than English, as indicated on a home language survey administered upon the pupil’s enrollment, and could benefit from support for their linguistic and developmental needs as determined by a screening instrument selected pursuant to subparagraph (A) of paragraph (1) of subdivision (b).
 
-(j) For purposes of making the computations required by Section 8 of Article XVI of the California Constitution, the appropriation made pursuant to paragraph (2) of subdivision (b) shall be deemed to be “General Fund revenues appropriated for school districts,” as defined in subdivision (c) of Section 41202, for the 2025–26 fiscal year, and included
- within the “total allocations to school districts and community college districts from General Fund proceeds of taxes appropriated pursuant to Article XIIIB,” as defined in subdivision (e) of Section 41202, for the 2025–26 fiscal year.
+(j) For purposes of making the computations required by Section 8 of Article XVI of
+ the California Constitution, the appropriation made pursuant to paragraph (2) of subdivision (b) shall be deemed to be “General Fund revenues appropriated for school districts,” as defined in subdivision (c) of Section 41202, for the 2025–26 fiscal year, and included within the “total allocations to school districts and community college districts from General Fund proceeds of taxes appropriated pursuant to Article XIIIB,” as defined in subdivision (e) of Section 41202, for the 2025–26 fiscal year.
 
 (k) Notwithstanding any other law, this section shall not be waived by the state board pursuant to Section 33050 or by the Superintendent.
 
-(History: Added by Stats. 2025, Ch. 8, Sec. 42.   (AB 121)   Effective June 27, 2025.)
+(History: Amended by Stats. 2026, Ch. 608, Sec. 6.   (AB 2467)   Effective September 27, 2026.)
 -------------------------------------------
 
 
@@ -94707,25 +94883,27 @@ The county board of education of each county may establish, by resolution, the f
 
 (b) (1) Notwithstanding Section 48200, a pupil complies with the residency requirements for school attendance in a school district, if the pupil is a pupil whose parent is transferred or is pending transfer to a military installation within the state while on active military duty pursuant to an official military order.
 
-(2) For purposes of paragraph (1), “pupil” includes a pupil eligible for services or accommodations pursuant to the federal Individuals with Disabilities Education Act (20 U.S.C. Sec. 1400 et seq.), Section 504 of the federal Rehabilitation Act of 1973 (29 U.S.C. Sec. 794), or
- the federal Americans with Disabilities Act of 1990 (42 U.S.C. Sec. 12101 et seq.), as applicable.
+(2) For purposes of paragraph (1), “pupil” includes a pupil eligible for services or accommodations pursuant to the federal Individuals with Disabilities Education Act (20 U.S.C. Sec. 1400 et seq.), Section 504 of the federal Rehabilitation Act of 1973 (29 U.S.C. Sec. 794), or the
+ federal Americans with Disabilities Act of 1990 (42 U.S.C. Sec. 12101 et seq.), as applicable.
 
 (c) A school district shall accept applications by electronic means for enrollment, including enrollment in a specific school or program within the school district, and course registration for pupils described in subdivision (b).
 
-(d) (1) The parent shall provide proof of residence in the school district within 10 days after the published arrival date provided on official documentation.
+(d) (1) The parent shall provide proof of residence in the school district, including by using any of the documents described in subdivision (a) of Section 48204.1, within 10 days after the published arrival date provided on official documentation.
 
 (2) For purposes of paragraph (1), a parent may use any of the following addresses as related to their military move:
 
-(A) A temporary on-base billeting facility.
+(A) A temporary on-base billeting facility or off-base hotel.
 
 (B) A purchased or leased home or apartment.
 
-(C) Federal government or public-private venture off-base military housing.
+(C) Federal government or public-private venture on- or off-base military housing.
 
-(e) Upon notification that a pupil enrolling pursuant to this section is receiving, or may be eligible to receive, services or accommodations pursuant to the federal Individuals with Disabilities Education Act (20 U.S.C. Sec. 1400 et seq.), Section 504 of the federal Rehabilitation Act of 1973 (29 U.S.C. Sec. 794), or the federal Americans with Disabilities Act of 1990 (42 U.S.C. Sec. 12101 et seq.), as applicable, the school district shall promptly coordinate with the pupil’s parents and previous school pursuant to Section 56325 to ensure the timely exchange of records and to reduce any delays in
- the pupil receiving comparable services or accommodations from the school district, including, but not limited to, implementation of their individualized education program, individualized family service plan, or plan pursuant to Section 504 of the federal Rehabilitation Act of 1973 (29 U.S.C. Sec. 794), as applicable.
+(D) Other temporary housing.
 
-(History: Amended by Stats. 2025, Ch. 453, Sec. 1.   (AB 1412)   Effective January 1, 2026.)
+(e) Upon notification that a pupil enrolling pursuant to this section is receiving, or may be eligible to receive, services or
+ accommodations pursuant to the federal Individuals with Disabilities Education Act (20 U.S.C. Sec. 1400 et seq.), Section 504 of the federal Rehabilitation Act of 1973 (29 U.S.C. Sec. 794), or the federal Americans with Disabilities Act of 1990 (42 U.S.C. Sec. 12101 et seq.), as applicable, the school district shall promptly coordinate with the pupil’s parents and previous school pursuant to Section 56325 to ensure the timely exchange of records and to reduce any delays in the pupil receiving comparable services or accommodations from the school district, including, but not limited to, implementation of their individualized education program, individualized family service plan, or plan pursuant to Section 504 of the federal Rehabilitation Act of 1973 (29 U.S.C. Sec. 794), as applicable.
+
+(History: Amended by Stats. 2026, Ch. 608, Sec. 7.   (AB 2467)   Effective September 27, 2026.)
 -------------------------------------------
 
 48204.4.
@@ -106438,45 +106616,54 @@ The Legislature finds and declares all of the following:
 
 51101.
 
-(a) Except as provided in subdivision (d), the parents and guardians of pupils enrolled in public schools have the right and should have the opportunity, as mutually supportive and respectful partners in the education of their children within the public schools, to be informed by the school, and to participate in the education of their children, as follows:
+(a) Except as provided in subdivision (c), the parents and guardians of pupils enrolled in public schools have the right and should have the opportunity, as mutually supportive and respectful partners in the education of their children within the public schools, to be informed by the school, and to participate in the education of their children, as follows:
 
 (1) Within a reasonable period of time following making the request, to observe the classroom or classrooms in which their child is enrolled or for the purpose of selecting the school in which their child will be enrolled in accordance with the requirements of any intradistrict or interdistrict pupil attendance policies or programs.
 
-(2) Within a reasonable time of their request, to meet with their child’s teacher or teachers and the principal of the school in which their child is enrolled.
+(2) (A) Within a reasonable time of their request, to meet with their child’s teacher or teachers and the principal of the school in which their child is enrolled.
 
-(3) To volunteer their time and resources for the improvement of school facilities and school programs under the supervision of district employees, including, but not limited to, providing assistance in the classroom with the approval, and under the direct supervision, of the teacher. Although volunteer parents may assist with instruction, primary instructional responsibility shall remain with the teacher.
+(B) Within a reasonable time of their request, for parents of English learners, to meet with their child’s teacher or teachers to discuss their child’s progress toward reaching proficiency in English, the process by which their child may be reclassified as fully English proficient, any opportunities for pupils to develop biliteracy in English and one or more other languages, and to earn the State Seal of Biliteracy.
+
+(3) To volunteer their time and resources for the improvement of school facilities and school programs under the supervision of district
+ employees, including, but not limited to, providing assistance in the classroom with the approval, and under the direct supervision, of the teacher. Although volunteer parents may assist with instruction, primary instructional responsibility shall remain with the teacher.
 
 (4) To be notified on a timely basis if their child is absent from school without permission.
 
-(5) To receive the results of their child’s performance on standardized tests and statewide tests and information on the performance of the school that their child attends on standardized statewide tests.
+(5) To receive the results of their child’s performance on standardized tests and statewide tests and information on the performance of the school that their child attends on standardized statewide tests, including the results of state assessments of English language proficiency.
 
-(6) To request a particular school for their child, and to receive a response from the school district. This paragraph does not obligate the school district to grant the parent’s request.
+(6) To request a particular school for their child, and to receive a
+ response from the school district. This paragraph does not obligate the school district to grant the parent’s request.
 
 (7) To have a school environment for their child that is safe and supportive of learning.
 
 (8) To examine the curriculum materials of the class or classes in which their child is enrolled.
 
-(9) To be informed of their child’s progress in school and of the appropriate school personnel whom they should contact if problems arise with their child.
+(9) To be informed through communication, including, but not limited to, parent-teacher conferences or report cards, of their child’s progress in school and of the appropriate school personnel whom they should contact if problems arise with their child, including, for the parent of a child who is an English learner, their child’s progress in developing English proficiency and being reclassified as fully English
+ proficient.
 
 (10) To have access to the school records of their child.
 
-(11) To receive information concerning the academic performance standards, proficiencies, or skills their child is expected to accomplish.
+(11) To receive information concerning the academic performance standards, proficiencies, or skills their child is expected to accomplish, including, for pupils who are English learners, information on the proficiencies necessary to become reclassified as fully English proficient.
 
-(12) To be informed in advance about school rules, including disciplinary rules and procedures in accordance with Section 48980, attendance policies, dress codes, and procedures for visiting the school.
+(12) To be informed in advance about school rules, including
+ disciplinary rules and procedures in accordance with Section 48980, attendance policies, dress codes, and procedures for visiting the school.
 
 (13) To receive information about any psychological testing the school does involving their child and to deny permission to give the test.
 
-(14) To participate as a member of a parent advisory committee, schoolsite council, or site-based management leadership team, in accordance with any rules and regulations governing membership in these organizations. In order to facilitate parental participation, schoolsite councils are encouraged to schedule a biannual open forum for the purpose of informing parents about current school issues and activities and answering parents’ questions. The meetings should be scheduled on weekends, and prior notice should be provided to parents.
+(14) To participate as a member of a parent advisory committee, schoolsite council, or site-based management leadership team, in accordance with any rules and regulations governing membership in these organizations. In order to facilitate parental participation, schoolsite councils are encouraged to schedule a biannual open forum for the purpose of informing parents about current school issues and activities and answering parents’ questions. The meetings should be scheduled on
+ weekends, and prior notice should be provided to parents.
 
 (15) To question anything in their child’s record that the parent feels is inaccurate or misleading or is an invasion of privacy and to receive a response from the school.
 
 (16) To be notified, as early in the school year as practicable pursuant to Section 48070.5, if their child is identified as being at risk of retention and of their right to consult with school personnel responsible for a decision to promote or retain their child and to appeal a decision to retain or promote their child.
 
-(b) In addition to the rights described in subdivision (a), parents and guardians of pupils, including those parents and guardians whose primary language is not English, shall have the opportunity to work together in a mutually supportive and respectful partnership with schools, and to help their children succeed in school. Each governing board of a school district shall develop jointly with parents and guardians, and shall adopt, a policy that outlines the manner in which parents or guardians of pupils, school staff, and pupils may share the responsibility for continuing the intellectual, physical, emotional, and social development and well-being of pupils at each schoolsite. The policy shall include, but is not necessarily limited to, the following:
+(b) In addition to the rights described in subdivision (a), parents and guardians of pupils, including those parents and guardians whose primary language is not English, shall
+ have the opportunity to work together in a mutually supportive and respectful partnership with schools, and to help their children succeed in school. Each governing board of a school district shall develop jointly with parents and guardians, and shall adopt, a policy that outlines the manner in which parents or guardians of pupils, school staff, and pupils may share the responsibility for continuing the intellectual, physical, emotional, and social development and well-being of pupils at each schoolsite. The policy shall include, but is not necessarily limited to, the following:
 
 (1) The means by which the school and parents or guardians of pupils may help pupils to achieve academic and other standards of the school.
 
-(2) A description of the school’s responsibility to provide a high quality curriculum and instructional program in a supportive and effective learning environment that enables all pupils to meet the academic expectations of the school.
+(2) A description of the school’s responsibility to provide a
+ high quality curriculum and instructional program in a supportive and effective learning environment that enables all pupils to meet the academic expectations of the school.
 
 (3) The manner in which the parents and guardians of pupils may support the learning environment of their children, including, but not limited to, the following:
 
@@ -106494,11 +106681,10 @@ The Legislature finds and declares all of the following:
 
 (G) Participating, as appropriate, in decisions relating to the education of their own child or the total school program.
 
-(c) All schools that participate in the High Priority Schools Grant Program established pursuant to Article 3.5 (commencing with Section 52055.600) of Chapter 6.1 of Part 28 and that maintain kindergarten or any of grades 1 to 5, inclusive, shall jointly develop with parents or guardians for all children enrolled at that schoolsite, a school-parent compact pursuant to Section 6319 of Title 20 of the United States Code.
+(c) This section does not authorize a school to inform a parent or guardian, as provided in this section, or to permit participation by a parent or guardian in the education of a child, if it conflicts with a valid restraining order, protective order, or order for custody or visitation issued by a court of competent
+ jurisdiction.
 
-(d) This section does not authorize a school to inform a parent or guardian, as provided in this section, or to permit participation by a parent or guardian in the education of a child, if it conflicts with a valid restraining order, protective order, or order for custody or visitation issued by a court of competent jurisdiction.
-
-(History: Amended by Stats. 2004, Ch. 896, Sec. 46.   Effective September 29, 2004.)
+(History: Amended by Stats. 2026, Ch. 619, Sec. 12.   (AB 2555)   Effective September 27, 2026.   Operative January 1, 2027, pursuant to Sec. 16 of Stats. 2026, Ch. 619.)
 -------------------------------------------
 
 51101.1.
@@ -107722,14 +107908,22 @@ The governing board of any school district maintaining a high school shall presc
 
 51225.33.
 
-(a) (1) For the 2026–27 fiscal year, the Sacramento County Office of Education shall utilize the finding appropriated in Item 6100-488 of Section 2.0 of the Budget Act of 2026 to develop resources and provide technical assistance to support the implementation of alternative pathways and means to a diploma, pursuant to subdivision (b) of Section 51225.3, Sections 51225.31 and 51225.32, and paragraph (1) of subdivision (b) of Section 56345.
+(a) (1) For the 2026–27 fiscal year, the Sacramento County Office of Education shall utilize the funding appropriated in Item 6100-488 of Section 2.0 of the Budget Act of 2026 to develop both of the following:
 
-(2) Funding appropriated for purposes of this section shall be available for encumbrance through June 30, 2031.
+(A) (i) Resources and provide technical assistance to support the implementation of alternative pathways and means to a diploma, pursuant to subdivision (b) of Section 51225.3, Sections 51225.31 and 51225.32, and paragraph (1) of subdivision (b) of Section 56345.
 
-(b) Assistance provided pursuant to this section shall include, but is not limited to, developing
- resources, training, and technical assistance to ensure coherence and consistency related to diploma attainment, secondary transition, and inclusive college programs, and the development of a statewide community of practice available to all local educational agencies to assist with implementation of alternative pathways to a high school diploma.
+(ii) Assistance provided pursuant to
+ clause (i)
+ shall include, but is not limited to, developing resources, training, and technical assistance to ensure coherence and consistency related to diploma attainment, secondary transition, and inclusive college programs, and the development of a statewide community of practice available to all local educational agencies to assist with implementation of alternative pathways to a high school diploma.
 
-(History: Added by Stats. 2026, Ch. 65, Sec. 102.   (AB 126)   Effective July 9, 2026.)
+(B) Rubrics and sample alternate pupil work and performance tasks that are aligned to the content and performance levels of the domains of the English language development assessment identified or developed pursuant to Chapter 7 (commencing with Section 60810) of Part 33 of Division 4 of Title 2 and the statewide alternate assessment for English language proficiency pursuant to Section 11518.30 of Title 5 of the California Code of Regulations for each of
+ the grades or grade spans assessed using that assessment to enable pupils who are English learners and have individualized education programs to demonstrate proficiency for purposes of reclassification pursuant to Section 313.5. The rubrics and sample alternate pupil work and performance tasks shall be completed and submitted to the department on or before January 1, 2028.
+
+(2) Funding appropriated for purposes of this subdivision shall be available for encumbrance through June 30, 2031.
+
+(b) The department shall post the rubrics and sample alternate pupil work and performance tasks submitted pursuant to subparagraph (B) of paragraph (2) of subdivision (a) on the department’s internet website on or before June 30, 2028.
+
+(History: Amended by Stats. 2026, Ch. 619, Sec. 13.   (AB 2555)   Effective September 27, 2026.)
 -------------------------------------------
 
 51225.35.
@@ -109083,50 +109277,50 @@ Each school district that confers high school diplomas shall maintain appropriat
 
 (1) Proficiency in English shall be demonstrated through one of the following requirements:
 
-(A) Completion of all English language arts requirements for graduation with an overall grade point average of 3.0 or above in those classes. Completion of one or more English language arts courses at a public higher education
- institution or an independent institution of higher education, as described in subdivisions (a) and (b) of Section 66010, with a grade equivalent to a grade point average of 3.0 or above may also be used to satisfy one or more course requirements of this subparagraph.
+(A) Completion of all English language arts requirements for graduation with an overall grade point average of 3.0 or above in those classes. Completion of one or more English language arts courses at a public higher education institution
+ or an independent institution of higher education, as described in subdivisions (a) and (b) of Section 66010, with a grade equivalent to a grade point average of 3.0 or above may also be used to satisfy one or more course requirements of this subparagraph.
 
-(B) Passing the California Assessment of Student Performance and Progress for English language arts, or any successor test, administered in grade 11, at or above the “standard met” achievement level, or at the achievement level determined by the Superintendent for any successor test.
+(B) Passing the California Assessment of Student Performance and Progress for English language arts, or any successor test, administered in grade 11, at or above level 3, or at the achievement level determined by the Superintendent for any successor test.
 
-(C) (i) Passing an English Advanced Placement examination with a score of 3 or higher or an English International
- Baccalaureate examination with a score of 4 or higher.
+(C) (i) Passing an English Advanced Placement examination with a score of 3 or higher or an English International Baccalaureate examination with a score of 4 or higher.
 
-(ii) For purposes of clause (i), “English Advanced Placement” means Advanced Placement English Language and Composition, Advanced Placement English Literature and Composition, or Advanced Placement Seminar.
+(ii) For purposes of
+ clause (i), “English Advanced Placement” means Advanced Placement English Language and Composition, Advanced Placement English Literature and Composition, or Advanced Placement Seminar.
 
 (D) Achieving a score of 480 or higher on the Evidence-Based Reading and Writing section of the SAT.
 
-(2) Proficiency in one or more languages other than English shall be demonstrated through one of the following
- requirements:
+(2) Proficiency in one or more languages other than English shall be demonstrated through one of the following requirements:
 
-(A) Passing a world language Advanced Placement examination with a score of 3 or higher, passing a world language International Baccalaureate examination with a score of 4 or higher, or passing a world language ACTFL Writing Proficiency Test (WPT) and an Oral Proficiency Interview (OPI) with scores of Intermediate Mid or higher.
+(A) Passing a world language Advanced Placement examination with a score of 3 or higher, passing a world language International Baccalaureate examination with a score of 4 or higher, passing a world language ACTFL Writing Proficiency Test (WPT) and an Oral Proficiency Interview (OPI) with scores of Intermediate Mid or
+ higher, or, beginning with the 2024–25 school year, achieving at a level 3 on the high school California Spanish Assessment (CSA).
 
 (B) Successful completion of a four-year course of study of content in a world language at a high school or higher level attaining an overall grade point average of 3.0 or above in that course of study, and oral proficiency in the language comparable to that required pursuant to subparagraph (A). Pupils may also satisfy the requirements of this subparagraph by either or both of the following:
 
 (i) Successful completion of high school level courses completed in another country in a language other than English with the equivalent of an overall grade point average of 3.0 or above, as verified through a transcript.
 
-(ii) Completion of one or more world language courses at a
- public higher education institution or an independent institution of higher education, as described in subdivisions (a) and (b) of Section 66010, with a grade equivalent to a grade point average of 3.0 or above and oral proficiency in the language comparable to that required pursuant to subparagraph (A), as verified through a transcript.
+(ii) Completion of one or more world language courses at a public higher education institution or an independent institution of higher education, as described in subdivisions (a) and (b) of Section 66010, with a grade equivalent to a grade point average of 3.0 or above and oral proficiency in the language comparable to that required pursuant to subparagraph (A), as verified through a transcript.
 
-(C) (i) If no Advanced Placement examination or off-the-shelf language test exists and the school district can certify to the Superintendent that the test meets the rigor of a four-year high school course of study in that world language, passing a school district language examination that, at a minimum, assesses speaking, reading, and writing in a language other than English at the proficient level or higher. If a school district offers a language examination in
- a language in which an Advanced Placement examination or off-the-shelf language test exists, the school district language examination shall be approved by the Superintendent for the purpose of determining proficiency in a language other than English.
+(C) (i) If no Advanced Placement examination or off-the-shelf language test exists and the school district can certify to the Superintendent that the test meets the rigor of a four-year high school course of study in that world language, passing a school district language examination that, at a minimum, assesses speaking, reading, and writing in a language other than English at the proficient level or higher. If a
+ school district offers a language examination in a language in which an Advanced Placement examination or off-the-shelf language test exists, the school district language examination shall be approved by the Superintendent for the purpose of determining proficiency in a language other than English.
 
 (ii) Notwithstanding clause (i), a pupil who seeks to qualify for the State Seal of Biliteracy through a language that is not characterized by listening, speaking, or reading, or for which there is no written system, shall pass an assessment on the modalities that characterize communication in that language at the proficient level or higher.
 
-(b) If a pupil in any of grades 9 to 12, inclusive, is an English learner, the pupil shall meet both of the following criteria in order to qualify for the State Seal of Biliteracy:
+(b) If a pupil in any of grades 9 to 12, inclusive, is an English learner, the pupil shall meet both of the following criteria in order to
+ qualify for the State Seal of Biliteracy:
 
 (1) Attain an Oral Language composite score of level 4 on the English Language Proficiency Assessments for California, or any successor English oral language proficiency assessment, in transitional kindergarten, kindergarten, or any of grades 1 to 12, inclusive.
 
 (2) Demonstrate proficiency in English through one of the accomplishments listed in paragraph (1) of subdivision (a) and demonstrate proficiency in one or more languages other than English through one of the accomplishments listed in paragraph (2) of subdivision (a).
 
-(c) For languages in which an Advanced Placement test is not available, the Superintendent may provide a listing of equivalent summative tests that school districts may use in place of an Advanced
- Placement test for purposes of subparagraph (A) of paragraph (2) of subdivision (a). A school district may provide the Superintendent with a list of equivalent summative tests that the school district uses in place of an Advanced Placement test for purposes of subparagraph (A) of paragraph (2) of subdivision (a). The Superintendent may use lists received from school districts in developing the Superintendent’s list of equivalent summative tests.
+(c) For languages in which an Advanced Placement test is not available, the Superintendent may provide a listing of equivalent summative tests that school
+ districts may use in place of an Advanced Placement test for purposes of subparagraph (A) of paragraph (2) of subdivision (a). A school district may provide the Superintendent with a list of equivalent summative tests that the school district uses in place of an Advanced Placement test for purposes of subparagraph (A) of paragraph (2) of subdivision (a). The Superintendent may use lists received from school districts in developing the Superintendent’s list of equivalent summative tests.
 
 (d) For purposes of this article, “world language” has the same meaning as defined in Section 91.
 
-(e) Notwithstanding subdivision (a), for those pupils on track to graduate in 2022 and who were unable to take the assessment identified in subparagraph (B) of paragraph (1) of subdivision (a), the Superintendent may use the assessments
- identified in Section 121 of Chapter 44 of the Statutes of 2021 to determine whether a pupil obtained the achievement level on a grade 11 English language arts assessment for the purposes of subparagraph (B) of paragraph (1) of subdivision (a).
+(e) Notwithstanding subdivision (a), for those pupils on track to graduate in 2022 and who were unable to take the assessment identified in subparagraph (B) of paragraph (1) of subdivision (a), the
+ Superintendent may use the assessments identified in Section 121 of Chapter 44 of the Statutes of 2021 to determine whether a pupil obtained the achievement level on a grade 11 English language arts assessment for the purposes of subparagraph (B) of paragraph (1) of subdivision (a).
 
-(History: Amended by Stats. 2023, Ch. 326, Sec. 1.   (AB 370)   Effective January 1, 2024.)
+(History: Amended by Stats. 2026, Ch. 608, Sec. 8.   (AB 2467)   Effective September 27, 2026.)
 -------------------------------------------
 
 51462.
@@ -110634,28 +110828,35 @@ Governing boards may expend from the general fund of the district any money whic
 
 (1) A local educational agency shall not expend public funds for a contract unless the materials, programs, and activities are nonsectarian and comply with nondiscrimination provisions of state and federal law.
 
-(2) A local educational agency shall not expend public funds for a contract that pays for tuition or fees for
- a pupil at a private school that has filed an affidavit pursuant to Section 33190, except if required pursuant to a pupil’s individualized education program.
+(2) A local educational agency shall not expend public funds for a contract that pays for tuition or fees for a pupil at a private
+ school that has filed an affidavit pursuant to Section 33190, except if required pursuant to a pupil’s individualized education program.
 
 (3) (A) Financial payments or gifts shall not be offered by a local educational agency to a pupil, prospective pupil, or a pupil’s parent, guardian, or relative as an incentive for enrollment, referral, or retention.
 
 (B) A local educational agency shall not offer any financial incentives to employees to manipulate or falsify pupil attendance records and reports. Nothing in this subparagraph is intended to prohibit a local educational agency from offering financial incentives to employees for activities to encourage pupil engagement and reengagement of chronically absent pupils, including, but not limited to, home visits.
 
-(4) For a
- nonclassroom-based charter school, contracts shall itemize costs attributed to credentialed staff, administrative staff, and instruction and related services with sufficient detail to determine a qualifying expense for purposes of a funding determination.
+(4) For a nonclassroom-based charter
+ school, contracts shall itemize costs attributed to credentialed staff, administrative staff, and instruction and related services with sufficient detail to determine a qualifying expense for purposes of a funding determination.
 
 (5) A local educational agency shall ensure contracts reflect a reasonable market value.
 
 (6) A local educational agency shall not purchase or contract for annual and season passes or membership to amusement or theme parks, zoos, or family entertainment activities, except that a local educational agency may purchase or contract for single-use admission, meals, and transportation that is aligned with educational opportunities and assignments by teachers, or for graduation, school celebrations, or co-curricular activities.
 
-(7) A local educational agency shall only
- contract with an entity that has a business license or business certificate, where applicable, and has appropriate insurance for the service being offered. Government agencies are not required to have a business license.
+(7) (A) A local educational agency shall only contract with an entity that has a business license or business certificate, where applicable, and
+ that has appropriate insurance, for the service being offered. Government agencies are not required to have a business license.
+
+(B) Notwithstanding subparagraph (A), this paragraph shall not apply to either of the following:
+
+(i) Local educational agency contracts with a family daycare home, as defined in Section 1596.78 of the Health and Safety Code, that possess a valid Family Child Care Home license issued by the State Department of Social Services and that is compliant with Section 1597.531 of the Health and Safety Code.
+
+(ii) Contracts between a local educational agency serving as an alternative payment program provider pursuant to Chapter 3 (commencing with Section 10225) of Part 1.8 of Division 9 of the Welfare and Institutions Code and any license-exempt provider, as described in subdivision (d) or (f) of Section 1596.792 of the Health and Safety Code.
 
 (8) A local educational agency shall not contract with a pupil or a pupil’s parent, guardian, or relative for services provided exclusively to that pupil, except for any of the following persons who are compensated by the local educational agency to provide school-related transportation for a pupil:
 
 (A) A parent or legal guardian.
 
-(B) A relative, as defined in paragraph (2) of subdivision (c) of Section 361.3 of the Welfare and Institutions Code, or a nonrelative extended family member, as defined in Section 362.7 of the Welfare and Institutions Code.
+(B) A relative, as defined in paragraph (2) of subdivision (c) of
+ Section 361.3 of the Welfare and Institutions Code, or a nonrelative extended family member, as defined in Section 362.7 of the Welfare and Institutions Code.
 
 (C) A court-appointed educational rights holder.
 
@@ -110663,22 +110864,36 @@ Governing boards may expend from the general fund of the district any money whic
 
 (9) A local educational agency shall not reimburse parents or guardians for any activities or services. This paragraph does not prohibit a local educational agency from reimbursing parents or guardians for activities or services for pupils with disabilities pursuant to an individualized education program and required by a legal settlement or agreement.
 
-(10) A contractor who interacts with pupils outside the immediate supervision and control of a school employee shall have policies and procedures related to pupil and site safety, including in virtual settings, emergency response, and accident reporting that are reasonable for the instruction or activity.
+(10) A contractor who interacts with pupils outside the immediate supervision and control of a school employee shall have policies and procedures related to
+ pupil and site safety, including in virtual settings, emergency response, and accident reporting that are reasonable for the instruction or activity.
 
 (11) Contractor personnel interacting with pupils shall have a valid criminal records summary as described in Section 45125.1.
 
 (12) As part of a contract with a local educational agency, contractors shall provide evidence of qualification and expertise for the activities to be provided, in accordance with policies of the governing board or body of the local educational agency.
 
-(13) As part of a contract with a local educational agency, contractors shall not charge fees to a pupil or the pupil’s parent or legal guardian.
+(13) As part of a contract with a local educational agency, contractors shall not charge fees to a pupil or the pupil’s parent or legal
+ guardian, except as otherwise authorized for any of the following:
 
-(b) Auditing the approval of, and compliance with, policies enacted in accordance with subdivision (a) shall be included in the audit guide, Standards and Procedures for Audits of California K-12 Local Educational Agencies, described in
- Section 14502.1.
+(A) California state preschool programs, as specified in Section 8252.
 
-(c) This section does not supersede or invalidate a contract that is in effect on or before July 1, 2027. If a contract is in effect on or before July 1, 2027, the contract shall remain in effect until the expiration of the contract or the parties to the agreement negotiate a successor agreement that will be operative after July 1, 2027, that complies with this section. A local educational agency shall not enter into a contract or make an amendment or other ancillary agreement to an existing contract on or after the effective date of the act adding this section that would be operative after July 1, 2027, unless it would comply with this section.
+(B) The 21st Century High School After School Safety and Enrichment for Teens (High School ASSETs) program established pursuant to Article 19 (commencing with Section 8420) of Chapter 2 of Part 6 of Division 1 of Title 1.
+
+(C) The After School Education and Safety Program pursuant to Article 22.5 (commencing with Section 8482) of Chapter 2 of Part 6 of Division 1 of Title 1.
+
+(D) Expanded learning opportunity programs pursuant to Section 46120.
+
+(E) Schoolage childcare programs, as specified in Section 1596.793 of the Health and Safety Code.
+
+(F) Childcare programs, as specified in Section 10290 of the Welfare and Institutions Code.
+
+(b) Auditing the approval of, and compliance with, policies enacted in accordance with subdivision (a) shall be included in the audit guide, Standards and Procedures for Audits of California K-12 Local Educational Agencies, described in Section 14502.1.
+
+(c) This section does not supersede or invalidate a contract that is in effect on or before July 1, 2027. If a contract is in effect on or before July 1, 2027, the contract shall remain in effect until the expiration of the contract or the parties to the agreement negotiate a successor agreement that will be operative after July 1, 2027, that
+ complies with this section. A local educational agency shall not enter into a contract or make an amendment or other ancillary agreement to an existing contract on or after the effective date of the act adding this section that would be operative after July 1, 2027, unless it would comply with this section.
 
 (d) For purposes of this section, “local educational agency” means a school district, educational joint powers authority, county office of education, or charter school.
 
-(History: Added by Stats. 2026, Ch. 65, Sec. 105.   (AB 126)   Effective July 9, 2026.)
+(History: Amended by Stats. 2026, Ch. 608, Sec. 9.   (AB 2467)   Effective September 27, 2026.)
 -------------------------------------------
 
 
