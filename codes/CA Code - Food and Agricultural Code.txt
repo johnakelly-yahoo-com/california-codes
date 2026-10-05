@@ -5,7 +5,7 @@
 
 Source: Official California Legislative Information
         https://downloads.leginfo.legislature.ca.gov/
-Last Updated by State of California: September 26, 2026
+Last Updated by State of California: October 02, 2026
 
 
 ======================================================================
@@ -20054,6 +20054,16 @@ A change in the name or percentage, or both, of an inert ingredient is not a cha
 (d) Each pesticide registrant or applicant shall, upon request of the director, submit any data determined by the director to be necessary to carry out this section.
 
 (History: Amended by Stats. 2024, Ch. 60, Sec. 12.   (AB 2113)   Effective July 2, 2024.)
+-------------------------------------------
+
+12824.1.
+
+(a) In response to an invasive species threat, including, but not limited to, the threat of golden mussels, the department shall work with state and local agencies in order to quickly and efficiently respond to the threat. The department shall identify any tools available to assist a state or local agency in rapidly responding to the invasive species threat. This may include, but is not limited to, identifying any strategy, including an integrated pest management strategy, or a registered pesticide that would be a valuable tool to address the threat.
+
+(b) The department shall help identify any existing processes that allow for the rapid use of any tool that could be used
+ to address the invasive species threat and enables a streamlined or faster administrative or procedural process.
+
+(History: Added by Stats. 2026, Ch. 817, Sec. 4.   (AB 2032)   Effective September 29, 2026.)
 -------------------------------------------
 
 12824.5.
