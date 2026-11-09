@@ -5,7 +5,7 @@
 
 Source: Official California Legislative Information
         https://downloads.leginfo.legislature.ca.gov/
-Last Updated by State of California: September 26, 2026
+Last Updated by State of California: November 07, 2026
 
 
 ======================================================================
@@ -10345,6 +10345,161 @@ Notwithstanding any provision of the bond act, if the Treasurer sells bonds unde
 The Legislature hereby finds and declares that, inasmuch as the proceeds from the sale of bonds authorized by this article are not “proceeds of taxes” as that term is used in Article XIIIB of the California Constitution, the disbursement of these proceeds is not subject to the limitations imposed by Article XIIIB.
 
 (History: Added by Stats. 2017, Ch. 365, Sec. 4.   Approved in Proposition 1 at the November 6, 2018, election; effective November 7, 2018.)
+-------------------------------------------
+
+
+
+  ARTICLE 5ab. The Veterans and Affordable Housing Bond Act of 2026 [998.750. - 998.764.]
+
+998.750.
+
+Together with Part 16.1 (commencing with Section 54050) of Division 31 of the Health and Safety Code, this article shall be known, and may be cited, as the Veterans and Affordable Housing Bond Act of 2026.
+
+(History: Added by Stats. 2026, Ch. 16, Sec. 3.   (SB 417)   Effective Nov. 4, 2026.    Approved at the Nov. 3, 2026 election.)
+-------------------------------------------
+
+998.751.
+
+(a) (1) The State General Obligation Bond Law (Chapter 4 (commencing with Section 16720) of Part 3 of Division 4 of Title 2 of the Government Code), as it may be amended from time to time, is adopted for the purpose of the preparation, execution, issuance, sale, retirement, redemption, and repayment of, and otherwise providing with respect to, the bonds authorized to be issued by this article, and the provisions of that
+ law are included in this article, as though set out in full in this article, except for both of the following:
+
+(A) Subdivisions (a) and (b) of Section 16727 and subdivision (a) of Section 16755 of the State General Obligation Bond Law shall not apply.
+
+(B) Paragraph (1) of subdivision (c) of Section 16753 of the State General Obligation Bond Law shall be replaced in full by the following: “The Treasurer shall require that a successful bidder in a competitive sale or underwriter in a negotiated sale provide a good faith deposit of at least one-half of 1 percent of the principal amount of the bonds for which the bidder is the successful bidder or for which an underwriter submits a proposal. The good faith deposit shall be in the amount that is reasonably determined by the Treasurer at least one day prior to a competitive sale or negotiated sale of bonds, as applicable. The Treasurer
+ shall specify the form of the deposit, which may be a cashier’s check, a surety bond, a wire transfer of funds, or a combination thereof. The deposit shall not bear interest.”
+
+(2) All references in this article to “herein” refer both to this article and that law as incorporated herein.
+
+(b) For purposes of the State General Obligation Bond Law, the Department of Veterans Affairs is designated the “board.”
+
+(History: Added by Stats. 2026, Ch. 16, Sec. 3.   (SB 417)   Effective Nov. 4, 2026.    Approved at the Nov. 3, 2026 election.)
+-------------------------------------------
+
+998.752.
+
+As used herein, the following terms have the following meanings:
+
+(a) “Board” means the Department of Veterans Affairs.
+
+(b) “Bond” means a veterans bond, a state general obligation bond, issued pursuant to this article adopting the provisions of the State General Obligation Bond Law as provided herein.
+
+(c) “Bond act” means this article authorizing the issuance of state general obligation bonds and adopting the State General Obligation Bond Law by reference.
+
+(d) “Committee” means the Veterans’ Finance Committee of 1943 established by Section 991.
+
+(e) “Fund” means the Veterans’ Farm and Home Building Fund of 1943 established by Section 988.
+
+(f) “Payment Fund” means the Veterans’ Bonds Payment Fund established by Section 988.6.
+
+(History: Added by Stats. 2026, Ch. 16, Sec. 3.   (SB 417)   Effective Nov. 4, 2026.    Approved at the Nov. 3, 2026 election.)
+-------------------------------------------
+
+998.753.
+
+For the purpose of creating a fund to provide farm and home aid for veterans in accordance with the Veterans’ Farm and Home Purchase Act of 1974 (Article 3.1 (commencing with Section 987.50)), and of all acts amendatory thereof and supplemental thereto, the committee may create a debt or debts, liability or liabilities, of the State of California, in the aggregate amount of not more than one billion two hundred fifty million dollars ($1,250,000,000), not including
+ the amount of any refunding bonds issued in accordance with Section 998.762, in the manner provided herein.
+
+(History: Added by Stats. 2026, Ch. 16, Sec. 3.   (SB 417)   Effective Nov. 4, 2026.    Approved at the Nov. 3, 2026 election.)
+-------------------------------------------
+
+998.754.
+
+(a) All bonds authorized by this article, when sold, issued, and delivered, shall be and constitute a valid and legally binding general obligation of the State of California, and the full faith and credit of the State of California is hereby pledged for the punctual payment of both principal of and interest on the bonds as the principal and interest become due and payable.
+
+(b) There shall be collected annually, in the same manner and at the same time as other state revenue is collected, the sum, in addition to the ordinary revenues of the state, as is required to pay the principal of, and interest on, these bonds becoming due and payable each year. It is the duty of all officers charged by law with any duty in regard to the collection of state revenues to do and perform each and every act that is necessary to collect that additional sum.
+
+(c) On the dates on which funds are to be remitted pursuant to Section 16676 of the Government Code for the payment of debt service on the bonds in each fiscal year, there shall be transferred to the Payment Fund to pay the debt service all of the moneys in the fund, not in excess of the amount of debt service then due and payable. If the moneys transferred on the remittance dates is less than the debt service then due and payable, the balance remaining unpaid shall
+ be transferred to the General Fund out of the fund as soon as it shall become available, together with interest thereon from the remittance date until paid, at the same rate of interest as borne by the bonds, compounded semiannually. Notwithstanding any other provision of law to the contrary, this subdivision shall apply to all veterans’ farm and home purchase bond acts pursuant to this chapter. This subdivision does not grant any lien on the fund, the Payment Fund, or the moneys therein to the holders of any bonds issued under this article. For the purposes of this subdivision, “debt service” means the principal (whether due at maturity, by redemption, or acceleration), premium, if any, or interest payable on any date with respect to any series of bonds. This subdivision shall not apply, however, in the case of any debt service that is payable from the proceeds of any refunding bonds.
+
+(History: Added by Stats. 2026, Ch. 16, Sec. 3.   (SB 417)   Effective Nov. 4, 2026.    Approved at the Nov. 3, 2026 election.)
+-------------------------------------------
+
+998.755.
+
+Notwithstanding Section 13340 of the Government Code, there is hereby continuously appropriated from the General Fund in the State Treasury, for purposes of this article, without regard to fiscal year, a sum of moneys that will equal both of the following:
+
+(a) That sum annually necessary to pay the principal of, and the interest on, the bonds issued and sold as provided herein, as that principal and
+ interest become due and payable.
+
+(b) That sum necessary to carry out Section 998.756.
+
+(History: Added by Stats. 2026, Ch. 16, Sec. 3.   (SB 417)   Effective Nov. 4, 2026.    Approved at the Nov. 3, 2026 election.)
+-------------------------------------------
+
+998.756.
+
+For the purposes of this article, the Director of Finance may authorize the withdrawal from the General Fund of a sum of moneys not to exceed the amount of the unsold bonds which have been authorized by the committee to be sold pursuant to this article, excluding any refunding bonds authorized pursuant to Section 998.762, less any amount loaned pursuant to Section 998.757 and not yet repaid and any amount withdrawn pursuant to this section and not yet returned to
+ the General Fund. Any sums withdrawn shall be deposited into the fund. Any moneys made available under this section to the board shall be returned by the board to the General Fund, plus the interest that the amounts would have earned in the Pooled Money Investment Account, from the sale of bonds for the purpose of carrying out this article.
+
+(History: Added by Stats. 2026, Ch. 16, Sec. 3.   (SB 417)   Effective Nov. 4, 2026.    Approved at the Nov. 3, 2026 election.)
+-------------------------------------------
+
+998.757.
+
+The board may request the Pooled Money Investment Board to make a loan from the Pooled Money Investment Account, in accordance with Section 16312 of the Government Code, for the purposes of carrying out this article, less any amount withdrawn pursuant to Section 998.756 and not yet returned to the General Fund. The amount of the request shall not exceed the amount of unsold bonds which the committee has, by resolution, authorized to be sold for the purpose of
+ carrying out this article, excluding any refunding bonds authorized pursuant to Section 998.762, less any amount loaned pursuant to this section and not yet repaid and any amount withdrawn pursuant to Section 998.756 and not yet returned to the General Fund. The board shall execute whatever documents are required by the Pooled Money Investment Board to obtain and repay the loan. Any amounts loaned shall be deposited into the fund to be allocated by the board in accordance with this article.
+
+(History: Added by Stats. 2026, Ch. 16, Sec. 3.   (SB 417)   Effective Nov. 4, 2026.    Approved at the Nov. 3, 2026 election.)
+-------------------------------------------
+
+998.758.
+
+Upon request of the board, supported by a statement of its plans and projects approved by the Governor, the committee shall determine by resolution whether or not it is necessary or desirable to issue any bonds authorized pursuant to this article in order to carry out the board’s plans and projects, and, if so, the amount of bonds to be issued and sold. Successive issues of bonds may be authorized and sold to carry out these plans and projects, progressively, and
+ it is not necessary that all the bonds be issued or sold at any one time.
+
+(History: Added by Stats. 2026, Ch. 16, Sec. 3.   (SB 417)   Effective Nov. 4, 2026.    Approved at the Nov. 3, 2026 election.)
+-------------------------------------------
+
+998.759.
+
+(a) As long as any bonds authorized pursuant to this article are outstanding, the Secretary of Veterans Affairs shall, at the close of each fiscal year, require a survey of the financial condition of the Division of Farm and Home Purchases, together with a projection of the division’s operations, to be made by an independent public accountant of recognized standing. The results of each survey and projection shall be reported in writing by the
+ public accountant to the Secretary of Veterans Affairs, the California Veterans Board, the appropriate policy committees dealing with veterans affairs in the Senate and the Assembly, and the committee.
+
+(b) The Division of Farm and Home Purchases shall reimburse the public accountant for these services out of any moneys that the division may have available on deposit with the Treasurer.
+
+(History: Added by Stats. 2026, Ch. 16, Sec. 3.   (SB 417)   Effective Nov. 4, 2026.    Approved at the Nov. 3, 2026 election.)
+-------------------------------------------
+
+998.760.
+
+(a) The Treasurer shall issue and sell the bonds authorized by this article in the amount determined by the committee to be necessary and desirable pursuant to Section 998.758. The bonds shall be issued and sold upon the terms and conditions specified in a resolution to be adopted by the committee pursuant to Section 16731 of the Government Code.
+
+(b) Whenever the committee deems
+ it necessary for an effective sale of the bonds, the committee may authorize the Treasurer to sell any issue of bonds at less than their par value, notwithstanding Section 16754 of the Government Code. However, the discount on the bonds shall not exceed 3 percent of the par value thereof.
+
+(History: Added by Stats. 2026, Ch. 16, Sec. 3.   (SB 417)   Effective Nov. 4, 2026.    Approved at the Nov. 3, 2026 election.)
+-------------------------------------------
+
+998.761.
+
+Out of the first moneys realized from the sale of bonds as provided herein, there shall be redeposited into the General Obligation Bond Expense Revolving Fund, established by Section 16724.5 of the Government Code, the amount of all expenditures made for the purposes specified in that section, and the moneys may be used for the same purpose and repaid in the same manner whenever additional bond sales are made. All moneys deposited in the fund that are derived from
+ premium and accrued interest on bonds sold pursuant to this article shall be reserved in the fund and shall be available for transfer to the General Fund as a credit to expenditures for bond interest, except that amounts derived from premium may be reserved and used to pay costs of bond issuance prior to any transfer to the General Fund.
+
+(History: Added by Stats. 2026, Ch. 16, Sec. 3.   (SB 417)   Effective Nov. 4, 2026.    Approved at the Nov. 3, 2026 election.)
+-------------------------------------------
+
+998.762.
+
+Any bonds issued and sold pursuant to this article may be refunded in accordance with Article 6 (commencing with Section 16780) of Chapter 4 of Part 3 of Division 4 of Title 2 of the Government Code. The approval of the voters for the issuance of bonds pursuant to this article includes approval for the issuance of bonds issued to refund bonds originally issued under this article or any previously issued refunding bonds. Any bond refunded with the proceeds of
+ refunding bonds as authorized by this section may be legally defeased to the extent permitted by law in the manner and to the extent set forth in the resolution, as amended from time to time, authorizing that refunded bond.
+
+(History: Added by Stats. 2026, Ch. 16, Sec. 3.   (SB 417)   Effective Nov. 4, 2026.    Approved at the Nov. 3, 2026 election.)
+-------------------------------------------
+
+998.763.
+
+Notwithstanding any provision of the State General Obligation Bond Law or this article, if the Treasurer sells bonds pursuant to this article for which bond counsel has issued an opinion to the effect that the interest on the bonds is excludable from gross income for purposes of federal income tax purposes, subject to any conditions that may be designated, or otherwise entitled to any federal tax advantage, the Treasurer may maintain separate accounts for the
+ investment of bond proceeds and for the earnings on those proceeds, and may use or direct those proceeds or earnings to pay any rebate, penalty, or other payment required by federal law or take any other action with respect to the investment and use of bond proceeds required or permitted pursuant to federal law necessary or desirable to maintain the tax-exempt status of the bonds or to obtain any other advantage pursuant to federal law on behalf of the funds of this state.
+
+(History: Added by Stats. 2026, Ch. 16, Sec. 3.   (SB 417)   Effective Nov. 4, 2026.    Approved at the Nov. 3, 2026 election.)
+-------------------------------------------
+
+998.764.
+
+The proceeds from the sale of bonds authorized by this article are not “proceeds of taxes” as that term is used in Article XIIIB of the California Constitution, and the disbursement of these proceeds is not subject to the limitations imposed by Article XIIIB. “Declaration of Intent” proceeds of the bonds, in an amount not to exceed the principal amount of bonds authorized to be issued by this article (excluding any
+ refunding bonds issued pursuant to Section 998.762), are expected to be and may be used to reimburse any lawfully available source used to pay costs of projects or programs (including funds of particular state departments or agencies that may be spent on costs of those projects or programs) authorized pursuant to this article and paid after November 3, 2026, provided, however, any costs that are to be reimbursed from proceeds of bonds shall not have been paid from the proceeds of any other indebtedness unless that prior indebtedness will be retired with the proceeds of the bonds.
+
+(History: Added by Stats. 2026, Ch. 16, Sec. 3.   (SB 417)   Effective Nov. 4, 2026.    Approved at the Nov. 3, 2026 election.)
 -------------------------------------------
 
 
