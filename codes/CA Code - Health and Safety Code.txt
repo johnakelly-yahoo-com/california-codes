@@ -5,7 +5,7 @@
 
 Source: Official California Legislative Information
         https://downloads.leginfo.legislature.ca.gov/
-Last Updated by State of California: October 03, 2026
+Last Updated by State of California: November 07, 2026
 
 
 ======================================================================
@@ -227493,6 +227493,247 @@ The agency shall have all the powers conferred upon it by this part (commencing 
 
 
 
+  CHAPTER 11.5. California Middle-Class Home Ownership and Family Home Construction Act of 2026 [51515. - 51515.06.]
+
+51515.
+
+(a) The California Housing Finance Agency shall administer and implement the Middle-Class Home Ownership and Family Home Construction Act of 2026 in order to:
+
+(1) Establish middle-class home ownership loans to make home financing more affordable for the purchase of a newly constructed single-family home, with no cost to taxpayers.
+
+(2) Expedite and encourage new single-family home construction to create home ownership opportunities for middle-class families and address California’s shortage of single-family housing.
+
+(3) Protect consumers from unfair lending practices.
+
+(4) Provide opportunities for social impact investment by promoting the purchase of low-interest bonds to support middle-class home loans with below-market interest rates to advance the goal of
+ California home ownership, as well as encouraging lending and community investments that qualify for Community Reinvestment Act credit.
+
+(b) For purposes of this chapter:
+
+(1) “Act” means the California Middle-Class Home Ownership and Family Home Construction Act of 2026.
+
+(2) “Agency” means the California Housing Finance Agency.
+
+(3) “Applicant” means any person or persons applying to receive a middle-class home ownership loan.
+
+(4) “Bonds” means revenue bonds, notes, including bond anticipation notes and construction loan notes, debentures, interim or other certificates, or other evidence of financial indebtedness issued by the agency pursuant to Section 51515.06.
+
+(5) “Borrower” means an applicant who satisfies the requirements established in subdivision (a) of Section 51515.01, and any other eligibility requirements established by the agency,
+ and who has received a middle-class home ownership loan.
+
+(6) “Builder” means a housing developer that participates in the qualified builder option established in Section 51515.02.
+
+(7) “Lender” means a bank, credit union, trust company, savings bank, national banking association, savings and loan association, building and loan association, mortgage banker, or other financial institution or governmental agency that customarily provides services or otherwise aids in the financing of home mortgages, or any holding company for any of the foregoing, that meets the requirements established in Section 51515.03 and with which the agency has contracted to originate or service middle-class home ownership loans authorized by this chapter.
+
+(8) “Middle-class home ownership loan” means a loan originated pursuant to this chapter.
+
+(9) “Option” means the qualified builder option to encourage new single-family home
+ construction established in Section 51515.02.
+
+(10) “Program” means the Middle-Class Home Ownership Loan Program.
+
+(11) “Qualified new home” means a single-family home that satisfies the requirements established in subdivision (b) of Section 51515.01, including, but not limited to, homes built under the qualified builder option established in Section 51515.02.
+
+(12) “Secondary mortgage” means a mortgage, deed of trust, or other security instrument on a qualified new home that secures a middle-class home ownership loan.
+
+(13) “Single-family home” means a stand-alone home, townhome, or row house, including the land on which it is located, or a condominium, manufactured home, or other residential unit, intended for occupancy by one household.
+
+(History: Chapter 11.5 added Nov. 3, 2026, by initiative Proposition 37.   Effective on the fifth day after the Secretary of State files the final Statement of Vote.   [Note: Prop. 37 (under its conditions in Sec. 3) allows the Legislature to directly amend provisions by over a 60 percent vote.])
+-------------------------------------------
+
+51515.01.
+
+Borrower and Qualified New Home Eligibility
+
+(a) Middle-Class Home Buyer Borrower Eligibility.
+
+(1) An applicant shall meet all of the following eligibility requirements to qualify for a middle-class home ownership loan under the program:
+
+(A) California resident requirement. The applicant shall be a resident of the State of California for at least one year prior to the time of application.
+
+(B) Owner-occupied primary residence. The applicant shall agree to occupy the qualified new home as the applicant’s primary residence within 60 days of closing.
+
+(C) Income requirements. The applicant shall have a family income that does not exceed 200 percent of the area median income for a family of the same size in the county or metropolitan statistical area where the
+ qualified new home is located, adjusted for family size by the agency.
+
+(D) Downpayment requirement. The applicant shall agree to pay no less than 3 percent of the purchase price of the qualified new home from a source other than a grant or borrowed money.
+
+(2) An applicant shall provide the agency with any information, in the form prescribed by the agency, that will enable the agency to determine the applicant’s eligibility under this chapter.
+
+(b) Qualified New Home Eligibility.
+
+(1) A qualified new home is either of the following:
+
+(A) A newly constructed home, townhome, row house, condominium, or manufactured home where the borrower is the first purchaser.
+
+(B) A condominium or other residential unit in a building that was a nonresidential structure and was retrofitted or repurposed for residential use where the borrower is the first
+ purchaser.
+
+(2) The maximum sales price for a qualified new home shall not exceed 125 percent of the conforming loan limit for a one-unit property in the county in which the qualified new home is located, as set forth in the annual conforming loan limit report published by the Federal Housing Finance Agency, or a successor agency, pursuant to Section 4542 of Title 12 of the United States Code.
+
+(3) This section shall not be construed to restrict the sale of qualified new homes to home buyers who are not participating in the program.
+
+(4) A qualified new home shall not be considered a “public works” for purposes of Chapter 1 (commencing with Section 1720) of Part 7 of Division 2 of the Labor Code.
+
+(History: Chapter 11.5 added Nov. 3, 2026, by initiative Proposition 37.   Effective on the fifth day after the Secretary of State files the final Statement of Vote.   [Note: Prop. 37 (under its conditions in Sec. 3) allows the Legislature to directly amend provisions by over a 60 percent vote.])
+-------------------------------------------
+
+51515.02.
+
+The Qualified Builder Option
+
+(a) A housing developer may voluntarily opt into the option by certifying to the agency that the construction of a new home or homes will satisfy the requirements established in subdivision (b) of Section 51515.01. The agency shall issue a letter confirming participation status within 30 days of receiving a certification submitted pursuant to this subdivision. The letter may be relied upon by the builder, prospective purchasers, and construction lenders for purposes of marketing and financing any qualified new home, subject to the requirements in this chapter.
+
+(b) Participating builders shall:
+
+(1) Be subject to the labor and enforcement provisions in paragraphs (2), (3), if the project and construction craft conditions specified in that paragraph are met, (4), and (5) of
+ subdivision (d) of Section 21080.66 of the Public Resources Code.
+
+(2) Be liable for all violations of paragraph (1) of subdivision (c) that are committed by contractors and subcontractors to the builder. A joint labor-management cooperation committee established pursuant to the federal Labor Management Cooperation Act of 1978 (29 U.S.C. Sec. 175a) may bring an action in a court of competent jurisdiction for a violation of this paragraph.
+
+(c) A joint labor-management cooperation committee established pursuant to the federal Labor Management Cooperation Act of 1978 (29 U.S.C. Sec. 175a) may bring an action in a court of competent jurisdiction against a contractor or subcontractor to the builder at any tier on behalf of construction workers employed by a contractor or subcontractor to enforce any of the following:
+
+(1) An employer’s obligations under Division 1 (commencing with Section 100) and Division 6 (commencing with Section
+ 13000) of the Unemployment Insurance Code.
+
+(2) The failure to secure the payment of workers’ compensation insurance as required by Chapter 4 (commencing with Section 3700) of Part 1 of Division 4 of the Labor Code.
+
+(3) The failure to maintain a valid state contractor’s license as required by Chapter 9 (commencing with Section 7000) of Division 3 of the Business and Professions Code.
+
+(d) Remedies and penalties for labor law violations under this section shall be assessed and distributed in accordance with subdivision (m) of Section 2699 of the Labor Code.
+
+(e) This section shall not be construed to restrict the purchase of a qualified new home that was built under the option by home buyers who are not participating in the program.
+
+(f) If a builder sells a new qualified home built pursuant to this section for more than 25 percent over the maximum sales price established in
+ paragraph (2) of subdivision (b) of Section 51515.01, subparagraph (B) of paragraph (1) and paragraph (2) of subdivision (e) of Section 51515.04 shall not apply to the home.
+
+(History: Chapter 11.5 added Nov. 3, 2026, by initiative Proposition 37.   Effective on the fifth day after the Secretary of State files the final Statement of Vote.   [Note: Prop. 37 (under its conditions in Sec. 3) allows the Legislature to directly amend provisions by over a 60 percent vote.])
+-------------------------------------------
+
+51515.03.
+
+Lender Eligibility
+
+(a) The agency may contract with one or more lenders to originate or service the middle-class home ownership loans authorized by this chapter.
+
+(b) The agency shall evaluate whether the program, consistent with its purposes, may be implemented in a manner that meets the criteria for activities qualifying for consideration for lenders subject to the federal Community Reinvestment Act (12 U.S.C. Sec. 2901 et seq.), and if so, implement the program in that manner.
+
+(History: Chapter 11.5 added Nov. 3, 2026, by initiative Proposition 37.   Effective on the fifth day after the Secretary of State files the final Statement of Vote.   [Note: Prop. 37 (under its conditions in Sec. 3) allows the Legislature to directly amend provisions by over a 60 percent vote.])
+-------------------------------------------
+
+51515.04.
+
+Consumer Protections, Accountability, and Transparency Standards
+
+(a) Consumer protection. The agency shall establish consumer protection requirements applicable to lenders the agency contracts with to originate the middle-class home ownership loans, including, but not limited to, all of the following:
+
+(1) Limits on lenders fees associated with the origination of middle-class home ownership loans.
+
+(2) A prohibition on early payment penalties.
+
+(3) A requirement that middle-class home ownership loans be fixed-rate mortgage loans.
+
+(b) Additional credit verification. If for any reason an applicant’s credit score does not qualify the applicant for credit or the most favorable terms available under this program, the lender shall allow the applicant to
+ voluntarily submit financial records, including bank statements, paystubs, verifiable personal assets, and rental payment history, and utilize and evaluate those records using cashflow underwriting in an effort to qualify the applicant for credit or more favorable terms under the program. By voluntarily submitting financial records, the applicant consents to those records being used for cashflow underwriting for purposes of the program.
+
+(c) Home buyer representation and protections. The applicant shall retain a licensed California real estate agent or broker, as defined in Section 10018.06 of the Business and Professions Code, selected by the applicant, to ensure that the home buyer receives adequate representation and consumer protection throughout the home buying process.
+
+(d) Hardship deferral. A borrower may request a temporary hardship deferral of monthly interest payments on their middle-class home ownership loan pursuant to the criteria and terms
+ established by the agency.
+
+(e) Construction accountability standards.
+
+(1) To protect consumers and expedite resolution of disputes for homeowners:
+
+(A) Title 7 (commencing with Section 895) of Part 2 of Division 2 of the Civil Code shall apply to qualified new homes, except as modified in subparagraph (B) for qualified new homes built by a builder pursuant to Section 51515.02.
+
+(B) Qualified new homes built by a builder pursuant to Section 51515.02 shall be subject to the following right-to-repair procedures:
+
+(i) Notice requirements. If any claimant, whether it is a homeowner, group of homeowners, or an association, initiates the prelitigation procedures in subdivision (a) of Section 910 of the Civil Code, in addition to complying with all of the requirements in that subdivision, the written notice required shall identify each homeowner by address or other description
+ sufficient to apprise the builder of the location of each residence, shall identify the nature and location of each alleged violation in each residence, and shall be signed by each homeowner alleging a violation.
+
+(ii) Allows open communication and transparency. Notwithstanding Section 913 of the Civil Code, a builder may communicate directly with the homeowner or claimant during any stage of the prelitigation procedures described in Chapter 4 (commencing with Section 910) of Title 7 of Part 2 of Division 2 of the Civil Code. However, this provision is not intended to modify the California Rules of Professional Conduct of the State Bar of California, including Rule 4.2, which prohibits attorneys from directly or indirectly communicating with a person they know is represented by another lawyer in the matter.
+
+(iii) Allows homeowner release. Notwithstanding Section 926 of the Civil Code, a builder may obtain a release or waiver from the homeowner for the
+ repair work mandated by Chapter 4 (commencing with Section 910) of Title 7 of Part 2 of Division 2 of the Civil Code, provided the builder has completed the repairs with the utmost diligence, and the homeowner is satisfied with those repairs. The homeowner may voluntarily execute a release of claims related solely to the repaired deficiencies. That release shall be in writing, executed knowingly and voluntarily, and shall not extend to any defects or claims not addressed by the repairs.
+
+(iv) lncentivizing prompt resolution of litigation. If a court grants a motion to stay pursuant to subdivision (b) of Section 930 of the Civil Code and, 120 days thereafter, the claimant has not taken affirmative action within the claimant’s control to comply with the requirements of Chapter 4 (commencing with Section 910) of Title 7 of Part 2 of Division 2 of the Civil Code, the builder may bring a motion to dismiss the action. The court, in its discretion, may award the prevailing party on that
+ motion its attorney’s fees and costs in bringing or opposing the motion.
+
+(v) Disclosure to home buyer. The builder of the qualified new home shall disclose in writing, in a form approved by the agency, to each home buyer, before the close of escrow, that the qualified new home is subject to this subparagraph.
+
+(C) Subparagraph (B) shall not apply to qualified new homes covered by subdivision (f) of Section 51515.02.
+
+(2) Notwithstanding any other law, in any action brought by a homeowner or group of homeowners asserting claims subject to the procedures set forth in Chapter 4 (commencing with Section 910) and Chapter 5 (commencing with Section 941) of Title 7 of Part 2 of Division 2 of the Civil Code or the procedures set forth in subparagraph (B) of paragraph (1) of this subdivision related to a qualified new home, the maximum allowable attorney contingency fee shall not exceed 30 percent of the total recovery obtained through
+ settlement, mediation, arbitration, judicial reference, or judgment, unless a court approves a higher award considering the results obtained, the risk undertaken by the attorney, any agreement between the attorney and the client, the complexity of the action, and the skill demonstrated by the attorney. The attorney contingency fee shall be paid solely out of the amount of the settlement, arbitration, mediation, judicial reference, or judgment.
+
+(f) A lender originating a middle-class home ownership loan may charge an origination fee of no more than 0.5 percent or two hundred ninety dollars ($290), whichever is greater. The agency may adjust the two hundred ninety dollars ($290) amount no more than once every two years. A lender shall not charge any other loan fees unless authorized by the agency.
+
+(g) Section 2924.13 of the Civil Code shall not apply to any middle-class home ownership loans made under this
+ chapter.
+
+(History: Chapter 11.5 added Nov. 3, 2026, by initiative Proposition 37.   Effective on the fifth day after the Secretary of State files the final Statement of Vote.   [Note: Prop. 37 (under its conditions in Sec. 3) allows the Legislature to directly amend provisions by over a 60 percent vote.])
+-------------------------------------------
+
+51515.05.
+
+Program Requirements
+
+(a) The agency shall implement the program no later than one year after the effective date of this act. The agency shall have all the powers conferred upon it by this part to implement and administer the program in accordance with this chapter. In implementing this chapter, the agency shall adopt rules and regulations approved by the board of directors of the agency and consistent with this chapter. Policies, rules, and regulations adopted pursuant to this part shall not be subject to Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code.
+
+(b) Each middle-class home ownership loan shall be secured by a secondary mortgage, shall be used solely to finance a portion of the purchase price of a qualified new home, and shall finance no more than 17 percent of the purchase
+ price of a qualified new home that is ordinarily covered by the homeowner’s downpayment, where the applicant contributes no less than 3 percent of the purchase price of a qualified new home. Each middle-class home ownership loan secured by a secondary mortgage shall be subordinate to the primary mortgage financing the purchase of the qualified new home. The agency shall adopt rules regarding closing costs, including, but not limited to, authorizing a borrower to use a middle-class home ownership loan to pay the closing costs associated with the full purchase of a qualified new home, provided that the agency determines that such a rule balances the interests of borrowers and bond investors. 
+
+(c) The agency shall set residency duration requirements for borrowers and the interest rates, amortization schedules, principal repayments, prepayment provisions, and other payment terms on middle-class home ownership loans on terms the agency determines practical and favorable to applicants
+ and at levels necessary, to the greatest extent possible, to pay the principal, interest, and other amounts due with respect to the bonds issued pursuant to this chapter, including amounts necessary to defray all costs of administration incurred by the agency pursuant to this chapter.
+
+(d) The agency shall establish a homeowner education requirement for borrowers whom the agency determines would benefit from homeowner education, including first-time home buyers, and shall do so in the most cost-effective manner practicable provided that the requirement can be satisfied within the timeline for closing.
+
+(e) The agency shall establish underwriting criteria for the middle-class home ownership loans and may adjust the terms and eligibility of middle-class home ownership loans, including, but not limited to, loan limits, minimum credit scores or the additional credit verification permitted by subdivision (b) of Section 51515.04, and debt-to-income ratios, to
+ satisfy federal standards and requirements established by Fannie Mae, Freddie Mac, or the Federal Housing Administration, provided that those criteria are consistent with the terms and purposes of this chapter.
+
+(f) The agency shall have discretion to set the manner, timing, and geographic distribution of bond sales, including whether to market bonds regionally or statewide, and shall do so in a manner that minimizes interest costs and encourages broad investor participation.
+
+(g) The agency shall provide for an independent annual audit of the program to ensure that bond proceeds are used in a manner consistent with the requirements of this chapter and any other applicable laws.
+
+(History: Chapter 11.5 added Nov. 3, 2026, by initiative Proposition 37.   Effective on the fifth day after the Secretary of State files the final Statement of Vote.   [Note: Prop. 37 (under its conditions in Sec. 3) allows the Legislature to directly amend provisions by over a 60 percent vote.])
+-------------------------------------------
+
+51515.06.
+
+Revenue Bonds
+
+(a) Subject only to the limitations of this chapter, the agency may, in addition to any other power conferred by this part:
+
+(1) Issue and sell its bonds in the principal amount that the agency determines necessary for the purpose of funding or acquiring middle-class home ownership loans under the program and for the payment of interest on these bonds, the establishment of reserves to secure the bonds, and the payment of other expenditures of the agency incident to, and necessary or convenient to, issuance of the bonds, including credit or liquidity enhancement costs, provided that the principal amount of any bonds issued and sold pursuant to this chapter shall not exceed twenty-five billion dollars ($25,000,000,000), not including the amount of any refunding bonds issued pursuant to paragraph (2).
+
+(2) Issue and sell its bonds to redeem, refund, retire, restructure, or purchase bonds previously issued pursuant to this chapter pursuant to Part 3 (commencing with Section 50900).
+
+(3) Enter into any resolutions, indentures, or other documents governing the bonds with trustees.
+
+(4) Enter into any agreements for credit enhancement or liquidity support.
+
+(5) Pledge and grant a lien on, and security interest in, collateral, including, but not limited to, the middle-class home ownership loans and the agency’s rights thereunder, to secure the obligations of the agency under any resolutions, indentures, or other documents governing the bonds and agreements for credit enhancement or liquidity support. This pledge, lien, and security interest shall be governed by Chapter 5.5 (commencing with Section 5450) of Division 6 of Title 1 of the Government Code.
+
+(6) Make or acquire middle-class home
+ ownership loans.
+
+(7) Collect, or cause to be collected, loan payments and other amounts when due from borrowers under a middle-class home ownership loan.
+
+(8) Enforce, or cause to be enforced, the terms of middle-class home ownership loans and secondary mortgages against borrowers.
+
+(9) Accept any grants or donations for the benefit of the program.
+
+(10) Make and execute contracts and other instruments and do any and all things necessary, convenient, or desirable in connection with the bonds, the middle-class home ownership loans, the secondary mortgages, or to carry out the provisions of this chapter.
+
+(b) In addition to the statement required by Section 51374, all bonds issued pursuant to this section shall contain on the face the following statement: “This bond shall not be deemed to constitute a debt or liability or a pledge of the faith and credit of the State of
+ California, other than the agency, but shall be payable solely from the funds provided therefore.”
+
+(History: Chapter 11.5 added Nov. 3, 2026, by initiative Proposition 37.   Effective on the fifth day after the Secretary of State files the final Statement of Vote.   [Note: Prop. 37 (under its conditions in Sec. 3) allows the Legislature to directly amend provisions by over a 60 percent vote.])
+-------------------------------------------
+
+
+
   CHAPTER 12. California Dream for All Program [51520. - 51529.]
 
 51520.
@@ -233099,6 +233340,251 @@ Notwithstanding any provision of the State General Obligation Bond Law with rega
 All moneys derived from premiums and accrued interest on bonds sold pursuant to this part shall be transferred to the General Fund as a credit to expenditures for bond interest; provided, however, that amounts derived from premiums may be reserved and used to pay the costs of bond issuance prior to transfer to the General Fund.
 
 (History: Added by Stats. 2017, Ch. 365, Sec. 3.   Approved in Proposition 1 at the November 6, 2018, election; effective November 7, 2018.)
+-------------------------------------------
+
+
+
+PART 16.1. Veterans and Affordable Housing Bond Act of 2026 [54050. - 54088.]
+
+
+
+  CHAPTER 1. General Provisions [54050. - 54052.]
+
+54050.
+
+Together with Article 5ab (commencing with Section 998.750) of Chapter 6 of Division 4 of the Military and Veterans Code, this part shall be known, and may be cited, as the Veterans and Affordable Housing Bond Act of 2026.
+
+(History: Added by Stats. 2026, Ch. 16, Sec. 2.   (SB 417)   Effective Nov. 4, 2026.    Approved at the Nov. 3, 2026 election.)
+-------------------------------------------
+
+54051.
+
+This part shall only become operative upon adoption by the voters at the November 3, 2026, statewide general election.
+
+(History: Added by Stats. 2026, Ch. 16, Sec. 2.   (SB 417)   Effective Nov. 4, 2026.    Approved at the Nov. 3, 2026 election.)
+-------------------------------------------
+
+54052.
+
+For purposes of this part, “fund” means the Affordable Housing Bond Act Trust Fund of 2026 created pursuant to Section 54054.
+
+(History: Added by Stats. 2026, Ch. 16, Sec. 2.   (SB 417)   Effective Nov. 4, 2026.    Approved at the Nov. 3, 2026 election.)
+-------------------------------------------
+
+
+
+  CHAPTER 2. Affordable Housing Bond Act Trust Fund of 2026 and Program [54054. - 54056.]
+
+54054.
+
+(a) The Affordable Housing Bond Act Trust Fund of 2026 is hereby created within the State Treasury. It is the intent of the Legislature that the proceeds of bonds issued and sold pursuant to this part, exclusive of refunding bonds issued pursuant to Section 54076, be deposited into the fund and used to fund affordable rental housing and home ownership programs as described in this chapter.
+
+(b) The proceeds of bonds issued and sold pursuant to this part for the purposes specified in this chapter shall be allocated in the following manner:
+
+(1) Five billion one hundred million dollars ($5,100,000,000) to be deposited into the Housing Rehabilitation Loan Fund established pursuant to Section 50661 to be used for the Multifamily Housing Program authorized by Chapter 6.7 (commencing with Section 50675) of Part 2. At least 10 percent of assisted units in each development receiving these funds shall be affordable to extremely low income households.
+
+(2) One billion one hundred fifty million dollars ($1,150,000,000) to be deposited into the Housing Rehabilitation Loan Fund established pursuant to Section 50661 to be used for supportive housing, as described in Section 50675.14, pursuant to the Multifamily Housing Program authorized by Chapter 6.7 (commencing with
+ Section 50675) of Part 2. The administering entity shall offer capitalized operating subsidy reserves for supportive housing units in developments receiving these funds.
+
+(A) (i) Up to 15 percent of this amount shall be made available as grants to eligible entities specified in Section 50675.1.3 to acquire capital assets for the acquisition, conversion, or rehabilitation of interim housing to permanent housing, including scattered site projects for persons who are homeless, chronically homeless, or are at risk of homelessness, as defined in Part 578.3 of Title 24 of the Code of Federal Regulations, the purchase of affordability covenants and restrictions for units, relocation costs for individuals who are being displaced as a result of rehabilitation of existing units, and capitalized operating subsidies for units purchased, converted, or altered with funds provided by this section.
+
+(ii) Any program or project that uses funds received for any of the purposes described in this subparagraph shall be subject to the regulatory streamlining provisions of Section 50675.1.5 of the Health and Safety Code and subdivision (i) of Section 50675.1.3.
+
+(iii) Any conflict between the other requirements of the Multifamily Housing Program (Chapter 6.7 (commencing with Section 50675) of Part 2) and this paragraph shall be resolved in favor of this paragraph, as may be set forth in the guidelines authorized pursuant to Section 54077.
+
+(B) (i) One hundred fifty million dollars ($150,000,000) of this sum shall be used for youth housing.
+
+(ii) For purposes of this subdivision, “youth housing” means housing for current or former foster
+ youth, homeless minors or youth, or youth at risk of homelessness, including, but not limited to, housing that assists them develop the skills and resources they need to make a successful transition to independent, self-sufficient adulthood.
+
+(iii) Funds made available under this subparagraph shall be used only for the capital costs of developing, acquiring, rehabilitating, or preserving youth housing, and shall not be used to fund the operation or delivery of services.
+
+(iv) Any funds not encumbered for the purpose of this subparagraph within three years of availability shall revert for general use in the Multifamily Housing Program authorized by Chapter 6.7 (commencing with Section 50675) of Part 2.
+
+(3) Seven hundred fifty million dollars ($750,000,000) to be appropriated by the Legislature, to the program commonly
+ known as the Portfolio Reinvestment Program established pursuant to Chapter 5.5 (commencing with Section 50606) of Part 2. Any funds not encumbered for the purposes of this paragraph by November 3, 2036, shall revert for general use in the Multifamily Housing Program authorized by Chapter 6.7 (commencing with Section 50675) of Part 2.
+
+(4) Two hundred million dollars ($200,000,000) to be appropriated by the Legislature, to a program to fund the acquisition and rehabilitation of unrestricted housing units and attach long-term affordability restrictions on the housing units, while safeguarding against the displacement of current residents. Any funds not allocated by the administering entity within the first three years shall be made available by the administering entity for the Multifamily Housing Program (Chapter 6.7 (commencing with Section 50675) of Part 2).
+
+(5) Six hundred
+ million dollars ($600,000,000) to be deposited into the Self-Help Housing Fund established pursuant to Section 50697.1. The moneys in the fund shall be available for the CalHome Program authorized by Chapter 6 (commencing with Section 50650) of Part 2, to provide direct, forgivable loans to assist development projects involving multiple home ownership units, including single-family subdivision, for self-help mortgage assistance programs, and for manufactured homes. These funds may also be expended for any authorized purpose of the program. Any funds not encumbered for the purposes of this paragraph by November 3, 2036, shall revert for general use in the Multifamily Housing Program authorized by Chapter 6.7 (commencing with Section 50675) of Part 2.
+
+(6) Five hundred million dollars ($500,000,000) to be deposited into the Home Purchase Assistance Fund established pursuant to Section 51342. Notwithstanding Section 13340 of the Government Code and
+ Section 50697.1, these funds are hereby continuously appropriated to the California Housing Finance Agency without regard to fiscal years, for purposes of the home purchase assistance program established pursuant to Chapter 6.8 (commencing with Section 51341) of Part 3.
+
+(7) Four hundred fifty million dollars ($450,000,000) to be deposited into the Joe Serna, Jr. Farmworker Housing Grant Fund, established pursuant to Section 50517.5, to fund grants or loans, or both, for the construction or rehabilitation of housing for agricultural employees and their families or for the acquisition of manufactured housing as part of a program to address and remedy the impact of current and potential displacement of farmworker families from existing labor camps, mobilehome parks, or other housing. These funds may also be expended for any authorized purpose of the program. These funds may also be used to provide technical assistance pursuant to Section 54007.
+ Any funds not encumbered for the purposes of this paragraph by November 3, 2036, shall revert for general use in the Multifamily Housing Program authorized by Chapter 6.7 (commencing with Section 50675) of Part 2.
+
+(8) Two hundred million dollars($200,000,000) to be appropriated by the Legislature, to the Tribal Housing Grant Program established pursuant to Chapter 6.4 (commencing with Section 50651) to finance housing and housing-related activities that will enable tribes to rebuild and reconstitute their communities. Any funds not encumbered for the purposes of this paragraph by November 3, 2036, shall revert for general use in the Multifamily Housing Program authorized by Chapter 6.7 (commencing with Section 50675) of Part 2.
+
+(9) Five hundred million dollars ($500,000,000) for the Infill Infrastructure Grant Program of 2019 established pursuant to Section 53559 of the Health and
+ Safety Code for infill incentive grants to assist in the new construction and rehabilitation of infrastructure that supports high-density affordable and mixed-income housing in locations designated as infill. Any funds not encumbered for the purposes of this paragraph by November 3, 2036, shall revert for general use in the Multifamily Housing Program authorized by Chapter 6.7 (commencing with Section 50675) of Part 2.
+
+(10) Three hundred fifty million dollars ($350,000,000) to be appropriated by the Legislature for new affordable student housing projects. This funding shall be split evenly among the University of California and the California State University. Funded student housing projects shall meet the terms specified in subdivision (f) of Section 17201 of the Education Code. For these projects, the University of California and California State University shall meet the accountability and reporting requirements specified in subdivisions (i)
+ and (o) of Section 17201 of the Education Code.
+
+(11) Two hundred million dollars ($200,000,000) to be deposited in the Affordable Housing Innovation Fund established pursuant to subparagraph (F) of paragraph (1) of subdivision (a) of Section 53545. Moneys in the fund shall be available, upon appropriation by the Legislature, pursuant to the Local Housing Trust Fund Matching Grant Program established pursuant to Section 50842.2 to fund competitive grants or loans to local housing trust funds that develop, own, lend, or invest in affordable housing and be used to create pilot programs to demonstrate innovative, cost-saving approaches to creating or preserving affordable housing. Local housing trust funds shall be derived on an ongoing basis from private contribution or governmental sources that are not otherwise restricted in use for housing programs. These funds may also be expended for any authorized purpose of this program. Any funds not
+ encumbered for the purposes of this paragraph within three years of availability shall be reverted for general use in the Multifamily Housing Program authorized by Chapter 6.7 (commencing with Section 50675) of Part 2, unless the Department of Housing and Community Development determines that the funds should revert sooner due to diminished demand.
+
+(12) Notwithstanding paragraphs (1) to (11), inclusive, the Business, Consumer Services, and Housing Agency or its successor and its administering departments may, upon appropriation by the Legislature, align or streamline the programs funded pursuant to this subdivision to improve efficiency and accelerate the deployment of funds, provided that expenditures remain consistent with the purposes and eligible uses approved by the voters and the Legislature.
+
+(History: Added by Stats. 2026, Ch. 16, Sec. 2.   (SB 417)   Effective Nov. 4, 2026.    Approved at the Nov. 3, 2026 election.)
+-------------------------------------------
+
+54056.
+
+(a) The Legislature may, from time to time, amend any law related to programs to which funds are, or have been, allocated pursuant to this chapter for the purposes of improving the efficiency and effectiveness of those programs or to further the goals of those programs.
+
+(b) The Legislature may amend this chapter in order to reallocate the proceeds of bonds issued and sold
+ pursuant to this part among the programs to which funds are to be allocated pursuant to this chapter as necessary to effectively promote the development of affordable housing in this state.
+
+(c) The Department of Housing and Community Development or administering entity may disburse any funds made available to housing development projects pursuant to this chapter during the construction period.
+
+(History: Added by Stats. 2026, Ch. 16, Sec. 2.   (SB 417)   Effective Nov. 4, 2026.    Approved at the Nov. 3, 2026 election.)
+-------------------------------------------
+
+
+
+  CHAPTER 3. Fiscal Provisions [54060. - 54084.]
+
+54060.
+
+Bonds in the total amount of ten billion dollars ($10,000,000,000), exclusive of refunding bonds issued pursuant to Section 54076, or so much thereof as is necessary as determined by the committee, are hereby authorized to be issued and sold for carrying out the purposes expressed in this part and to reimburse the General Obligation Bond Expense Revolving Fund pursuant to Section 16724.5 of the Government Code. Any bond, when sold, issued, and delivered, shall be
+ and constitute a valid and binding general obligation of the state, and the full faith and credit of the state is hereby pledged for the punctual payment of both principal of, and interest on, those bonds as the principal and interest become due and payable.
+
+(History: Added by Stats. 2026, Ch. 16, Sec. 2.   (SB 417)   Effective Nov. 4, 2026.    Approved at the Nov. 3, 2026 election.)
+-------------------------------------------
+
+54062.
+
+The bonds authorized by this part shall be prepared, executed, issued, sold, paid, retired, and redeemed as provided in the State General Obligation Bond Law (Chapter 4 (commencing with Section 16720) of Part 3 of Division 4 of Title 2 of the Government Code), except subdivisions (a) and (b) of Section 16727 of the Government Code, and all of the provisions of that law as amended from time to time apply to the bonds and to this part, except as provided in Section
+ 54078, and are hereby incorporated in this part as though set forth in full in this part.
+
+(History: Added by Stats. 2026, Ch. 16, Sec. 2.   (SB 417)   Effective Nov. 4, 2026.    Approved at the Nov. 3, 2026 election.)
+-------------------------------------------
+
+54064.
+
+(a) Solely for the purpose of authorizing the issuance and sale, pursuant to the State General Obligation Bond Law, of the bonds authorized by this part, the Housing Finance Committee created by Section 53524 is continued in existence. For the purposes of this part, the Housing Finance Committee is “the committee” as that term is used in the State General Obligation Bond Law.
+
+(b) References to the “board” as used in this part and in the State General Obligation Bond Law, shall mean the Housing Development and Finance Committee. This authority may be delegated to the Department of Housing and Community Development or the California Housing Finance Agency for programs they administer. The Department of Housing and Community Development is designated the “board” for programs administered by the department, and the California Housing Finance Agency is the “board” for programs administered by the agency.
+
+(History: Added by Stats. 2026, Ch. 16, Sec. 2.   (SB 417)   Effective Nov. 4, 2026.    Approved at the Nov. 3, 2026 election.)
+-------------------------------------------
+
+54066.
+
+Upon request of the board stating that funds are needed for purposes of this part, the committee shall determine by resolution whether or not it is necessary or desirable to issue and sell bonds, and, if so, the amount of bonds to be issued and sold. Successive issues of bonds may be authorized and sold to carry out those actions progressively, and it is not necessary that all of the bonds authorized to be issued be sold at any one time. Bonds may bear interest
+ subject to federal income tax.
+
+(History: Added by Stats. 2026, Ch. 16, Sec. 2.   (SB 417)   Effective Nov. 4, 2026.    Approved at the Nov. 3, 2026 election.)
+-------------------------------------------
+
+54068.
+
+There shall be collected annually, in the same manner and at the same time as other state revenue is collected, in addition to the ordinary revenues of the state, a sum in the amount required to pay the principal of, and interest on, the bonds each year. It is the duty of all officers charged by law with any duty in regard to the collections of state revenues to do and perform each and every act that is necessary to collect that additional sum.
+
+(History: Added by Stats. 2026, Ch. 16, Sec. 2.   (SB 417)   Effective Nov. 4, 2026.    Approved at the Nov. 3, 2026 election.)
+-------------------------------------------
+
+54070.
+
+Notwithstanding Section 13340 of the Government Code, there is hereby continuously appropriated from the General Fund in the State Treasury, for the purposes of this part, an amount that will equal the total of both of the following:
+
+(a) The sum annually necessary to pay the principal of, and interest on, bonds issued and sold pursuant to this part, as the principal and interest become due and
+ payable.
+
+(b) The sum that is necessary to carry out Section 54074, appropriated without regard to fiscal years.
+
+(History: Added by Stats. 2026, Ch. 16, Sec. 2.   (SB 417)   Effective Nov. 4, 2026.    Approved at the Nov. 3, 2026 election.)
+-------------------------------------------
+
+54072.
+
+The board may request the Pooled Money Investment Board to make a loan from the Pooled Money Investment Account, in accordance with Section 16312 of the Government Code, for purposes of this part. The amount of the request shall not exceed the amount of the unsold bonds that the committee has, by resolution, authorized to be sold, excluding any refunding bonds authorized pursuant to Section 54076, less any amount loaned pursuant to this section and not yet repaid
+ and any amount withdrawn from the General Fund pursuant to Section 54074 and not yet returned to the General Fund. The board shall execute any documents as required by the Pooled Money Investment Board to obtain and repay the loan. Any amount loaned shall be deposited into the fund to be allocated in accordance with this part.
+
+(History: Added by Stats. 2026, Ch. 16, Sec. 2.   (SB 417)   Effective Nov. 4, 2026.    Approved at the Nov. 3, 2026 election.)
+-------------------------------------------
+
+54074.
+
+For purposes of carrying out this part, the Director of Finance may authorize the withdrawal from the General Fund of an amount not to exceed the amount of the unsold bonds that the committee has, by resolution, authorized to be sold, excluding any refunding bonds authorized pursuant to Section 54076, less any amount loaned pursuant to Section 54072 and not yet repaid and any amount withdrawn from the General Fund pursuant to this section and not yet returned to
+ the General Fund. Any amounts withdrawn shall be deposited into the fund to be allocated in accordance with this part. Any moneys made available under this section shall be returned to the General Fund, plus the interest that the amounts would have earned in the Pooled Money Investment Account, from moneys received from the sale of bonds that would otherwise be deposited into that fund.
+
+(History: Added by Stats. 2026, Ch. 16, Sec. 2.   (SB 417)   Effective Nov. 4, 2026.    Approved at the Nov. 3, 2026 election.)
+-------------------------------------------
+
+54076.
+
+The bonds issued and sold pursuant to this part may be refunded in accordance with Article 6 (commencing with Section 16780) of Chapter 4 of Part 3 of Division 4 of Title 2 of the Government Code. Approval by the voters of the sale and issuance of bonds as described in this part includes approval of the sale and issuance of bonds issued to refund bonds issued pursuant to this part, including any prior issued refunding bonds. A bond refunded with the proceeds of a
+ refunding bond as authorized by this section may be legally defeased to the extent permitted by law in the manner and to the extent set forth in the resolution, as amended from time to time, authorizing that refunded bond.
+
+(History: Added by Stats. 2026, Ch. 16, Sec. 2.   (SB 417)   Effective Nov. 4, 2026.    Approved at the Nov. 3, 2026 election.)
+-------------------------------------------
+
+54076.5.
+
+Proceeds of the bonds, in an amount not to exceed the principal amount of bonds authorized to be issued by the Veterans and Affordable Housing Bond Act of 2026 (excluding any refunding bonds issued pursuant to Section 54076), are expected to be and may be used to reimburse any lawfully available source used to pay costs of projects or programs (including funds of particular state departments or agencies that may be spent on costs of the projects or programs)
+ authorized pursuant to the Veterans and Affordable Housing Bond Act of 2026 and paid after November 3, 2026, provided, however, any costs that are to be reimbursed from proceeds of bonds shall not have been paid from the proceeds of any other indebtedness unless that prior indebtedness will be retired with the proceeds of the bonds.
+
+(History: Added by Stats. 2026, Ch. 16, Sec. 2.   (SB 417)   Effective Nov. 4, 2026.    Approved at the Nov. 3, 2026 election.)
+-------------------------------------------
+
+54077.
+
+To implement the funding detailed in Section 54054, the administering entity may adopt guidelines establishing requirements for administration of its financing programs. The guidelines are not subject to Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code.
+
+(History: Added by Stats. 2026, Ch. 16, Sec. 2.   (SB 417)   Effective Nov. 4, 2026.    Approved at the Nov. 3, 2026 election.)
+-------------------------------------------
+
+54078.
+
+Notwithstanding any provisions in the State General Obligation Bond Law, the maturity date of any bond authorized by this part shall not be later than 35 years from the date of issuance of the bond.
+
+(History: Added by Stats. 2026, Ch. 16, Sec. 2.   (SB 417)   Effective Nov. 4, 2026.    Approved at the Nov. 3, 2026 election.)
+-------------------------------------------
+
+54080.
+
+The proceeds from the sale of bonds authorized by this part are not “proceeds of taxes” as that term is used in Article XIII B of the California Constitution, and the disbursement of these proceeds is not subject to the limitations imposed by that article.
+
+(History: Added by Stats. 2026, Ch. 16, Sec. 2.   (SB 417)   Effective Nov. 4, 2026.    Approved at the Nov. 3, 2026 election.)
+-------------------------------------------
+
+54082.
+
+Notwithstanding any provision of the State General Obligation Bond Law with regard to the proceeds from the sale of bonds authorized by this part that are subject to investment under Article 4 (commencing with Section 16470) of Chapter 3 of Part 2 of Division 4 of Title 2 of the Government Code, the Treasurer may maintain a separate account for investment earnings.
+
+(History: Added by Stats. 2026, Ch. 16, Sec. 2.   (SB 417)   Effective Nov. 4, 2026.    Approved at the Nov. 3, 2026 election.)
+-------------------------------------------
+
+54083.
+
+Notwithstanding any other provision of this part, or of the State General Obligation Bond Law, if the Treasurer sells bonds pursuant to this chapter that include a bond counsel opinion to the effect that the interest on the bonds is excluded from gross income for federal tax purposes under designated conditions or is otherwise entitled to any federal tax advantage, the Treasurer may maintain separate accounts for the investment of bond proceeds and for the earnings
+ and investment of earnings on those proceeds. The Treasurer may use or direct the use of those proceeds or earnings to pay any rebate, penalty, or other payment required under federal law or take any other action with respect to the investment and use of those bond proceeds required or desirable under federal law to maintain the tax exempt status of those bonds and to obtain any other advantage under federal law on behalf of the funds of this state.
+
+(History: Added by Stats. 2026, Ch. 16, Sec. 2.   (SB 417)   Effective Nov. 4, 2026.    Approved at the Nov. 3, 2026 election.)
+-------------------------------------------
+
+54084.
+
+(a) Subject to subdivision (b), all moneys derived from premiums and accrued interest on bonds sold pursuant to this part shall be transferred to the General Fund as a credit to expenditures for bond interest.
+
+(b) Amounts derived from premiums may be reserved and used to pay the costs of bond issuance before transfer to the General Fund.
+
+(History: Added by Stats. 2026, Ch. 16, Sec. 2.   (SB 417)   Effective Nov. 4, 2026.    Approved at the Nov. 3, 2026 election.)
+-------------------------------------------
+
+
+
+  CHAPTER 4. Accountability [54088. - 54088.]
+
+54088.
+
+The administering entity shall publish in an annual report detailed information regarding the investments resulting from this bond pursuant to Section 50408 of the Health and Safety Code.
+
+(History: Added by Stats. 2026, Ch. 16, Sec. 2.   (SB 417)   Effective Nov. 4, 2026.    Approved at the Nov. 3, 2026 election.)
 -------------------------------------------
 
 
@@ -324063,6 +324549,597 @@ It is the intent of the Legislature that the office make awards in compliance wi
 This division shall remain in effect only until June 30, 2029, and as of that date is repealed.
 
 (History: Added by Stats. 2024, Ch. 41, Sec. 54.   (SB 164)   Effective June 29, 2024.   Repealed as of June 30, 2029, by its own provisions.   Note: Repeal affects Division 110, commencing with Section 130300.)
+-------------------------------------------
+
+
+
+======================================================================
+
+DIVISION 110.5. CALIFORNIA IMMUNOLOGY RESEARCH AND CURES INITIATIVE  [130350. - 130385.]
+
+
+
+CHAPTER 1. California Immunology and Immunotherapy Medical Research Act  [130350. - 130364.]
+
+130350.
+
+This chapter shall be known, and may be cited, as the “California Immunology and Immunotherapy Medical Research Act.”
+
+(History: Added Nov. 3, 2026, by initiative Proposition 38.   Effective on the fifth day after the Secretary of State files the final Statement of Vote.   [Note: Prop. 38 (under its conditions in Sec. 7) allows the Legislature to directly amend provisions by 2/3 vote.])
+-------------------------------------------
+
+130351.
+
+For purposes of this chapter, the following terms have the following meanings:
+
+(a) “Committee” means the Citizens’ Financial Accountability Oversight Committee created pursuant to Section 130362.
+
+(b) “Council” means the Advisory and Accountability Research Council created pursuant to Section 130355.
+
+(c) “Department” means the State Department of Public Health, or its successor agency.
+
+(d) “Fund” means the California Immunology and Immunotherapy Medical Research Fund created pursuant to Section 130377.
+
+(e) “Institute” means a nonprofit medical research institute selected by the department pursuant to Section 130353.
+
+(f) “Intellectual property rights” means all proprietary legal rights with respect to know-how or inventions, including all trade secrets, copyrights, trademarks, mask works, software, and patents, and applications therefor throughout the world, including inventor’s certificates, and any form of right by which a party may effectively exclude another from performing any of the acts specified in this definition, including contract rights; provided, however, in the case of intellectual property rights under which the institute, public or nonprofit university, or nonprofit research institution that received the funding pursuant to subdivision (b) of Section 130352 is a licensee or is otherwise a permitted user, those rights qualify under this definition only if the institute, public or nonprofit university, or nonprofit
+ research institution has the right to grant sublicenses or other equivalent rights.
+
+(g) “Invention” means any new and useful device, method, process, machine, manufacture, design, or composition of matter, or any new and useful improvements, or any variety of plant that is or may be patentable under United States patent laws and regulations.
+
+(h) “Know-how” means conceptions, ideas, innovations, discoveries, inventions, knowledge, processes, machines, manufactures, chemical formulations, product samples, assays, compositions of matter, improvements, enhancements, modifications, technological developments, technology, methods, practices, techniques, systems, designs, artwork, drawings, plans, specifications, gene sequencing, pharmaceuticals, pharmaceutical formulations, mask works, software, documentation, data and information, irrespective of whether in human or machine readable
+ form, works of authorship, products, trade secrets, skill, experience, motivation based on experience and need, documents, apparatus, clinical and regulatory strategies, test data, including pharmacological, toxicological, and clinical test data, analytical and quality control data, and patent data or descriptions, whether or not any of the foregoing are patentable, copyrightable, or susceptible to any other form of legal protection, and provided that the foregoing satisfy all of the following:
+
+(1) They are conceived, made, reduced to practice, or otherwise existing prior to the expiration or termination of a grant agreement entered into under Section 130353 or 130357.
+
+(2) They have been assigned to the institute, public or nonprofit university, or nonprofit research institution by an inventor, either alone or with others.
+
+(3) They relate, directly or indirectly, to the subject matter of the grant agreement and related funding.
+
+(i) “Patent” means any United States or foreign patent application or related patent document, including any provisional, divisional, continuation, continuation-in-part, substitute, renewal, reissue, extension, confirmation, reexamination, or registration thereof and any patent issuing from any of them, including any substitute, renewal, reissue, extension, confirmation, reexamination, or registration thereof.
+
+(j) “Software” means any machine readable or executable code stored on any tangible medium.
+
+(History: Added Nov. 3, 2026, by initiative Proposition 38.   Effective on the fifth day after the Secretary of State files the final Statement of Vote.   [Note: Prop. 38 (under its conditions in Sec. 7) allows the Legislature to directly amend provisions by 2/3 vote.])
+-------------------------------------------
+
+130352.
+
+(a) The proceeds of bonds issued and sold pursuant to Chapter 2 (commencing with Section 130370), exclusive of refunding bonds issued pursuant to Section 130383, shall be deposited in the California Immunology and Immunotherapy Medical Research Fund created pursuant to Section 130377.
+
+(b) Moneys in the fund, after payment of any other amounts authorized herein and under the State General Obligation Bond Law (Chapter 4 (commencing with Section 16720) of Part 3 of Division 4 of Title 2 of the Government Code), shall be allocated to the department for disbursement as follows:
+
+(1) Fifty percent of the moneys shall be disbursed to a single nonprofit medical research institute for
+ the purpose of conducting or directing health science research in the fields of immunology and immunotherapy. 
+
+(2) Fifty percent of the moneys shall be disbursed to those public and nonprofit universities and other nonprofit research institutions represented on the council for the purpose of conducting health science research in the fields of immunology and immunotherapy. Moneys disbursed under this paragraph shall be awarded as individualized grants for specific research projects through an application process, with applications reviewed pursuant to Section 130356, and shall not be in the nature of uniform block grants.
+
+(History: Added Nov. 3, 2026, by initiative Proposition 38.   Effective on the fifth day after the Secretary of State files the final Statement of Vote.   [Note: Prop. 38 (under its conditions in Sec. 7) allows the Legislature to directly amend provisions by 2/3 vote.])
+-------------------------------------------
+
+130353.
+
+(a) The department shall disburse funds pursuant to paragraph (1) of subdivision (b) of Section 130352 in accordance with a funding agreement entered into between the department and a single nonprofit medical research institute selected by the department that satisfies all of the following criteria:
+
+(1) The institute is a medical research institute exempt from federal income taxation pursuant to Section 501(c)(3) of the Internal Revenue Code that was in existence as of January 1, 2025, and that was founded for the primary purpose of, and specializes specifically in, conducting research in the fields of immunology and immunotherapy.
+
+(2) The institute has an affiliation
+ agreement, entered into not later than January 1, 2025, that creates an affiliation relationship with a campus of the University of California that satisfies all of the following:
+
+(A) The campus has a graduate training program in immunology and immunotherapy.
+
+(B) The campus has a public health care system that consists of one or more hospitals and that conducts its own clinical trials of new experimental drugs and therapies. 
+
+(C) The campus health care system has a hospital and clinic volume of greater than 35,000 inpatient admissions and 3,500,000 outpatient visits each year.
+
+(3) The institute is governed by a board of directors that is required by the institute’s bylaws, adopted not later than January 1, 2025, and by the affiliation agreement
+ described in paragraph (2) to include multiple members who are senior-level representatives of the University of California campus that is a party to the affiliation agreement or the campus’s public health care system.
+
+(4) As of January 1, 2026, the institute owns or leases a site that is not less than 200,000 square feet in size and that has an intended purpose of serving as a research facility housing the institute’s research activities.
+
+(5) The institute agrees to conduct collaborative medical research in immunology and immunotherapy with other qualified nonprofit California medical research centers, including conducting multiinstitutional clinical trials.
+
+(6) The institute has identified, in the affiliation agreement described in paragraph (2), sources of funding of not less than two hundred fifty million dollars
+ ($250,000,000) in the form of philanthropic donations or fundraising commitments.
+
+(7) The institute has secured financial commitments of not less than fifty million dollars ($50,000,000) to support a rapid vaccine development program and not less than fifty million dollars ($50,000,000) to support a microbiome research program.
+
+(b) (1) Except as provided in paragraph (2), the department shall select and enter into a funding agreement with the institute pursuant to subdivision (a) within 90 days of the effective date of this chapter.
+
+(2) (A) In the event the department is unable to identify a nonprofit medical research institute that both satisfies the criteria specified in subdivision (a) and is willing to enter into a funding agreement pursuant to this section, the
+ department shall modify the criteria specified in subdivision (a) to permit the identification of a nonprofit medical research institute that is eligible for funding under this chapter and willing to enter into a funding agreement pursuant to this section.
+
+(B) Any modification of criteria by the department pursuant to subparagraph (A) shall be the minimum amount of modification necessary to identify an eligible nonprofit medical research institute and shall further the purposes of this chapter.
+
+(C) In the event the department modifies the criteria specified in subdivision (a) pursuant to this paragraph, the department shall select and enter into a funding agreement with the institute within 90 days of the date the modified criteria are adopted by the department.
+
+(c) (1) The department shall
+ review the agreement entered into pursuant to subdivision (b) every five years in order to ensure the institute’s compliance with the terms of the agreement and the provisions of this chapter.
+
+(2) Failure of the institute to substantially comply with the terms of the agreement or the provisions of this chapter may constitute grounds for termination of the agreement if the department determines, during a five-year review conducted pursuant to paragraph (1), that the failure substantially and materially frustrates the purposes of this chapter, provided that the institute shall be given notice of any determination made by the department under this paragraph and a reasonable opportunity to remedy the lack of compliance identified.
+
+(d) The funding agreement entered into pursuant to this section shall require that all research and development funded under the agreement shall be
+ conducted under established standards of open scientific exchange, peer review, and public oversight.
+
+(e) (1) Following the effective date of this chapter, there is hereby appropriated from the General Fund, as a source of a start-up loan or loans to the institute, one hundred million dollars ($100,000,000) for the costs of initial implementation and support of the institute’s research program, as described in this chapter. The department shall determine the timing and amount of those loans to the institute not to exceed, in the aggregate, the amount of the above appropriation.
+
+(2) Any loan made to the institute pursuant to paragraph (1) shall be repaid to the General Fund within 12 months, or if not repaid within 12 months, as soon thereafter as is practicable as determined by the Treasurer, of the related loan draw from the proceeds of bonds sold pursuant
+ to Chapter 2 (commencing with Section 130370).
+
+(History: Added Nov. 3, 2026, by initiative Proposition 38.   Effective on the fifth day after the Secretary of State files the final Statement of Vote.   [Note: Prop. 38 (under its conditions in Sec. 7) allows the Legislature to directly amend provisions by 2/3 vote.])
+-------------------------------------------
+
+130354.
+
+(a) Moneys disbursed pursuant to Section 130352 shall be expended as follows:
+
+(1) (A) The institute shall expend the funds disbursed to it pursuant to paragraph (1) of subdivision (b) of Section 130352 to conduct immunology and immunotherapy research that is either conducted within the institute by researchers and employees employed or retained directly by the institute or is otherwise directed by the institute.
+
+(B) Not less than two billion one hundred million dollars ($2,100,000,000) of the funds disbursed pursuant to paragraph (1) of subdivision (b) of Section 130352 shall be expended to conduct immunology and immunotherapy research related to the prevention, treatment, and cure of cancer,
+ heart disease, and Alzheimer’s disease.
+
+(2) (A) The funds disbursed pursuant to paragraph (2) of subdivision (b) of Section 130352 shall be expended to conduct immunology and immunotherapy research by those public and nonprofit universities and other nonprofit research institutions represented on the council. Research projects funded under this paragraph shall be selected as provided in Section 130356.
+
+(B) Not less than two billion one hundred million dollars ($2,100,000,000) of the funds disbursed pursuant to paragraph (2) of subdivision (b) of Section 130352 shall be expended to conduct immunology and immunotherapy research related to the prevention, treatment, and cure of cancer, heart disease, and Alzheimer’s disease.
+
+(3) An amount equal to actual costs, excluding any costs authorized under
+ the State General Obligation Bond Law (Chapter 4 (commencing with Section 16720) of Part 3 of Division 4 of Title 2 of the Government Code), not to exceed 2 percent of all moneys disbursed pursuant to Section 130352, may be expended for the administrative costs of the department, the council, the committee, and the Controller in carrying out their respective responsibilities under this chapter.
+
+(b) Research activities that may be funded under this chapter shall include, but not be limited to, all of the following:
+
+(1) Conducting foundational research investigating disease development mechanisms and possible pathways to intervene in disease progression, including, but not limited to, research to prevent cancer, Alzheimer’s disease, Parkinson’s disease, cardiovascular disease, and diabetes.
+
+(2) Developing and improving
+ diagnostic tools, including blood biomarkers and imaging, to enable earlier disease detection.
+
+(3) Collecting, studying, and creating banks of tissue specimens and tumor models from representative patient populations to better understand disease formation and test interventions at various stages of disease progression.
+
+(4) Investigating genetics, environmental exposure, and lifestyle factors to better understand their combined contributions to disease development.
+
+(5) Subtyping cancers and other diseases and creating a repository of disease subtypes in order to develop the most effective therapeutics for individual patients.
+
+(6) Testing drugs and therapies against cells, tumors, and organoids and evaluating multiple therapies against cell lines to
+ identify the best therapy candidates for each condition being studied.
+
+(7) Utilizing a good manufacturing practices (GMP) facility to facilitate the creation and evaluation of new cellular and gene therapies.
+
+(8) Coordinating, conducting, and overseeing clinical trials to assess the safety and effectiveness of new therapeutics among a diverse patient population.
+
+(9) Developing treatments that are available and affordable for California patients.
+
+(History: Added Nov. 3, 2026, by initiative Proposition 38.   Effective on the fifth day after the Secretary of State files the final Statement of Vote.   [Note: Prop. 38 (under its conditions in Sec. 7) allows the Legislature to directly amend provisions by 2/3 vote.])
+-------------------------------------------
+
+130355.
+
+(a) The department shall coordinate and support the establishment of an Advisory and Accountability Research Council.
+
+(b) (1) The council shall include a seven-member executive committee, the members of which shall also serve as general members of the council. The chancellors of the University of California campuses at Berkeley, Davis, Irvine, Los Angeles, Riverside, San Diego, and San Francisco shall each appoint a representative from their respective campuses to serve on the executive committee.
+
+(2) The executive committee, by majority vote, shall appoint to the council not fewer than 10 and not more than 15 additional members who are drawn from the
+ categories described in subparagraphs (A) and (B).
+
+(A) Representatives of California nonprofit universities, excluding the University of California, that have demonstrated success and leadership in immunology and immunotherapy research.
+
+(B) Representatives of California nonprofit academic and research institutions that are not part of the University of California and that have demonstrated success and leadership in immunology and immunotherapy research.
+
+(3) Each member of the council shall be a physician, scientist, or researcher with demonstrated experience in the fields of immunology and immunotherapy and shall satisfy additional criteria as may be established by the executive committee.
+
+(c) (1) The members of the council shall
+ serve four-year terms.
+
+(2) (A) If a vacancy occurs during the term of a member of the executive committee, the appointing authority of that member shall appoint a replacement member within 45 days to serve the remainder of the term.
+
+(B) If a vacancy occurs during the term of a member not on the executive committee, the executive committee, by majority vote, shall appoint a replacement member representing the same organization or institution represented by the vacating member within 45 days to serve the remainder of the term.
+
+(3) (A) When the term of a member of the executive committee expires, the appointing authority of that member shall reappoint the member or appoint a new member for a new term within 30 days.
+
+(B) When the term of a member not on the executive committee expires, the executive committee, by majority vote, shall reappoint the member or appoint a new member for a new term within 30 days. A member whose term has expired shall serve until a replacement is appointed.
+
+(d) (1) The chairperson and vice chairperson of the council shall each be a member of the executive committee, shall each have a two-year term, and, except as provided in paragraph (2), shall be chosen by a majority vote of the full council.
+
+(2) The appointed representative from the University of California, Los Angeles shall serve as the first chairperson of the council.
+
+(e) A quorum of the council shall consist of a majority of the members then serving.
+
+(f) Council members shall serve without compensation but may receive reimbursement for travel and necessary expenses actually incurred in the performance of their duties.
+
+(History: Added Nov. 3, 2026, by initiative Proposition 38.   Effective on the fifth day after the Secretary of State files the final Statement of Vote.   [Note: Prop. 38 (under its conditions in Sec. 7) allows the Legislature to directly amend provisions by 2/3 vote.])
+-------------------------------------------
+
+130356.
+
+(a) The council shall determine, in the manner prescribed in subdivision (e), which research projects proposed by those public and nonprofit universities and other nonprofit research institutions represented on the council shall be funded pursuant to paragraph (2) of subdivision (b) of Section 130352, based on the selection criteria and research priorities established under this chapter and the technical merits of the proposals as evaluated pursuant to this section.
+
+(b) (1) The council shall establish selection criteria and research priorities for the awarding of grants under this section based on all of the following:
+
+(A) The scientific merits of a
+ proposal.
+
+(B) The experience of the applicant in conducting methodologically sound medical research.
+
+(C) The potential benefits to the health and well-being of the population.
+
+(D) Other criteria as determined by the council.
+
+(2) In establishing research priorities pursuant to paragraph (1), the council shall give the highest priority to those research projects that have the greatest potential for yielding the most immediate, accessible, and affordable therapies and that seek to enhance patient access to immunotherapy treatments.
+
+(c) (1) The council may establish one or more scientific peer review panels consisting of immunology and immunotherapy experts to review and
+ prioritize proposals on the basis of the selection criteria and research priorities developed by the council pursuant to subdivision (b).
+
+(2) An expert on a scientific peer review panel shall be disqualified from participating in the review of a proposal for funding if the expert has a collaborative or commercial relationship with the applicant.
+
+(d) All grants awarded under this section shall be awarded to researchers or projects primarily located within this state, except that funding for research collaborations between California-based researchers and out-of-state researchers shall be permitted.
+
+(e) (1) The council, by majority vote, shall accept or reject applications for funding received from those public and nonprofit universities and other nonprofit research institutions represented on the
+ council.
+
+(2) The council shall confer with the institute selected by the department pursuant to Section 130353 in making final decisions regarding the funding of grant proposals pursuant to this subdivision.
+
+(f) The council shall develop conflict of interest standards for the consideration of funding proposals based on best practices established by the National Academy of Sciences to prevent conflicts of interest in the award of research funding and shall update those standards not less than every four years to be generally aligned with the standards adopted by the National Academy of Sciences.
+
+(History: Added Nov. 3, 2026, by initiative Proposition 38.   Effective on the fifth day after the Secretary of State files the final Statement of Vote.   [Note: Prop. 38 (under its conditions in Sec. 7) allows the Legislature to directly amend provisions by 2/3 vote.])
+-------------------------------------------
+
+130357.
+
+(a) The department shall enter into grant agreements with recipients selected by the council pursuant to Section 130356 for the funding of scientific research, development, and clinical trials specifically in the areas of immunology and immunotherapy.
+
+(b) Each grant agreement shall require that all research and development funded under the agreement shall be conducted under established standards of open scientific exchange, peer review, and public oversight.
+
+(c) Each grant agreement shall require that the grant recipient purchase goods and services from California suppliers to the extent reasonably possible, in a good faith effort to achieve a goal of more than 50 percent of
+ those purchases from California suppliers.
+
+(d) Each grant agreement shall require that the grant recipient offer the institute selected by the department pursuant to Section 130353 the opportunity to substantially participate in and collaborate on the funded research.
+
+(e) Each grant agreement shall require that the grant recipient offer the University of California, Los Angeles the opportunity to substantially participate in and collaborate on any clinical trials conducted as part of the funded research.
+
+(f) Each grant agreement shall require that the grant recipient submit to and cooperate with audits conducted pursuant to subdivision (b) of Section 130361.
+
+(g) All grant agreements entered into under this section shall limit indirect costs to 20
+ percent of a research grant, except that the indirect cost limitation may be increased by that amount by which the grantee provides matching funds in excess of 20 percent of the grant amount.
+
+(History: Added Nov. 3, 2026, by initiative Proposition 38.   Effective on the fifth day after the Secretary of State files the final Statement of Vote.   [Note: Prop. 38 (under its conditions in Sec. 7) allows the Legislature to directly amend provisions by 2/3 vote.])
+-------------------------------------------
+
+130358.
+
+(a) (1) (A) Any recipient of research funds under this chapter shall pay to the State of California an amount equal to 10 percent of all revenues derived by the recipient of research funds from the sale, licensing, or any other commercialization or monetization of any intellectual property rights that arise from research funded under this chapter.
+
+(B) Payments made under subparagraph (A) shall be calculated without regard to whether the research that gave rise to the intellectual property rights was funded wholly or only in part by research funds provided under this chapter.
+
+(C) All payments made under this paragraph shall be paid to
+ the state by the recipient of research funds within 30 days of receipt of any derived revenue.
+
+(2) Payments made pursuant to paragraph (1) shall be deposited into the General Fund until the cumulative amount of those payments equals the total cost to the state of the bonds issued pursuant to Chapter 2 (commencing with Section 130370), including interest paid on the bonds, as determined by the California Immunology and Immunotherapy Finance Committee formed pursuant to paragraph (1) of subdivision (a) of Section 130375.
+
+(3) After the cumulative total described in paragraph (2) has been paid to the General Fund, any additional revenues received pursuant to paragraph (1) shall be deposited into the California Immunology and Immunotherapy Medical Research Fund and shall be expended consistent with the purposes of this chapter.
+
+(b) As a condition of receiving research funds under this chapter, any recipient that licenses or sells a technology or drug developed through research funded pursuant to this chapter shall agree that the licensing or sale for the purpose of making that technology or drug available to California patients, hospitals, or insurance companies, including through a government-funded health care program, shall require that the technology or drug is made available to California patients, hospitals, and insurance companies at a price that is at least 20 percent below the national average price, calculated by excluding California, for the same technology or drug, determined as follows:
+
+(1) During the first 12 months of commercial sales of the technology or drug, patients, hospitals, and insurance companies in California purchasing the technology or drug shall not be charged more than the price at which the technology or drug is sold to
+ patients, hospitals, and insurance companies in any part of the United States other than California.
+
+(2) By the date that is one year after the first commercial sale of the technology or drug, data from the first nine months of sales shall be used to calculate a national average cost. Thereafter, the technology or drug shall be made available to patients, hospitals, and insurance companies in California at a price that is at least 20 percent below the calculated national average price, excluding California.
+
+(3) The national average price, excluding California, shall be calculated annually, and pricing for the technology or drug for California shall be adjusted as necessary to ensure that California purchasers receive savings of at least 20 percent relative to the calculated national average price.
+
+(c) Any recipient
+ of research funds under this chapter shall require that ownership of any intellectual property rights resulting from any funded research is vested in the institute, public or nonprofit university, or nonprofit research institution that received the funding pursuant to subdivision (b) of Section 130352. Steps to require that ownership of any intellectual property rights shall be accomplished via obligations to assign, and actual assignments of, patent and other intellectual property rights by all employees, scientists, researchers, independent contractors, or other individuals receiving funding via grant, contract, or otherwise from funds originating under this chapter to the institute, public or nonprofit university, or nonprofit research institution.
+
+(d) For any intellectual property rights conceived or reduced to practice, patentable or not, based on or resulting from funds disbursed pursuant to subdivision (b) of Section 130352, to the
+ extent that the funding recipient has underlying technology rights, including patents and other intellectual property rights, owned or licensed, that could interfere with the practicing of the new intellectual property rights or otherwise prevent the commercial exploitation of new intellectual property rights, that funding recipient shall grant a worldwide royalty free license to that underlying technology, if that licensee or permitted user has the right to grant sublicenses, or equivalent rights are permitted, specifically limited to the practice of the new intellectual property rights in association with any sale, licensing, or any other commercialization or monetization of new intellectual property rights, that arises from research funded under this chapter.
+
+(e) (1) The institute, in consultation with the department, shall develop a licensing program that achieves all of the following:
+
+(A) Maximizes the revenue derived from the sale, licensing, or any other commercialization or monetization of any intellectual property rights that arise from research funded under this chapter.
+
+(B) Develops standardized licensing terms and negotiation allowances to increase uniformity across all efforts to commercialize or monetize intellectual property rights that arise from research funded under this chapter.
+
+(C) Facilitates repayment of funds to the State of California in accordance with paragraph (1) of subdivision (a) and makes projections for future payments to the State of California based on the totality of licenses resulting from research funded under this chapter.
+
+(2) (A) The institute, in consultation with the department,
+ shall serve as a clearinghouse and approval center for all agreements to sell, license, or otherwise commercialize or monetize intellectual property rights that arise from research funded under this chapter in order to ensure uniformity of critical terms and maximize the revenue derived from those commercialization or monetization efforts.
+
+(B) All agreements to sell, license, or otherwise commercialize or monetize intellectual property rights that arise from research funded under this chapter, before their execution, shall be provided to the institute for its review, and the institute shall be given an opportunity to make recommendations regarding revising the terms of the proposed agreement.
+
+(C) In all cases in which the institute exercises its option to participate in and collaborate on research pursuant to subdivision (d) of Section 130357, the institute shall have the primary
+ responsibility for negotiating any agreement for the sale, licensing, or other commercialization or monetization of intellectual property rights that arise from that research.
+
+(f) (1) (A) Any licensing agreement entered into by a recipient of research funds under this chapter for the licensing of intellectual property rights that arise from research funded under this chapter shall require that the recipient of research funds receives royalties of not less than 10 percent of gross revenues from the sale or other commercialization or monetization of the intellectual property rights that are the subject of the agreement.
+
+(B) Notwithstanding subparagraph (A), a licensing agreement entered into by a recipient of research funds under this chapter for the licensing of intellectual property rights that arise from research funded under this
+ chapter may provide for royalties of less than 10 percent of gross revenues if the department determines, in consultation with the institute, that a royalty rate of less than 10 percent in the case of a particular licensing agreement would further the purposes of this chapter. Determinations under this subparagraph shall be made on a case-by-case basis, and, in any event, the department shall not approve a royalty rate of less than 5 percent.
+
+(2) Any agreement entered into by a recipient of research funds under this chapter for the purpose of establishing a joint venture or other business arrangement for the commercialization or monetization of intellectual property rights that arise from research funded under this chapter shall require that the recipient of research funds receives not less than 25 percent of the gross profits from that joint venture or other business arrangement and any subsequent sale of the joint venture or other business
+ arrangement.
+
+(g) Any institute, public or nonprofit university, or nonprofit research institution that receives funding pursuant to subdivision (b) of Section 130352 shall require all employees, scientists, researchers, independent contractors, or other individuals receiving funding via grant, contract, or otherwise from funds originating under this chapter, who desire to publish the results of research from that funding, to provide a copy of the proposed written publication or an outline of an oral disclosure to the institute, public or nonprofit university, or nonprofit research institution for review at least 30 days prior to any publication or presentation. The reviewing institute, public or nonprofit university, or nonprofit research institution shall have the right to do both of the following:
+
+(1) Propose modifications to the publication or presentation for patent reasons or
+ other reasons to be specified with reasonable particularity at that time.
+
+(2) Request a reasonable delay in publication or presentation in order to protect patentable information and allow patent applications protecting intellectual property rights to be filed as determined by the reviewing institute, public or nonprofit university, or nonprofit research institution.
+
+(History: Added Nov. 3, 2026, by initiative Proposition 38.   Effective on the fifth day after the Secretary of State files the final Statement of Vote.   [Note: Prop. 38 (under its conditions in Sec. 7) allows the Legislature to directly amend provisions by 2/3 vote.])
+-------------------------------------------
+
+130359.
+
+(a) The institute shall issue an annual report to the public that sets forth the institute’s activities, research accomplishments, and the future direction of the institute’s overall program.
+
+(b) Each annual report shall include, but not be limited to, all of the following:
+
+(1) A summary of research findings, including promising new research areas.
+
+(2) A description of progress toward project goals and key scientific findings or milestones.
+
+(3) The number and type of peer-reviewed publications, patents filed, or clinical trials initiated.
+
+(4) A summary of the institute’s administrative expenses.
+
+(5) A report of the institute’s strategic research and financial plans.
+
+(c) The annual report shall be published on the institute’s internet website.
+
+(History: Added Nov. 3, 2026, by initiative Proposition 38.   Effective on the fifth day after the Secretary of State files the final Statement of Vote.   [Note: Prop. 38 (under its conditions in Sec. 7) allows the Legislature to directly amend provisions by 2/3 vote.])
+-------------------------------------------
+
+130360.
+
+(a) The council shall issue an annual report to the public that sets forth the grants awarded, grants in progress, research accomplishments, and the future direction of the council’s overall grant funding program.
+
+(b) Each annual report shall include, but not be limited to, all of the following:
+
+(1) A summary of research findings by prior grantees, including promising new research areas.
+
+(2) The number and dollar amount of research grants allocated that year.
+
+(3) The grantees for the prior year and a report of their research progress and
+ accomplishments to date.
+
+(4) An assessment of the relationship between the council’s grants and the overall strategy of its research program.
+
+(5) A report of the council’s strategic research and financial plans.
+
+(6) A summary of the council’s administrative expenses.
+
+(c) The annual report shall be published on the department’s internet website.
+
+(History: Added Nov. 3, 2026, by initiative Proposition 38.   Effective on the fifth day after the Secretary of State files the final Statement of Vote.   [Note: Prop. 38 (under its conditions in Sec. 7) allows the Legislature to directly amend provisions by 2/3 vote.])
+-------------------------------------------
+
+130361.
+
+(a) The institute shall annually commission from a certified public accounting firm an independent financial audit of its activities that shall be provided to the Controller. The Controller shall review the audit and annually issue a public report of that review. The Controller shall hold a public meeting with appropriate notice and a formal public comment period. The Controller shall evaluate public comments and shall include appropriate summaries in the annual report.
+
+(b) The council shall annually commission from one or more certified public accounting firms independent financial audits of its activities and the activities of 10 percent of grantees, selected at random, that have made expenditures with grant funding under this chapter
+ during the audit period. Those independent financial audits shall be provided to the Controller, who shall review the audits and annually issue a public report of that review. The Controller shall hold a public meeting with appropriate notice and a formal public comment period. The Controller shall evaluate public comments and shall include appropriate summaries in the annual report.
+
+(History: Added Nov. 3, 2026, by initiative Proposition 38.   Effective on the fifth day after the Secretary of State files the final Statement of Vote.   [Note: Prop. 38 (under its conditions in Sec. 7) allows the Legislature to directly amend provisions by 2/3 vote.])
+-------------------------------------------
+
+130362.
+
+(a) (1) There shall be a Citizens’ Financial Accountability Oversight Committee consisting of six members.
+
+(2) The California State Auditor, the Treasurer, the President pro Tempore of the Senate, the Speaker of the Assembly, and the chairperson of the council shall each appoint a public member of the committee.
+
+(3) The Controller, or the Controller’s designee, shall serve as the chairperson of the committee.
+
+(b) The committee shall do all of the following:
+
+(1) Review the annual financial audits prepared pursuant to Section
+ 130361, the Controller’s reports on those audits, and the financial practices of the institute and the council.
+
+(2) Issue an annual report that includes recommendations on the financial practices and performance of the institute and the council.
+
+(3) Evaluate public comments and include appropriate summaries in its annual report.
+
+(c) The committee shall hold public meetings, with appropriate notice, and with a formal public comment period.
+
+(d) The Controller shall furnish the committee with staff support.
+
+(History: Added Nov. 3, 2026, by initiative Proposition 38.   Effective on the fifth day after the Secretary of State files the final Statement of Vote.   [Note: Prop. 38 (under its conditions in Sec. 7) allows the Legislature to directly amend provisions by 2/3 vote.])
+-------------------------------------------
+
+130363.
+
+(a) Notwithstanding any other provision of law, the institute shall not be deemed a public agency for any purpose under state law, including, but not limited to, Division 10 (commencing with Section 7920.000) of Title 1 of, Article 9 (commencing with Section 11120) of Chapter 1 of Part 1 of Division 3 of Title 2 of, and Title 9 (commencing with Section 81000) of, the Government Code.
+
+(b) The Political Reform Act of 1974 (Title 9 (commencing with Section 81000) of the Government Code) shall apply to the council, except as provided in this section.
+
+(1) A member of the council shall not make, participate in making, or in any way attempt to use their official position to influence
+ a decision to approve or award a grant or contract to their employer, but a member may participate in a decision to approve or award a grant or contract to an entity in the same field as their employer.
+
+(2) A member of the council may participate in a decision to approve or award a grant or contract to an entity for the purpose of research involving a disease from which the member or a person in their family suffers.
+
+(3) The adoption of general standards regarding selection criteria and research priorities are not decisions subject to conflict of interest prohibitions.
+
+(c) (1) Service as a member of the council by a member of the faculty or administration of any system of the University of California shall not, by itself, be deemed to be inconsistent, incompatible, in conflict with, or inimical
+ to the duties of the council member as a member of the faculty or administration of any system of the University of California and shall not result in the automatic vacation of either office.
+
+(2) Service as a member of the council by a representative or employee of a nonprofit academic or research institution shall not be deemed to be inconsistent, incompatible, in conflict with, or inimical to the duties of the council member as a representative or employee of that organization or institution.
+
+ (d) Section 1090 of the Government Code shall not apply to any grant or contract made by the council except where both of the following conditions are met:
+
+(1) The grant or contract directly relates to services to be provided by any member of the council or the entity the member represents, or financially benefits the member
+ or the entity the member represents.
+
+(2) The member fails to recuse themselves from making, participating in making, or in any way attempting to use their official position to influence a decision on the grant or contract.
+
+(History: Added Nov. 3, 2026, by initiative Proposition 38.   Effective on the fifth day after the Secretary of State files the final Statement of Vote.   [Note: Prop. 38 (under its conditions in Sec. 7) allows the Legislature to directly amend provisions by 2/3 vote.])
+-------------------------------------------
+
+130364.
+
+The department may adopt, amend, and rescind rules and regulations to carry out the purposes and provisions of this chapter.
+
+(History: Added Nov. 3, 2026, by initiative Proposition 38.   Effective on the fifth day after the Secretary of State files the final Statement of Vote.   [Note: Prop. 38 (under its conditions in Sec. 7) allows the Legislature to directly amend provisions by 2/3 vote.])
+-------------------------------------------
+
+
+
+CHAPTER 2. California Immunology and Immunotherapy Bond Act of 2026 [130370. - 130385.]
+
+130370.
+
+This chapter shall be known, and may be cited, as the “California Immunology and Immunotherapy Bond Act of 2026.”
+
+(History: Added Nov. 3, 2026, by initiative Proposition 38.   Effective on the fifth day after the Secretary of State files the final Statement of Vote.   [Note: Prop. 38 (under its conditions in Sec. 7) allows the Legislature to directly amend provisions by 2/3 vote.])
+-------------------------------------------
+
+130371.
+
+For purposes of this chapter, the following terms have the following meanings:
+
+(a) “Board” means the State Department of Public Health, designated pursuant to subdivision (b) of Section 130375.
+
+(b) “Committee” means the California Immunology and Immunotherapy Finance Committee created pursuant to subdivision (a) of Section 130375.
+
+(c) “Fund” means the California Immunology and Immunotherapy Medical Research Fund created pursuant to Section 130377.
+
+(d) “State General Obligation Bond Law” means the State General Obligation Bond Law codified in Chapter 4 (commencing with
+ Section 16720) of Part 3 of Division 4 of Title 2 of the Government Code, as amended from time to time.
+
+(History: Added Nov. 3, 2026, by initiative Proposition 38.   Effective on the fifth day after the Secretary of State files the final Statement of Vote.   [Note: Prop. 38 (under its conditions in Sec. 7) allows the Legislature to directly amend provisions by 2/3 vote.])
+-------------------------------------------
+
+130372.
+
+(a) Bonds in the total amount of eight billion four hundred million dollars ($8,400,000,000), not including the amount of any refunding bonds issued in accordance with Section 130383, or as much thereof as is necessary, may be issued and sold to provide funding to carry out the purposes expressed in this division and to reimburse the General Obligation Bond Expense Revolving Fund pursuant to Section 16724.5 of the Government Code.
+
+(b) The bonds, when sold, issued, and delivered, shall be and constitute a valid and binding obligation of the State of California, and the full faith and credit of the state is hereby pledged for the punctual payment of both the principal of, and interest on, the bonds as the principal and interest become due and
+ payable. 
+
+(c) The Treasurer shall issue and sell the bonds authorized in subdivision (a) in the amount determined by the committee to be necessary or desirable pursuant to Section 130376. The bonds shall be issued and sold upon the terms and conditions specified in a resolution to be adopted by the committee pursuant to Section 130376.
+
+(History: Added Nov. 3, 2026, by initiative Proposition 38.   Effective on the fifth day after the Secretary of State files the final Statement of Vote.   [Note: Prop. 38 (under its conditions in Sec. 7) allows the Legislature to directly amend provisions by 2/3 vote.])
+-------------------------------------------
+
+130373.
+
+Notwithstanding Section 13340 of the Government Code or any other provision of law, moneys in the fund are appropriated without regard to fiscal years for the following purposes:
+
+(a) Conducting medical research in the fields of immunology and immunotherapy, as described in Chapter 1 (commencing with Section 130350), including any costs incurred in supporting and administering that research.
+
+(b) Paying the costs of issuing bonds.
+
+(c) Paying any other costs described in this division and in the State General Obligation Bond Law.
+
+(History: Added Nov. 3, 2026, by initiative Proposition 38.   Effective on the fifth day after the Secretary of State files the final Statement of Vote.   [Note: Prop. 38 (under its conditions in Sec. 7) allows the Legislature to directly amend provisions by 2/3 vote.])
+-------------------------------------------
+
+130374.
+
+The bonds authorized by this chapter shall be prepared, executed, issued, sold, paid, and redeemed as provided in the State General Obligation Bond Law, and all of the provisions of that law apply to the bonds and to this chapter and are hereby incorporated in this chapter as though set forth in full in this chapter, except that subdivisions (a) and (b) of Section 16727 of the Government Code shall not apply.
+
+(History: Added Nov. 3, 2026, by initiative Proposition 38.   Effective on the fifth day after the Secretary of State files the final Statement of Vote.   [Note: Prop. 38 (under its conditions in Sec. 7) allows the Legislature to directly amend provisions by 2/3 vote.])
+-------------------------------------------
+
+130375.
+
+(a) (1) Solely for the purpose of authorizing the issuance and sale, pursuant to the State General Obligation Bond Law, of the bonds authorized by this chapter, the California Immunology and Immunotherapy Finance Committee is hereby created. For purposes of this chapter, the California Immunology and Immunotherapy Finance Committee is the “committee” as that term is used in the State General Obligation Bond Law.
+
+(2) The committee shall consist of the Treasurer, the Controller, and the Director of Finance.
+
+(3) The Treasurer shall serve as the chairperson of the committee.
+
+(4) A majority of the
+ committee may act for the committee.
+
+(5) Notwithstanding any other law, a member of the committee may designate a representative to act as that member in the member’s place, for all purposes, as though the member were personally present.
+
+(b) The State Department of Public Health is designated as the “board” for purposes of the State General Obligation Bond Law.
+
+(History: Added Nov. 3, 2026, by initiative Proposition 38.   Effective on the fifth day after the Secretary of State files the final Statement of Vote.   [Note: Prop. 38 (under its conditions in Sec. 7) allows the Legislature to directly amend provisions by 2/3 vote.])
+-------------------------------------------
+
+130376.
+
+(a) Upon written request by the research institute selected by the State Department of Public Health pursuant to Section 130353, stating that funds are needed to carry out the purposes of Chapter 1 (commencing with Section 130350), the board shall request the committee to issue bonds pursuant to this chapter. Upon receiving that request from the board, the committee shall determine by resolution whether or not it is necessary or desirable to issue and sell the bonds authorized pursuant to this chapter in order to carry out the actions specified in this chapter and, if so, the amount of bonds to be issued and sold.
+
+(b) Successive issues of bonds may be authorized and sold to carry out the purposes of Chapter 1 (commencing with Section 130350)
+ progressively, and it is not necessary that all of the bonds be issued or sold at any one time.
+
+(c) The bonds may bear interest which is includable in gross income for federal income tax purposes if the committee determines that this treatment is necessary or desirable in order to provide funds for the purposes of Chapter 1 (commencing with Section 130350).
+
+(History: Added Nov. 3, 2026, by initiative Proposition 38.   Effective on the fifth day after the Secretary of State files the final Statement of Vote.   [Note: Prop. 38 (under its conditions in Sec. 7) allows the Legislature to directly amend provisions by 2/3 vote.])
+-------------------------------------------
+
+130377.
+
+The proceeds of bonds issued and sold pursuant to this chapter shall be deposited in the State Treasury to the credit of the California Immunology and Immunotherapy Medical Research Fund, which is hereby created in the State Treasury.
+
+(History: Added Nov. 3, 2026, by initiative Proposition 38.   Effective on the fifth day after the Secretary of State files the final Statement of Vote.   [Note: Prop. 38 (under its conditions in Sec. 7) allows the Legislature to directly amend provisions by 2/3 vote.])
+-------------------------------------------
+
+130378.
+
+There shall be collected each year, in the same manner and at the same time as other state revenue is collected, in addition to the ordinary revenues of the state, a sum in an amount required to pay the principal of, and interest on, the bonds becoming due each year. It is the duty of all officers charged by law with any duty in regard to the collection of revenue to do and perform each and every act that is necessary to collect that additional sum.
+
+(History: Added Nov. 3, 2026, by initiative Proposition 38.   Effective on the fifth day after the Secretary of State files the final Statement of Vote.   [Note: Prop. 38 (under its conditions in Sec. 7) allows the Legislature to directly amend provisions by 2/3 vote.])
+-------------------------------------------
+
+130379.
+
+Notwithstanding Section 13340 of the Government Code, there is hereby continuously appropriated from the General Fund in the State Treasury, for the purposes of this chapter and without regard to fiscal years, an amount that equals the total of the following:
+
+(a) The sum annually necessary to pay the principal of, and interest on, bonds issued and sold pursuant to this chapter, as the principal and interest become due and payable.
+
+(b) The sum necessary to carry out Section 130380.
+
+(History: Added Nov. 3, 2026, by initiative Proposition 38.   Effective on the fifth day after the Secretary of State files the final Statement of Vote.   [Note: Prop. 38 (under its conditions in Sec. 7) allows the Legislature to directly amend provisions by 2/3 vote.])
+-------------------------------------------
+
+130380.
+
+For purposes of carrying out this chapter, the Director of Finance may authorize the withdrawal from the General Fund of an amount not to exceed the amount of the unsold bonds that have been authorized by the committee to be sold for the purpose of carrying out this chapter, excluding any refunding bonds authorized pursuant to Section 130383, less any amount loaned pursuant to Section 130381 and not yet repaid, and any amount withdrawn from the General Fund pursuant to this section and not yet returned to the General Fund. Any amount withdrawn shall be deposited in the fund. Any money made available under this section shall be returned to the General Fund, plus an amount equal to the interest that the money would have earned in the Pooled Money Investment Account, from money received from the sale of bonds for the purpose of
+ carrying out this chapter.
+
+(History: Added Nov. 3, 2026, by initiative Proposition 38.   Effective on the fifth day after the Secretary of State files the final Statement of Vote.   [Note: Prop. 38 (under its conditions in Sec. 7) allows the Legislature to directly amend provisions by 2/3 vote.])
+-------------------------------------------
+
+130381.
+
+The board may request the Pooled Money Investment Board to make a loan from the Pooled Money Investment Account in accordance with Section 16312 of the Government Code for the purpose of carrying out this chapter. The amount of the request shall not exceed the amount of the unsold bonds that the committee has, by resolution, authorized to be sold for the purpose of carrying out this chapter, excluding any refunding bonds authorized pursuant to Section 130383, less any amount loaned pursuant to this section and not yet repaid and any amount withdrawn from the General Fund pursuant to Section 130380 and not yet returned to the General Fund. The board shall execute any documents required by the Pooled Money Investment Board to obtain and repay the loan. Any amounts loaned shall be deposited in the fund to be allocated by the
+ board in accordance with this chapter.
+
+(History: Added Nov. 3, 2026, by initiative Proposition 38.   Effective on the fifth day after the Secretary of State files the final Statement of Vote.   [Note: Prop. 38 (under its conditions in Sec. 7) allows the Legislature to directly amend provisions by 2/3 vote.])
+-------------------------------------------
+
+130382.
+
+All moneys deposited in the fund that are derived from premium and accrued interest on bonds sold pursuant to this chapter shall be reserved in the fund and shall be available for transfer to the General Fund as a credit to expenditures for bond interest, except that amounts derived from premium may be reserved and used to pay costs of bond issuance prior to any transfer to the General Fund.
+
+(History: Added Nov. 3, 2026, by initiative Proposition 38.   Effective on the fifth day after the Secretary of State files the final Statement of Vote.   [Note: Prop. 38 (under its conditions in Sec. 7) allows the Legislature to directly amend provisions by 2/3 vote.])
+-------------------------------------------
+
+130383.
+
+(a) The bonds issued and sold pursuant to this chapter may be refunded in accordance with Article 6 (commencing with Section 16780) of Chapter 4 of Part 3 of Division 4 of Title 2 of the Government Code.
+
+(b) Approval by the voters of the state for the issuance of the bonds described in this chapter includes the approval of the issuance of any bonds issued to refund any bonds originally issued under this chapter or any previously issued refunding bonds.
+
+(c) Any bond refunded with the proceeds of refunding bonds as authorized by this section may be legally defeased to the extent permitted by law in the manner and to the extent set forth in the resolution, as amended from time to
+ time, authorizing that refunded bond.
+
+(History: Added Nov. 3, 2026, by initiative Proposition 38.   Effective on the fifth day after the Secretary of State files the final Statement of Vote.   [Note: Prop. 38 (under its conditions in Sec. 7) allows the Legislature to directly amend provisions by 2/3 vote.])
+-------------------------------------------
+
+130384.
+
+Notwithstanding any provision of this chapter or the State General Obligation Bond Law, if the Treasurer sells bonds pursuant to this chapter that include a bond counsel opinion to the effect that the interest on the bonds is excluded from gross income for federal tax purposes, under designated conditions, or is otherwise entitled to any federal tax advantage, the Treasurer may maintain separate accounts for the investment of bond proceeds and for the investment of earnings on those proceeds. The Treasurer may use or direct the use of those proceeds or earnings to pay any rebate, penalty, or other payment required under federal law or take any other action with respect to the investment and use of those bond proceeds required or desirable under federal law to maintain the tax-exempt status of those bonds and to obtain any
+ other advantage under federal law on behalf of the funds of this state.
+
+(History: Added Nov. 3, 2026, by initiative Proposition 38.   Effective on the fifth day after the Secretary of State files the final Statement of Vote.   [Note: Prop. 38 (under its conditions in Sec. 7) allows the Legislature to directly amend provisions by 2/3 vote.])
+-------------------------------------------
+
+130385.
+
+The proceeds from the sale of bonds authorized by this chapter are not “proceeds of taxes” as that term is used in Article XIIIB of the California Constitution, and the disbursement of these proceeds is not subject to the limitations imposed by that article.
+
+(History: Added Nov. 3, 2026, by initiative Proposition 38.   Effective on the fifth day after the Secretary of State files the final Statement of Vote.   [Note: Prop. 38 (under its conditions in Sec. 7) allows the Legislature to directly amend provisions by 2/3 vote.])
 -------------------------------------------
 
 
