@@ -5,7 +5,7 @@
 
 Source: Official California Legislative Information
         https://downloads.leginfo.legislature.ca.gov/
-Last Updated by State of California: December 17, 2025
+Last Updated by State of California: November 07, 2026
 
 
 ======================================================================
@@ -1834,6 +1834,73 @@ Legislature may define the terms used in this section.
 
 ======================================================================
 
+ARTICLE VIII [RETIREMENT AND PERSONAL SAVINGS PROTECTION ACT OF 2026] [SECTION 1. - SEC. 4.]
+
+SECTION 1.
+
+Prohibition on Taxing Retirement Holdings, Individually Owned Assets, and Other Forms of Personal Savings
+
+(a) No state law and no provision of this Constitution enacted on or after January 1, 2026, may enact, create, impose, or authorize collection of a tax on the ownership or control of retirement holdings, individually owned assets, and other forms of personal savings, whether held directly or indirectly.
+
+(b) Nothing in this section shall alter or limit the imposition or collection of any tax that was in effect, imposed, and first collected on or before December 31, 2025.
+
+(c) Nothing in this section shall alter or affect the
+ taxation of real property as provided in other provisions of this Constitution.
+
+(History: Article 8 added Nov. 3, 2026, by initiative Proposition 42.   Effective on the fifth day after the Secretary of State files the final Statement of Vote.)
+-------------------------------------------
+
+SEC. 2.
+
+Prohibition on Retroactive Taxes
+
+(a) (1) No state law and no provision of this Constitution enacted on or after January 1, 2026, may enact, create, impose, or authorize collection of a tax that operates retroactively to result in tax liability based on conduct, activities, or a status that occurred or was present prior to the effective date of the state law or constitutional provision.
+
+(2) This subdivision also applies to a tax that is imposed on a taxpayer based upon their residency status on a date prior to the effective date of the tax.
+
+(b) Nothing in subdivision (a) shall alter or limit the imposition or
+ collection of any tax that was in effect, imposed, and first collected on or before December 31, 2025.
+
+(c) Subdivision (a) shall not apply to a tax imposed by a statute passed by the Legislature on or after January 1, 2026, where both of the following apply:
+
+(1) The tax does not apply retroactively for more than 365 days prior to the date the statute takes effect.
+
+(2) At least one of the following conditions exists:
+
+(A) The Governor declares an emergency as a result of a fire, flood, storm, civil disorder, earthquake, volcanic eruption, or actual or imminent attack by a foreign enemy, and the use of the revenues from the tax are expressly limited by the statute to responding to the emergency.
+
+(B) The Governor declares a fiscal emergency pursuant to subdivision (f) of Section 10 of Article IV and the use of the revenues from the tax are expressly limited by the statute to responding to the fiscal emergency.
+
+(History: Article 8 added Nov. 3, 2026, by initiative Proposition 42.   Effective on the fifth day after the Secretary of State files the final Statement of Vote.)
+-------------------------------------------
+
+SEC. 3.
+
+Definitions
+
+For purposes of this article, the following definitions shall apply:
+
+(a) “Retirement holdings, individually owned assets, and other forms of personal savings” means pensions; retirement accounts including, but not limited to, 401(k) accounts, 403(b) accounts, and all other individual retirement accounts; mutual funds; and all personal property, whether tangible or intangible, including, but not limited to, financial assets, investment accounts, business interests, digital assets, intellectual property, personal belongings, and other assets used to produce or collect income or savings for retirement or financial planning.
+
+(b) “Tax” means a tax as
+ defined in subdivision (b) of Section 3 of Article XIIIA.
+
+(History: Article 8 added Nov. 3, 2026, by initiative Proposition 42.   Effective on the fifth day after the Secretary of State files the final Statement of Vote.)
+-------------------------------------------
+
+SEC. 4.
+
+Application of Article
+
+This article applies to all statewide initiative measures submitted to the electors on or after January 1, 2026, including measures that appear on the ballot at the same election at which the measure adding this article is approved by the electors.
+
+(History: Article 8 added Nov. 3, 2026, by initiative Proposition 42.   Effective on the fifth day after the Secretary of State files the final Statement of Vote.)
+-------------------------------------------
+
+
+
+======================================================================
+
 ARTICLE IX EDUCATION [SECTION 1. - SEC. 16.]
 
 SECTION 1.
@@ -3282,7 +3349,174 @@ Division 2 of the Revenue and Taxation Code, the modified tax brackets and tax r
 (2) The Attorney General or local district attorney shall expeditiously investigate, and may seek civil or criminal penalties for, any misuse of moneys from the County Local Revenue Fund 2011
 or the Education Protection Account.
 
-(History: Sec. 36 amended Nov. 8, 2016, by Prop. 55. Initiative measure.)
+(History: Sec. 36 amended Nov. 8, 2016, by Prop. 55. Initiative measure.   Superseded on fifth day after Secretary of State files the final Statement of Vote; see amendment by Prop. 3 of 2026.)
+-------------------------------------------
+
+SEC. 36.
+
+(a) For purposes of this section:
+
+(1) “Public Safety Services” includes the following:
+
+(A) Employing and training public safety officials, including law enforcement personnel, attorneys assigned to criminal proceedings, and court security staff.
+
+(B) Managing local jails and providing housing, treatment, and services for, and supervision of, juvenile and adult offenders.
+
+(C) Preventing child abuse, neglect, or exploitation; providing services to children and youth who are abused, neglected, or exploited, or who are at risk of abuse, neglect, or exploitation, and the
+ families of those children; providing adoption services; and providing adult protective services.
+
+(D) Providing mental health services to children and adults to reduce failure in school, harm to self or others, homelessness, and preventable incarceration or institutionalization.
+
+(E) Preventing, treating, and providing recovery services for substance abuse.
+
+(2) “2011 Realignment Legislation” means legislation enacted on or before September 30, 2012, to implement the state budget plan, that is entitled 2011 Realignment and provides for the assignment of Public Safety Services responsibilities to local agencies, including related reporting responsibilities. The legislation shall provide local agencies with maximum flexibility and control over the design, administration, and delivery of Public Safety Services consistent
+ with federal law and funding requirements, as determined by the Legislature. However, 2011 Realignment Legislation shall include no new programs assigned to local agencies after January 1, 2012, except for the early periodic screening, diagnosis, and treatment (EPSDT) program and mental health managed care.
+
+(b) (1) Except as provided in subdivision (d), commencing in the 2011–12 fiscal year and continuing thereafter, the following amounts shall be deposited into the Local Revenue Fund 2011, as established by Section 30025 of the Government Code, as follows:
+
+(A) All revenues, less refunds, derived from the taxes described in Sections 6051.15 and 6201.15 of the Revenue and Taxation Code, as those sections read on July 1, 2011.
+
+(B) All revenues, less refunds, derived from the vehicle license fees
+ described in Section 11005 of the Revenue and Taxation Code, as that section read on July 1, 2011.
+
+(2) On and after July 1, 2011, the revenues deposited pursuant to paragraph (1) shall not be considered General Fund revenues or proceeds of taxes for purposes of Section 8 of Article XVI of the California Constitution.
+
+(c) (1) Funds deposited in the Local Revenue Fund 2011 are continuously appropriated exclusively to fund the provision of Public Safety Services by local agencies. Pending full implementation of the 2011 Realignment Legislation, funds may also be used to reimburse the State for program costs incurred in providing Public Safety Services on behalf of local agencies. The methodology for allocating funds shall be as specified in the 2011 Realignment Legislation.
+
+(2) The county
+ treasurer, city and county treasurer, or other appropriate official shall create a County Local Revenue Fund 2011 within the treasury of each county or city and county. The money in each County Local Revenue Fund 2011 shall be exclusively used to fund the provision of Public Safety Services by local agencies as specified by the 2011 Realignment Legislation.
+
+(3) Notwithstanding Section 6 of Article XIIIB, or any other constitutional provision, a mandate of a new program or higher level of service on a local agency imposed by the 2011 Realignment Legislation, or by any regulation adopted or any executive order or administrative directive issued to implement that legislation, shall not constitute a mandate requiring the State to provide a subvention of funds within the meaning of that section. Any requirement that a local agency comply with Chapter 9 (commencing with Section 54950) of Part 1 of Division 2 of Title 5 of the
+ Government Code, with respect to performing its Public Safety Services responsibilities, or any other matter, shall not be a reimbursable mandate under Section 6 of Article XIIIB.
+
+(4) (A) Legislation enacted after September 30, 2012, that has an overall effect of increasing the costs already borne by a local agency for programs or levels of service mandated by the 2011 Realignment Legislation shall apply to local agencies only to the extent that the State provides annual funding for the cost increase. Local agencies shall not be obligated to provide programs or levels of service required by legislation, described in this subparagraph, above the level for which funding has been provided.
+
+(B) Regulations, executive orders, or administrative directives, implemented after October 9, 2011, that are not necessary to implement the 2011
+ Realignment Legislation, and that have an overall effect of increasing the costs already borne by a local agency for programs or levels of service mandated by the 2011 Realignment Legislation, shall apply to local agencies only to the extent that the State provides annual funding for the cost increase. Local agencies shall not be obligated to provide programs or levels of service pursuant to new regulations, executive orders, or administrative directives, described in this subparagraph, above the level for which funding has been provided.
+
+(C) Any new program or higher level of service provided by local agencies, as described in subparagraphs (A) and (B), above the level for which funding has been provided, shall not require a subvention of funds by the State nor otherwise be subject to Section 6 of Article XIIIB. This paragraph shall not apply to legislation currently exempt from subvention under paragraph (2) of
+ subdivision (a) of Section 6 of Article XIIIB as that paragraph read on January 2, 2011.
+
+(D) The State shall not submit to the federal government any plans or waivers, or amendments to those plans or waivers, that have an overall effect of increasing the cost borne by a local agency for programs or levels of service mandated by the 2011 Realignment Legislation, except to the extent that the plans, waivers, or amendments are required by federal law, or the State provides annual funding for the cost increase.
+
+(E) The State shall not be required to provide a subvention of funds pursuant to this paragraph for a mandate that is imposed by the State at the request of a local agency or to comply with federal law. State funds required by this paragraph shall be from a source other than those described in subdivisions (b) and (d), ad valorem property taxes, or the
+ Social Services Subaccount of the Sales Tax Account of the Local Revenue Fund.
+
+(5) (A) For programs described in subparagraphs (C) to (E), inclusive, of paragraph (1) of subdivision (a) and included in the 2011 Realignment Legislation, if there are subsequent changes in federal statutes or regulations that alter the conditions under which federal matching funds as described in the 2011 Realignment Legislation are obtained, and have the overall effect of increasing the costs incurred by a local agency, the State shall annually provide at least 50 percent of the nonfederal share of those costs as determined by the State.
+
+(B) When the State is a party to any complaint brought in a federal judicial or administrative proceeding that involves one or more of the programs described in subparagraphs (C) to (E), inclusive, of paragraph (1) of subdivision (a) and
+ included in the 2011 Realignment Legislation, and there is a settlement or judicial or administrative order that imposes a cost in the form of a monetary penalty or has the overall effect of increasing the costs already borne by a local agency for programs or levels of service mandated by the 2011 Realignment Legislation, the State shall annually provide at least 50 percent of the nonfederal share of those costs as determined by the State. Payment by the State is not required if the State determines that the settlement or order relates to one or more local agencies failing to perform a ministerial duty, failing to perform a legal obligation in good faith, or acting in a negligent or reckless manner.
+
+(C) The state funds provided in this paragraph shall be from funding sources other than those described in subdivisions (b) and (d), ad valorem property taxes, or the Social Services Subaccount of the Sales Tax Account of the Local Revenue Fund.
+
+(6) If the State or a local agency fails to perform a duty or obligation under this section or under the 2011 Realignment Legislation, an appropriate party may seek judicial relief. These proceedings shall have priority over all other civil matters.
+
+(7) The funds deposited into a County Local Revenue Fund 2011 shall be spent in a manner designed to maintain the State’s eligibility for federal matching funds, and to ensure compliance by the State with applicable federal standards governing the State’s provision of Public Safety Services.
+
+(8) The funds deposited into a County Local Revenue Fund 2011 shall not be used by local agencies to supplant other funding for Public Safety Services.
+
+(d) If the taxes described in subdivision (b) are reduced or cease to
+ be operative, the State shall annually provide moneys to the Local Revenue Fund 2011 in an amount equal to or greater than the aggregate amount that otherwise would have been provided by the taxes described in subdivision (b). The method for determining that amount shall be described in the 2011 Realignment Legislation, and the State shall be obligated to provide that amount for so long as the local agencies are required to perform the Public Safety Services responsibilities assigned by the 2011 Realignment Legislation. If the State fails to annually appropriate that amount, the Controller shall transfer that amount from the General Fund in pro rata monthly shares to the Local Revenue Fund 2011. Thereafter, the Controller shall disburse these amounts to local agencies in the manner directed by the 2011 Realignment Legislation. The state obligations under this subdivision shall have a lower priority claim to General Fund money than the first priority for money to be set apart under Section 8 of Article XVI
+ and the second priority to pay voter-approved debts and liabilities described in Section 1 of Article XVI.
+
+(e) (1) To ensure that public education is not harmed in the process of providing critical protection to local Public Safety Services, the Education Protection Account is hereby created in the General Fund to receive and disburse the revenues derived from the incremental increases in taxes imposed by this section, as specified in subdivision (f).
+
+(2) (A) Before June 30, 2013, and before June 30 of each year thereafter, the Director of Finance shall estimate the total amount of additional revenues, less refunds, that will be derived from the incremental increases in tax rates made in subdivision (f) that will be available for transfer into the Education Protection Account during the next fiscal year. The Director of Finance shall
+ make the same estimate by January 10, 2013, for additional revenues, less refunds, that will be received by the end of the 2012–13 fiscal year.
+
+(B) During the last 10 days of the quarter of each of the first three quarters of each fiscal year beginning in 2013–14, the Controller shall transfer into the Education Protection Account one-fourth of the total amount estimated pursuant to subparagraph (A) for that fiscal year, except as this amount may be adjusted pursuant to subparagraph (D).
+
+(C) In each fiscal year beginning in 2012–13, the Director of Finance shall calculate an adjustment to the Education Protection Account, as specified by subparagraph (D), by adding together the following amounts, as applicable:
+
+(i) In the last quarter of each fiscal year beginning in 2012–13, the Director of Finance shall recalculate
+ the estimate made for the fiscal year pursuant to subparagraph (A), and shall subtract from this updated estimate the amounts previously transferred to the Education Protection Account for that fiscal year.
+
+(ii) In June 2015 and in every June thereafter the Director of Finance shall make a final determination of the amount of additional revenues, less refunds, derived from the incremental increases in tax rates made in subdivision (f) for the fiscal year ending two years prior. The amount of the updated estimate calculated in clause (i) for the fiscal year ending two years prior shall be subtracted from the amount of this final determination.
+
+(D) If the sum determined pursuant to subparagraph (C) is positive, the Controller shall transfer an amount equal to that sum into the Education Protection Account within 10 days preceding the end of the fiscal year. If that amount is
+ negative, the Controller shall suspend or reduce subsequent quarterly transfers, if any, to the Education Protection Account until the total reduction equals the negative amount herein described. For purposes of any calculation made pursuant to clause (i) of subparagraph (C), the amount of a quarterly transfer shall not be modified to reflect any suspension or reduction made pursuant to this subparagraph.
+
+(E) Before June 30, 2018, and before June 30 of each year from 2019 to 2030, inclusive, the Director of Finance shall estimate the amount of the additional revenues, less refunds, to be derived in the following fiscal year from the incremental increases in tax rates made in subdivision (f), that, when combined with all other available General Fund revenues, will be required to meet:
+
+(i) The minimum funding guarantee of Section 8 of Article XVI for that following fiscal year;
+ and
+
+(ii) The workload budget for that following fiscal year, excluding any program expenditures already accounted for through clause (i). For purposes of this section, “workload budget” has the meaning set forth in Section 13308.05 of the Government Code, as that section read and was interpreted by the Department of Finance on January 1, 2016, provided, however, that “currently authorized services” shall mean only those services that would have been considered “currently authorized services” under Section 13308.05 of the Government Code as of January 1, 2016.
+
+(F) In order to enhance the ability of all California school children and their families to receive regular, quality health care and thereby minimize school absenteeism due to health-related problems, whenever the Director of Finance estimates that the amount available for transfer into the Education Protection Account during
+ the following fiscal year exceeds the amount of revenues required from that account pursuant to subparagraph (E) for that following fiscal year, the director shall identify the remaining amount. Fifty percent of that remainder, up to a maximum of two billion dollars in any single fiscal year, shall be allocated by the Controller from the Education Protection Account to the California Department of Health Care Services on a quarterly basis to increase funding for the existing health care programs and services described in Chapter 7 (commencing with Section 14000) to Chapter 8.9 (commencing with Section 14700), inclusive, of Part 3 of Division 9 of the Welfare and Institutions Code. The funding shall be used only for critical, emergency, acute, and preventive health care services to children and their families, provided by health care professionals and health facilities that are licensed pursuant to Section 1250 of the Health and Safety Code, and to health plans or others that manage the provision of health
+ care for Medi-Cal beneficiaries that are contracting with the California Department of Health Care Services to provide health benefits pursuant to this section.
+
+(G) The allocation provided for in subparagraph (F) may be suspended by statute during a fiscal year in which a budget emergency has been declared, provided, however, that the allocation shall not be reduced beyond the proportional reduction in overall General Fund expenditures for that year. For purposes of this section, “budget emergency” has the same meaning as in paragraph (2) of subdivision (b) of Section 22 of Article XVI.
+
+(H) The funding provided pursuant to subparagraph (F) shall not be used to supplant existing state General Funds for the nonfederal share of payments for those programs and, consistent with federal law, shall be used to obtain federal matching Medicaid funds.
+
+(3) All moneys in the Education Protection Account are hereby continuously appropriated for the support of school districts, county offices of education, charter schools, and community college districts as set forth in this paragraph, and for health care as set forth in subparagraph (F) of paragraph (2).
+
+(A) Eleven percent of the moneys appropriated for education pursuant to this paragraph shall be allocated quarterly by the Board of Governors of the California Community Colleges to community college districts to provide general purpose funding to community college districts in proportion to the amounts determined pursuant to Section 84750.5 of the Education Code, as that code section read on November 6, 2012. The allocations calculated pursuant to this subparagraph shall be offset by the amounts specified in subdivisions (a), (c), and (d) of Section 84751 of the Education Code, as
+ that section read on November 6, 2012, that are in excess of the amounts calculated pursuant to Section 84750.5 of the Education Code, as that section read on November 6, 2012, provided that no community college district shall receive less than one hundred dollars ($100) per full time equivalent student.
+
+(B) Eighty-nine percent of the moneys appropriated for education pursuant to this paragraph shall be allocated quarterly by the Superintendent of Public Instruction to provide general purpose funding to school districts, county offices of education, and state general-purpose funding to charter schools in proportion to the revenue limits calculated pursuant to Sections 2558 and 42238 of the Education Code and the amounts calculated pursuant to Section 47633 of the Education Code for county offices of education, school districts, and charter schools, respectively, as those sections read on November 6, 2012. The amounts so calculated shall be
+ offset by the amounts specified in subdivision (c) of Section 2558 of, paragraphs (1) through (7) of subdivision (h) of Section 42238 of, and Section 47635 of, the Education Code for county offices of education, school districts, and charter schools, respectively, as those sections read on November 6, 2012, that are in excess of the amounts calculated pursuant to Sections 2558, 42238, and 47633 of the Education Code for county offices of education, school districts, and charter schools, respectively, as those sections read on November 6, 2012, provided that no school district, county office of education, or charter school shall receive less than two hundred dollars ($200) per unit of average daily attendance.
+
+(4) This subdivision is self-executing and requires no legislative action to take effect. Distribution of the moneys in the Education Protection Account by the Board of Governors of the California Community Colleges and Superintendent of
+ Public Instruction shall not be delayed or otherwise affected by failure of the Legislature and Governor to enact an annual budget bill pursuant to Section 12 of Article IV, by invocation of subdivision (h) of Section 8 of Article XVI, or by any other action or failure to act by the Legislature or Governor.
+
+(5) Notwithstanding any other provision of law, the moneys deposited in the Education Protection Account for education shall not be used to pay any costs incurred by the Legislature, the Governor, or any agency of state government.
+
+(6) A community college district, county office of education, school district, or charter school shall have sole authority to determine how the moneys received from the Education Protection Account are spent in the school or schools within its jurisdiction, provided, however, that the appropriate governing board or body shall make these spending
+ determinations in open session of a public meeting of the governing board or body and shall not use any of the funds from the Education Protection Account for salaries or benefits of administrators or any other administrative costs. Each community college district, county office of education, school district, and charter school shall annually publish on its Internet Web site an accounting of how much money was received from the Education Protection Account and how that money was spent.
+
+(7) The annual independent financial and compliance audit required of community college districts, county offices of education, school districts, and charter schools shall, in addition to all other requirements of law, ascertain and verify whether the funds provided from the Education Protection Account have been properly disbursed and expended as required by this section. Expenses incurred by those entities to comply with the additional audit requirement of this
+ section may be paid with funding from the Education Protection Account and shall not be considered administrative costs for purposes of this section.
+
+(8) Revenues, less refunds, derived pursuant to subdivision (f) for deposit in the Education Protection Account pursuant to this section shall be deemed “General Fund revenues,” “General Fund proceeds of taxes,” and “moneys to be applied by the State for the support of school districts and community college districts” for purposes of Section 8 of Article XVI.
+
+(f) (1) (A) In addition to the taxes imposed by Part 1 (commencing with Section 6001) of Division 2 of the Revenue and Taxation Code, for the privilege of selling tangible personal property at retail, a tax is hereby imposed upon all retailers at the rate of 1/4 percent of the gross receipts of any retailer from the sale of all
+ tangible personal property sold at retail in this State on and after January 1, 2013, and before January 1, 2017.
+
+(B) In addition to the taxes imposed by Part 1 (commencing with Section 6001) of Division 2 of the Revenue and Taxation Code, an excise tax is hereby imposed on the storage, use, or other consumption in this State of tangible personal property purchased from any retailer on and after January 1, 2013, and before January 1, 2017, for storage, use, or other consumption in this state at the rate of 1/4 percent of the sales price of the property.
+
+(C) The Sales and Use Tax Law, including any amendments enacted on or after the effective date of this section, shall apply to the taxes imposed pursuant to this paragraph.
+
+(D) This paragraph shall become inoperative on January 1, 2017.
+
+(2) For any taxable year beginning on or after January 1, 2012, with respect to the tax imposed pursuant to Section 17041 of the Revenue and Taxation Code, the income tax bracket and the rate of 9.3 percent set forth in paragraph (1) of subdivision (a) of Section 17041 of the Revenue and Taxation Code shall be modified by each of the following:
+
+(A) (i) For that portion of taxable income that is over two hundred fifty thousand dollars ($250,000) but not over three hundred thousand dollars ($300,000), the tax rate is 10.3 percent of the excess over two hundred fifty thousand dollars ($250,000).
+
+(ii) For that portion of taxable income that is over three hundred thousand dollars ($300,000) but not over five hundred thousand dollars ($500,000), the tax rate is 11.3 percent of the excess over three
+ hundred thousand dollars ($300,000).
+
+(iii) For that portion of taxable income that is over five hundred thousand dollars ($500,000), the tax rate is 12.3 percent of the excess over five hundred thousand dollars ($500,000).
+
+(B) The income tax brackets specified in clauses (i), (ii), and (iii) of subparagraph (A) shall be recomputed, as otherwise provided in subdivision (h) of Section 17041 of the Revenue and Taxation Code, only for taxable years beginning on and after January 1, 2013.
+
+(C) (i) For purposes of subdivision (g) of Section 19136 of the Revenue and Taxation Code, this paragraph shall be considered to be chaptered on November 6, 2012.
+
+(ii) For purposes of Part 10 (commencing with Section 17001) of, and Part 10.2
+ (commencing with Section 18401) of, Division 2 of the Revenue and Taxation Code, the modified tax brackets and tax rates established and imposed by this paragraph shall be deemed to be established and imposed under Section 17041 of the Revenue and Taxation Code.
+
+(3) For any taxable year beginning on or after January 1, 2012, with respect to the tax imposed pursuant to Section 17041 of the Revenue and Taxation Code, the income tax bracket and the rate of 9.3 percent set forth in paragraph (1) of subdivision (c) of Section 17041 of the Revenue and Taxation Code shall be modified by each of the following:
+
+(A) (i) For that portion of taxable income that is over three hundred forty thousand dollars ($340,000) but not over four hundred eight thousand dollars ($408,000), the tax rate is 10.3 percent of the excess over three hundred forty thousand dollars
+ ($340,000).
+
+(ii) For that portion of taxable income that is over four hundred eight thousand dollars ($408,000) but not over six hundred eighty thousand dollars ($680,000), the tax rate is 11.3 percent of the excess over four hundred eight thousand dollars ($408,000).
+
+(iii) For that portion of taxable income that is over six hundred eighty thousand dollars ($680,000), the tax rate is 12.3 percent of the excess over six hundred eighty thousand dollars ($680,000).
+
+(B) The income tax brackets specified in clauses (i), (ii), and (iii) of subparagraph (A) shall be recomputed, as otherwise provided in subdivision (h) of Section 17041 of the Revenue and Taxation Code, only for taxable years beginning on and after January 1, 2013.
+
+(C) (i) For purposes of subdivision (g) of Section 19136 of the Revenue and Taxation Code, this paragraph shall be considered to be chaptered on November 6, 2012.
+
+(ii) For purposes of Part 10 (commencing with Section 17001) of, and Part 10.2 (commencing with Section 18401) of, Division 2 of the Revenue and Taxation Code, the modified tax brackets and tax rates established and imposed by this paragraph shall be deemed to be established and imposed under Section 17041 of the Revenue and Taxation Code.
+
+(g) (1) The Controller, pursuant to his or her statutory authority, may perform audits of expenditures from the Local Revenue Fund 2011 and any County Local Revenue Fund 2011, and shall audit the Education Protection Account to ensure that those funds are used and accounted for in a manner consistent with this section.
+
+(2) The Attorney General or local district attorney shall expeditiously investigate, and may seek civil or criminal penalties for, any misuse of moneys from the County Local Revenue Fund 2011 or the Education Protection Account.
+
+(History: Sec. 36 amended Nov. 3, 2026, by Prop. 3. Initiative measure.   Effective on the fifth day after the Secretary of State files the final Statement of Vote.   [Note: amended by Prop. 55, Nov. 8, 2016.])
 -------------------------------------------
 
 
@@ -4170,12 +4404,12 @@ ARTICLE XVI PUBLIC FINANCE [SECTION 1. - SEC. 23.]
 
 SECTION 1.
 
-The Legislature shall not, in any manner create any debt or debts, liability or liabilities, which shall, singly or in the aggregate with any previous debts or liabilities, exceed the sum of three hundred thousand dollars ($300,000), except in case of war to repel invasion or suppress insurrection, unless the same shall be authorized by law for some single object or work to be distinctly specified therein which law shall provide ways and means, exclusive of loans, for the payment of the interest of such debt or liability as it falls due, and also to pay and discharge the principal of such debt or
-liability within 50 years of the time of the contracting thereof, and shall be irrepealable until the principal and interest thereon shall be paid and discharged, and such law may make provision for a sinking fund to pay the principal of such debt or liability to commence at a time after the incurring of such debt or liability of not more than a period of one-fourth of the time of maturity of such debt or liability; but no such law shall take effect unless it has been passed by a two-thirds vote of all the members elected to each house of the Legislature and until, at a general election or at a direct primary, it shall have been submitted to the people and shall have received a majority of all the votes cast for and against it at such election; and all moneys raised by authority of such law shall be applied only to the specific object therein stated or to the payment of the debt thereby created. Full publicity as to matters to be voted upon by the people is afforded by the setting out of the complete text of
-the proposed laws, together with the arguments for and against them, in the ballot pamphlet mailed to each elector preceding the election at which they are submitted, and the only requirement for publication of such law shall be that it be set out at length in ballot pamphlets which the Secretary of State shall cause to be printed. The Legislature may, at any time after the approval of such law by the people, reduce the amount of the indebtedness authorized by the law to an amount not less than the amount contracted at the time of the reduction, or it may repeal the law if no debt shall have been contracted in pursuance thereof.
+The Legislature shall not, in any manner create any debt or debts, liability or liabilities, which shall, singly or in the aggregate with any previous debts or liabilities, exceed the sum of three hundred thousand dollars ($300,000), except in case of war to repel invasion or suppress insurrection, unless the same shall be authorized by law for some single object or work to be distinctly specified therein which law shall provide ways and means, exclusive of loans, for the payment of the interest of such debt or liability as it falls due, and also to pay and discharge the principal of such debt or liability within 50 years of the time of
+ the contracting thereof, and shall be irrepealable until the principal and interest thereon shall be paid and discharged, and such law may make provision for a sinking fund to pay the principal of such debt or liability to commence at a time after the incurring of such debt or liability of not more than a period of one-fourth of the time of maturity of such debt or liability; but no such law shall take effect unless it has been passed by a two-thirds vote of all the members elected to each house of the Legislature and until, at a general election or at a direct primary, it shall have been submitted to the people and shall have received a majority of all the votes cast for and against it at such election; and all moneys raised by authority of such law shall be applied only to the specific object therein stated or to the payment of the debt thereby created. Full publicity as to matters to be voted upon by the people is afforded by the setting out of the complete text of the proposed laws, together with the
+ arguments for and against them, in the ballot pamphlet mailed to each elector preceding the election at which they are submitted, and the only requirement for publication of such law shall be that it be set out at length in ballot pamphlets which the Secretary of State shall cause to be printed. The Legislature may, at any time after the approval of such law by the people, reduce the amount of the indebtedness authorized by the law to an amount not less than the amount contracted at the time of the reduction, or it may repeal the law if no debt shall have been contracted in pursuance thereof.
 
-Notwithstanding any other provision of this Constitution, Members of the Legislature who are required to meet with the State Allocation Board shall have equal rights and duties with the nonlegislative members to vote and act upon matters pending or coming before such board for the allocation and apportionment of funds to school districts for
-school construction purposes or purposes related thereto.
+Notwithstanding any other provision of this Constitution, Members of the Legislature who are required to meet with the State Allocation Board shall have equal rights and duties with the nonlegislative members to vote and act upon matters pending or coming before such board for the allocation and apportionment of funds to school districts for school construction purposes or
+ purposes related thereto.
 
 Notwithstanding any other provision of this constitution, or of any bond act to the contrary, if any general obligation bonds of the State heretofore or hereafter authorized by vote of the people have been offered for sale and not sold, the Legislature may raise the maximum rate of interest payable on all general obligation bonds authorized but not sold, whether or not such bonds have been offered for sale, by a statute passed by a two-thirds vote of all members elected to each house thereof.
 
@@ -4188,23 +4422,23 @@ SEC. 1.3.
 
 (a) For the purposes of Section 1, a “single object or work,” for which the Legislature may create a debt or liability in excess of three hundred thousand dollars ($300,000) subject to the requirements set forth in Section 1, includes the funding of an accumulated state budget deficit to the extent, and in the amount, that funding is authorized in a measure submitted to the voters at the March 2, 2004, statewide primary election.
 
-(b) As used in subdivision
-(a), “accumulated state budget deficit” means the aggregate of both of the following, as certified by the Director of Finance:
+(b) As used in subdivision (a), “accumulated state budget deficit”
+ means the aggregate of both of the following, as certified by the Director of Finance:
 
 (1) The estimated negative balance of the Special Fund for Economic Uncertainties arising on or before June 30, 2004, not including the effect of the estimated amount of net proceeds of any bonds issued or to be issued pursuant to the California Fiscal Recovery Financing Act (Title 17 (commencing with Section 99000) of the Government Code) and any bonds issued or to be issued pursuant to the measure submitted to the voters at the March 2, 2004, statewide primary election as described in subdivision (a).
 
 (2) Other General Fund obligations incurred by the State prior to June 30, 2004, to the extent not included in that negative balance.
 
-(c) Subsequent to the issuance of any state bonds
-described in subdivision (a), the State may not obtain moneys to fund a year-end state budget deficit, as may be defined by statute, pursuant to any of the following: (1) indebtedness incurred pursuant to Section 1 of this article, (2) a debt obligation under which funds to repay that obligation are derived solely from a designated source of revenue, or (3) a bond or similar instrument for the borrowing of moneys for which there is no legal obligation of repayment. This subdivision does not apply to funding obtained through a short-term obligation incurred in anticipation of the receipt of tax proceeds or other revenues that may be applied to the payment of that obligation, for the purposes and not exceeding the amounts of existing appropriations to which the resulting proceeds are to be applied. For purposes of this subdivision, “year-end state budget deficit” does not include an obligation within the accumulated state budget deficit as defined by subdivision (b).
+(c) Subsequent to the issuance of any state bonds described in subdivision (a), the State may not
+ obtain moneys to fund a year-end state budget deficit, as may be defined by statute, pursuant to any of the following: (1) indebtedness incurred pursuant to Section 1 of this article, (2) a debt obligation under which funds to repay that obligation are derived solely from a designated source of revenue, or (3) a bond or similar instrument for the borrowing of moneys for which there is no legal obligation of repayment. This subdivision does not apply to funding obtained through a short-term obligation incurred in anticipation of the receipt of tax proceeds or other revenues that may be applied to the payment of that obligation, for the purposes and not exceeding the amounts of existing appropriations to which the resulting proceeds are to be applied. For purposes of this subdivision, “year-end state budget deficit” does not include an obligation within the accumulated state budget deficit as defined by subdivision (b).
 
 (History: Sec. 1.3 added March 2, 2004, by Prop. 58. Res.Ch. 1, 2003-04 5th Ex. Sess.)
 -------------------------------------------
 
 SEC. 1.5.
 
-The Legislature may create and establish a “General Obligation Bond Proceeds Fund” in the State Treasury, and may provide for the proceeds of the sale of general obligation bonds of the State heretofore or hereafter issued, including any sums paid as accrued interest thereon, under any or all acts authorizing the issuance of such bonds, to be paid into or transferred to, as the case may be, the “General Obligation Bond Proceeds Fund.” Accounts shall be maintained in the “General Obligation Bond Proceeds Fund” of all moneys deposited in the State Treasury to the credit of that fund and the proceeds of
-each bond issue shall be maintained as a separate and distinct account and shall be paid out only in accordance with the law authorizing the issuance of the particular bonds from which the proceeds were derived. The Legislature may abolish, subject to the conditions of this section, any fund in the State Treasury heretofore or hereafter created by any act for the purpose of having deposited therein the proceeds from the issuance of bonds if such proceeds are transferred to or paid into the “General Obligation Bond Proceeds Fund” pursuant to the authority granted in this section; provided, however, that nothing in this section shall prevent the Legislature from re-establishing any bond proceeds fund so abolished and transferring back to its credit all proceeds in the “General Obligation Bond Proceeds Fund” which constitute the proceeds of the particular bond fund being re-established.
+The Legislature may create and establish a “General Obligation Bond Proceeds Fund” in the State Treasury, and may provide for the proceeds of the sale of general obligation bonds of the State heretofore or hereafter issued, including any sums paid as accrued interest thereon, under any or all acts authorizing the issuance of such bonds, to be paid into or transferred to, as the case may be, the “General Obligation Bond Proceeds Fund.” Accounts shall be maintained in the “General Obligation Bond Proceeds Fund” of all moneys deposited in the State Treasury to the credit of that fund and the proceeds of each bond issue shall be maintained as a
+ separate and distinct account and shall be paid out only in accordance with the law authorizing the issuance of the particular bonds from which the proceeds were derived. The Legislature may abolish, subject to the conditions of this section, any fund in the State Treasury heretofore or hereafter created by any act for the purpose of having deposited therein the proceeds from the issuance of bonds if such proceeds are transferred to or paid into the “General Obligation Bond Proceeds Fund” pursuant to the authority granted in this section; provided, however, that nothing in this section shall prevent the Legislature from re-establishing any bond proceeds fund so abolished and transferring back to its credit all proceeds in the “General Obligation Bond Proceeds Fund” which constitute the proceeds of the particular bond fund being re-established.
 
 (History: Sec. 1.5 added Nov. 6, 1962, by Prop. 9. Res.Ch. 223, 1961.)
 -------------------------------------------
@@ -4215,7 +4449,8 @@ SEC. 2.
 
 Each measure providing for the preparation, issuance and sale of bonds of the State of California shall hereafter be submitted to the electors in the form of a bond act or statute.
 
-(b) The provisions of this Constitution enumerated in subdivision (c) of this section are repealed and such provisions are continued as statutes which have been approved, adopted, legalized, ratified, validated, and made fully and completely effective, by means of the adoption by the electorate of a ratifying constitutional amendment, except that the Legislature, in addition to whatever powers it possessed under such provisions, may amend or repeal such provisions when the bonds issued thereunder have been fully retired and when no rights thereunder will be damaged.
+(b) The provisions of this
+ Constitution enumerated in subdivision (c) of this section are repealed and such provisions are continued as statutes which have been approved, adopted, legalized, ratified, validated, and made fully and completely effective, by means of the adoption by the electorate of a ratifying constitutional amendment, except that the Legislature, in addition to whatever powers it possessed under such provisions, may amend or repeal such provisions when the bonds issued thereunder have been fully retired and when no rights thereunder will be damaged.
 
 (c) The enumerated provisions of this Constitution are: Article XVI, Sections 2, 3, 4, 412, 5, 6, 8, 812, 15, 16, 16.5, 17, 18, 19, 19.5, 20 and 21.
 
@@ -4226,21 +4461,21 @@ SEC. 3.
 
 No money shall ever be appropriated or drawn from the State Treasury for the purpose or benefit of any corporation, association, asylum, hospital, or any other institution not under the exclusive management and control of the State as a state institution, nor shall any grant or donation of property ever be made thereto by the State, except that notwithstanding anything contained in this or any other section of the Constitution:
 
-(1) Whenever federal funds are made available for the construction of hospital facilities by public agencies and
-nonprofit corporations organized to construct and maintain such facilities, nothing in this Constitution shall prevent the Legislature from making state money available for that purpose, or from authorizing the use of such money for the construction of hospital facilities by nonprofit corporations organized to construct and maintain such facilities.
+(1) Whenever federal funds are made available for the construction of hospital facilities by public agencies and nonprofit corporations organized to
+ construct and maintain such facilities, nothing in this Constitution shall prevent the Legislature from making state money available for that purpose, or from authorizing the use of such money for the construction of hospital facilities by nonprofit corporations organized to construct and maintain such facilities.
 
 (2) The Legislature shall have the power to grant aid to the institutions conducted for the support and maintenance of minor orphans, or half-orphans, or abandoned children, or children of a father who is incapacitated for gainful work by permanent physical disability or is suffering from tuberculosis in such a stage that he cannot pursue a gainful occupation, or aged persons in indigent circumstances—such aid to be granted by a uniform rule, and proportioned to the number of inmates of such respective institutions.
 
-(3) The Legislature
-shall have the power to grant aid to needy blind persons not inmates of any institution supported in whole or in part by the State or by any of its political subdivisions, and no person concerned with the administration of aid to needy blind persons shall dictate how any applicant or recipient shall expend such aid granted him, and all money paid to a recipient of such aid shall be intended to help him meet his individual needs and is not for the benefit of any other person, and such aid when granted shall not be construed as income to any person other than the blind recipient of such aid, and the State Department of Social Welfare shall take all necessary action to enforce the provisions relating to aid to needy blind persons as heretofore stated.
+(3) The Legislature shall have the power to grant aid
+ to needy blind persons not inmates of any institution supported in whole or in part by the State or by any of its political subdivisions, and no person concerned with the administration of aid to needy blind persons shall dictate how any applicant or recipient shall expend such aid granted him, and all money paid to a recipient of such aid shall be intended to help him meet his individual needs and is not for the benefit of any other person, and such aid when granted shall not be construed as income to any person other than the blind recipient of such aid, and the State Department of Social Welfare shall take all necessary action to enforce the provisions relating to aid to needy blind persons as heretofore stated.
 
-(4) The Legislature shall have power to grant aid to needy physically handicapped persons not inmates of any institution under the supervision of the Department of Mental Hygiene and supported in
-whole or in part by the State or by any institution supported in whole or part by any political subdivision of the State.
+(4) The Legislature shall have power to grant aid to needy physically handicapped persons not inmates of any institution under the supervision of the Department of Mental Hygiene and supported in whole or in part by the State or by
+ any institution supported in whole or part by any political subdivision of the State.
 
 (5) The State shall have at any time the right to inquire into the management of such institutions.
 
-(6) Whenever any county, or city and county, or city, or town, shall provide for the support of minor orphans, or half-orphans, or abandoned children, or children of a father who is incapacitated for gainful work by permanent physical disability or is suffering from tuberculosis in such a stage that he cannot pursue a gainful occupation, or aged persons in indigent circumstances, or needy blind persons not inmates of any institution supported in whole or in part by the State or by any of its political subdivisions, or needy physically handicapped persons not inmates of any institution under the supervision of the Department of Mental Hygiene and supported in
-whole or in part by the State or by any institution supported in whole or part by any political subdivision of the State; such county, city and county, city, or town shall be entitled to receive the same pro rata appropriations as may be granted to such institutions under church, or other control.
+(6) Whenever any county, or city and county, or city, or town, shall provide for the support of minor orphans, or half-orphans, or abandoned children, or children of a father who is incapacitated for gainful work by permanent physical disability or is suffering from tuberculosis in such a stage that he cannot pursue a gainful occupation, or aged persons in indigent circumstances, or needy blind persons not inmates of any institution supported in whole or in part by the State or by any of its political subdivisions, or needy physically handicapped persons not inmates of any institution under the supervision of the Department of Mental Hygiene and supported in whole or in part by the State or by any
+ institution supported in whole or part by any political subdivision of the State; such county, city and county, city, or town shall be entitled to receive the same pro rata appropriations as may be granted to such institutions under church, or other control.
 
 An accurate statement of the receipts and expenditures of public moneys shall be attached to and published with the laws at every regular session of the Legislature.
 
@@ -4250,7 +4485,7 @@ An accurate statement of the receipts and expenditures of public moneys shall be
 SEC. 3.5.
 
 (a) No statute amending or adding to the provisions of the Medi-Cal Hospital Reimbursement Improvement Act of 2013 shall become effective unless approved by the electors in the same manner as statutes amending initiative statutes pursuant to subdivision (c) of Section 10 of Article II, except that the Legislature may, by statute passed in each house by roll call vote entered into
-the journal, two-thirds of the membership concurring, amend or add provisions that further the purposes of the act.
+ the journal, two-thirds of the membership concurring, amend or add provisions that further the purposes of the act.
 
 (b) For purposes of this section:
 
@@ -4261,7 +4496,7 @@ the journal, two-thirds of the membership concurring, amend or add provisions th
 (3) “Provisions that further the purposes of the act” shall only mean:
 
 (A) Amendments or additions necessary to obtain or maintain federal approval of the implementation of the
-act, including the fee imposed and related quality assurance payments to hospitals made pursuant to the act;
+ act, including the fee imposed and related quality assurance payments to hospitals made pursuant to the act;
 
 (B) Amendments or additions to the methodology used for the development of the fee and quality assurance payments to hospitals made pursuant to the act.
 
@@ -4270,7 +4505,7 @@ act, including the fee imposed and related quality assurance payments to hospita
 (1) A provision that furthers the purposes of the act as defined herein;
 
 (2) Is approved by the electors
-in the same manner as statutes amending initiative statutes pursuant to subdivision (c) of Section 10 of Article II.
+ in the same manner as statutes amending initiative statutes pursuant to subdivision (c) of Section 10 of Article II.
 
 (d) The proceeds of the fee imposed by the act and all interest earned on such proceeds shall not be considered revenues, General Fund revenues, General Fund proceeds of taxes, or allocated local proceeds of taxes, for purposes of Sections 8 and 8.5 of this article or for the purposes of Article XIIIB. The appropriation of the proceeds in the trust fund referred to in the act for hospital services to Medi-Cal beneficiaries or other beneficiaries in any other similar federal program shall not be subject to the prohibitions or restrictions in Sections 3 or 5 of this article.
 
@@ -4281,35 +4516,36 @@ SEC. 4.
 
 The Legislature shall have the power to insure or guarantee loans made by private or public lenders to nonprofit corporations and public agencies, the proceeds of which are to be used for the construction, expansion, enlargement, improvement, renovation or repair of any public or nonprofit hospital, hospital facility, or extended care facility, facility for the treatment of mental illness, or all of them, including any outpatient facility and any other facility useful and convenient in the operation of the hospital and any original equipment for any such hospital or facility, or both.
 
-No provision of this Constitution, including but not limited to, Section 1 of Article XVI and Section 14 of Article XI, shall be construed as a limitation upon the authority granted to the Legislature by this section.
+No provision of
+ this Constitution, including but not limited to, Section 1 of Article XVI and Section 14 of Article XI, shall be construed as a limitation upon the authority granted to the Legislature by this section.
 
 (History: Sec. 4 added Nov. 5, 1974, by Prop. 8. Res.Ch. 70, 1974.)
 -------------------------------------------
 
 SEC. 5.
 
-Neither the Legislature, nor any county, city and county, township, school district, or other municipal corporation, shall ever make an appropriation, or pay from any public fund whatever, or grant anything to or in aid of any religious sect, church, creed, or sectarian purpose, or help to support or sustain any school, college, university, hospital, or other institution controlled by any religious creed, church, or sectarian denomination whatever; nor shall any grant or donation of personal property or real estate ever be made by the State, or any city, city and county, town, or other municipal
-corporation for any religious creed, church, or sectarian purpose whatever; provided, that nothing in this section shall prevent the Legislature granting aid pursuant to Section 3 of Article XVI.
+Neither the Legislature, nor any county, city and county, township, school district, or other municipal corporation, shall ever make an appropriation, or pay from any public fund whatever, or grant anything to or in aid of any religious sect, church, creed, or sectarian purpose, or help to support or sustain any school, college, university, hospital, or other institution controlled by any religious creed, church, or sectarian denomination whatever; nor shall any grant or donation of personal property or real estate ever be made by the State, or any city, city and county, town, or other municipal corporation for any religious creed, church, or
+ sectarian purpose whatever; provided, that nothing in this section shall prevent the Legislature granting aid pursuant to Section 3 of Article XVI.
 
 (History: Sec. 5 added Nov. 5, 1974, by Prop. 8. Res.Ch. 70, 1974.)
 -------------------------------------------
 
 SEC. 6.
 
-The Legislature shall have no power to give or to lend, or to authorize the giving or lending, of the credit of the State, or of any county, city and county, city, township or other political corporation or subdivision of the State now existing, or that may be hereafter established, in aid of or to any person, association, or corporation, whether municipal or otherwise, or to pledge the credit thereof, in any manner whatever, for the payment of the liabilities of any individual, association, municipal or other corporation whatever; nor shall it have power to make any gift or authorize the making of any
-gift, of any public money or thing of value to any individual, municipal or other corporation whatever; provided, that nothing in this section shall prevent the Legislature granting aid pursuant to Section 3 of Article XVI; and it shall not have power to authorize the State, or any political subdivision thereof, to subscribe for stock, or to become a stockholder in any corporation whatever; provided, further, that irrigation districts for the purpose of acquiring the control of any entire international water system necessary for its use and purposes, a part of which is situated in the United States, and a part thereof in a foreign country, may in the manner authorized by law, acquire the stock of any foreign corporation which is the owner of, or which holds the title to the part of such system situated in a foreign country; provided, further, that irrigation districts for the purpose of acquiring water and water rights and other property necessary for their uses and purposes, may acquire and hold the stock
-of corporations, domestic or foreign, owning waters, water rights, canals, waterworks, franchises or concessions subject to the same obligations and liabilities as are imposed by law upon all other stockholders in such corporation; and
+The Legislature shall have no power to give or to lend, or to authorize the giving or lending, of the credit of the State, or of any county, city and county, city, township or other political corporation or subdivision of the State now existing, or that may be hereafter established, in aid of or to any person, association, or corporation, whether municipal or otherwise, or to pledge the credit thereof, in any manner whatever, for the payment of the liabilities of any individual, association, municipal or other corporation whatever; nor shall it have power to make any gift or authorize the making of any gift, of any public money or thing of
+ value to any individual, municipal or other corporation whatever; provided, that nothing in this section shall prevent the Legislature granting aid pursuant to Section 3 of Article XVI; and it shall not have power to authorize the State, or any political subdivision thereof, to subscribe for stock, or to become a stockholder in any corporation whatever; provided, further, that irrigation districts for the purpose of acquiring the control of any entire international water system necessary for its use and purposes, a part of which is situated in the United States, and a part thereof in a foreign country, may in the manner authorized by law, acquire the stock of any foreign corporation which is the owner of, or which holds the title to the part of such system situated in a foreign country; provided, further, that irrigation districts for the purpose of acquiring water and water rights and other property necessary for their uses and purposes, may acquire and hold the stock of corporations, domestic or foreign,
+ owning waters, water rights, canals, waterworks, franchises or concessions subject to the same obligations and liabilities as are imposed by law upon all other stockholders in such corporation; and
 
 Provided, further, that this section shall not prohibit any county, city and county, city, township, or other political corporation or subdivision of the State from joining with other such agencies in providing for the payment of workers’ compensation, unemployment compensation, tort liability, or public liability losses incurred by such agencies, by entry into an insurance pooling arrangement under a joint exercise of powers agreement, or by membership in such publicly-owned nonprofit corporation or other public agency as may be authorized by the Legislature; and
 
-Provided, further, that nothing contained in this Constitution shall prohibit the use of state money or credit, in aiding veterans
-who served in the military or naval service of the United States during the time of war, in the acquisition of, or payments for, (1) farms or homes, or in projects of land settlement or in the development of such farms or homes or land settlement projects for the benefit of such veterans, or (2) any business, land or any interest therein, buildings, supplies, equipment, machinery, or tools, to be used by the veteran in pursuing a gainful occupation; and
+Provided, further, that nothing contained in this Constitution shall prohibit the use of state money or credit, in aiding veterans who served in the military or naval
+ service of the United States during the time of war, in the acquisition of, or payments for, (1) farms or homes, or in projects of land settlement or in the development of such farms or homes or land settlement projects for the benefit of such veterans, or (2) any business, land or any interest therein, buildings, supplies, equipment, machinery, or tools, to be used by the veteran in pursuing a gainful occupation; and
 
-Provided, further, that nothing contained in this Constitution shall prohibit the State, or any county, city and county, city, township, or other political corporation or subdivision of the State from providing aid or assistance to persons, if found to be in the public interest, for the purpose of clearing debris, natural materials, and wreckage from privately owned lands and waters deposited thereon or therein during a period of a major disaster or emergency, in either case declared by the President. In such case,
-the public entity shall be indemnified by the recipient from the award of any claim against the public entity arising from the rendering of such aid or assistance. Such aid or assistance must be eligible for federal reimbursement for the cost thereof.
+Provided, further, that nothing contained in this Constitution shall prohibit the State, or any county, city and county, city, township, or other political corporation or subdivision of the State from providing aid or assistance to persons, if found to be in the public interest, for the purpose of clearing debris, natural materials, and wreckage from privately owned lands and waters deposited thereon or therein during a period of a major disaster or emergency, in either case declared by the President. In such case, the public entity shall be
+ indemnified by the recipient from the award of any claim against the public entity arising from the rendering of such aid or assistance. Such aid or assistance must be eligible for federal reimbursement for the cost thereof.
 
-And provided, still further, that notwithstanding the restrictions contained in this Constitution, the treasurer of any city, county, or city and county shall have power and the duty to make such temporary transfers from the funds in custody as may be necessary to provide funds for meeting the obligations incurred for maintenance purposes by any city, county, city and county, district, or other political subdivision whose funds are in custody and are paid out solely through the treasurer’s office. Such temporary transfer of funds to any political subdivision shall be made only upon resolution adopted by the governing body of the city, county, or city and county directing the treasurer of such city, county, or city and
-county to make such temporary transfer. Such temporary transfer of funds to any political subdivision shall not exceed 85 percent of the anticipated revenues accruing to such political subdivision, shall not be made prior to the first day of the fiscal year nor after the last Monday in April of the current fiscal year, and shall be replaced from the revenues accruing to such political subdivision before any other obligation of such political subdivision is met from such revenue.
+And provided, still further, that notwithstanding the restrictions contained in this Constitution, the treasurer of any city, county, or city and county shall have power and the duty to make such temporary transfers from the funds in custody as may be necessary to provide funds for meeting the obligations incurred for maintenance purposes by any city, county, city and county, district, or other political subdivision whose funds are in custody and are paid out solely through the treasurer’s office. Such temporary transfer of funds to any political subdivision shall be made only upon resolution adopted by the governing body of the city, county, or city and county directing the treasurer of such city, county, or city and county to make such
+ temporary transfer. Such temporary transfer of funds to any political subdivision shall not exceed 85 percent of the anticipated revenues accruing to such political subdivision, shall not be made prior to the first day of the fiscal year nor after the last Monday in April of the current fiscal year, and shall be replaced from the revenues accruing to such political subdivision before any other obligation of such political subdivision is met from such revenue.
 
 (History: Sec. 6 amended Nov. 2, 1982, by Prop. 8. Res.Ch. 60, 1982.)
 -------------------------------------------
@@ -4327,49 +4563,49 @@ SEC. 8.
 
 (b) Commencing with the 1990–91 fiscal year, the moneys to be applied by the State for the support of school districts and community college districts shall be not less than the greater of the following amounts:
 
-(1) The amount
-which, as a percentage of General Fund revenues which may be appropriated pursuant to Article XIIIB, equals the percentage of General Fund revenues appropriated for school districts and community college districts, respectively, in fiscal year 1986–87.
+(1) The amount which, as a percentage of General Fund
+ revenues which may be appropriated pursuant to Article XIIIB, equals the percentage of General Fund revenues appropriated for school districts and community college districts, respectively, in fiscal year 1986–87.
 
-(2) The amount required to ensure that the total allocations to school districts and community college districts from General Fund proceeds of taxes appropriated pursuant to Article XIIIB and allocated local proceeds of taxes shall not be less than the total amount from these sources in the prior fiscal year, excluding any revenues allocated pursuant to subdivision (a) of Section 8.5, adjusted for changes in enrollment and adjusted for the change in the cost of living pursuant to paragraph (1) of subdivision (e) of Section 8 of Article XIIIB. This paragraph shall be operative only in a fiscal year in which the percentage
-growth in California per capita personal income is less than or equal to the percentage growth in per capita General Fund revenues plus one half of one percent.
+(2) The amount required to ensure that the total allocations to school districts and community college districts from General Fund proceeds of taxes appropriated pursuant to Article XIIIB and allocated local proceeds of taxes shall not be less than the total amount from these sources in the prior fiscal year, excluding any revenues allocated pursuant to subdivision (a) of Section 8.5, adjusted for changes in enrollment and adjusted for the change in the cost of living pursuant to paragraph (1) of subdivision (e) of Section 8 of Article XIIIB. This paragraph shall be operative only in a fiscal year in which the percentage growth in California per capita personal
+ income is less than or equal to the percentage growth in per capita General Fund revenues plus one half of one percent.
 
 (3) (A) The amount required to ensure that the total allocations to school districts and community college districts from General Fund proceeds of taxes appropriated pursuant to Article XIIIB and allocated local proceeds of taxes shall equal the total amount from these sources in the prior fiscal year, excluding any revenues allocated pursuant to subdivision (a) of Section 8.5, adjusted for changes in enrollment and adjusted for the change in per capita General Fund revenues.
 
-(B) In addition, an amount equal to one-half of one percent times the prior year total allocations to school districts and community colleges from General Fund proceeds of taxes appropriated pursuant to
-Article XIIIB and allocated local proceeds of taxes, excluding any revenues allocated pursuant to subdivision (a) of Section 8.5, adjusted for changes in enrollment.
+(B) In addition, an amount equal to one-half of one percent times the prior year total allocations to school districts and community colleges from General Fund proceeds of taxes appropriated pursuant to Article XIIIB and
+ allocated local proceeds of taxes, excluding any revenues allocated pursuant to subdivision (a) of Section 8.5, adjusted for changes in enrollment.
 
 (C) This paragraph (3) shall be operative only in a fiscal year in which the percentage growth in California per capita personal income in a fiscal year is greater than the percentage growth in per capita General Fund revenues plus one half of one percent.
 
-(c) In any fiscal year, if the amount computed pursuant to paragraph (1) of subdivision (b) exceeds the amount computed pursuant to paragraph (2) of subdivision (b) by a difference that exceeds one and one-half percent of General Fund revenues, the amount in excess of one and one-half percent of General Fund revenues shall not be considered allocations to school districts and community colleges for purposes of computing the amount of state
-aid pursuant to paragraph (2) or 3 of subdivision (b) in the subsequent fiscal year.
+(c) In any fiscal year, if the amount computed pursuant to paragraph (1) of subdivision (b) exceeds the amount computed pursuant to paragraph (2) of subdivision (b) by a difference that exceeds one and one-half percent of General Fund revenues, the amount in excess of one and one-half percent of General Fund revenues shall not be considered allocations to school districts and community colleges for purposes of computing the amount of state aid pursuant to paragraph (2) or 3 of
+ subdivision (b) in the subsequent fiscal year.
 
 (d) In any fiscal year in which school districts and community college districts are allocated funding pursuant to paragraph (3) of subdivision (b) or pursuant to subdivision (h), they shall be entitled to a maintenance factor, equal to the difference between (1) the amount of General Fund moneys which would have been appropriated pursuant to paragraph (2) of subdivision (b) if that paragraph had been operative or the amount of General Fund moneys which would have been appropriated pursuant to subdivision (b) had subdivision (b) not been suspended, and (2) the amount of General Fund moneys actually appropriated to school districts and community college districts in that fiscal year.
 
-(e) The maintenance factor for school districts and community college districts determined pursuant to subdivision
-(d) shall be adjusted annually for changes in enrollment, and adjusted for the change in the cost of living pursuant to paragraph (1) of subdivision (e) of Section 8 of Article XIIIB, until it has been allocated in full. The maintenance factor shall be allocated in a manner determined by the Legislature in each fiscal year in which the percentage growth in per capita General Fund revenues exceeds the percentage growth in California per capita personal income. The maintenance factor shall be reduced each year by the amount allocated by the Legislature in that fiscal year. The minimum maintenance factor amount to be allocated in a fiscal year shall be equal to the product of General Fund revenues from proceeds of taxes and one-half of the difference between the percentage growth in per capita General Fund revenues from proceeds of taxes and in California per capita personal income, not to exceed the total dollar amount of the maintenance factor.
+(e) The maintenance factor for school districts and community college districts determined pursuant to subdivision (d) shall be adjusted annually for
+ changes in enrollment, and adjusted for the change in the cost of living pursuant to paragraph (1) of subdivision (e) of Section 8 of Article XIIIB, until it has been allocated in full. The maintenance factor shall be allocated in a manner determined by the Legislature in each fiscal year in which the percentage growth in per capita General Fund revenues exceeds the percentage growth in California per capita personal income. The maintenance factor shall be reduced each year by the amount allocated by the Legislature in that fiscal year. The minimum maintenance factor amount to be allocated in a fiscal year shall be equal to the product of General Fund revenues from proceeds of taxes and one-half of the difference between the percentage growth in per capita General Fund revenues from proceeds of taxes and in California per capita personal income, not to exceed the total dollar amount of the maintenance factor.
 
-(f) For purposes of this section, “changes in enrollment” shall be measured by the percentage change in average daily attendance. However, in any fiscal year, there shall be no adjustment for decreases in enrollment between the prior fiscal year and the current fiscal year unless there have been decreases in enrollment between the second prior fiscal year and the prior fiscal year and between the third prior fiscal year and the second prior fiscal year.
+(f) For
+ purposes of this section, “changes in enrollment” shall be measured by the percentage change in average daily attendance. However, in any fiscal year, there shall be no adjustment for decreases in enrollment between the prior fiscal year and the current fiscal year unless there have been decreases in enrollment between the second prior fiscal year and the prior fiscal year and between the third prior fiscal year and the second prior fiscal year.
 
-(h) Subparagraph (B) of paragraph (3) of subdivision (b) may be suspended for one year only when made part of or included within any bill enacted pursuant to Section 12 of Article IV. All other provisions of subdivision (b) may be suspended for one year by the enactment of an urgency statute pursuant to Section 8 of Article IV, provided that the urgency statute may not be made part of or included within any bill enacted pursuant to
-Section 12 of Article IV.
+(h) Subparagraph (B) of paragraph (3) of subdivision (b) may be suspended for one year only when made part of or included within any bill enacted pursuant to Section 12 of Article IV. All other provisions of subdivision (b) may be suspended for one year by the enactment of an urgency statute pursuant to Section 8 of Article IV, provided that the urgency statute may not be made part of or included within any bill enacted pursuant to Section 12 of Article IV.
 
 (History: Sec. 8 amended June 5, 1990, by Prop. 111. Res.Ch. 66, 1989.   Effective July 1, 1990.)
 -------------------------------------------
 
 SEC. 8.5.
 
-(a) In addition to the amount required to be applied for the support of school districts and community college districts pursuant to Section 8, the Controller shall during each fiscal year transfer and allocate all revenues available pursuant to paragraph 1 of subdivision (a) of Section 2 of Article XIIIB to that portion of the State School Fund restricted for elementary and high school purposes, and to that portion of the State School Fund restricted for community college purposes, respectively, in proportion
-to the enrollment in school districts and community college districts respectively.
+(a) In addition to the amount required to be applied for the support of school districts and community college districts pursuant to Section 8, the Controller shall during each fiscal year transfer and allocate all revenues available pursuant to paragraph 1 of subdivision (a) of Section 2 of Article XIIIB to that portion of the State School Fund restricted for elementary and high school purposes, and to that portion of the State School Fund restricted for community college purposes, respectively, in proportion to the enrollment in school districts and
+ community college districts respectively.
 
 (1) With respect to funds allocated to that portion of the State School Fund restricted for elementary and high school purposes, no transfer or allocation of funds pursuant to this section shall be required at any time that the Director of Finance and the Superintendent of Public Instruction mutually determine that current annual expenditures per student equal or exceed the average annual expenditure per student of the 10 states with the highest annual expenditures per student for elementary and high schools, and that average class size equals or is less than the average class size of the 10 states with the lowest class size for elementary and high schools.
 
-(2) With respect to funds allocated to that portion of the State School Fund restricted for community college purposes, no transfer or
-allocation of funds pursuant to this section shall be required at any time that the Director of Finance and the Chancellor of the California Community Colleges mutually determine that current annual expenditures per student for community colleges in this State equal or exceed the average annual expenditure per student of the 10 states with the highest annual expenditures per student for community colleges.
+(2) With respect to funds allocated to that portion of the State School Fund restricted for community college purposes, no transfer or allocation of funds pursuant to this section shall
+ be required at any time that the Director of Finance and the Chancellor of the California Community Colleges mutually determine that current annual expenditures per student for community colleges in this State equal or exceed the average annual expenditure per student of the 10 states with the highest annual expenditures per student for community colleges.
 
 (b) Notwithstanding the provisions of Article XIIIB, funds allocated pursuant to this section shall not constitute appropriations subject to limitation.
 
-(c) From any funds transferred to the State School Fund pursuant to subdivision (a), the Controller shall each year allocate to each school district and community college district an equal amount per enrollment in school districts from the amount in that portion of the State School Fund restricted for
-elementary and high school purposes and an equal amount per enrollment in community college districts from that portion of the State School Fund restricted for community college purposes.
+(c) From any funds transferred to the State School Fund pursuant to subdivision (a), the Controller shall each year allocate to each school district and community college district an equal amount per enrollment in school districts from the amount in that portion of the State School Fund restricted for elementary and high school purposes and an equal
+ amount per enrollment in community college districts from that portion of the State School Fund restricted for community college purposes.
 
 (d) All revenues allocated pursuant to subdivision (a) shall be expended solely for the purposes of instructional improvement and accountability as required by law.
 
@@ -4389,16 +4625,16 @@ SEC. 10.
 
 Whenever the United States government or any officer or agency thereof shall provide pensions or other aid for the aged, co-operation by the State therewith and therein is hereby authorized in such manner and to such extent as may be provided by law.
 
-The money expended by any county, city and county, municipality, district or other political subdivision of this State made available under the provisions of this section shall not be considered as a part of the base for determining the maximum expenditure for any given year permissible under Section 20 of
-Article XI of this Constitution independent of the vote of the electors or authorization by the State Board of Equalization.
+The money expended by any county, city and county, municipality, district or other political subdivision of this State made available under the provisions of this section shall not be considered as a part of the base for determining the maximum expenditure for any given year permissible under Section 20 of Article XI of this Constitution independent of
+ the vote of the electors or authorization by the State Board of Equalization.
 
 (History: Sec. 10 amended Nov. 6, 1962, by Prop. 16. Res.Ch. 255, 1961.)
 -------------------------------------------
 
 SEC. 11.
 
-The Legislature has plenary power to provide for the administration of any constitutional provisions or laws heretofore or hereafter enacted concerning the administration of relief, and to that end may modify, transfer, or enlarge the powers vested in any state agency or officer concerned with the administration of relief or laws appertaining thereto. The Legislature, or the people by initiative, shall have power to amend, alter, or repeal any law relating to the relief of hardship and destitution, whether such hardship and destitution results from unemployment or from other causes, or to provide for
-the administration of the relief of hardship and destitution, whether resulting from unemployment or from other causes, either directly by the State or through the counties of the State, and to grant such aid to the counties therefor, or make such provision for reimbursement of the counties by the State, as the Legislature deems proper.
+The Legislature has plenary power to provide for the administration of any constitutional provisions or laws heretofore or hereafter enacted concerning the administration of relief, and to that end may modify, transfer, or enlarge the powers vested in any state agency or officer concerned with the administration of relief or laws appertaining thereto. The Legislature, or the people by initiative, shall have power to amend, alter, or repeal any law relating to the relief of hardship and destitution, whether such hardship and destitution results from unemployment or from other causes, or to provide for the administration of the relief of
+ hardship and destitution, whether resulting from unemployment or from other causes, either directly by the State or through the counties of the State, and to grant such aid to the counties therefor, or make such provision for reimbursement of the counties by the State, as the Legislature deems proper.
 
 (History: Sec. 11 amended Nov. 6, 1962, by Prop. 16. Res.Ch. 255, 1961.)
 -------------------------------------------
@@ -4412,16 +4648,16 @@ Notwithstanding any other provision of this Constitution, the Legislature shall 
 
 SEC. 14.
 
-The Legislature may provide for the issuance of revenue bonds to finance the acquisition, construction, and installation of environmental pollution control facilities, including the acquisition of all technological facilities necessary or convenient for pollution control, and for the lease or sale of such facilities to persons, associations, or corporations, other than municipal corporations; provided, that such revenue bonds shall not be secured by the taxing power of the State; and provided, further, that the Legislature may, by resolution adopted by either house, prohibit or limit any proposed
-issuance of such revenue bonds. No provision of this Constitution, including, but not limited to, Section 25 of Article XIII and Sections 1 and 2 of Article XVI, shall be construed as a limitation upon the authority granted to the Legislature pursuant to this section. Nothing herein contained shall authorize any public agency to operate any industrial or commercial enterprise.
+The Legislature may provide for the issuance of revenue bonds to finance the acquisition, construction, and installation of environmental pollution control facilities, including the acquisition of all technological facilities necessary or convenient for pollution control, and for the lease or sale of such facilities to persons, associations, or corporations, other than municipal corporations; provided, that such revenue bonds shall not be secured by the taxing power of the State; and provided, further, that the Legislature may, by resolution adopted by either house, prohibit or limit any proposed issuance of such revenue bonds. No provision of
+ this Constitution, including, but not limited to, Section 25 of Article XIII and Sections 1 and 2 of Article XVI, shall be construed as a limitation upon the authority granted to the Legislature pursuant to this section. Nothing herein contained shall authorize any public agency to operate any industrial or commercial enterprise.
 
 (History: Sec. 14 added Nov. 7, 1972, by Prop. 3. Res.Ch. 91, 1972.)
 -------------------------------------------
 
 SEC. 14.5.
 
-The Legislature may provide for the issuance of revenue bonds to finance the acquisition, construction, and installation of facilities utilizing cogeneration technology, solar power, biomass, or any other alternative source the Legislature may deem appropriate, including the acquisition of all technological facilities necessary or convenient for the use of alternative sources, and for the lease or sale of such facilities to persons, associations, or corporations, other than municipal corporations; provided, that such revenue bonds shall not be secured by the taxing power of the State; and provided,
-further, that the Legislature may, by resolution adopted by both houses, prohibit or limit any proposed issuance of such revenue bonds. No provision of this Constitution, including, but not limited to, Sections 1, 2, and 6, of this article, shall be construed as a limitation upon the authority granted to the Legislature pursuant to this section. Nothing contained herein shall authorize any public agency to operate any industrial or commercial enterprise.
+The Legislature may provide for the issuance of revenue bonds to finance the acquisition, construction, and installation of facilities utilizing cogeneration technology, solar power, biomass, or any other alternative source the Legislature may deem appropriate, including the acquisition of all technological facilities necessary or convenient for the use of alternative sources, and for the lease or sale of such facilities to persons, associations, or corporations, other than municipal corporations; provided, that such revenue bonds shall not be secured by the taxing power of the State; and provided, further, that the Legislature may, by
+ resolution adopted by both houses, prohibit or limit any proposed issuance of such revenue bonds. No provision of this Constitution, including, but not limited to, Sections 1, 2, and 6, of this article, shall be construed as a limitation upon the authority granted to the Legislature pursuant to this section. Nothing contained herein shall authorize any public agency to operate any industrial or commercial enterprise.
 
 (History: Sec. 14.5 added June 3, 1980, by Prop. 8. Res.Ch. 1, 1980.)
 -------------------------------------------
@@ -4437,22 +4673,22 @@ SEC. 16.
 
 All property in a redevelopment project established under the Community Redevelopment Law as now existing or hereafter amended, except publicly owned property not subject to taxation by reason of that ownership, shall be taxed in proportion to its value as provided in Section 1 of this article, and those taxes (the word “taxes” as used herein includes, but is not limited to, all levies on an ad valorem basis upon land or real property) shall be levied and collected as other taxes are levied and collected by the respective taxing agencies.
 
-The Legislature may
-provide that any redevelopment plan may contain a provision that the taxes, if any, so levied upon the taxable property in a redevelopment project each year by or for the benefit of the State of California, any city, county, city and county, district, or other public corporation (hereinafter sometimes called “taxing agencies”) after the effective date of the ordinance approving the redevelopment plan, shall be divided as follows:
+The Legislature may provide that any redevelopment plan may
+ contain a provision that the taxes, if any, so levied upon the taxable property in a redevelopment project each year by or for the benefit of the State of California, any city, county, city and county, district, or other public corporation (hereinafter sometimes called “taxing agencies”) after the effective date of the ordinance approving the redevelopment plan, shall be divided as follows:
 
-(a) That portion of the taxes which would be produced by the rate upon which the tax is levied each year by or for each of those taxing agencies upon the total sum of the assessed value of the taxable property in the redevelopment project as shown upon the assessment roll used in connection with the taxation of that property by the taxing agency, last equalized prior to the effective date of the ordinance, shall be allocated to, and when collected shall be paid into, the funds of the respective taxing agencies as taxes
-by or for those taxing agencies on all other property are paid (for the purpose of allocating taxes levied by or for any taxing agency or agencies which did not include the territory in a redevelopment project on the effective date of the ordinance but to which that territory has been annexed or otherwise included after the ordinance’s effective date, the assessment roll of the county last equalized on the effective date of that ordinance shall be used in determining the assessed valuation of the taxable property in the project on that effective date); and
+(a) That portion of the taxes which would be produced by the rate upon which the tax is levied each year by or for each of those taxing agencies upon the total sum of the assessed value of the taxable property in the redevelopment project as shown upon the assessment roll used in connection with the taxation of that property by the taxing agency, last equalized prior to the effective date of the ordinance, shall be allocated to, and when collected shall be paid into, the funds of the respective taxing agencies as taxes by or for those taxing agencies on all
+ other property are paid (for the purpose of allocating taxes levied by or for any taxing agency or agencies which did not include the territory in a redevelopment project on the effective date of the ordinance but to which that territory has been annexed or otherwise included after the ordinance’s effective date, the assessment roll of the county last equalized on the effective date of that ordinance shall be used in determining the assessed valuation of the taxable property in the project on that effective date); and
 
-(b) Except as provided in subdivision (c), that portion of the levied taxes each year in excess of that amount shall be allocated to and when collected shall be paid into a special fund of the redevelopment agency to pay the principal of and interest on loans, moneys advanced to, or indebtedness (whether funded, refunded, assumed or otherwise) incurred by the redevelopment agency to finance
-or refinance, in whole or in part, the redevelopment project. Unless and until the total assessed valuation of the taxable property in a redevelopment project exceeds the total assessed value of the taxable property in the project as shown by the last equalized assessment roll referred to in subdivision (a), all of the taxes levied and collected upon the taxable property in the redevelopment project shall be paid into the funds of the respective taxing agencies. When the loans, advances, and indebtedness, if any, and interest thereon, have been paid, then all moneys thereafter received from taxes upon the taxable property in the redevelopment project shall be paid into the funds of the respective taxing agencies as taxes on all other property are paid.
+(b) Except as provided in subdivision (c), that portion of the levied taxes each year in excess of that amount shall be allocated to and when collected shall be paid into a special fund of the redevelopment agency to pay the principal of and interest on loans, moneys advanced to, or indebtedness (whether funded, refunded, assumed or otherwise) incurred by the redevelopment agency to finance or refinance, in whole or in part, the
+ redevelopment project. Unless and until the total assessed valuation of the taxable property in a redevelopment project exceeds the total assessed value of the taxable property in the project as shown by the last equalized assessment roll referred to in subdivision (a), all of the taxes levied and collected upon the taxable property in the redevelopment project shall be paid into the funds of the respective taxing agencies. When the loans, advances, and indebtedness, if any, and interest thereon, have been paid, then all moneys thereafter received from taxes upon the taxable property in the redevelopment project shall be paid into the funds of the respective taxing agencies as taxes on all other property are paid.
 
-(c) That portion of the taxes identified in subdivision (b) which are attributable to a tax rate levied by a taxing agency for the purpose of producing revenues in an amount sufficient to make
-annual repayments of the principal of, and the interest on, any bonded indebtedness for the acquisition or improvement of real property shall be allocated to, and when collected shall be paid into, the fund of that taxing agency. This paragraph shall only apply to taxes levied to repay bonded indebtedness approved by the voters of the taxing agency on or after January 1, 1989.
+(c) That portion of the taxes identified in subdivision (b) which are attributable to a tax rate levied by a taxing agency for the purpose of producing revenues in an amount sufficient to make annual repayments of the principal of,
+ and the interest on, any bonded indebtedness for the acquisition or improvement of real property shall be allocated to, and when collected shall be paid into, the fund of that taxing agency. This paragraph shall only apply to taxes levied to repay bonded indebtedness approved by the voters of the taxing agency on or after January 1, 1989.
 
 The Legislature may also provide that in any redevelopment plan or in the proceedings for the advance of moneys, or making of loans, or the incurring of any indebtedness (whether funded, refunded, assumed, or otherwise) by the redevelopment agency to finance or refinance, in whole or in part, the redevelopment project, the portion of taxes identified in subdivision (b), exclusive of that portion identified in subdivision (c), may be irrevocably pledged for the payment of the principal of and interest on those loans, advances, or indebtedness.
 
-It is
-intended by this section to empower any redevelopment agency, city, county, or city and county under any law authorized by this section to exercise the provisions hereof separately or in combination with powers granted by the same or any other law relative to redevelopment agencies. This section shall not affect any other law or laws relating to the same or a similar subject but is intended to authorize an alternative method of procedure governing the subject to which it refers.
+It is intended by this section to empower any
+ redevelopment agency, city, county, or city and county under any law authorized by this section to exercise the provisions hereof separately or in combination with powers granted by the same or any other law relative to redevelopment agencies. This section shall not affect any other law or laws relating to the same or a similar subject but is intended to authorize an alternative method of procedure governing the subject to which it refers.
 
 The Legislature shall enact those laws as may be necessary to enforce the provisions of this section.
 
@@ -4461,18 +4697,18 @@ The Legislature shall enact those laws as may be necessary to enforce the provis
 
 SEC. 17.
 
-The State shall not in any manner loan its credit, nor shall it subscribe to, or be interested in the stock of any company, association, or corporation, except that the State and each political subdivision, district, municipality, and public agency thereof is hereby authorized to acquire and hold shares of the capital stock of any mutual water company or corporation when the stock is so acquired or held for the purpose of furnishing a supply of water for public, municipal or governmental purposes; and the holding of the
-stock shall entitle the holder thereof to all of the rights, powers and privileges, and shall subject the holder to the obligations and liabilities conferred or imposed by law upon other holders of stock in the mutual water company or corporation in which the stock is so held.
+The State shall not in any manner loan its credit, nor shall it subscribe to, or be interested in the stock of any company, association, or corporation, except that the State and each political subdivision, district, municipality, and public agency thereof is hereby authorized to acquire and hold shares of the capital stock of any mutual water company or corporation when the stock is so acquired or held for the purpose of furnishing a supply of water for public, municipal or governmental purposes; and the holding of the stock shall entitle the holder thereof to all
+ of the rights, powers and privileges, and shall subject the holder to the obligations and liabilities conferred or imposed by law upon other holders of stock in the mutual water company or corporation in which the stock is so held.
 
 Notwithstanding any other provisions of law or this Constitution to the contrary, the retirement board of a public pension or retirement system shall have plenary authority and fiduciary responsibility for investment of moneys and administration of the system, subject to all of the following:
 
-(a) The retirement board of a public pension or retirement system shall have the sole and exclusive fiduciary responsibility over the assets of the public pension or retirement system. The retirement board shall also have sole and exclusive responsibility to administer the system in a manner that will assure prompt delivery of benefits and
-related services to the participants and their beneficiaries. The assets of a public pension or retirement system are trust funds and shall be held for the exclusive purposes of providing benefits to participants in the pension or retirement system and their beneficiaries and defraying reasonable expenses of administering the system.
+(a) The retirement board of a public pension or retirement system shall have the sole and exclusive fiduciary responsibility over the assets of the public pension or retirement system. The retirement board shall also have sole and exclusive responsibility to administer the system in a manner that will assure prompt delivery of benefits and related services to the participants and their
+ beneficiaries. The assets of a public pension or retirement system are trust funds and shall be held for the exclusive purposes of providing benefits to participants in the pension or retirement system and their beneficiaries and defraying reasonable expenses of administering the system.
 
 (b) The members of the retirement board of a public pension or retirement system shall discharge their duties with respect to the system solely in the interest of, and for the exclusive purposes of providing benefits to, participants and their beneficiaries, minimizing employer contributions thereto, and defraying reasonable expenses of administering the system. A retirement board’s duty to its participants and their beneficiaries shall take precedence over any other duty.
 
-(c) The members of the retirement board of a public pension or retirement
-system shall discharge their duties with respect to the system with the care, skill, prudence, and diligence under the circumstances then prevailing that a prudent person acting in a like capacity and familiar with these matters would use in the conduct of an enterprise of a like character and with like aims.
+(c) The members of the retirement board of a public pension or retirement system shall discharge their duties with respect to
+ the system with the care, skill, prudence, and diligence under the circumstances then prevailing that a prudent person acting in a like capacity and familiar with these matters would use in the conduct of an enterprise of a like character and with like aims.
 
 (d) The members of the retirement board of a public pension or retirement system shall diversify the investments of the system so as to minimize the risk of loss and to maximize the rate of return, unless under the circumstances it is clearly not prudent to do so.
 
@@ -4482,32 +4718,33 @@ system shall discharge their duties with respect to the system with the care, sk
 
 (g) The Legislature may by statute continue to prohibit certain investments by a retirement board where it is in the public interest to do so, and provided that the prohibition satisfies the standards of fiduciary care and loyalty required of a retirement board pursuant to this section.
 
-(h) As used in this section, the term “retirement board” shall mean the board of administration, board of trustees, board of directors, or other governing body or board of a public employees’ pension or retirement system; provided, however, that the term “retirement board” shall not be interpreted to mean or include a governing body or board created after July 1, 1991 which does not administer pension or retirement benefits, or the elected legislative body of a jurisdiction which employs participants in a public employees’ pension or retirement system.
+(h) As
+ used in this section, the term “retirement board” shall mean the board of administration, board of trustees, board of directors, or other governing body or board of a public employees’ pension or retirement system; provided, however, that the term “retirement board” shall not be interpreted to mean or include a governing body or board created after July 1, 1991 which does not administer pension or retirement benefits, or the elected legislative body of a jurisdiction which employs participants in a public employees’ pension or retirement system.
 
 (History: Sec. 17 amended Nov. 3, 1992, by Prop. 162. Initiative measure.)
 -------------------------------------------
 
 SEC. 18.
 
-(a) No county, city, town, township, board of education, or school district, shall incur any indebtedness or liability in any manner or for any purpose exceeding in any year the income and revenue provided for such year, without the assent of two-thirds of the voters of the public entity voting at an election to be held for that purpose, except that with respect to any such public entity which is authorized to incur indebtedness for public school purposes, any proposition for the incurrence of
-indebtedness in the form of general obligation bonds for the purpose of repairing, reconstructing or replacing public school buildings determined, in the manner prescribed by law, to be structurally unsafe for school use, shall be adopted upon the approval of a majority of the voters of the public entity voting on the proposition at such election; nor unless before or at the time of incurring such indebtedness provision shall be made for the collection of an annual tax sufficient to pay the interest on such indebtedness as it falls due, and to provide for a sinking fund for the payment of the principal thereof, on or before maturity, which shall not exceed forty years from the time of contracting the indebtedness. 
+(a) No county, city, town, township, board of education, or school district, shall incur any indebtedness or liability in any manner or for any purpose exceeding in any year the income and revenue provided for such year, without the assent of two-thirds of the voters of the public entity voting at an election to be held for that purpose, except that with respect to any such public entity which is authorized to incur indebtedness for public school purposes, any proposition for the incurrence of indebtedness in the form of general obligation
+ bonds for the purpose of repairing, reconstructing or replacing public school buildings determined, in the manner prescribed by law, to be structurally unsafe for school use, shall be adopted upon the approval of a majority of the voters of the public entity voting on the proposition at such election; nor unless before or at the time of incurring such indebtedness provision shall be made for the collection of an annual tax sufficient to pay the interest on such indebtedness as it falls due, and to provide for a sinking fund for the payment of the principal thereof, on or before maturity, which shall not exceed forty years from the time of contracting the indebtedness. 
 
-(b) Notwithstanding subdivision (a), on or after the effective date of the measure adding this subdivision, in the case of any school district, community college district, or county office of education, any proposition for the
-incurrence of indebtedness in the form of general obligation bonds for the construction, reconstruction, rehabilitation, or replacement of school facilities, including the furnishing and equipping of school facilities, or the acquisition or lease of real property for school facilities, shall be adopted upon the approval of 55 percent of the voters of the district or county, as appropriate, voting on the proposition at an election. This subdivision shall apply only to a proposition for the incurrence of indebtedness in the form of general obligation bonds for the purposes specified in this subdivision if the proposition meets all of the accountability requirements of paragraph (3) of subdivision (b) of Section 1 of Article XIIIA. 
+(b) Notwithstanding subdivision (a), on or after the effective date of the measure adding this subdivision, in the case of any school district, community college district, or county office of education, any proposition for the incurrence of indebtedness in the form of general
+ obligation bonds for the construction, reconstruction, rehabilitation, or replacement of school facilities, including the furnishing and equipping of school facilities, or the acquisition or lease of real property for school facilities, shall be adopted upon the approval of 55 percent of the voters of the district or county, as appropriate, voting on the proposition at an election. This subdivision shall apply only to a proposition for the incurrence of indebtedness in the form of general obligation bonds for the purposes specified in this subdivision if the proposition meets all of the accountability requirements of paragraph (3) of subdivision (b) of Section 1 of Article XIIIA. 
 
-(c) When two or more propositions for incurring any indebtedness or liability are submitted at the same election, the votes cast for and against each proposition shall be counted separately,
-and when two-thirds or a majority or 55 percent of the voters, as the case may be, voting on any one of those propositions, vote in favor thereof, the proposition shall be deemed adopted.
+(c) When two or more propositions for incurring any indebtedness or liability are submitted at the same election, the votes cast for and against each proposition shall be counted separately, and when two-thirds or a majority or 55 percent of
+ the voters, as the case may be, voting on any one of those propositions, vote in favor thereof, the proposition shall be deemed adopted.
 
 (History: Sec. 18 amended Nov. 7, 2000, by Prop. 39. Initiative measure.)
 -------------------------------------------
 
 SEC. 19.
 
-All proceedings undertaken by any chartered city, or by any chartered county or by any chartered city and county for the construction of any public improvement, or the acquisition of any property for public use, or both, where the cost thereof is to be paid in whole or in part by special assessment or other special assessment taxes upon property, whether the special assessment will be specific or a special assessment tax upon property wholly or partially according to the assessed value of such property, shall be undertaken only in accordance with the provisions of law governing: (a) limitations of costs
-of such proceedings or assessments for such proceedings, or both, in relation to the value of any property assessed therefor; (b) determination of a basis for the valuation of any such property; (c) payment of the cost in excess of such limitations; (d) avoidance of such limitations; (e) postponement or abandonment, or both, of such proceedings in whole or in part upon majority protest, and particularly in accordance with such provisions as contained in Sections 10, 11 and 13a of the Special Assessment Investigation, Limitation and Majority Protest Act of 1931 or any amendments, codification, reenactment or restatement thereof.
+All proceedings undertaken by any chartered city, or by any chartered county or by any chartered city and county for the construction of any public improvement, or the acquisition of any property for public use, or both, where the cost thereof is to be paid in whole or in part by special assessment or other special assessment taxes upon property, whether the special assessment will be specific or a special assessment tax upon property wholly or partially according to the assessed value of such property, shall be undertaken only in accordance with the provisions of law governing: (a) limitations of costs of such proceedings or assessments for
+ such proceedings, or both, in relation to the value of any property assessed therefor; (b) determination of a basis for the valuation of any such property; (c) payment of the cost in excess of such limitations; (d) avoidance of such limitations; (e) postponement or abandonment, or both, of such proceedings in whole or in part upon majority protest, and particularly in accordance with such provisions as contained in Sections 10, 11 and 13a of the Special Assessment Investigation, Limitation and Majority Protest Act of 1931 or any amendments, codification, reenactment or restatement thereof.
 
-Notwithstanding any provisions for debt limitation or majority protest as in this section provided, if, after the giving of such reasonable notice by publication and posting and the holding of such public hearing as the legislative body of any such chartered county, chartered city or chartered city and county shall have prescribed, such
-legislative body by no less than a four-fifths vote of all members thereof, finds and determines that the public convenience and necessity require such improvements or acquisitions, such debt limitation and majority protest provisions shall not apply.
+Notwithstanding any provisions for debt limitation or majority protest as in this section provided, if, after the giving of such reasonable notice by publication and posting and the holding of such public hearing as the legislative body of any such chartered county, chartered city or chartered city and county shall have prescribed, such legislative body by no less than a
+ four-fifths vote of all members thereof, finds and determines that the public convenience and necessity require such improvements or acquisitions, such debt limitation and majority protest provisions shall not apply.
 
 Nothing contained in this section shall require the legislative body of any such city, county, or city and county to prepare or to cause to be prepared, hear, notice for hearing or report the hearing of any report as to any such proposed construction or acquisition or both.
 
@@ -4518,8 +4755,8 @@ SEC. 20.
 
 (a) (1) The Budget Stabilization Account is hereby created in the General Fund.
 
-(2) For the 2015–16 fiscal year and each fiscal year thereafter, based on the Budget Act for the fiscal year, the Controller shall transfer from the General Fund to the Budget Stabilization Account, no
-later than October 1, a sum equal to 1.5 percent of the estimated amount of General Fund revenues for that fiscal year.
+(2) For the 2015–16 fiscal year and each fiscal year thereafter, based on the Budget Act for the fiscal year, the Controller shall transfer from the General Fund to the Budget
+ Stabilization Account, no later than October 1, a sum equal to 1.5 percent of the estimated amount of General Fund revenues for that fiscal year.
 
 (b) (1) For the 2015–16 fiscal year and each fiscal year thereafter, based on the Budget Act for the fiscal year, the Department of Finance shall provide to the Legislature all of the following information:
 
@@ -4527,8 +4764,8 @@ later than October 1, a sum equal to 1.5 percent of the estimated amount of Gene
 
 (B) (i) An estimate of that portion of the General Fund proceeds of taxes identified in subparagraph (A) that is derived from personal income taxes paid on net capital gains.
 
-(ii) The portion of the estimate in clause (i) that
-exceeds 8 percent of the estimate made under subparagraph (A).
+(ii) The portion of the
+ estimate in clause (i) that exceeds 8 percent of the estimate made under subparagraph (A).
 
 (C) That portion of the state’s funding obligation under Section 8 that results from including the amount calculated under clause (ii) of subparagraph (B), if any, as General Fund proceeds of taxes.
 
@@ -4542,8 +4779,7 @@ exceeds 8 percent of the estimate made under subparagraph (A).
 
 (A) An updated estimate of the amount of General Fund proceeds of taxes that may be appropriated pursuant to Article XIIIB.
 
-(B) (i) An updated estimate of that portion of the
-General Fund proceeds of taxes identified in subparagraph (A) that is derived from personal income taxes paid on net capital gains.
+(B) (i) An updated estimate of that portion of the General Fund proceeds of taxes identified in subparagraph (A) that is derived from personal income taxes paid on net capital gains.
 
 (ii) That portion of the updated estimate in clause (i) that exceeds 8 percent of the updated estimate made under subparagraph (A).
 
@@ -4551,20 +4787,18 @@ General Fund proceeds of taxes identified in subparagraph (A) that is derived fr
 
 (D) The amount of any appropriations described in clause (ii) of subparagraph (B) of paragraph (1) of, or subparagraph (C) of paragraph (2) of, subdivision (c), that are made from the revenues described in clause (ii) of subparagraph (B) of paragraph (1).
 
-(E) The
-amount resulting from subtracting the combined values calculated under subparagraphs (C) and (D) from the value calculated under clause (ii) of subparagraph (B). If less than zero, the amount shall be considered zero for this purpose.
+(E) The amount resulting from subtracting the combined values calculated under subparagraphs (C) and (D) from the value calculated under clause (ii) of subparagraph (B). If less than zero, the amount shall be considered zero for this purpose.
 
 (F) The amount previously transferred for the fiscal year by the Controller from the General Fund to the Budget Stabilization Account pursuant to subdivisions (c) and (d).
 
-(G) The lesser of (i) the amount, not less than zero, resulting from subtracting, from the amount calculated under subparagraph (E), the value of any suspension or reduction of transfer pursuant to paragraph (1) of subdivision (a) of Section 22 previously approved by the Legislature for the relevant fiscal year, and the amount previously transferred for that fiscal year by the Controller as described in subparagraph (F), or (ii) the amount of transfer resulting in the balance in
-the Budget Stabilization Account reaching the limit as specified in subdivision (e).
+(G) The lesser of (i) the amount, not less than zero, resulting from subtracting, from the amount calculated under subparagraph (E), the value of any suspension or reduction of transfer pursuant to paragraph (1) of subdivision (a) of Section 22 previously approved by the Legislature for the relevant fiscal year, and the amount previously transferred for that fiscal year by the Controller as described in
+ subparagraph (F), or (ii) the amount of transfer resulting in the balance in the Budget Stabilization Account reaching the limit as specified in subdivision (e).
 
 (c) (1) (A) By October 1 of the 2015–16 fiscal year and each fiscal year thereafter to the 2029–30 fiscal year, inclusive, based on the estimates set forth in the annual Budget Act pursuant to paragraphs (2) and (3) of subdivision (h), and the sum identified in paragraph (2) of subdivision (a), the Controller shall transfer amounts from the General Fund and the Budget Stabilization Account, pursuant to a schedule provided by the Director of Finance, as provided in subparagraph (B).
 
  (B) Notwithstanding any other provision of this section, in the fiscal year to which the Budget Act identified in subparagraph (A) applies:
 
-(i) Fifty percent of both the amount identified in paragraph (2) of
-subdivision (a), and the amount resulting from subtracting the value calculated under subparagraph (C) of paragraph (1) of subdivision (b) from the value calculated under clause (ii) of subparagraph (B) of paragraph (1) of subdivision (b), shall be transferred from the General Fund to the Budget Stabilization Account.
+(i) Fifty percent of both the amount identified in paragraph (2) of subdivision (a), and the amount resulting from subtracting the value calculated under subparagraph (C) of paragraph (1) of subdivision (b) from the value calculated under clause (ii) of subparagraph (B) of paragraph (1) of subdivision (b), shall be transferred from the General Fund to the Budget Stabilization Account.
 
 (ii) The remaining 50 percent shall be appropriated by the Legislature for one or more of the following obligations and purposes:
 
@@ -4572,32 +4806,149 @@ subdivision (a), and the amount resulting from subtracting the value calculated 
 
 (II) Budgetary loans to the General Fund, from funds outside the General Fund, that had outstanding balances on January 1, 2014.
 
-(III) Payable claims for mandated costs incurred prior to the 2004–05 fiscal
-year that have not yet been paid, and that pursuant to paragraph (2) of subdivision (b) of Section 6 of Article XIIIB are permitted to be paid over a term of years, as prescribed by law.
+(III) Payable claims for mandated costs incurred prior to the 2004–05 fiscal year that have not yet been paid, and that pursuant to paragraph (2) of subdivision (b) of Section 6 of Article XIIIB are permitted to be paid over a term of years, as prescribed by law.
 
-(IV) Unfunded liabilities for state-level pension plans and prefunding other postemployment benefits, in excess of current base amounts as established for the fiscal year in which the funds would otherwise be transferred to the Budget Stabilization Account. For the purpose of this subclause, current base amounts are those required to be paid pursuant to law, an approved memorandum of understanding, benefit schedules established by the employer or entity authorized to establish those contributions for employees excluded or exempted from collective bargaining, or any combination of these. To qualify under this subclause, the appropriation shall supplement and not supplant funding that would otherwise be made available to pay for the
-obligations described in this subclause for the fiscal year or the subsequent fiscal year.
+(IV) Unfunded liabilities for state-level pension plans and prefunding other postemployment benefits, in excess of current base amounts as established for the fiscal year in which the funds would otherwise be transferred to the Budget Stabilization Account. For the purpose of this subclause, current base amounts are those required to be paid pursuant to law, an approved memorandum of understanding, benefit schedules established by the employer or entity authorized to establish those contributions for employees excluded or exempted from collective bargaining, or any combination of these. To qualify under this subclause, the appropriation shall
+ supplement and not supplant funding that would otherwise be made available to pay for the obligations described in this subclause for the fiscal year or the subsequent fiscal year.
 
 (2) (A) By October 1 of the 2030–31 fiscal year and each fiscal year thereafter, based on the estimates set forth in the annual Budget Act pursuant to paragraphs (2) and (3) of subdivision (h), the Controller shall transfer amounts from the General Fund to the Budget Stabilization Account, pursuant to a schedule provided by the Director of Finance, as provided in subparagraph (B).
 
-(B) In the fiscal year to which the Budget Act identified in subparagraph (A) applies, both the amount identified in paragraph (2) of subdivision (a), and the amount resulting from subtracting the value calculated under subparagraph (C) of paragraph (1) of subdivision (b) from the value calculated under clause (ii) of subparagraph (B) of paragraph (1) of subdivision (b), shall be transferred
-from the General Fund to the Budget Stabilization Account.
+(B) In the fiscal year to which the Budget Act identified in subparagraph (A) applies, both the amount identified in paragraph (2) of subdivision (a), and the amount resulting from subtracting the value calculated under subparagraph (C) of paragraph (1) of subdivision (b) from the value calculated under
+ clause (ii) of subparagraph (B) of paragraph (1) of subdivision (b), shall be transferred from the General Fund to the Budget Stabilization Account.
 
 (C) Notwithstanding any other provision of this section, the Legislature may appropriate up to 50 percent of both the amount identified in paragraph (2) of subdivision (a), and of the amount resulting from subtracting the value calculated under subparagraph (C) of paragraph (1) of subdivision (b) from the value calculated under clause (ii) of subparagraph (B) of paragraph (1) of subdivision (b), for one or more of the obligations and purposes described in clause (ii) of subparagraph (B) of paragraph (1).
 
 (3) The transfers described in this subdivision are subject to suspension or reduction pursuant to paragraph (1) of subdivision (a) of Section 22.
 
-(d) By October 1 of the 2016–17 fiscal year and each fiscal year thereafter, based on the estimates set forth in
-the annual Budget Act pursuant to paragraphs (4) and (5) of subdivision (h), the Controller shall transfer amounts between the General Fund and the Budget Stabilization Account pursuant to a schedule provided by the Director of Finance, as follows:
+(d) By October 1 of
+ the 2016–17 fiscal year and each fiscal year thereafter, based on the estimates set forth in the annual Budget Act pursuant to paragraphs (4) and (5) of subdivision (h), the Controller shall transfer amounts between the General Fund and the Budget Stabilization Account pursuant to a schedule provided by the Director of Finance, as follows:
 
 (1) If the amount in subparagraph (G) of paragraph (2) of subdivision (b) is greater than zero, transfer that amount from the General Fund to the Budget Stabilization Account, subject to any suspension or reduction of this transfer pursuant to paragraph (1) of subdivision (a) of Section 22.
 
-(2) If the amount described in subparagraph (F) of paragraph (2) of subdivision (b) is greater than the amount calculated under subparagraph (E) of paragraph (2) of subdivision (b), transfer that excess amount from the Budget Stabilization Account back to the General Fund.
+(2) If the amount described in subparagraph (F) of paragraph (2) of subdivision (b) is greater than the amount calculated under subparagraph (E) of paragraph (2) of subdivision (b), transfer that excess amount from the Budget Stabilization Account back to the
+ General Fund.
 
 (e) Notwithstanding any other provision of this section, the amount of a transfer to the Budget Stabilization Account pursuant to paragraph (2) of subdivision (a) and subdivisions (c) and (d) for any fiscal year shall not exceed an amount that would result in a balance in the account that, when the transfer is made, exceeds 10 percent of the amount of General Fund proceeds of taxes for the fiscal year estimated pursuant to subdivision (b). For any fiscal year, General Fund proceeds of taxes that, but for this paragraph, would have been transferred to the Budget Stabilization Account may be expended only for infrastructure, as defined by Section 13101 of the Government Code, as that section read on January 1, 2014, including deferred maintenance thereon.
 
-(f) The funds described in subdivision (b) as General Fund proceeds of taxes are General Fund proceeds of taxes for purposes of Section 8 for the fiscal year to which those proceeds
-are attributed, but are not deemed to be additional General Fund proceeds of taxes on the basis that the funds are thereafter transferred from the Budget Stabilization Account to the General Fund.
+(f) The funds described in subdivision (b) as General Fund proceeds of taxes are General Fund proceeds of taxes for
+ purposes of Section 8 for the fiscal year to which those proceeds are attributed, but are not deemed to be additional General Fund proceeds of taxes on the basis that the funds are thereafter transferred from the Budget Stabilization Account to the General Fund.
+
+(g) The Controller may utilize funds in the Budget Stabilization Account, that he or she determines to currently be unnecessary for the purposes of this section, to help manage General Fund daily cashflow needs. Any use pursuant to this subdivision shall not interfere with the purposes of the Budget Stabilization Account.
+
+(h) The annual Budget Act shall include the estimates described in all of the following:
+
+(1) Paragraph (2) of subdivision (a).
+
+(2) Clause (ii) of subparagraph (B) of paragraph
+ (1) of subdivision (b).
+
+(3) Subparagraph (F) of paragraph (1) of subdivision (b).
+
+(4) Clause (ii) of subparagraph (B) of paragraph (2) of subdivision (b).
+
+(5) Subparagraph (G) of paragraph (2) of subdivision (b).
+
+(History: Sec. 20 repealed and added Nov. 4, 2014, by Prop. 2. Res.Ch. 1, 2013-14 2nd Ex. Sess.   Superseded on the date the Secretary of State files the final Statement of Vote; see amendment by Prop. 2 of 2026.)
+-------------------------------------------
+
+SEC. 20.
+
+(a) (1) (A) The Budget Stabilization Account is hereby created in the General Fund.
+
+(B) Balances deposited in the Budget Stabilization Account pursuant to paragraph (2) of this subdivision (a) and subdivisions (c) and (d) prior to the effective date of the measure adding this subparagraph shall remain in the account and shall be transferred, withdrawn, or adjusted thereafter pursuant to the provisions of this Constitution as amended by the measure adding this subparagraph.
+
+(2) For the 2027–28 fiscal year and each fiscal year thereafter, based on the Budget Act for the fiscal year, the Controller shall transfer from the General Fund to the Budget Stabilization Account, no later than October 1, a sum equal to 1.5 percent of the estimated amount of General Fund revenues for that
+ fiscal year.
+
+(b) (1) For the 2027–28 fiscal year and each fiscal year thereafter, based on the Budget Act for the fiscal year, the Department of Finance shall provide to the Legislature all of the following information:
+
+(A) An estimate of the amount of General Fund proceeds of taxes that may be appropriated pursuant to Article XIIIB for that fiscal year.
+
+(B) (i) An estimate of that portion of the General Fund proceeds of taxes identified in subparagraph (A) that is derived from personal income taxes paid on net capital gains.
+
+(ii) The sum of the following:
+
+(I) The portion of the estimate in clause (i) that is in excess of
+ 8 percent, but not in excess of 10 percent, of the estimate made under subparagraph (A).
+
+(II) One hundred fifty percent of the portion of the estimate in clause (i) in excess of 10 percent of the estimate made under subparagraph (A).
+
+(C) That portion of the state’s funding obligation under Section 8 that results from including the amount calculated under clause (ii) of subparagraph (B), if any, as General Fund proceeds of taxes.
+
+(D) The amount of any appropriations described in clause (ii) of subparagraph (B) of paragraph (1) of, or subparagraph (C) of paragraph (2) of, subdivision (c), that are made from the revenues described in clause (ii) of subparagraph (B) of this paragraph.
+
+(E) The amount resulting from subtracting the combined values calculated
+ under subparagraphs (C) and (D) from the value calculated under clause (ii) of subparagraph (B). If less than zero, the amount shall be considered zero for this purpose.
+
+(F) The lesser of the amount calculated under subparagraph (E) or the amount of transfer resulting in the balance in the Budget Stabilization Account reaching the limit specified in subdivision (e).
+
+(2) In the 2027–28 fiscal year, with respect to the 2026–27 fiscal year only, and in the 2028–29 fiscal year and each fiscal year thereafter, separately with respect to each of the two next preceding fiscal years, the Department of Finance shall calculate all of the following, using the same methodology used for the relevant fiscal year, and provide those calculations to the Legislature:
+
+(A) An updated estimate of the amount of General Fund proceeds of
+ taxes that may be appropriated pursuant to Article XIIIB.
+
+(B) (i) An updated estimate of that portion of the General Fund proceeds of taxes identified in subparagraph (A) that is derived from personal income taxes paid on net capital gains.
+
+(ii) The sum of the following:
+
+(I) That portion of the updated estimate in clause (i) that is in excess of 8 percent, but not in excess of 10 percent, of the updated estimate made under subparagraph (A).
+
+(II) One hundred fifty percent of the portion of the estimate in clause (i) in excess of 10 percent of the estimate made under subparagraph (A).
+
+(C) The updated calculation of that portion of the state’s
+ funding obligation under Section 8 that results from including the updated amount calculated under clause (ii) of subparagraph (B), if any, as General Fund proceeds of taxes.
+
+(D) The amount of any appropriations described in clause (ii) of subparagraph (B) of paragraph (1) of, or subparagraph (C) of paragraph (2) of, subdivision (c), that are made from the revenues described in clause (ii) of subparagraph (B) of paragraph (1).
+
+(E) The amount resulting from subtracting the combined values calculated under subparagraphs (C) and (D) from the value calculated under clause (ii) of subparagraph (B). If less than zero, the amount shall be considered zero for this purpose.
+
+(F) The amount previously transferred for the fiscal year by the Controller from the General Fund to the Budget Stabilization Account pursuant to
+ subdivisions (c) and (d).
+
+(G) The lesser of (i) the amount, not less than zero, resulting from subtracting, from the amount calculated under subparagraph (E), the value of any suspension or reduction of transfer pursuant to paragraph (1) of subdivision (a) of Section 22 previously approved by the Legislature for the relevant fiscal year, and the amount previously transferred for that fiscal year by the Controller as described in subparagraph (F), or (ii) the amount of transfer resulting in the balance in the Budget Stabilization Account reaching the limit as specified in subdivision (e).
+
+(c) (1) (A) By October 1 of the 2027–28 fiscal year and each fiscal year thereafter to the 2039–40 fiscal year, inclusive, based on the estimates set forth in the annual Budget Act pursuant to paragraphs (2) and (3) of subdivision (h), and the sum
+ identified in paragraph (2) of subdivision (a), the Controller shall transfer amounts from the General Fund and the Budget Stabilization Account, pursuant to a schedule provided by the Director of Finance, as provided in subparagraph (B).
+
+(B) Notwithstanding any other provision of this section, in the fiscal year to which the Budget Act identified in subparagraph (A) applies:
+
+(i) Fifty percent of both the amount identified in paragraph (2) of subdivision (a), and the amount resulting from subtracting the value calculated under subparagraph (C) of paragraph (1) of subdivision (b) from the value calculated under clause (ii) of subparagraph (B) of paragraph (1) of subdivision (b), shall be transferred from the General Fund to the Budget Stabilization Account.
+
+(ii) The remaining 50 percent shall be appropriated by the
+ Legislature for one or more of the following obligations and purposes:
+
+(I) Unfunded prior fiscal year General Fund obligations pursuant to Section 8.
+
+(II) Budgetary loans to the General Fund, from funds outside the General Fund, as well as earlier than scheduled recognition of the costs of loans made to the Medical Providers Interim Payment Fund and earlier than scheduled recognition of costs described in paragraph (1) of subdivision (c) of Section 41206.04 of the Education Code.
+
+(III) Payable claims for mandated costs incurred prior to the 2004–05 fiscal year that have not yet been paid, and that pursuant to paragraph (2) of subdivision (b) of Section 6 of Article XIIIB are permitted to be paid over a term of years, as prescribed by law.
+
+(IV) Unfunded liabilities for state-level pension plans and prefunding other postemployment benefits, in excess of current base amounts as established for the fiscal year in which the funds would otherwise be transferred to the Budget Stabilization Account. For the purpose of this subclause, current base amounts are those required to be paid pursuant to law, an approved memorandum of understanding, benefit schedules established by the employer or entity authorized to establish those contributions for employees excluded or exempted from collective bargaining, or any combination of these. To qualify under this subclause, the appropriation shall supplement and not supplant funding that would otherwise be made available to pay for the obligations described in this subclause for the fiscal year or the subsequent fiscal year.
+
+(V) Federal loans made to the Unemployment Fund.
+
+(iii) If the amount appropriated pursuant to clause (ii) exceeds the total amount of the obligations and purposes described in clause (ii), the remainder shall be transferred to the Budget Stabilization Account, except that any such transfer is subject to the limitation in subdivision (e).
+
+(2) (A) By October 1 of the 2040–41 fiscal year and each fiscal year thereafter, based on the estimates set forth in the annual Budget Act pursuant to paragraphs (2) and (3) of subdivision (h), the Controller shall transfer amounts from the General Fund to the Budget Stabilization Account, pursuant to a schedule provided by the Director of Finance, as provided in subparagraph (B).
+
+(B) In the fiscal year to which the Budget Act identified in subparagraph (A) applies, both the amount identified in paragraph (2) of subdivision (a), and the amount resulting from
+ subtracting the value calculated under subparagraph (C) of paragraph (1) of subdivision (b) from the value calculated under clause (ii) of subparagraph (B) of paragraph (1) of subdivision (b), shall be transferred from the General Fund to the Budget Stabilization Account.
+
+(C) Notwithstanding any other provision of this section, the Legislature may appropriate up to 50 percent of both the amount identified in paragraph (2) of subdivision (a), and of the amount resulting from subtracting the value calculated under subparagraph (C) of paragraph (1) of subdivision (b) from the value calculated under clause (ii) of subparagraph (B) of paragraph (1) of subdivision (b), for one or more of the obligations and purposes described in clause (ii) of subparagraph (B) of paragraph (1).
+
+(3) The transfers described in this subdivision are subject to suspension or reduction pursuant to paragraph
+ (1) of subdivision (a) of Section 22.
+
+(d) By October 1 of the 2027–28 fiscal year and each fiscal year thereafter, based on the estimates set forth in the annual Budget Act pursuant to paragraphs (4) and (5) of subdivision (h), the Controller shall transfer amounts between the General Fund and the Budget Stabilization Account pursuant to a schedule provided by the Director of Finance, as follows:
+
+(1) If the amount in subparagraph (G) of paragraph (2) of subdivision (b) is greater than zero, transfer that amount from the General Fund to the Budget Stabilization Account, subject to any suspension or reduction of this transfer pursuant to paragraph (1) of subdivision (a) of Section 22.
+
+(2) If the amount described in subparagraph (F) of paragraph (2) of subdivision (b) is greater than the amount calculated under
+ subparagraph (E) of paragraph (2) of subdivision (b), transfer that excess amount from the Budget Stabilization Account back to the General Fund.
+
+(e) Notwithstanding any other provision of this section, the amount of a transfer to the Budget Stabilization Account pursuant to paragraph (2) of subdivision (a) and subdivisions (c) and (d) for any fiscal year shall not exceed an amount that would result in a balance in the account that, when the transfer is made, exceeds 20 percent of the amount of General Fund proceeds of taxes for the fiscal year estimated pursuant to subdivision (b). For any fiscal year, General Fund proceeds of taxes that, but for this paragraph, would have been transferred to the Budget Stabilization Account may be expended only for infrastructure, as defined by Section 13101 of the Government Code, as that section read on January 1, 2014, including deferred maintenance thereon.
+
+(f) The funds described in subdivision (b) as General Fund proceeds of taxes are General Fund proceeds of taxes for purposes of Section 8 for the fiscal year to which those proceeds are attributed, but are not deemed to be additional General Fund proceeds of taxes on the basis that the funds are thereafter transferred from the Budget Stabilization Account to the General Fund.
 
 (g) The Controller may utilize funds in the Budget Stabilization Account, that he or she determines to currently be unnecessary for the purposes of this section, to help manage General Fund daily cashflow needs. Any use pursuant to this subdivision shall not interfere with the purposes of the Budget Stabilization Account.
 
@@ -4613,7 +4964,13 @@ are attributed, but are not deemed to be additional General Fund proceeds of tax
 
 (5) Subparagraph (G) of paragraph (2) of subdivision (b).
 
-(History: Sec. 20 repealed and added Nov. 4, 2014, by Prop. 2. Res.Ch. 1, 2013-14 2nd Ex. Sess.)
+(i) Notwithstanding Section 5 of Article XIIIB, for the 2027–28 fiscal year and each fiscal year thereafter, transfers to the Budget Stabilization Account shall not constitute “appropriations subject to limitation” for purposes of Article XIIIB. For the 2027–28 fiscal year and each fiscal
+ year thereafter, funds withdrawn or transferred from the Budget Stabilization Account that were not counted previously as “appropriations subject to limitation” for purposes of Article XIIIB shall constitute “appropriations subject to limitation” for purposes of Article XIIIB in the fiscal year in which they are withdrawn from the Budget Stabilization Account or returned to the General Fund.
+
+(j) As a complement to the Budget Stabilization Account, the Projected Surplus Temporary Holding Account established in Section 16418.7 of the Government Code, or any successor to that account, shall be an added responsible budgeting technique to counter tax revenue volatility. Notwithstanding Section 5 of Article XIIIB, for the 2027–28 fiscal year and each fiscal year thereafter, when a transfer is made to the Projected Surplus Temporary Holding Account pursuant to the annual Budget
+ Act, that transfer shall not constitute “appropriations subject to limitation” for purposes of Article XIIIB for that fiscal year, provided that the amount not subject to limitation shall not exceed 10 percent of the amount of General Fund proceeds of taxes for the fiscal year in which the transfer is made. For the 2027–28 fiscal year and each fiscal year thereafter, funds withdrawn or transferred from the Projected Surplus Temporary Holding Account that were not counted previously as “appropriations subject to limitation” for purposes of Article XIIIB shall constitute “appropriations subject to limitation” for purposes of Article XIIIB in the fiscal year in which they are withdrawn or transferred to the General Fund or any other state fund.
+
+(History: Sec. 20 amended Nov. 3, 2026, by Prop. 2. Res.Ch. 130, 2026.   Effective on the fifth day after the Secretary of State files the final Statement of Vote.   [Note: added by Prop. 2, Nov. 4, 2014.])
 -------------------------------------------
 
 SEC. 21.
@@ -4621,41 +4978,41 @@ SEC. 21.
 (a) The Public School System Stabilization Account is hereby created in the General Fund.
 
 (b) On or before October 1 of each fiscal year, commencing with the 2015–16 fiscal year, based on the amounts identified in the annual Budget Act pursuant to subdivision (b) of Section 20, the Controller shall transfer, pursuant to a schedule provided by the Director of
-Finance, amounts from the General Fund to the Public School System Stabilization Account as follows:
+ Finance, amounts from the General Fund to the Public School System Stabilization Account as follows:
 
 (1) (A) For the 2015–16 fiscal year, and for each fiscal year thereafter, any positive amount identified in subparagraph (C) of paragraph (1) of subdivision (b) of Section 20 shall be transferred from the General Fund to the Public School System Stabilization Account in the amount calculated under subparagraph (B), subject to any reduction or suspension of this transfer pursuant to any other provision of this section or paragraph (3) of subdivision (a) of Section 22.
 
 (B) The Director of Finance shall calculate the amount by which the positive amount identified in subparagraph (C) of paragraph (1) of subdivision (b) of Section 20, in combination with all other moneys required to be applied by the State for the support of school districts and community college
-districts for that fiscal year pursuant to Section 8, exceeds the sum of the total allocations to school districts and community college districts from General Fund proceeds of taxes appropriated pursuant to Article XIIIB and allocated local proceeds of taxes in the prior fiscal year, plus any allocations from the Public School System Stabilization Account in the prior fiscal year, less any transfers to the Public School System Stabilization Account pursuant to this section in the prior fiscal year and any revenues allocated pursuant to subdivision (a) of Section 8.5, adjusted for the percentage change in average daily attendance and adjusted for the higher of the change in the cost of living pursuant to paragraph (1) of subdivision (e) of Section 8 of Article XIIIB or the cost of living adjustment applied to school district and community college district general purpose apportionments.
+ districts for that fiscal year pursuant to Section 8, exceeds the sum of the total allocations to school districts and community college districts from General Fund proceeds of taxes appropriated pursuant to Article XIIIB and allocated local proceeds of taxes in the prior fiscal year, plus any allocations from the Public School System Stabilization Account in the prior fiscal year, less any transfers to the Public School System Stabilization Account pursuant to this section in the prior fiscal year and any revenues allocated pursuant to subdivision (a) of Section 8.5, adjusted for the percentage change in average daily attendance and adjusted for the higher of the change in the cost of living pursuant to paragraph (1) of subdivision (e) of Section 8 of Article XIIIB or the cost of living adjustment applied to school district and community college district general purpose apportionments.
 
 (2) (A) Commencing with the 2016–17 fiscal year, and for each fiscal year thereafter, to the extent the amount calculated under this paragraph exceeds the amounts previously transferred by the Controller from the General Fund to the Public School System Stabilization Account for a preceding fiscal year, any positive amount calculated pursuant to subparagraph (C) of paragraph (2) of subdivision (b) of Section 20 for that fiscal year shall be transferred from the General Fund to the Public School System Stabilization Account in the amount calculated under subparagraph (B), subject to any reduction or suspension of this transfer pursuant to any other provision of this section or paragraph (3) of subdivision (a) of Section 22.
 
 (B) The Director of Finance shall calculate the amount by which the positive amount identified in subparagraph (C) of paragraph (2) of subdivision (b) of Section 20, in combination with all
-other moneys required to be applied by the State for the support of school districts and community college districts for that fiscal year pursuant to Section 8, exceeds the sum of the total allocations to school districts and community college districts from General Fund proceeds of taxes appropriated pursuant to Article XIIIB and allocated local proceeds of taxes in the prior fiscal year, plus any allocations from the Public School System Stabilization Account in the prior fiscal year, less any transfers to the Public School System Stabilization Account pursuant to this section in the prior fiscal year and any revenues allocated pursuant to subdivision (a) of Section 8.5, adjusted for the percentage change in average daily attendance and adjusted for the higher of the change in the cost of living pursuant to the paragraph (1) of subdivision (e) of Section 8 of Article XIIIB or the cost of living adjustment applied to school district and community college
-district general purpose apportionments.
+ other moneys required to be applied by the State for the support of school districts and community college districts for that fiscal year pursuant to Section 8, exceeds the sum of the total allocations to school districts and community college districts from General Fund proceeds of taxes appropriated pursuant to Article XIIIB and allocated local proceeds of taxes in the prior fiscal year, plus any allocations from the Public School System Stabilization Account in the prior fiscal year, less any transfers to the Public School System Stabilization Account pursuant to this section in the prior fiscal year and any revenues allocated pursuant to subdivision (a) of Section 8.5, adjusted for the percentage change in average daily attendance and adjusted for the higher of the change in the cost of living pursuant to the paragraph (1) of subdivision (e) of Section 8 of Article XIIIB or the cost of living adjustment applied to school district and community college
+ district general purpose apportionments.
 
 (c) Commencing with the 2016–17 fiscal year, and for each fiscal year thereafter, if the amount calculated pursuant to subparagraph (C) of paragraph (2) of subdivision (b) of Section 20 for a fiscal year is less than the amounts previously transferred by the Controller from the General Fund to the Public School System Stabilization Account for that fiscal year, the amount of this difference shall be appropriated and allocated by the State from the Public School System Stabilization Account for the support of school districts and community college districts.
 
 (d) Notwithstanding any other provision of this section, the amount transferred to the Public School System Stabilization Account pursuant to subdivision (b) for a fiscal year shall not exceed the amount by which the amount of state support calculated pursuant to paragraph (1) of
-subdivision (b) of Section 8 exceeds the amount of state support calculated pursuant to paragraph (2) of subdivision (b) of Section 8 for that fiscal year. If the amount of state support calculated pursuant to paragraph (1) of subdivision (b) of Section 8 does not exceed the amount of state support calculated pursuant to paragraph (2) of subdivision (b) of Section 8 for a fiscal year, no amount shall be transferred to the Public School System Stabilization Account pursuant to subdivision (b) for that fiscal year.
+ subdivision (b) of Section 8 exceeds the amount of state support calculated pursuant to paragraph (2) of subdivision (b) of Section 8 for that fiscal year. If the amount of state support calculated pursuant to paragraph (1) of subdivision (b) of Section 8 does not exceed the amount of state support calculated pursuant to paragraph (2) of subdivision (b) of Section 8 for a fiscal year, no amount shall be transferred to the Public School System Stabilization Account pursuant to subdivision (b) for that fiscal year.
 
 (e) Notwithstanding any other provision of this section, no amount shall be transferred to the Public School System Stabilization Account pursuant to subdivision (b) for a fiscal year for which a maintenance factor is determined pursuant to subdivision (d) of Section 8.
 
 (f) Notwithstanding any other provision of this section, no amount shall be transferred to the Public
-School System Stabilization Account pursuant to subdivision (b) until the maintenance factor determined pursuant to subdivisions (d) and (e) of Section 8 for fiscal years prior to the 2014–15 fiscal year has been fully allocated. Transfers may be made beginning in the fiscal year following the fiscal year in which it is determined, based on the Budget Act for that fiscal year, that this condition will be met. If a transfer is made for a fiscal year for which it is later determined that this condition has not been met, the amount of the transfer shall be appropriated and allocated from the Public School System Stabilization Account for the support of school districts and community college districts. No transfer shall be made for a year for which it was determined, based on the Budget Act for that fiscal year, that this condition would not be met but was subsequently determined to have been met in that year or a prior fiscal year.
+ School System Stabilization Account pursuant to subdivision (b) until the maintenance factor determined pursuant to subdivisions (d) and (e) of Section 8 for fiscal years prior to the 2014–15 fiscal year has been fully allocated. Transfers may be made beginning in the fiscal year following the fiscal year in which it is determined, based on the Budget Act for that fiscal year, that this condition will be met. If a transfer is made for a fiscal year for which it is later determined that this condition has not been met, the amount of the transfer shall be appropriated and allocated from the Public School System Stabilization Account for the support of school districts and community college districts. No transfer shall be made for a year for which it was determined, based on the Budget Act for that fiscal year, that this condition would not be met but was subsequently determined to have been met in that year or a prior fiscal year.
 
 (g) Notwithstanding any other provision of this section, no amount shall be transferred to the Public School System Stabilization Account for any fiscal year for which any of the provisions of subdivision (b) of Section 8 are suspended pursuant to subdivision (h) of Section 8.
 
 (h) Notwithstanding any other provision of this section, for any fiscal year, the amount of a transfer to the Public School System Stabilization Account pursuant to subdivision (b) shall not exceed an amount that would result in a balance in the account that is in excess of 10 percent of the total allocations to school districts and community college districts from General Fund proceeds of taxes appropriated pursuant to Article XIIIB and allocated local proceeds of taxes for that fiscal year pursuant to Section 8. For any fiscal year, General Fund proceeds of taxes that, but for this subdivision, would have been transferred to the
-Public School System Stabilization Account shall be applied by the State for the support of school districts and community colleges.
+ Public School System Stabilization Account shall be applied by the State for the support of school districts and community colleges.
 
 (i) In any fiscal year in which the amount required to be applied by the State for the support of school districts and community college districts for that fiscal year pursuant to Section 8 is less than the total allocations to school districts and community college districts from General Fund proceeds of taxes appropriated pursuant to Article XIIIB and allocated local proceeds of taxes in the prior fiscal year, plus any allocations from the Public School System Stabilization Account in the prior fiscal year, less any transfers to the Public School System Stabilization Account in the prior fiscal year and any revenues allocated pursuant to subdivision (a) of Section 8.5, adjusted for the percentage change in average daily attendance and adjusted for the higher of the change in the cost of
-living pursuant to paragraph (1) of subdivision (e) of Section 8 of Article XIIIB or the cost of living adjustment applied to school district and community college district general purpose apportionments, the amount of the deficiency shall be appropriated and allocated by the State from the Public School System Stabilization Account for the support of school districts and community college districts.
+ living pursuant to paragraph (1) of subdivision (e) of Section 8 of Article XIIIB or the cost of living adjustment applied to school district and community college district general purpose apportionments, the amount of the deficiency shall be appropriated and allocated by the State from the Public School System Stabilization Account for the support of school districts and community college districts.
 
 (j) Funds transferred to the Public School System Stabilization Account shall be deemed, for purposes of Section 8, to be moneys applied by the State for the support of school districts and community college districts in the fiscal year for which the transfer is made, and not in the fiscal year in which moneys are appropriated from the account.
 
 (k) Nothing in this section shall be construed to reduce the amount of the moneys required to be applied by the State
-for the support of school districts and community college districts pursuant to Sections 8 and 8.5.
+ for the support of school districts and community college districts pursuant to Sections 8 and 8.5.
 
 (l) The Controller may utilize funds in the Public School System Stabilization Account, that he or she determines to currently be unnecessary for the purposes of this section, to help manage General Fund daily cashflow needs. Any use of funds by the Controller pursuant to this subdivision shall not interfere with the purposes of the Public School System Stabilization Account.
 
@@ -4666,8 +5023,8 @@ SEC. 22.
 
 (a) Upon the Governor’s proclamation declaring a budget emergency and identifying the conditions constituting the emergency, the Legislature may pass a bill that does any of the following:
 
-(1) Suspends or reduces by a specified dollar amount for one fiscal year the transfer of moneys from the General Fund to the Budget Stabilization Account required by Section
-20.
+(1) Suspends or reduces by a specified dollar amount for one fiscal year the transfer of
+ moneys from the General Fund to the Budget Stabilization Account required by Section 20.
 
 (2) (A) Returns funds that have been transferred to the Budget Stabilization Account pursuant to Section 20 to the General Fund for appropriation to address the budget emergency.
 
@@ -4675,29 +5032,67 @@ SEC. 22.
 
 (3) Suspends or reduces by a specified dollar amount for one fiscal year the transfer of moneys from the General Fund to the Public School System Stabilization Account required by Section 21.
 
-(4) Appropriates funds transferred
-to the Public School System Stabilization Account pursuant to Section 21 and allocates those funds for the support of school districts and community college districts.
+(4) Appropriates funds transferred to the Public School System Stabilization Account pursuant to Section 21 and allocates those funds for the support of school districts and community college districts.
 
 (b) For purposes of this section, “budget emergency” means any of the following:
 
 (1) An emergency declared by the Governor, within the meaning of paragraph (2) of subdivision (c) of Section 3 of Article XIIIB.
 
-(2) (A) A determination by the Governor that estimated resources are inadequate to fund General Fund expenditures for the current or ensuing fiscal year, after setting aside funds for the reserve for liquidation of encumbrances, at a level equal to the highest amount of total General Fund expenditures estimated at the time of enactment of any of the three most recent Budget Acts, adjusted for both of
-the following:
+(2) (A) A determination by the Governor that estimated resources are inadequate to fund General Fund expenditures for the current or ensuing fiscal year, after setting aside funds for the reserve for liquidation of encumbrances, at a level equal to the highest amount of total General Fund expenditures
+ estimated at the time of enactment of any of the three most recent Budget Acts, adjusted for both of the following:
 
 (i) The annual percentage change in the cost of living for the State, as measured by the California Consumer Price Index.
 
 (ii) The annual percentage growth in the civilian population of the State pursuant to subdivision (b) of Section 7901 of the Government Code.
 
-(B) The maximum amount that may be withdrawn for a budget emergency determined under this paragraph shall not exceed either an amount that would result in a total General Fund expenditure level for a fiscal year that is greater than the highest amount of total General Fund expenditures estimated at the time of enactment of any of the three most recent Budget Acts, as calculated pursuant to subparagraph (A), or any limit imposed by subparagraph (B) of paragraph (2) of subdivision (a).
+(B) The maximum amount that may be withdrawn for a budget emergency determined under this paragraph shall not exceed either an amount that would result in a total General Fund expenditure level for a fiscal year that is greater than the highest amount of total General Fund expenditures estimated at the time of enactment of any of the three most recent Budget Acts, as calculated pursuant to subparagraph (A), or any limit imposed by subparagraph
+ (B) of paragraph (2) of subdivision (a).
 
-(History: Sec. 22 added Nov. 4, 2014, by Prop. 2. Res.Ch. 1, 2013-14 2nd Ex. Sess.)
+(History: Sec. 22 added Nov. 4, 2014, by Prop. 2. Res.Ch. 1, 2013-14 2nd Ex. Sess.   Superseded on the date the Secretary of State files the final Statement of Vote; see amendment by Prop. 2 of 2026.)
+-------------------------------------------
+
+SEC. 22.
+
+(a) Upon the Governor’s proclamation declaring a budget emergency and identifying the conditions constituting the emergency, the Legislature may pass a bill that does any of the following:
+
+(1) Suspends or reduces by a specified dollar amount for one fiscal year the transfer of moneys from the General Fund to the Budget Stabilization Account required by Section 20.
+
+(2) (A) Returns funds that have been transferred to the Budget Stabilization Account pursuant to Section 20 to the General Fund for appropriation to address the budget emergency.
+
+(B) Not more than 50 percent of the balance in the Budget Stabilization Account may be returned to the General Fund for appropriation pursuant to subparagraph (A) in any fiscal year, unless funds in
+ the Budget Stabilization Account have been returned to the General Fund for appropriation in the immediately preceding fiscal year.
+
+(3) Suspends or reduces by a specified dollar amount for one fiscal year the transfer of moneys from the General Fund to the Public School System Stabilization Account required by Section 21.
+
+(4) Appropriates funds transferred to the Public School System Stabilization Account pursuant to Section 21 and allocates those funds for the support of school districts and community college districts.
+
+(b) For purposes of this section, “budget emergency” means any of the following:
+
+(1) An emergency declared by the Governor, within the meaning of paragraph (2) of subdivision (c) of Section 3 of Article XIIIB.
+
+(2) (A) A determination by the Governor that estimated resources are inadequate to fund General Fund expenditures for the current or ensuing fiscal year, after setting aside funds for the reserve for liquidation of encumbrances, at a level equal to the highest amount of total General Fund expenditures estimated at the time of enactment of any of the three most recent Budget Acts, adjusted for both of the following:
+
+(i) The annual percentage change in the cost of living for the State, as measured by the California Consumer Price Index.
+
+(ii) The annual percentage growth in the civilian population of the State pursuant to subdivision (b) of Section 7901 of the Government Code.
+
+(B) The maximum amount that may be
+ withdrawn for a budget emergency determined under this paragraph shall not exceed either an amount that would result in a total General Fund expenditure level for a fiscal year that is greater than the highest amount of total General Fund expenditures estimated at the time of enactment of any of the three most recent Budget Acts, as calculated pursuant to subparagraph (A), or any limit imposed by subparagraph (B) of paragraph (2) of subdivision (a).
+
+(c) If the conditions required for the Governor to declare a budget emergency pursuant to subdivision (b) exist, the proposed adjustments to the Governor’s Budget submitted to the Legislature by the Director of Finance pursuant to subdivision (e) of Section 13308 of the Government Code, or any other budgetary revision required to be submitted to the Legislature by a successor statute, shall constitute the Governor’s proclamation of the budget emergency if the revision proposes either of the
+ following:
+
+(1) A suspension or reduction of transfers of money from the General Fund to the Budget Stabilization Account or the Public School System Stabilization Account.
+
+(2) The return of money from the Budget Stabilization Account to the General Fund pursuant to this section or an appropriation from the Public School System Stabilization Account pursuant to this section.
+
+(History: Sec. 20 amended Nov. 3, 2026, by Prop. 2. Res.Ch. 130, 2026.   Effective on the fifth day after the Secretary of State files the final Statement of Vote.   [Note: added by Prop. 2, Nov. 4, 2014.])
 -------------------------------------------
 
 SEC. 23.
 
 The tax imposed by the California Healthcare, Research and Prevention Tobacco Tax Act of 2016 and the revenue derived therefrom, including investment interest, shall not be considered General Fund revenues for purposes of Section 8 and its implementing statutes, and shall not be considered “General Fund revenues,” “state revenues,” or “General Fund proceeds of taxes” for purposes of subdivisions (a)
-and (b) of Section 8 and its implementing statutes.
+ and (b) of Section 8 and its implementing statutes.
 
 (History: Sec. 23 added Nov. 8, 2016, by Prop. 56. Initiative measure.)
 -------------------------------------------
